@@ -1,0 +1,278 @@
+================================================================================
+                              THE LEGAL EMPIRE
+                           www.thelegalempire.org
+================================================================================
+
+                       EOI SUBMISSION CHECKLIST
+
+================================================================================
+  EOI Reference No.  : 55.00.0000.120.14.065.24.1493
+  Package No.        : SD-1 (1799-1970) and SD-5 (2011-till date)
+  EOI Closing Date   : 30/03/2026, 12:00 PM (Noon)
+  Submitted by       : The Legal Empire (www.thelegalempire.org)
+  Prepared by        : [Insert Name and Designation]
+  Date Prepared      : [Insert Date]
+================================================================================
+
+  PURPOSE:
+  This checklist is to be used to verify that all required documents and
+  information have been prepared, compiled, and included in the EOI
+  submission package prior to final sealing and dispatch. Complete this
+  checklist before submitting the EOI package.
+
+================================================================================
+SECTION 1: EOI SHORTLISTING CRITERIA -- DOCUMENT COMPLIANCE
+================================================================================
+
+  The following table cross-references each shortlisting criterion from the
+  EOI Notice with the corresponding document(s) submitted.
+
+  CRITERION (per EOI Notice)          | Document(s) Submitted      | STATUS
+  -------------------------------------|----------------------------|----------
+  (a) Trade License / Registration of  | Annexure-A: Trade License  |
+      the firm                         | Annexure-B: Registration   |
+                                       | Certificate                | [  ]
+  -------------------------------------|----------------------------|----------
+  (b) Life time / duration of the firm | Main EOI Body (Section 1)  |
+      (years in relevant business)     | Annexure-B: Registration   |
+                                       | Certificate                | [  ]
+  -------------------------------------|----------------------------|----------
+  (c) Availability of key professionals| Main EOI Body (Section 4)  |
+                                       | Annexure-F: CVs of Key     |
+                                       | Professionals (7 nos.)     | [  ]
+  -------------------------------------|----------------------------|----------
+  (d) Financial resources (turnover of | Main EOI Body (Section 5)  |
+      last five years)                 | Annexure-D: Audited        |
+                                       | Financial Statements       |
+                                       | Annexure-E: Bank Solvency  |
+                                       | Certificate                | [  ]
+  -------------------------------------|----------------------------|----------
+  (e) Experience in similar tasks /    | Main EOI Body (Section 3)  |
+      assignment                       | Annexure-G: Project        |
+                                       | Completion Certificates /  |
+                                       | Reference Letters          | [  ]
+  -------------------------------------|----------------------------|----------
+  (g) Support services (office space,  | Main EOI Body (Section 6)  |
+      support staff, equipment)        | Annexure-H: Company Profile| [  ]
+
+  STATUS KEY:  [OK] = Document complete and included
+               [  ] = Pending -- action required before submission
+               [N.A.] = Not Applicable
+
+================================================================================
+SECTION 2: ANNEXURE CHECKLIST -- DOCUMENT STATUS
+================================================================================
+
+  S/N | Annexure          | Description                          | STATUS
+  ----|-------------------|--------------------------------------|----------
+   A  | Annexure-A        | Copy of Trade License (Updated /     |
+      |                   | Current year)                        | [  ]
+      |                   | -- Confirm: Is it current/valid?     | [  ]
+  ----|-------------------|--------------------------------------|----------
+   B  | Annexure-B        | Certificate of Registration /        |
+      |                   | Incorporation                        | [  ]
+      |                   | -- Confirm: Correct authority?       | [  ]
+  ----|-------------------|--------------------------------------|----------
+   C  | Annexure-C        | TIN Certificate                      | [  ]
+      |                   | BIN Certificate                      | [  ]
+  ----|-------------------|--------------------------------------|----------
+   D  | Annexure-D        | Audited Financial Statements         |
+      |                   | (Last 5 Fiscal Years: 2020-21 to     |
+      |                   |  2024-25)                            | [  ]
+      |                   | -- FY 2020-2021                      | [  ]
+      |                   | -- FY 2021-2022                      | [  ]
+      |                   | -- FY 2022-2023                      | [  ]
+      |                   | -- FY 2023-2024                      | [  ]
+      |                   | -- FY 2024-2025                      | [  ]
+  ----|-------------------|--------------------------------------|----------
+   E  | Annexure-E        | Bank Solvency Certificate            | [  ]
+      |                   | (Issued by the firm's banker)        |
+      |                   | -- Confirm: Issued within 3 months?  | [  ]
+  ----|-------------------|--------------------------------------|----------
+   F  | Annexure-F        | CVs of Key Professionals (7 nos.)    |
+      |                   | -- CV 1: Team Leader / Lead Legal    |
+      |                   |    Consultant                        | [  ]
+      |                   | -- CV 2: Senior Legal Researcher     | [  ]
+      |                   | -- CV 3: Legislative Drafting        |
+      |                   |    Specialist                        | [  ]
+      |                   | -- CV 4: Legal Analyst /             |
+      |                   |    Codification Expert               | [  ]
+      |                   | -- CV 5: Data Management &           |
+      |                   |    IT Specialist                     | [  ]
+      |                   | -- CV 6: Research Associate          | [  ]
+      |                   | -- CV 7: Quality Assurance /         |
+      |                   |    Review Specialist                 | [  ]
+      |                   | -- Each CV signed by the individual? | [  ]
+  ----|-------------------|--------------------------------------|----------
+   G  | Annexure-G        | Project Completion Certificates /    |
+      |                   | Reference Letters                    |
+      |                   | (For each relevant past assignment   |
+      |                   | listed in EOI Section 3)             | [  ]
+      |                   | -- Certificate/Letter 1              | [  ]
+      |                   | -- Certificate/Letter 2              | [  ]
+      |                   | -- Certificate/Letter 3              | [  ]
+      |                   | -- Certificate/Letter 4              | [  ]
+      |                   | -- Certificate/Letter 5              | [  ]
+  ----|-------------------|--------------------------------------|----------
+   H  | Annexure-H        | Company Profile / Brochure           | [  ]
+      |                   | (Detailed company profile document)  |
+  ----|-------------------|--------------------------------------|----------
+   I  | Annexure-I        | Any Other Relevant Documents         |
+      |                   | (Specify below):                     |
+      |                   | -- [Insert document name if any]     | [  ]
+      |                   | -- [Insert document name if any]     | [  ]
+
+================================================================================
+SECTION 3: MAIN EOI DOCUMENT CONTENT CHECKLIST
+================================================================================
+
+  The following items must be present and complete in the Main EOI document:
+
+  ITEM                                              | COMPLETE? | VERIFIED?
+  --------------------------------------------------|-----------|----------
+  Cover Letter (signed and dated: 11/03/2026)       |   [  ]    |   [  ]
+  EOI Ref. No. correctly stated                     |   [  ]    |   [  ]
+    (55.00.0000.120.14.065.24.1493)                 |           |
+  Package Numbers SD-1 and SD-5 correctly stated    |   [  ]    |   [  ]
+  Section 1: Firm Profile and Registration          |           |
+    - Firm Name                                     |   [  ]    |   [  ]
+    - Trade License No. filled in                   |   [  ]    |   [  ]
+    - TIN No. filled in                             |   [  ]    |   [  ]
+    - BIN No. filled in                             |   [  ]    |   [  ]
+    - Date of Establishment filled in               |   [  ]    |   [  ]
+    - Years in relevant business filled in          |   [  ]    |   [  ]
+    - Registered Address filled in                  |   [  ]    |   [  ]
+    - Contact details filled in                     |   [  ]    |   [  ]
+  Section 2: Company Overview (complete)            |   [  ]    |   [  ]
+  Section 3: Relevant Experience Table (complete)   |   [  ]    |   [  ]
+    - All 5 assignments filled in with details      |   [  ]    |   [  ]
+  Section 4: Key Professionals Table (complete)     |   [  ]    |   [  ]
+    - All 7 professionals listed with details       |   [  ]    |   [  ]
+  Section 5: Financial Turnover Table (complete)    |           |
+    - All 5 fiscal years filled in                  |   [  ]    |   [  ]
+  Section 6: Support Services (complete)            |   [  ]    |   [  ]
+    - Office address filled in                      |   [  ]    |   [  ]
+    - Support staff count filled in                 |   [  ]    |   [  ]
+  Section 7: Approach and Methodology (complete)    |   [  ]    |   [  ]
+  Section 8: Declaration (signed)                   |   [  ]    |   [  ]
+  Section 9: List of Annexures (matches actual      |           |
+    enclosed documents)                             |   [  ]    |   [  ]
+  Authorized Signatory Block (fully completed)      |   [  ]    |   [  ]
+    - Signature of Authorized Signatory             |   [  ]    |   [  ]
+    - Name and Designation filled in                |   [  ]    |   [  ]
+    - Date filled in (11/03/2026)                   |   [  ]    |   [  ]
+    - Firm Seal affixed                             |   [  ]    |   [  ]
+
+================================================================================
+SECTION 4: SUBMISSION FORMAT AND PACKAGING REQUIREMENTS
+================================================================================
+
+  REQUIREMENT                                        | DONE?  | NOTES
+  ---------------------------------------------------|--------|---------------
+  COPIES:                                            |        |
+    One (1) Original copy prepared                   | [  ]   |
+    One (1) Photocopy (copy) prepared                | [  ]   |
+  ---------------------------------------------------|--------|---------------
+  LABELLING:                                         |        |
+    Original package labelled as "ORIGINAL"          | [  ]   |
+    Copy package labelled as "COPY"                  | [  ]   |
+  ---------------------------------------------------|--------|---------------
+  ENVELOPE / PACKAGING:                              |        |
+    Documents placed in sealed envelope(s)           | [  ]   |
+    Envelope(s) labelled with:                       |        |
+      - EOI Reference No.                            | [  ]   |
+        (55.00.0000.120.14.065.24.1493)              |        |
+      - Package No(s): SD-1 and SD-5                 | [  ]   |
+      - "Expression of Interest" or "EOI"            | [  ]   |
+      - Do NOT open before: 30/03/2026, 12:00 PM     | [  ]   |
+      - Firm name and return address (outer)         | [  ]   |
+  ---------------------------------------------------|--------|---------------
+  DOCUMENT ORGANIZATION:                             |        |
+    Documents arranged in the order listed in        |        |
+    Annexure checklist (Cover Letter, Main EOI,      |        |
+    Annexure-A through Annexure-I)                   | [  ]   |
+    All pages numbered / documents tabbed            | [  ]   |
+    Table of contents included (if applicable)       | [  ]   |
+  ---------------------------------------------------|--------|---------------
+  SUBMISSION METHOD:                                 |        |
+    Submitted in person OR by registered post        | [  ]   |
+    Submitted before the deadline                    | [  ]   |
+
+================================================================================
+SECTION 5: SUBMISSION DEADLINE -- CRITICAL REMINDER
+================================================================================
+
+  !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  !!                                                                         !!
+  !!   EOI SUBMISSION CLOSING DATE AND TIME:                                 !!
+  !!                                                                         !!
+  !!             30 MARCH 2026  |  12:00 PM (NOON)                          !!
+  !!                                                                         !!
+  !!   LATE SUBMISSIONS WILL NOT BE ACCEPTED.                                !!
+  !!                                                                         !!
+  !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+  Days remaining from checklist preparation date:
+  Checklist Date    :  [Insert Date of Checklist Preparation]
+  Deadline          :  30/03/2026, 12:00 PM
+  Days Remaining    :  [Calculate and insert number of days]
+
+  RECOMMENDED INTERNAL SUBMISSION DEADLINE (for final packaging):
+  Submit to dispatch / courier by   :  [Insert date -- recommend 2-3 days
+                                        before the official deadline]
+
+================================================================================
+SECTION 6: SUBMISSION ADDRESS
+================================================================================
+
+  Submit the sealed EOI package to:
+
+  +---------------------------------------------------------------------------+
+  |                                                                           |
+  |   G. M. Atiqur Rahman Zamaly                                             |
+  |   Project Director (Joint Secretary)                                     |
+  |   Strengthening Legislative Capacity and Legal Awareness Building        |
+  |   Project                                                                |
+  |   Legislative and Parliamentary Affairs Division                         |
+  |   Ministry of Law, Justice and Parliamentary Affairs                     |
+  |   Room No: 724, Building No: 04                                          |
+  |   Bangladesh Secretariat                                                 |
+  |   Dhaka - 1000, Bangladesh                                               |
+  |                                                                           |
+  +---------------------------------------------------------------------------+
+
+================================================================================
+SECTION 7: FINAL SIGN-OFF BEFORE SUBMISSION
+================================================================================
+
+  I, the undersigned, confirm that I have reviewed this checklist and verified
+  that all required documents have been prepared, completed, and included in
+  the EOI submission package for The Legal Empire.
+
+  Name          :  [Insert Name of Authorized Signatory / Responsible Person]
+  Designation   :  [Insert Designation]
+  Signature     :  _________________________________
+  Date          :  ___/___/2026
+  Firm          :  The Legal Empire
+
+================================================================================
+SECTION 8: SUBMISSION LOG (TO BE COMPLETED AT TIME OF SUBMISSION)
+================================================================================
+
+  Date of Submission         :  ___/___/2026
+  Time of Submission         :  __________ (hours)
+  Submitted By               :  [Name of person submitting]
+  Received By                :  [Name/Designation of recipient, if known]
+  Acknowledgement Receipt    :  Received [Yes / No]
+  Receipt Reference No.      :  [Insert Receipt/Acknowledgement Number]
+  Mode of Submission         :  [In Person / Registered Post / Courier]
+  Tracking No. (if courier)  :  [Insert Tracking Number]
+  Remarks                    :  [Any remarks]
+
+================================================================================
+
+                 !! KEEP THIS CHECKLIST FOR YOUR RECORDS !!
+
+================================================================================
+            EOI SUBMISSION CHECKLIST -- END
+================================================================================

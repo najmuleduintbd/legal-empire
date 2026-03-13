@@ -1,0 +1,562 @@
+================================================================================
+                              THE LEGAL EMPIRE
+                           www.thelegalempire.org
+================================================================================
+
+              WORK PLAN AND METHODOLOGY
+
+================================================================================
+  EOI Reference No. : 55.00.0000.120.14.065.24.1493
+  Package No.        : SD-1 (1799-1970) and SD-5 (2011-till date)
+  Project Period     : 01/06/2026 to 31/05/2027
+  Submitted to       : Strengthening Legislative Capacity and Legal
+                       Awareness Building Project
+                       Legislative and Parliamentary Affairs Division
+                       Ministry of Law, Justice and Parliamentary Affairs
+================================================================================
+
+
+================================================================================
+1. INTRODUCTION
+================================================================================
+
+The Legal Empire is pleased to present this Work Plan and Methodology for the
+Preparation of the Code of Delegated/Subordinate Legislation of Bangladesh
+through Identifying and Consolidating All Existing Subordinate Legislations
+(Rules, Regulations, By-Laws, Orders, Notifications, etc.) under Package
+No. SD-1 (1799-1970) and Package No. SD-5 (2011-till date).
+
+This document outlines our proposed approach, methodology, phased work plan,
+Gantt chart, quality assurance framework, risk management strategy, and
+deliverables schedule to ensure the successful, timely, and high-quality
+completion of this assignment within the project period of
+01 June 2026 to 31 May 2027.
+
+The Legal Empire recognizes the critical national importance of this assignment
+in consolidating Bangladesh's legislative heritage and making subordinate
+legislation accessible, organized, and legally coherent. Our work plan is
+designed to address the complexity and scale of both packages simultaneously,
+drawing on our team's expertise in historical legal research, legislative
+analysis, codification, and digital data management.
+
+================================================================================
+2. UNDERSTANDING OF THE ASSIGNMENT
+================================================================================
+
+--------------------------------------------------------------------------------
+2.1 Background and Context
+--------------------------------------------------------------------------------
+
+Bangladesh's legislative landscape encompasses a vast body of delegated and
+subordinate legislation — comprising rules, regulations, by-laws, orders,
+statutory notifications, and other instruments — enacted under the authority
+of parent Acts and Ordinances. These instruments span over two centuries,
+from the early colonial period under the East India Company through the
+British Crown, the pre-Partition era, the post-Partition period under Pakistan,
+and post-Liberation Bangladesh up to the present day.
+
+The Strengthening Legislative Capacity and Legal Awareness Building Project,
+under the Legislative and Parliamentary Affairs Division, Ministry of Law,
+Justice and Parliamentary Affairs, Government of the People's Republic of
+Bangladesh, seeks to systematically identify, compile, consolidate, and codify
+this body of subordinate legislation through a structured series of packages.
+
+The Legal Empire has been assigned (subject to selection) to prepare the Code
+of Delegated/Subordinate Legislation for the following specific periods:
+
+   PACKAGE SD-1 : Period 1799-1970
+   --------------------------------
+   This package covers the colonial period, beginning with the early
+   regulatory frameworks under the East India Company (1799), through the
+   British Crown administration (post-1858), the late colonial period,
+   and up to and including 1970 — the year immediately preceding the
+   Liberation War of Bangladesh. This period encompasses:
+      - Colonial-era regulations and instruments
+      - Rules and regulations under pre-Partition British India
+      - Post-Partition Pakistan period instruments applicable to the
+        territory of present-day Bangladesh
+      - Instruments up to December 1970
+   Primary sources include the Bengal Gazette, the Gazette of India,
+   the Gazette of Pakistan (Eastern Wing), and archival government records.
+
+   PACKAGE SD-5 : Period 2011-till date
+   -------------------------------------
+   This package covers the contemporary period, from 2011 to the present
+   day. This is a high-volume period reflecting Bangladesh's dynamic
+   regulatory environment across ministries and departments. Key challenges
+   include ensuring comprehensiveness, currency, and the identification of
+   amendments, repeals, and overlapping instruments. Primary sources include
+   the Bangladesh Gazette (Official and Extraordinary editions), Ministry
+   records, departmental registers, and official online repositories.
+
+--------------------------------------------------------------------------------
+2.2 Key Challenges and Our Response
+--------------------------------------------------------------------------------
+
+   Challenge                          | Our Response
+   -----------------------------------|------------------------------------------
+   Historical archive access (SD-1)   | Engagement with National Archives,
+                                      | Bangladesh National Museum, Law
+                                      | Ministry library, and digital
+                                      | colonial-era repositories (e.g.,
+                                      | Indian Kanoon, Commonwealth Legal
+                                      | Information Institute)
+   -----------------------------------|------------------------------------------
+   Volume of instruments (SD-5)       | Structured workflow with parallel
+                                      | research streams, dedicated IT
+                                      | specialist, and systematic database
+   -----------------------------------|------------------------------------------
+   Language of instruments (SD-1:     | Team with proficiency in English
+   English; SD-5: Bangla & English)   | and Bangla legal terminology;
+                                      | translation protocols for colonial
+                                      | instruments where required
+   -----------------------------------|------------------------------------------
+   Status determination               | Legal analysis protocol for each
+   (active/amended/repealed)          | instrument involving cross-reference
+                                      | with parent Acts and repeal/amendment
+                                      | tables
+   -----------------------------------|------------------------------------------
+   Overlap and duplication            | Systematic deduplication process
+                                      | with cross-ministerial verification
+
+================================================================================
+3. PROPOSED METHODOLOGY
+================================================================================
+
+The Legal Empire proposes a structured five-phase methodology aligned with
+standard legislative codification best practices and the requirements of the
+EOI notice:
+
+--------------------------------------------------------------------------------
+PHASE 1: INCEPTION AND PLANNING
+Duration: Month 1 (June 2026)
+--------------------------------------------------------------------------------
+
+1.1 Inception Meeting with Project Office
+    - Formal introduction and briefing session with the Project Director and
+      project team
+    - Clarification of scope, deliverables, reporting requirements, and
+      submission formats
+    - Establishment of communication protocols and points of contact
+
+1.2 Detailed Review of Terms of Reference (ToR)
+    - Thorough review and internal analysis of the ToR for both packages
+    - Identification of specific output requirements, quality standards,
+      and submission timelines
+    - Alignment of firm's work plan with ToR requirements
+
+1.3 Preparation and Submission of Inception Report
+    - Compilation of a comprehensive Inception Report including:
+      * Refined work plan and Gantt chart
+      * Team mobilization and assignment schedule
+      * Data source identification and access strategy
+      * Research methodology and tools
+      * Quality assurance framework
+    - Submission to Project Office for review and approval
+
+1.4 Team Mobilization
+    - Full mobilization of all seven (7) key professionals
+    - Role and responsibility briefing
+    - Assignment of research streams (SD-1 and SD-5) to team members
+    - Internal training session on project methodology and standards
+
+1.5 Data Source Mapping
+    - Identification and listing of all primary and secondary data sources:
+      * Bangladesh National Archives
+      * Law Ministry Library and Records Room
+      * Bangladesh Gazette archives (print and digital)
+      * National Library of Bangladesh
+      * Dhaka University Central Library (law section)
+      * Relevant Ministries' records rooms
+      * Online repositories (for SD-1 colonial instruments)
+      * Supreme Court Library
+    - Establishment of access protocols and research visit schedules
+
+    KEY DELIVERABLE: Inception Report
+
+--------------------------------------------------------------------------------
+PHASE 2: IDENTIFICATION AND COLLECTION
+Duration: Months 2-4 (July-September 2026)
+--------------------------------------------------------------------------------
+
+2.1 Systematic Identification of Subordinate Legislation
+
+    For Package SD-1 (1799-1970):
+    - Systematic review of the Bengal Gazette (historical), Gazette of
+      India, Gazette of Pakistan, and archived government records
+    - Identification of all rules, regulations, by-laws, orders, and
+      notifications enacted during 1799-1970 applicable to present-day
+      Bangladesh
+    - Review of existing legislative compilations (Acts of Parliament,
+      President's Orders, etc.) for enabling provisions that spawned
+      subordinate instruments
+    - Engagement with the National Archives of Bangladesh for archival
+      access to pre-Liberation records
+
+    For Package SD-5 (2011-till date):
+    - Systematic review of the Bangladesh Gazette (all editions) from
+      2011 to the present
+    - Review of official Ministry and Departmental websites and records
+    - Identification through the Bangladesh Legal Repository (if available)
+      and Ministry of Law's published compilations
+    - Consultation with individual Ministries and Departments for
+      confirmation and supplementary instruments
+
+2.2 Creation of Master Inventory
+    - Development of a structured Master Inventory/Database for each package
+    - Each entry to include:
+      * Serial Number
+      * Title/Name of the Instrument
+      * Type (Rules / Regulations / By-Laws / Order / Notification / Other)
+      * Parent/Enabling Act/Ordinance
+      * Ministry/Department responsible
+      * Date of enactment/gazette notification
+      * Gazette reference (volume, number, date, page)
+      * Current status (Active / Amended / Repealed / Obsolete)
+      * Remarks
+    - Database to be maintained in structured spreadsheet/database format
+      for ongoing update and final submission
+
+2.3 Collection of Authenticated Copies
+    - Collection of authenticated gazette copies or certified true copies
+      of all identified instruments
+    - Scanning and digitization of physical copies where required
+    - Organization of collected instruments by package, ministry, and
+      chronological order
+
+    KEY DELIVERABLE: Preliminary Inventory Report (Draft) for both packages
+
+--------------------------------------------------------------------------------
+PHASE 3: ANALYSIS AND CONSOLIDATION
+Duration: Months 4-7 (September-December 2026)
+--------------------------------------------------------------------------------
+
+3.1 Legal Analysis of Each Instrument
+    - Substantive review of each identified subordinate legislation
+    - Analysis to cover:
+      * Legal validity and vires (within the scope of enabling legislation)
+      * Current operative status (active, partially active, amended, or
+        repealed)
+      * Date and nature of any amendments
+      * Relationship with other instruments (parent Acts, related rules)
+    - Annotation of status and legal observations for each instrument
+
+3.2 Classification and Categorization
+    - Classification of all instruments by:
+      * Ministry / Department / Authority
+      * Subject matter / thematic category
+        (e.g., Administrative, Civil Service, Commerce, Land Revenue,
+         Environment, Finance, Health, etc.)
+      * Legal type (Rules, Regulations, By-Laws, Orders, Notifications)
+      * Chronological period (within each package)
+      * Status (Active / Amended / Repealed / Obsolete)
+    - Development of a Classification Schema and Taxonomy for the Code
+
+3.3 Cross-Referencing with Parent Legislation
+    - Systematic cross-referencing of each subordinate instrument with
+      its parent/enabling Act or Ordinance
+    - Preparation of a Parent Legislation Index linking Acts with all
+      their associated subordinate instruments
+
+3.4 Gap and Inconsistency Analysis
+    - Identification of:
+      * Gaps where enabling provisions exist but subordinate instruments
+        cannot be located
+      * Conflicts or overlaps between instruments
+      * Instruments lacking clear legal authority
+      * Obsolete instruments that have not been formally repealed
+    - Preparation of a Gap and Inconsistency Report for Project Office
+
+3.5 Consolidation of Instruments
+    - Consolidation of all verified and classified instruments into a
+      structured dataset for codification
+
+    KEY DELIVERABLE: (i) Consolidated Inventory with Legal Analysis,
+                     (ii) Gap and Inconsistency Report
+
+--------------------------------------------------------------------------------
+PHASE 4: CODIFICATION AND DRAFTING
+Duration: Months 7-10 (December 2026 - March 2027)
+--------------------------------------------------------------------------------
+
+4.1 Design of the Code Structure
+    - Development of the structural framework for the Code of
+      Delegated/Subordinate Legislation for each package:
+      * Arrangement by Ministry/Department and subject matter
+      * Chapter and Part designations
+      * Numbering and referencing system
+      * Introductory notes, prefaces, and editorial conventions
+      * Index and cross-reference tables
+    - Submission of structure proposal to Project Office for approval
+      before drafting commences
+
+4.2 Preparation of the Code
+    - Structured compilation of all verified subordinate legislation
+      into the approved Code format
+    - Each entry in the Code to include:
+      * Full title of the instrument
+      * Enabling/parent Act reference
+      * Ministry/Department
+      * Date of enactment/gazette notification
+      * Gazette reference
+      * Full text of the instrument (or authenticated excerpt where
+        full text is voluminous)
+      * Current status annotation
+      * Amendment history (if applicable)
+    - Separate volumes/sections for SD-1 and SD-5
+
+4.3 Indexing and Referencing
+    - Preparation of a comprehensive General Index
+    - Ministry-wise Index
+    - Subject-matter Index
+    - Parent Act / Enabling Legislation Index
+    - Chronological Index
+
+4.4 Editorial Review and Internal Quality Check
+    - First round of internal quality review by the Quality Assurance
+      / Review Specialist
+    - Checking for accuracy, completeness, consistent formatting,
+      correct citations, and legal precision
+    - Correction and revision cycle
+
+    KEY DELIVERABLE: Draft Code of Delegated/Subordinate Legislation
+                     (SD-1 and SD-5) -- First Draft
+
+--------------------------------------------------------------------------------
+PHASE 5: FINALIZATION AND SUBMISSION
+Duration: Months 10-12 (March-May 2027)
+--------------------------------------------------------------------------------
+
+5.1 Stakeholder Review and Feedback
+    - Submission of First Draft Code to the Project Office for review
+    - Presentation of the Draft Code to the Project Director and
+      relevant stakeholders
+    - Collection and systematic collation of feedback and review comments
+
+5.2 Revision and Finalization
+    - Incorporation of all feedback and review comments from the
+      Project Office and stakeholders
+    - Second round of internal quality assurance review
+    - Final editing, formatting, and proofreading of the complete Code
+
+5.3 Preparation of Final Deliverables
+    - Preparation of hard copy and digital (soft copy) versions of:
+      * Final Code of Delegated/Subordinate Legislation (SD-1 and SD-5)
+      * Final Master Inventory (digital database)
+      * Gap and Inconsistency Report (final)
+      * All supporting indexes and annexures
+      * Project Completion Report
+
+5.4 Final Submission and Handover
+    - Formal submission of all deliverables to the Project Office
+    - Handover of all digital files, databases, and raw research materials
+    - Final presentation to the Project Director and Ministry officials
+    - Signing of project completion documentation
+
+5.5 Post-Submission Support
+    - Availability for clarifications and minor revisions for [X] days
+      following final submission
+    - Provision of user guidance on the digital database (if required)
+
+    KEY DELIVERABLE: (i) Final Code of Delegated/Subordinate Legislation
+                         (SD-1 and SD-5) -- Hard copy and Soft copy
+                     (ii) Final Master Inventory Database
+                     (iii) All Supporting Indexes and Annexures
+                     (iv) Project Completion Report
+
+================================================================================
+4. GANTT CHART -- PROJECT TIMELINE (June 2026 - May 2027)
+================================================================================
+
+  The following text-based Gantt chart illustrates the planned timeline for
+  all activities across the 12-month project period.
+
+  LEGEND: [##] = Active   [--] = Overlapping/Review   [ ] = Inactive
+
+  Month:           Jun  Jul  Aug  Sep  Oct  Nov  Dec  Jan  Feb  Mar  Apr  May
+  Year:            2026 2026 2026 2026 2026 2026 2026 2027 2027 2027 2027 2027
+  ============================================================================
+  PHASE 1: INCEPTION AND PLANNING
+  ============================================================================
+  1.1 Inception Meeting         [##][ ]  [ ]  [ ]  [ ]  [ ]  [ ]  [ ]  [ ]  [ ]  [ ]  [ ]
+  1.2 Review of ToR             [##][ ]  [ ]  [ ]  [ ]  [ ]  [ ]  [ ]  [ ]  [ ]  [ ]  [ ]
+  1.3 Inception Report          [##][##] [ ]  [ ]  [ ]  [ ]  [ ]  [ ]  [ ]  [ ]  [ ]  [ ]
+  1.4 Team Mobilization         [##][ ]  [ ]  [ ]  [ ]  [ ]  [ ]  [ ]  [ ]  [ ]  [ ]  [ ]
+  1.5 Data Source Mapping       [##][##] [ ]  [ ]  [ ]  [ ]  [ ]  [ ]  [ ]  [ ]  [ ]  [ ]
+  ============================================================================
+  PHASE 2: IDENTIFICATION AND COLLECTION
+  ============================================================================
+  2.1 ID of Legislation (SD-1)  [ ] [##] [##] [##] [ ]  [ ]  [ ]  [ ]  [ ]  [ ]  [ ]  [ ]
+  2.1 ID of Legislation (SD-5)  [ ] [##] [##] [##] [ ]  [ ]  [ ]  [ ]  [ ]  [ ]  [ ]  [ ]
+  2.2 Master Inventory Dev.     [ ] [##] [##] [##] [--] [ ]  [ ]  [ ]  [ ]  [ ]  [ ]  [ ]
+  2.3 Collection/Digitization   [ ] [##] [##] [##] [--] [ ]  [ ]  [ ]  [ ]  [ ]  [ ]  [ ]
+  Deliverable: Prelim. Inventory[ ]  [ ] [ ]  [##] [ ]  [ ]  [ ]  [ ]  [ ]  [ ]  [ ]  [ ]
+  ============================================================================
+  PHASE 3: ANALYSIS AND CONSOLIDATION
+  ============================================================================
+  3.1 Legal Analysis            [ ]  [ ] [ ]  [##] [##] [##] [--] [ ]  [ ]  [ ]  [ ]  [ ]
+  3.2 Classification            [ ]  [ ] [ ]  [##] [##] [##] [--] [ ]  [ ]  [ ]  [ ]  [ ]
+  3.3 Cross-Referencing         [ ]  [ ] [ ]  [ ]  [##] [##] [##] [ ]  [ ]  [ ]  [ ]  [ ]
+  3.4 Gap & Inconsistency Anal. [ ]  [ ] [ ]  [ ]  [##] [##] [##] [ ]  [ ]  [ ]  [ ]  [ ]
+  3.5 Consolidation             [ ]  [ ] [ ]  [ ]  [ ]  [##] [##] [ ]  [ ]  [ ]  [ ]  [ ]
+  Deliverable: Consol. Inv.+GAP [ ]  [ ] [ ]  [ ]  [ ]  [ ]  [##] [ ]  [ ]  [ ]  [ ]  [ ]
+  ============================================================================
+  PHASE 4: CODIFICATION AND DRAFTING
+  ============================================================================
+  4.1 Code Structure Design     [ ]  [ ] [ ]  [ ]  [ ]  [ ]  [##] [##] [ ]  [ ]  [ ]  [ ]
+  4.2 Code Preparation (SD-1)   [ ]  [ ] [ ]  [ ]  [ ]  [ ]  [##] [##] [##] [ ]  [ ]  [ ]
+  4.2 Code Preparation (SD-5)   [ ]  [ ] [ ]  [ ]  [ ]  [ ]  [##] [##] [##] [ ]  [ ]  [ ]
+  4.3 Indexing & Referencing    [ ]  [ ] [ ]  [ ]  [ ]  [ ]  [ ]  [##] [##] [--] [ ]  [ ]
+  4.4 Internal QA Review        [ ]  [ ] [ ]  [ ]  [ ]  [ ]  [ ]  [ ]  [##] [##] [ ]  [ ]
+  Deliverable: 1st Draft Code   [ ]  [ ] [ ]  [ ]  [ ]  [ ]  [ ]  [ ]  [ ]  [##] [ ]  [ ]
+  ============================================================================
+  PHASE 5: FINALIZATION AND SUBMISSION
+  ============================================================================
+  5.1 Stakeholder Review        [ ]  [ ] [ ]  [ ]  [ ]  [ ]  [ ]  [ ]  [ ]  [##] [##] [ ]
+  5.2 Revision & Finalization   [ ]  [ ] [ ]  [ ]  [ ]  [ ]  [ ]  [ ]  [ ]  [ ]  [##] [##]
+  5.3 Final Deliverables Prep.  [ ]  [ ] [ ]  [ ]  [ ]  [ ]  [ ]  [ ]  [ ]  [ ]  [##] [##]
+  5.4 Final Submission          [ ]  [ ] [ ]  [ ]  [ ]  [ ]  [ ]  [ ]  [ ]  [ ]  [ ]  [##]
+  Deliverable: Final Code + Rpt [ ]  [ ] [ ]  [ ]  [ ]  [ ]  [ ]  [ ]  [ ]  [ ]  [ ]  [##]
+  ============================================================================
+
+  KEY:
+  [##] = Primary activity period for this month
+  [--] = Continuation/overlap/review activity
+  [ ]  = Not the primary focus for this activity in this month
+
+================================================================================
+5. QUALITY ASSURANCE APPROACH
+================================================================================
+
+The Legal Empire will apply a rigorous, multi-layered quality assurance (QA)
+framework throughout the assignment to ensure accuracy, completeness,
+consistency, and legal precision in all outputs.
+
+--------------------------------------------------------------------------------
+5.1 QA Framework Structure
+--------------------------------------------------------------------------------
+
+   Level 1 - Individual Researcher Review:
+   Each researcher is responsible for self-review of their own research
+   outputs before submission to the Team Leader. All entries in the Master
+   Inventory are to be verified against primary source documents.
+
+   Level 2 - Team Leader Review:
+   The Team Leader / Lead Legal Consultant will conduct a structured review
+   of all research outputs, legal analyses, and codification drafts before
+   compilation. The Team Leader will resolve discrepancies and flag issues
+   for escalation.
+
+   Level 3 - Quality Assurance Specialist Review:
+   The dedicated Quality Assurance / Review Specialist will conduct an
+   independent, comprehensive review of:
+      - All entries in the Master Inventory (completeness and accuracy)
+      - All legal status determinations (active, amended, repealed)
+      - The Draft Code (formatting, citation accuracy, legal precision)
+      - Index completeness and consistency
+   This review will be conducted prior to submission of each deliverable.
+
+   Level 4 - Peer Review:
+   Where feasible and appropriate, selected complex instruments or legal
+   analyses will be subject to peer review by a second legal professional
+   within the team.
+
+   Level 5 - Project Office Review:
+   Submission of draft deliverables to the Project Office for their review
+   and feedback, with structured revision and response cycle.
+
+--------------------------------------------------------------------------------
+5.2 QA Standards
+--------------------------------------------------------------------------------
+   - All citations to cite full gazette reference (volume, number, date, page)
+   - All status determinations to be supported by documentary evidence
+   - Consistent formatting throughout (as per approved template)
+   - Zero tolerance for factual inaccuracies in legal citations
+   - All amendments and repeal notes to cross-reference the amending/
+     repealing instrument
+
+================================================================================
+6. RISK MANAGEMENT
+================================================================================
+
+   Risk                           | Likelihood | Impact | Mitigation Strategy
+   -------------------------------|------------|--------|------------------------
+   Non-availability of historical | Medium     | High   | Early engagement with
+   gazette archives (SD-1)        |            |        | National Archives;
+                                  |            |        | multiple source
+                                  |            |        | strategy; digital
+                                  |            |        | repositories
+   -------------------------------|------------|--------|------------------------
+   Delays in Ministry responses   | Medium     | Medium | Formal letters via
+   to information requests        |            |        | Project Office;
+                                  |            |        | advance scheduling
+   -------------------------------|------------|--------|------------------------
+   Large volume exceeding initial | Medium     | Medium | Buffer time built
+   estimates (SD-5)               |            |        | into Phase 2-3;
+                                  |            |        | scalable team
+   -------------------------------|------------|--------|------------------------
+   Key professional unavailability| Low        | High   | Succession plan;
+                                  |            |        | backup professional
+                                  |            |        | identified
+   -------------------------------|------------|--------|------------------------
+   Change in project scope or     | Low        | High   | Early communication
+   requirements                   |            |        | with Project Office;
+                                  |            |        | formal change
+                                  |            |        | management protocol
+   -------------------------------|------------|--------|------------------------
+   Force majeure / unforeseen     | Low        | High   | Contingency buffer
+   disruption                     |            |        | in timeline; remote
+                                  |            |        | work capacity
+
+================================================================================
+7. DELIVERABLES SCHEDULE
+================================================================================
+
+   S/N | Deliverable                              | Due Date       | Phase
+   ----|------------------------------------------|----------------|-------
+    1  | Inception Report (including revised       | End of Month 1 | Ph. 1
+       | Work Plan and Gantt Chart)               | (June 2026)    |
+   ----|------------------------------------------|----------------|-------
+    2  | Preliminary Inventory Report (Draft)     | End of Month 4 | Ph. 2
+       | for both SD-1 and SD-5                   | (Sep. 2026)    |
+   ----|------------------------------------------|----------------|-------
+    3  | Consolidated Inventory with Legal         | End of Month 7 | Ph. 3
+       | Analysis (SD-1 & SD-5)                   | (Dec. 2026)    |
+   ----|------------------------------------------|----------------|-------
+    4  | Gap and Inconsistency Report             | End of Month 7 | Ph. 3
+       |                                          | (Dec. 2026)    |
+   ----|------------------------------------------|----------------|-------
+    5  | Draft Code of Delegated/Subordinate      | End of Month 9 | Ph. 4
+       | Legislation -- First Draft (SD-1 & SD-5) | (Feb. 2027)    |
+   ----|------------------------------------------|----------------|-------
+    6  | Final Code of Delegated/Subordinate      | End of Month 12| Ph. 5
+       | Legislation (SD-1 & SD-5) -- Hard copy   | (May 2027)     |
+       | and Soft copy (digital)                  |                |
+   ----|------------------------------------------|----------------|-------
+    7  | Final Master Inventory Database          | End of Month 12| Ph. 5
+       | (digital, structured spreadsheet/DB)     | (May 2027)     |
+   ----|------------------------------------------|----------------|-------
+    8  | All Supporting Indexes and Annexures     | End of Month 12| Ph. 5
+       |                                          | (May 2027)     |
+   ----|------------------------------------------|----------------|-------
+    9  | Project Completion Report                | End of Month 12| Ph. 5
+       |                                          | (May 2027)     |
+
+================================================================================
+
+
+Authorized Signatory:
+
+Signature     : _________________________________________
+Name          : [Insert Name of Authorized Signatory]
+Designation   : [Insert Designation]
+Date          : 11/03/2026
+
+Seal of the Firm:
+
+
+
+
+================================================================================
+          WORK PLAN AND METHODOLOGY DOCUMENT -- END
+================================================================================

@@ -1,0 +1,375 @@
+================================================================================
+                              THE LEGAL EMPIRE
+                           www.thelegalempire.org
+================================================================================
+
+              TEAM COMPOSITION AND ORGANIZATIONAL STRUCTURE
+
+================================================================================
+  EOI Reference No. : 55.00.0000.120.14.065.24.1493
+  Package No.        : SD-1 (1799-1970) and SD-5 (2011-till date)
+  Project Period     : 01/06/2026 to 31/05/2027
+  Submitted to       : Strengthening Legislative Capacity and Legal
+                       Awareness Building Project
+                       Legislative and Parliamentary Affairs Division
+                       Ministry of Law, Justice and Parliamentary Affairs
+================================================================================
+
+
+================================================================================
+1. OVERVIEW
+================================================================================
+
+The Legal Empire proposes a dedicated team of seven (7) qualified key
+professionals for this assignment, supported by administrative and IT support
+staff. The team has been specifically composed to address the scope, complexity,
+and dual-package nature of this assignment (SD-1: 1799-1970 and SD-5:
+2011-till date).
+
+The team structure ensures:
+   - Strong leadership and project management through an experienced Team Leader
+   - Specialist capacity for historical (SD-1) and contemporary (SD-5) research
+   - Dedicated legislative drafting and codification expertise
+   - Digital data management and database development capability
+   - Independent quality assurance and review at each stage
+
+================================================================================
+2. ORGANIZATIONAL CHART (ORGANOGRAM)
+================================================================================
+
+                    ┌─────────────────────────────────────┐
+                    │   PROJECT DIRECTOR (Client Side)    │
+                    │   G. M. Atiqur Rahman Zamaly        │
+                    │   Strengthening Legislative         │
+                    │   Capacity Project                  │
+                    └──────────────────┬──────────────────┘
+                                       │ (Oversight)
+                    ┌──────────────────▼──────────────────┐
+                    │      THE LEGAL EMPIRE               │
+                    │  Managing Director / Principal      │
+                    │  [Insert Name]                      │
+                    └──────────────────┬──────────────────┘
+                                       │
+                    ┌──────────────────▼──────────────────┐
+                    │    TEAM LEADER /                    │
+                    │    LEAD LEGAL CONSULTANT            │
+                    │    [Insert Name]                    │
+                    └────────────┬──────────┬────────────┘
+              ___________________|          |___________________
+             |           |           |           |             |
+    ┌────────▼───┐ ┌─────▼──────┐ ┌─▼──────────┐ ┌──────────▼──┐ ┌───────▼───────┐
+    │  SENIOR    │ │LEGISLATIVE │ │  LEGAL     │ │   DATA      │ │   QUALITY     │
+    │  LEGAL     │ │DRAFTING    │ │  ANALYST / │ │ MANAGEMENT  │ │  ASSURANCE /  │
+    │ RESEARCHER │ │SPECIALIST  │ │CODIFICATION│ │   & IT      │ │   REVIEW      │
+    │[Insert Name│ │[Insert Name│ │  EXPERT    │ │ SPECIALIST  │ │  SPECIALIST   │
+    └────────────┘ └────────────┘ │[Insert Name│ │[Insert Name]│ │[Insert Name]  │
+                                  └─────┬──────┘ └─────────────┘ └───────────────┘
+                                        │
+                              ┌─────────▼─────────┐
+                              │  RESEARCH         │
+                              │  ASSOCIATE        │
+                              │  [Insert Name]    │
+                              └───────────────────┘
+
+  SUPPORT STAFF (Reporting to Managing Director / Admin Manager)
+  ┌──────────────────────────────────────────────────────────────────────────┐
+  │  Admin Officer(s) | Para-Legal(s) | Data Entry Operators | IT Support   │
+  │  [Insert Names and Numbers]                                              │
+  └──────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+3. ROLE DESCRIPTIONS -- KEY PROFESSIONALS
+================================================================================
+
+--------------------------------------------------------------------------------
+PROFESSIONAL 1: TEAM LEADER / LEAD LEGAL CONSULTANT
+--------------------------------------------------------------------------------
+
+  Proposed Staff Member  :  [Insert Name]
+  Qualification          :  [Insert Qualification, e.g., LL.M., Ph.D. in Law]
+  Years of Experience    :  [Insert Years]
+  Time Input             :  Full-time (100%) throughout the project period
+
+  Primary Responsibilities:
+  - Overall project management, coordination, and quality oversight
+  - Serve as the primary point of contact with the Project Office
+  - Lead the development and implementation of the work plan and methodology
+  - Supervise and coordinate the work of all six (6) other key professionals
+  - Lead legal analysis of complex and ambiguous subordinate instruments
+  - Review and approve all intermediate and final deliverables before
+    submission to the Project Office
+  - Conduct stakeholder meetings and presentations on behalf of the firm
+  - Ensure compliance with all contractual obligations, timelines, and
+    quality standards
+  - Resolve technical and legal disputes or uncertainties within the team
+  - Prepare and finalize the Inception Report and Project Completion Report
+
+  Reporting To           :  Managing Director / Principal, The Legal Empire
+  Supervises             :  All other Key Professionals (2 through 7)
+
+--------------------------------------------------------------------------------
+PROFESSIONAL 2: SENIOR LEGAL RESEARCHER
+--------------------------------------------------------------------------------
+
+  Proposed Staff Member  :  [Insert Name]
+  Qualification          :  [Insert Qualification, e.g., LL.M. in Law]
+  Years of Experience    :  [Insert Years]
+  Time Input             :  Full-time (100%) -- primarily Months 2-9
+
+  Primary Responsibilities:
+  - Lead primary research for identification and collection of subordinate
+    legislation under both Package SD-1 and SD-5
+  - Direct and supervise research activities of the Research Associate
+  - Access and review historical gazette archives (for SD-1), national
+    archives, library collections, and digital repositories
+  - Prepare preliminary inventory entries for all identified instruments
+  - Conduct substantive legal analysis of identified subordinate legislation
+  - Determine and document the legal status of each instrument (active,
+    amended, repealed, or obsolete)
+  - Cross-reference subordinate instruments with their parent/enabling Acts
+  - Contribute to the Gap and Inconsistency Report
+  - Support the Team Leader in drafting and reviewing technical sections of
+    deliverables
+
+  Reporting To           :  Team Leader / Lead Legal Consultant
+  Supervises             :  Research Associate
+
+--------------------------------------------------------------------------------
+PROFESSIONAL 3: LEGISLATIVE DRAFTING SPECIALIST
+--------------------------------------------------------------------------------
+
+  Proposed Staff Member  :  [Insert Name]
+  Qualification          :  [Insert Qualification, e.g., LL.M., specialized
+                             training in legislative drafting]
+  Years of Experience    :  [Insert Years]
+  Time Input             :  Full-time (100%) -- primarily Months 6-12
+
+  Primary Responsibilities:
+  - Lead the codification and drafting phase of the assignment (Phase 4)
+  - Design and finalize the structural framework and format of the Code of
+    Delegated/Subordinate Legislation for both packages
+  - Draft, compile, and edit all entries in the Code with proper legal
+    language, citations, and formatting
+  - Ensure legal precision and drafting consistency throughout the Code
+  - Prepare all introductory sections, editorial notes, and annotations
+    within the Code
+  - Develop and apply consistent editorial conventions and style guide
+  - Review and revise the Code following feedback from the Project Office
+    and stakeholders (Phase 5)
+  - Support the Quality Assurance Specialist in drafting review
+
+  Reporting To           :  Team Leader / Lead Legal Consultant
+
+--------------------------------------------------------------------------------
+PROFESSIONAL 4: LEGAL ANALYST / CODIFICATION EXPERT
+--------------------------------------------------------------------------------
+
+  Proposed Staff Member  :  [Insert Name]
+  Qualification          :  [Insert Qualification, e.g., LL.B. (Hons), LL.M.]
+  Years of Experience    :  [Insert Years]
+  Time Input             :  Full-time (100%) -- primarily Months 3-10
+
+  Primary Responsibilities:
+  - Conduct systematic legal analysis and classification of all identified
+    subordinate legislation under both packages
+  - Develop and apply the Classification Schema for thematic and ministry-wise
+    categorization of instruments
+  - Maintain and update the Master Inventory Database with analysis outputs
+  - Identify overlaps, conflicts, and gaps in the body of subordinate
+    legislation for both packages
+  - Prepare the Gap and Inconsistency Report in collaboration with the
+    Senior Legal Researcher
+  - Assist the Legislative Drafting Specialist in the codification phase
+  - Prepare and finalize all indexes (General Index, Ministry-wise Index,
+    Subject-matter Index, Parent Act Index, Chronological Index)
+  - Verify completeness and accuracy of all codification entries
+
+  Reporting To           :  Team Leader / Lead Legal Consultant
+
+--------------------------------------------------------------------------------
+PROFESSIONAL 5: DATA MANAGEMENT & IT SPECIALIST
+--------------------------------------------------------------------------------
+
+  Proposed Staff Member  :  [Insert Name]
+  Qualification          :  [Insert Qualification, e.g., B.Sc./M.Sc. in CSE,
+                             IT, or MIS]
+  Years of Experience    :  [Insert Years]
+  Time Input             :  Full-time (100%) throughout the project period
+
+  Primary Responsibilities:
+  - Design, develop, and maintain the Master Inventory Database in a
+    structured and searchable format
+  - Digitize (scan and OCR process) physical gazette copies and archival
+    documents collected during the research phase
+  - Manage all digital file organization, naming conventions, version
+    control, and storage
+  - Maintain secure cloud-based backup of all project files, databases,
+    and documents throughout the project period
+  - Develop the digital version of the final Code (soft copy) with
+    searchable and well-structured formatting
+  - Provide technical support for all team members on IT tools, software,
+    and digital workflows
+  - Ensure cybersecurity and data integrity of all project information
+  - Support preparation of digital deliverables for final submission
+
+  Reporting To           :  Team Leader / Lead Legal Consultant
+
+--------------------------------------------------------------------------------
+PROFESSIONAL 6: RESEARCH ASSOCIATE
+--------------------------------------------------------------------------------
+
+  Proposed Staff Member  :  [Insert Name]
+  Qualification          :  [Insert Qualification, e.g., LL.B. (Hons)]
+  Years of Experience    :  [Insert Years]
+  Time Input             :  Full-time (100%) -- primarily Months 2-8
+
+  Primary Responsibilities:
+  - Assist the Senior Legal Researcher in the identification and collection
+    of subordinate legislation from gazette archives, libraries, and
+    government offices
+  - Conduct field visits to the National Archives, Ministry records rooms,
+    the Supreme Court Library, and other repositories
+  - Compile and organize collected legal documents and gazette copies
+  - Prepare preliminary draft entries for the Master Inventory
+  - Assist in data verification and cross-checking tasks
+  - Support the Legal Analyst in classification and categorization work
+  - Undertake any other research or documentation tasks as directed by the
+    Team Leader or Senior Legal Researcher
+
+  Reporting To           :  Senior Legal Researcher / Team Leader
+
+--------------------------------------------------------------------------------
+PROFESSIONAL 7: QUALITY ASSURANCE / REVIEW SPECIALIST
+--------------------------------------------------------------------------------
+
+  Proposed Staff Member  :  [Insert Name]
+  Qualification          :  [Insert Qualification, e.g., LL.M., Ph.D. in Law]
+  Years of Experience    :  [Insert Years]
+  Time Input             :  Part-time (50%) -- Months 1-6; Full-time (100%)
+                            -- Months 7-12 (during draft review and final QA)
+
+  Primary Responsibilities:
+  - Establish and implement the Quality Assurance Framework for the project
+  - Conduct independent review of the Master Inventory for accuracy,
+    completeness, and consistency of all entries
+  - Verify the legal accuracy of all status determinations (active, amended,
+    repealed, obsolete) against primary source documentation
+  - Review the Draft Code for legal precision, citation accuracy, formatting
+    consistency, and completeness (Phases 4 and 5)
+  - Review all indexes for completeness and cross-reference accuracy
+  - Prepare Quality Review Reports highlighting issues, discrepancies, and
+    recommended corrections for each deliverable
+  - Verify incorporation of Project Office feedback and stakeholder comments
+    in the revised and final Code
+  - Certify final deliverables as meeting the firm's quality standards
+    before submission
+
+  Reporting To           :  Team Leader / Lead Legal Consultant
+
+================================================================================
+4. TIME ALLOCATION PER PHASE
+================================================================================
+
+  The following table shows the proposed time allocation (as percentage of
+  total working time) for each key professional per project phase.
+
+  Professional / Phase      | Ph.1 | Ph.2 | Ph.3 | Ph.4 | Ph.5 | Overall
+                            | (M1) |(M2-4)|(M5-7)|(M8-10)|(M11-12)| %
+  --------------------------|------|------|------|------|------|--------
+  1. Team Leader /          |  100 |  80  |  80  |  90  | 100  |  90
+     Lead Legal Consultant  |      |      |      |      |      |
+  --------------------------|------|------|------|------|------|--------
+  2. Senior Legal           |  60  | 100  | 100  |  60  |  40  |  72
+     Researcher             |      |      |      |      |      |
+  --------------------------|------|------|------|------|------|--------
+  3. Legislative Drafting   |  40  |  30  |  60  | 100  | 100  |  66
+     Specialist             |      |      |      |      |      |
+  --------------------------|------|------|------|------|------|--------
+  4. Legal Analyst /        |  50  |  80  | 100  |  80  |  60  |  74
+     Codification Expert    |      |      |      |      |      |
+  --------------------------|------|------|------|------|------|--------
+  5. Data Management &      | 100  | 100  | 100  | 100  | 100  | 100
+     IT Specialist          |      |      |      |      |      |
+  --------------------------|------|------|------|------|------|--------
+  6. Research Associate     |  60  | 100  | 100  |  60  |  30  |  70
+  --------------------------|------|------|------|------|------|--------
+  7. Quality Assurance /    |  50  |  50  |  80  | 100  | 100  |  76
+     Review Specialist      |      |      |      |      |      |
+
+  Note: Percentages reflect proportion of each professional's total
+  available working time allocated to this assignment during the
+  indicated phase/months.
+
+================================================================================
+5. KEY PROFESSIONAL RESPONSIBILITIES MATRIX
+================================================================================
+
+  RESPONSIBILITY / DELIVERABLE     |TL|SLR|LDS|LA |DMS|RA |QAS|
+  ----------------------------------|--|---|---|---|---|---|---|
+  Inception Report                  |L | S |   | S |   |   | R |
+  Data Source Identification        |S | L |   | S |   | S |   |
+  Gazette & Archive Research (SD-1) |  | L |   |   |   | S |   |
+  Gazette & Archive Research (SD-5) |  | L |   | S |   | S |   |
+  Master Inventory Development      |R | L |   | S | S | S |   |
+  Document Digitization             |  |   |   |   | L | S |   |
+  Legal Status Analysis             |R | L |   | S |   |   |   |
+  Classification Schema             |R |   |   | L |   |   |   |
+  Cross-Reference with Parent Acts  |R | S |   | L |   |   |   |
+  Gap & Inconsistency Report        |R | S |   | L |   |   | R |
+  Code Structure Design             |R |   | L | S |   |   | R |
+  Code Preparation (SD-1 & SD-5)    |R |   | L | S |   |   |   |
+  Indexing (all indexes)            |R |   | S | L |   |   |   |
+  Internal QA Reviews               |R |   |   |   |   |   | L |
+  Digital Database Finalization     |R |   |   |   | L |   | R |
+  Stakeholder Presentations         |L | S |   |   |   |   |   |
+  Feedback Incorporation            |R |   | L | S |   |   | R |
+  Project Completion Report         |L | S |   |   |   |   | R |
+
+  KEY:
+  TL  = Team Leader / Lead Legal Consultant
+  SLR = Senior Legal Researcher
+  LDS = Legislative Drafting Specialist
+  LA  = Legal Analyst / Codification Expert
+  DMS = Data Management & IT Specialist
+  RA  = Research Associate
+  QAS = Quality Assurance / Review Specialist
+
+  L   = Lead responsibility
+  S   = Support responsibility
+  R   = Review / Oversight responsibility
+  (blank) = Not a primary responsibility for this task
+
+================================================================================
+6. TEAM CONTACT INFORMATION
+================================================================================
+
+  Team Leader / Lead Legal Consultant
+  Name       :  [Insert Name]
+  Mobile     :  [Insert Mobile Number]
+  Email      :  [Insert Email Address]
+
+  Firm Contact:
+  The Legal Empire
+  Address    :  [Insert Office Address]
+  Telephone  :  [Insert Phone Number]
+  Email      :  [Insert Email Address]
+  Website    :  www.thelegalempire.org
+
+================================================================================
+
+
+Authorized Signatory:
+
+Signature     : _________________________________________
+Name          : [Insert Name of Authorized Signatory]
+Designation   : [Insert Designation]
+Date          : 11/03/2026
+
+Seal of the Firm:
+
+
+
+
+================================================================================
+          TEAM COMPOSITION AND ORGANIZATIONAL STRUCTURE -- END
+================================================================================
