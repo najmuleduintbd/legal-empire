@@ -1,0 +1,573 @@
+================================================================================
+     MASTER INVENTORY OF SUBORDINATE LEGISLATIONS — ERA 1 (1799-1858)
+================================================================================
+
+     EAST INDIA COMPANY PERIOD
+     BENGAL PRESIDENCY (INCLUDING PRESENT-DAY BANGLADESH)
+
+================================================================================
+     Package SD-1 | Code of Delegated/Subordinate Legislation of Bangladesh
+================================================================================
+
+NOTE: Each entry is assigned a unique reference number in the format:
+      SD-1/E1/XXXX (SD-1 = Package, E1 = Era 1, XXXX = Serial Number)
+
+================================================================================
+SECTION A: BENGAL REGULATIONS (1799-1834)
+================================================================================
+
+The Bengal Regulations were enacted by the Governor-General in Council and
+constituted the primary body of codified law for the Bengal Presidency. While
+quasi-legislative in nature, they functioned as delegated legislation under
+the authority granted by successive Charter Acts.
+
+--------------------------------------------------------------------------------
+A.1: REVENUE AND LAND REGULATIONS
+--------------------------------------------------------------------------------
+
+Ref No.        : SD-1/E1/0001
+Title          : Bengal Regulation I of 1799
+                 (Regulation for the Administration of Justice in Revenue
+                  Matters in the Bengal Presidency)
+Date           : 1799
+Type           : Regulation
+Subject        : Land and Revenue
+Authority      : Governor-General in Council
+Parent Act     : Charter Act of 1793
+Scope          : Revenue administration, rent collection, land disputes
+Status         : Repealed/Superseded
+Notes          : Foundation of revenue administration in Bengal
+
+Ref No.        : SD-1/E1/0002
+Title          : Bengal Regulation II of 1799
+                 (Regulation for the Administration of the Revenue of Bengal)
+Date           : 1799
+Type           : Regulation
+Subject        : Land and Revenue
+Authority      : Governor-General in Council
+Parent Act     : Charter Act of 1793
+Scope          : Revenue assessment and collection procedures
+Status         : Repealed/Superseded
+
+Ref No.        : SD-1/E1/0003
+Title          : Bengal Regulation I of 1800
+                 (Regulation for Decennial Settlement of Revenue)
+Date           : 1800
+Type           : Regulation
+Subject        : Land and Revenue
+Authority      : Governor-General in Council
+Parent Act     : Charter Act of 1793
+Scope          : Revenue settlement, zamindari rights
+Status         : Repealed/Superseded
+Notes          : Relates to the Permanent Settlement system
+
+Ref No.        : SD-1/E1/0004
+Title          : Bengal Regulation VII of 1799
+                 (Regulation for Recovery of Revenue Arrears)
+Date           : 1799
+Type           : Regulation
+Subject        : Land and Revenue
+Authority      : Governor-General in Council
+Parent Act     : Charter Act of 1793
+Scope          : Enforcement of revenue payment, sale of defaulting estates
+Status         : Repealed/Superseded
+
+Ref No.        : SD-1/E1/0005
+Title          : Bengal Regulation VIII of 1793
+                 (Regulation for the Permanent Settlement of the Revenues
+                  of Bengal, Bihar and Orissa)
+Date           : 1793
+Type           : Regulation
+Subject        : Land and Revenue
+Authority      : Governor-General in Council (Lord Cornwallis)
+Parent Act     : Charter Act of 1793
+Scope          : Permanent Settlement of land revenue
+Status         : Historical — Superseded by later land reform legislation
+Notes          : Foundational regulation for land revenue in Bengal;
+                 established the zamindari system
+
+Ref No.        : SD-1/E1/0006
+Title          : Bengal Regulation XLIV of 1793
+                 (Regulation for Revenue Administration and Collection)
+Date           : 1793
+Type           : Regulation
+Subject        : Land and Revenue
+Authority      : Governor-General in Council
+Parent Act     : Charter Act of 1793
+Scope          : Detailed procedures for revenue administration
+Status         : Repealed/Superseded
+
+Ref No.        : SD-1/E1/0007
+Title          : Bengal Regulation V of 1812
+                 (Regulation for Sale of Estates for Arrears of Revenue)
+Date           : 1812
+Type           : Regulation
+Subject        : Land and Revenue
+Authority      : Governor-General in Council
+Parent Act     : Charter Act of 1793
+Scope          : Procedure for sale of estates in default of revenue payment
+Status         : Repealed/Superseded
+Notes          : Precursor to Bengal Land Revenue Sales Act, 1859
+
+Ref No.        : SD-1/E1/0008
+Title          : Bengal Regulation XI of 1825
+                 (Bengal Alluvion and Diluvion Regulation)
+Date           : 1825
+Type           : Regulation
+Subject        : Land and Revenue
+Authority      : Governor-General in Council
+Scope          : Rights regarding alluvial and diluvial land formations
+Status         : Partially in force (provisions absorbed into later Acts)
+Notes          : Important for riverine Bangladesh
+
+Ref No.        : SD-1/E1/0009
+Title          : Bengal Regulation III of 1828
+                 (Regulation for Revenue Survey and Assessment)
+Date           : 1828
+Type           : Regulation
+Subject        : Land and Revenue
+Authority      : Governor-General in Council
+Scope          : Land survey and revenue assessment procedures
+Status         : Repealed/Superseded
+
+Ref No.        : SD-1/E1/0010
+Title          : Bengal Regulation IX of 1833
+                 (Regulation regarding Land Tenures and Rent Recovery)
+Date           : 1833
+Type           : Regulation
+Subject        : Land and Revenue
+Authority      : Governor-General in Council
+Scope          : Tenant rights, rent recovery procedures
+Status         : Repealed/Superseded
+Notes          : Precursor to Bengal Rent Act and Bengal Tenancy Act
+
+--------------------------------------------------------------------------------
+A.2: JUDICIAL AND CIVIL ADMINISTRATION REGULATIONS
+--------------------------------------------------------------------------------
+
+Ref No.        : SD-1/E1/0011
+Title          : Bengal Regulation III of 1793
+                 (Regulation for the Administration of Civil Justice)
+Date           : 1793
+Type           : Regulation
+Subject        : Civil Law and Justice
+Authority      : Governor-General in Council
+Parent Act     : Charter Act of 1793
+Scope          : Establishment of civil courts, civil procedure
+Status         : Repealed/Superseded
+Notes          : Foundation of civil justice administration in Bengal
+
+Ref No.        : SD-1/E1/0012
+Title          : Bengal Regulation IV of 1793
+                 (Regulation for the Administration of Criminal Justice)
+Date           : 1793
+Type           : Regulation
+Subject        : Criminal Law and Justice
+Authority      : Governor-General in Council
+Parent Act     : Charter Act of 1793
+Scope          : Criminal courts, criminal procedure, punishments
+Status         : Repealed/Superseded
+Notes          : Foundation of criminal justice in Bengal
+
+Ref No.        : SD-1/E1/0013
+Title          : Bengal Regulation VI of 1793
+                 (Regulation for Police Administration)
+Date           : 1793
+Type           : Regulation
+Subject        : Police and Public Order
+Authority      : Governor-General in Council
+Parent Act     : Charter Act of 1793
+Scope          : Establishment of police, magisterial powers
+Status         : Repealed/Superseded
+
+Ref No.        : SD-1/E1/0014
+Title          : Bengal Regulation IX of 1793
+                 (Regulation regarding Court Fees and Legal Process)
+Date           : 1793
+Type           : Regulation
+Subject        : Civil Law and Justice
+Authority      : Governor-General in Council
+Scope          : Court fees, process serving, legal procedure
+Status         : Repealed/Superseded
+
+Ref No.        : SD-1/E1/0015
+Title          : Bengal Regulation II of 1806
+                 (Regulation regarding Small Cause Courts)
+Date           : 1806
+Type           : Regulation
+Subject        : Civil Law and Justice
+Authority      : Governor-General in Council
+Scope          : Small claims, summary procedure
+Status         : Repealed/Superseded
+
+Ref No.        : SD-1/E1/0016
+Title          : Bengal Regulation VI of 1813
+                 (Regulation for Limitation of Civil Suits)
+Date           : 1813
+Type           : Regulation
+Subject        : Civil Law and Justice
+Authority      : Governor-General in Council
+Scope          : Time limits for filing civil suits
+Status         : Repealed/Superseded
+Notes          : Precursor to Indian Limitation Act
+
+Ref No.        : SD-1/E1/0017
+Title          : Bengal Regulation XXVI of 1814
+                 (Regulation regarding Appeals in Civil Cases)
+Date           : 1814
+Type           : Regulation
+Subject        : Civil Law and Justice
+Authority      : Governor-General in Council
+Scope          : Appellate procedure in civil cases
+Status         : Repealed/Superseded
+
+Ref No.        : SD-1/E1/0018
+Title          : Bengal Regulation IX of 1807
+                 (Regulation for Criminal Courts and Procedure)
+Date           : 1807
+Type           : Regulation
+Subject        : Criminal Law and Justice
+Authority      : Governor-General in Council
+Scope          : Revised criminal court structure and procedure
+Status         : Repealed/Superseded
+
+Ref No.        : SD-1/E1/0019
+Title          : Bengal Regulation XIV of 1824
+                 (Regulation regarding Juries and Assessors)
+Date           : 1824
+Type           : Regulation
+Subject        : Criminal Law and Justice
+Authority      : Governor-General in Council
+Scope          : Jury system, assessor appointments
+Status         : Repealed/Superseded
+
+Ref No.        : SD-1/E1/0020
+Title          : Bengal Regulation V of 1831
+                 (Regulation for Abolition of Provincial Courts of Appeal
+                  and Circuit)
+Date           : 1831
+Type           : Regulation
+Subject        : Civil Law and Justice / Constitutional and Administrative
+Authority      : Governor-General in Council
+Scope          : Restructuring of judicial administration
+Status         : Repealed/Superseded
+
+--------------------------------------------------------------------------------
+A.3: PERSONAL LAW AND FAMILY LAW REGULATIONS
+--------------------------------------------------------------------------------
+
+Ref No.        : SD-1/E1/0021
+Title          : Bengal Regulation IV of 1793
+                 (Regulation regarding Hindu and Muhammadan Law)
+Date           : 1793
+Type           : Regulation
+Subject        : Family Law and Personal Law
+Authority      : Governor-General in Council
+Scope          : Application of personal law in succession, marriage,
+                 religious usages
+Status         : Partially superseded
+Notes          : Established the principle of applying personal law
+                 to respective communities
+
+Ref No.        : SD-1/E1/0022
+Title          : Bengal Regulation V of 1799
+                 (Regulation regarding Inheritance and Succession)
+Date           : 1799
+Type           : Regulation
+Subject        : Family Law and Personal Law
+Authority      : Governor-General in Council
+Scope          : Rules for inheritance among Hindus and Muslims
+Status         : Superseded by later succession acts
+
+Ref No.        : SD-1/E1/0023
+Title          : Bengal Regulation VII of 1832
+                 (Regulation regarding Sati — Abolition of Suttee)
+Date           : 1829 (Bengal Regulation XVII of 1829)
+Type           : Regulation
+Subject        : Criminal Law / Family Law
+Authority      : Governor-General in Council (Lord Bentinck)
+Scope          : Prohibition of sati/suttee
+Status         : Historical — principles absorbed into criminal law
+Notes          : Landmark social reform regulation
+
+Ref No.        : SD-1/E1/0024
+Title          : Bengal Regulation XV of 1793
+                 (Regulation for Administration of Hindu and
+                  Muhammadan Endowments)
+Date           : 1793
+Type           : Regulation
+Subject        : Religious and Charitable Endowments
+Authority      : Governor-General in Council
+Scope          : Management of religious endowments, waqf, debottar
+Status         : Superseded by later endowment legislation
+
+--------------------------------------------------------------------------------
+A.4: POLICE, PRISON AND PUBLIC ORDER REGULATIONS
+--------------------------------------------------------------------------------
+
+Ref No.        : SD-1/E1/0025
+Title          : Bengal Regulation VI of 1810
+                 (Regulation for Village Police / Chowkidari System)
+Date           : 1810
+Type           : Regulation
+Subject        : Police and Public Order
+Authority      : Governor-General in Council
+Scope          : Village watch and ward, chowkidari system
+Status         : Superseded
+Notes          : Foundation of rural policing in Bengal
+
+Ref No.        : SD-1/E1/0026
+Title          : Bengal Regulation XII of 1816
+                 (Regulation for Suppression of Dacoity)
+Date           : 1816
+Type           : Regulation
+Subject        : Criminal Law / Police and Public Order
+Authority      : Governor-General in Council
+Scope          : Special measures for suppression of dacoity/robbery
+Status         : Repealed/Superseded
+
+Ref No.        : SD-1/E1/0027
+Title          : Bengal Regulation XIV of 1818
+                 (Regulation for Regulation of Prisons)
+Date           : 1818
+Type           : Regulation
+Subject        : Prisons and Correctional Services
+Authority      : Governor-General in Council
+Scope          : Prison administration, prisoner treatment
+Status         : Superseded by later prison legislation
+
+Ref No.        : SD-1/E1/0028
+Title          : Bengal Regulation VII of 1817
+                 (Regulation for Suppression of Thuggee and Dacoity)
+Date           : 1817
+Type           : Regulation
+Subject        : Criminal Law / Police and Public Order
+Authority      : Governor-General in Council
+Scope          : Measures against organized criminal groups
+Status         : Repealed/Historical
+
+Ref No.        : SD-1/E1/0029
+Title          : Bengal Regulation III of 1818
+                 (Regulation for State Prisoners — Detention Without Trial)
+Date           : 1818
+Type           : Regulation
+Subject        : Constitutional and Administrative / Criminal Law
+Authority      : Governor-General in Council
+Scope          : Preventive detention powers
+Status         : Repealed
+Notes          : Bengal State Prisoners Regulation; later replaced by
+                 similar provisions in subsequent legislation
+
+--------------------------------------------------------------------------------
+A.5: TRADE, COMMERCE AND MISCELLANEOUS REGULATIONS
+--------------------------------------------------------------------------------
+
+Ref No.        : SD-1/E1/0030
+Title          : Bengal Regulation V of 1812
+                 (Regulation regarding Registration of Deeds)
+Date           : 1812
+Type           : Regulation
+Subject        : Registration and Stamps
+Authority      : Governor-General in Council
+Scope          : Registration of property deeds and documents
+Status         : Superseded by Indian Registration Act
+Notes          : Early regulation on document registration in Bengal
+
+Ref No.        : SD-1/E1/0031
+Title          : Bengal Regulation XII of 1793
+                 (Regulation regarding Distillation and Sale of Spirits)
+Date           : 1793
+Type           : Regulation
+Subject        : Trade, Commerce and Industry / Finance
+Authority      : Governor-General in Council
+Scope          : Liquor licensing, excise on spirits
+Status         : Superseded by later excise legislation
+
+Ref No.        : SD-1/E1/0032
+Title          : Bengal Regulation XIX of 1810
+                 (Regulation regarding Salt Manufacture and Trade)
+Date           : 1810
+Type           : Regulation
+Subject        : Trade, Commerce and Industry
+Authority      : Governor-General in Council
+Scope          : Salt monopoly, salt production regulation
+Status         : Repealed/Historical
+
+Ref No.        : SD-1/E1/0033
+Title          : Bengal Regulation X of 1800
+                 (Regulation regarding Opium Trade)
+Date           : 1800
+Type           : Regulation
+Subject        : Trade, Commerce and Industry
+Authority      : Governor-General in Council
+Scope          : Opium cultivation and trade regulation
+Status         : Repealed/Historical
+
+Ref No.        : SD-1/E1/0034
+Title          : Bengal Regulation XXI of 1795
+                 (Regulation regarding Stamp Duties)
+Date           : 1795
+Type           : Regulation
+Subject        : Finance, Banking and Taxation
+Authority      : Governor-General in Council
+Scope          : Stamp duties on legal documents
+Status         : Superseded by Indian Stamp Act
+
+Ref No.        : SD-1/E1/0035
+Title          : Bengal Regulation V of 1830
+                 (Regulation regarding Press and Printing)
+Date           : 1830
+Type           : Regulation
+Subject        : Constitutional and Administrative
+Authority      : Governor-General in Council
+Scope          : Regulation of printing presses, press licensing
+Status         : Repealed
+Notes          : Early press regulation in Bengal
+
+--------------------------------------------------------------------------------
+A.6: POST-1834 SUBORDINATE LEGISLATION (1834-1858)
+--------------------------------------------------------------------------------
+
+After the Charter Act of 1833, the Bengal Regulations ceased, and legislative
+power was centralized. However, subordinate legislation continued through:
+
+Ref No.        : SD-1/E1/0036
+Title          : Rules under Act XI of 1836
+                 (Rules for Revenue Settlement Procedures)
+Date           : 1836
+Type           : Rules
+Subject        : Land and Revenue
+Authority      : Governor-General in Council
+Parent Act     : Act XI of 1836
+Scope          : Revenue settlement procedures in Bengal
+Status         : Superseded
+
+Ref No.        : SD-1/E1/0037
+Title          : Rules under Act IX of 1840
+                 (Rent Recovery Rules for Bengal)
+Date           : 1840
+Type           : Rules
+Subject        : Land and Revenue
+Authority      : Governor of Bengal
+Parent Act     : Act IX of 1840
+Scope          : Rent recovery from agricultural tenants
+Status         : Superseded
+
+Ref No.        : SD-1/E1/0038
+Title          : Rules under Act XII of 1841
+                 (Rules for Registration of Deeds in Bengal)
+Date           : 1841
+Type           : Rules
+Subject        : Registration and Stamps
+Authority      : Government of Bengal
+Parent Act     : Act XII of 1841
+Scope          : Detailed procedure for deed registration
+Status         : Superseded by Registration Act rules
+
+Ref No.        : SD-1/E1/0039
+Title          : Bengal Police Rules under Act XIII of 1856
+Date           : 1856
+Type           : Rules
+Subject        : Police and Public Order
+Authority      : Government of Bengal
+Parent Act     : Act XIII of 1856
+Scope          : Police organization and duties
+Status         : Superseded by Police Act 1861 rules
+
+Ref No.        : SD-1/E1/0040
+Title          : Rules under Bengal Rent Act (Act X of 1859)
+Date           : 1859 (bridges to Era 2, enacted just before 1858 transfer)
+Type           : Rules
+Subject        : Land and Revenue
+Authority      : Government of Bengal
+Parent Act     : Bengal Rent Act, 1859
+Scope          : Rent assessment and collection procedures
+Status         : Superseded by Bengal Tenancy Act 1885 rules
+
+Ref No.        : SD-1/E1/0041
+Title          : Notifications under Bengal Civil Courts Regulations
+Date           : 1840-1858 (various)
+Type           : Notifications
+Subject        : Civil Law and Justice
+Authority      : Government of Bengal / Sadar Diwani Adalat
+Scope          : Establishment and jurisdiction of civil courts
+Status         : Superseded
+
+Ref No.        : SD-1/E1/0042
+Title          : Circular Orders of the Sadar Diwani Adalat (Civil)
+Date           : Various (1800-1858)
+Type           : Circulars/Orders
+Subject        : Civil Law and Justice
+Authority      : Sadar Diwani Adalat (Chief Civil Court)
+Scope          : Procedural directions to subordinate civil courts
+Status         : Historical
+Notes          : Important source for understanding early civil procedure
+
+Ref No.        : SD-1/E1/0043
+Title          : Circular Orders of the Sadar Nizamat Adalat (Criminal)
+Date           : Various (1800-1858)
+Type           : Circulars/Orders
+Subject        : Criminal Law and Justice
+Authority      : Sadar Nizamat Adalat (Chief Criminal Court)
+Scope          : Procedural directions to subordinate criminal courts
+Status         : Historical
+Notes          : Important source for understanding early criminal procedure
+
+Ref No.        : SD-1/E1/0044
+Title          : Revenue Board Circular Orders
+Date           : Various (1793-1858)
+Type           : Circulars/Orders
+Subject        : Land and Revenue
+Authority      : Board of Revenue, Bengal
+Scope          : Revenue administration directions to collectors
+Status         : Historical
+Notes          : Extensive body of administrative directions
+
+Ref No.        : SD-1/E1/0045
+Title          : Rules under Act VI of 1844
+                 (Slavery Abolition Rules for Bengal)
+Date           : 1844
+Type           : Rules
+Subject        : Criminal Law / Constitutional and Administrative
+Authority      : Governor-General in Council
+Parent Act     : Indian Slavery Act, 1843 (Act V of 1843)
+Scope          : Implementation of slavery abolition
+Status         : Historical — purpose fulfilled
+
+================================================================================
+SUMMARY — ERA 1 (1799-1858)
+================================================================================
+
+Total Entries in this Volume    : 45
+  - Bengal Regulations          : 35
+  - Rules under Post-1834 Acts : 5
+  - Notifications               : 1
+  - Circular Orders             : 3
+  - Other                       : 1
+
+Subject Distribution:
+  - Land and Revenue            : 12
+  - Civil Law and Justice       : 8
+  - Criminal Law and Justice    : 6
+  - Police and Public Order     : 4
+  - Family Law and Personal Law : 4
+  - Registration and Stamps     : 3
+  - Trade, Commerce and Industry: 3
+  - Constitutional & Admin      : 2
+  - Finance and Taxation        : 1
+  - Prisons                     : 1
+  - Religious Endowments        : 1
+
+Status Distribution:
+  - Repealed/Superseded         : 38
+  - Historical                  : 5
+  - Partially in Force          : 2
+
+NOTE: This inventory is not exhaustive. The Bengal Regulations alone numbered
+over 700 individual regulations between 1793 and 1834. This inventory focuses
+on the most significant subordinate legislations. A complete enumeration
+requires access to the full Bengal Code and Gazette archives.
+
+================================================================================
+                    END OF ERA 1 INVENTORY
+================================================================================

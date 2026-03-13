@@ -1,0 +1,1059 @@
+================================================================================
+     MASTER INVENTORY OF SUBORDINATE LEGISLATIONS — ERA 3 (1947-1970)
+================================================================================
+
+     PAKISTAN PERIOD
+     EAST PAKISTAN / EAST BENGAL (PRESENT-DAY BANGLADESH)
+
+================================================================================
+     Package SD-1 | Code of Delegated/Subordinate Legislation of Bangladesh
+================================================================================
+
+NOTE: Each entry is assigned a unique reference number in the format:
+      SD-1/E3/XXXX (SD-1 = Package, E3 = Era 3, XXXX = Serial Number)
+
+================================================================================
+SECTION A: CONSTITUTIONAL AND ADMINISTRATIVE
+================================================================================
+
+Ref No.        : SD-1/E3/0001
+Title          : Pakistan (Provisional Constitution) Order, 1947
+Date           : 1947
+Type           : Order
+Subject        : Constitutional and Administrative Law
+Authority      : Governor-General of Pakistan
+Parent Act     : Indian Independence Act, 1947
+Scope          : Adaptation of Government of India Act 1935 as provisional
+                 constitution of Pakistan
+Status         : Superseded by Constitution of 1956
+Notes          : Foundation of Pakistan's legal order
+
+Ref No.        : SD-1/E3/0002
+Title          : Government of India (Adaptation of Existing Laws) Order, 1947
+Date           : 1947
+Type           : Order
+Subject        : Constitutional and Administrative Law
+Authority      : Governor-General of Pakistan
+Parent Act     : Indian Independence Act, 1947
+Scope          : Adaptation of all existing British Indian laws to the
+                 context of Pakistan
+Status         : Historical — served its purpose
+Notes          : Critical instrument for legal continuity
+
+Ref No.        : SD-1/E3/0003
+Title          : Pakistan (Adaptation of Existing Laws) Order, 1947
+Date           : 1947
+Type           : Order
+Subject        : Constitutional and Administrative Law
+Authority      : Governor-General of Pakistan
+Parent Act     : Indian Independence Act, 1947
+Scope          : Further adaptation of inherited laws
+Status         : Historical
+
+Ref No.        : SD-1/E3/0004
+Title          : East Bengal (Adaptation) Orders, 1948-1950
+Date           : 1948-1950 (series of orders)
+Type           : Orders
+Subject        : Constitutional and Administrative Law
+Authority      : Governor of East Bengal
+Parent Act     : Government of India Act, 1935 (as adapted)
+Scope          : Provincial-level adaptation of inherited laws for East Bengal
+Status         : Historical
+
+Ref No.        : SD-1/E3/0005
+Title          : Government Servants (Conduct) Rules, 1964
+Date           : 1964
+Type           : Rules
+Subject        : Constitutional and Administrative Law
+Authority      : Government of Pakistan
+Parent Act     : Government Servants (Conduct) Act
+Scope          : Code of conduct for government servants — restrictions on
+                 political activity, business, gifts, unauthorized communication
+Status         : In force in Bangladesh (with amendments)
+Notes          : Still actively applied in Bangladesh public service
+
+Ref No.        : SD-1/E3/0006
+Title          : Government Servants (Efficiency and Discipline) Rules, 1960
+Date           : 1960
+Type           : Rules
+Subject        : Constitutional and Administrative Law
+Authority      : Government of Pakistan
+Parent Act     : Various service legislation
+Scope          : Disciplinary proceedings, penalties, appeals for civil servants
+Status         : In force in Bangladesh (with amendments)
+
+Ref No.        : SD-1/E3/0007
+Title          : East Pakistan Government Servants (Discipline and Appeal)
+                 Rules, 1961
+Date           : 1961
+Type           : Rules
+Subject        : Constitutional and Administrative Law
+Authority      : Governor of East Pakistan
+Parent Act     : Provincial service legislation
+Scope          : Provincial disciplinary procedure for government servants
+Status         : In force (as adapted for Bangladesh)
+
+Ref No.        : SD-1/E3/0008
+Title          : Civil Service Rules (Pakistan / East Pakistan)
+Date           : 1947 (adapted from British Indian CSR)
+Type           : Rules
+Subject        : Constitutional and Administrative Law
+Authority      : Government of Pakistan / East Pakistan
+Scope          : Pay, allowances, leave, pension, retirement, medical
+                 benefits for civil servants
+Status         : Partially in force (many provisions still applied)
+
+Ref No.        : SD-1/E3/0009
+Title          : East Pakistan Services (Reorganization and Conditions)
+                 Rules, 1962
+Date           : 1962
+Type           : Rules
+Subject        : Constitutional and Administrative Law
+Authority      : Governor of East Pakistan
+Scope          : Reorganization of provincial civil services
+Status         : Superseded
+
+Ref No.        : SD-1/E3/0010
+Title          : Legal Framework Order, 1970
+Date           : 1970
+Type           : Order
+Subject        : Constitutional and Administrative Law
+Authority      : President of Pakistan (Yahya Khan)
+Scope          : Framework for transfer of power, elections, constitution-making
+Status         : Historical
+Notes          : Led to the 1970 elections and ultimately to independence of
+                 Bangladesh
+
+Ref No.        : SD-1/E3/0011
+Title          : General Clauses (Adaptation) Order, 1947
+Date           : 1947
+Type           : Order
+Subject        : Constitutional and Administrative Law
+Authority      : Governor-General of Pakistan
+Parent Act     : Indian Independence Act, 1947
+Scope          : Adaptation of General Clauses Act, 1897
+Status         : Historical
+
+Ref No.        : SD-1/E3/0012
+Title          : Official Secrets Rules (Pakistan)
+Date           : 1947 (adapted)
+Type           : Rules
+Subject        : Constitutional and Administrative Law
+Authority      : Government of Pakistan
+Parent Act     : Official Secrets Act, 1923 (as adapted)
+Scope          : Classification, handling of official secrets
+Status         : In force
+
+================================================================================
+SECTION B: LAND AND REVENUE
+================================================================================
+
+Ref No.        : SD-1/E3/0013
+Title          : East Bengal State Acquisition and Tenancy Rules, 1951
+Date           : 1951
+Type           : Rules
+Subject        : Land and Revenue
+Authority      : Government of East Bengal
+Parent Act     : East Bengal State Acquisition and Tenancy Act, 1950
+                 (East Bengal Act XXVIII of 1951)
+Scope          : Implementation of zamindari abolition, acquisition of
+                 rent-receiving interests, tenant rights, rent assessment,
+                 ceiling on land holdings
+Status         : In force in Bangladesh
+Notes          : One of the most important sets of rules still actively
+                 used in Bangladesh land administration
+
+Ref No.        : SD-1/E3/0014
+Title          : East Pakistan Land Revenue Rules
+Date           : 1950s (various)
+Type           : Rules
+Subject        : Land and Revenue
+Authority      : Government of East Pakistan
+Parent Act     : Various land revenue legislation
+Scope          : Revenue assessment, collection, record maintenance
+Status         : Partially in force
+
+Ref No.        : SD-1/E3/0015
+Title          : Non-Agricultural Tenancy Rules, 1949
+Date           : 1949
+Type           : Rules
+Subject        : Land and Revenue
+Authority      : Government of East Bengal
+Parent Act     : Non-Agricultural Tenancy Act, 1949
+Scope          : Rights of non-agricultural tenants, urban tenancy
+Status         : In force in Bangladesh
+
+Ref No.        : SD-1/E3/0016
+Title          : East Pakistan Land Reforms Rules
+Date           : 1961
+Type           : Rules
+Subject        : Land and Revenue
+Authority      : Government of East Pakistan
+Parent Act     : East Pakistan Land Reforms Ordinance, 1961
+Scope          : Ceiling on land holdings, redistribution of surplus land
+Status         : Partially in force
+
+Ref No.        : SD-1/E3/0017
+Title          : East Pakistan Survey and Settlement Rules
+Date           : 1955 (revised)
+Type           : Rules
+Subject        : Land and Revenue
+Authority      : Government of East Pakistan
+Parent Act     : Survey Act / State Acquisition and Tenancy Act
+Scope          : Land survey operations, settlement proceedings
+Status         : In force
+Notes          : Actively used in ongoing survey operations in Bangladesh
+
+Ref No.        : SD-1/E3/0018
+Title          : East Pakistan Public Demands Recovery Rules
+Date           : 1950s
+Type           : Rules
+Subject        : Land and Revenue / Finance
+Authority      : Government of East Pakistan
+Parent Act     : Public Demands Recovery Act, 1913 (as adapted)
+Scope          : Recovery of government dues
+Status         : In force
+
+Ref No.        : SD-1/E3/0019
+Title          : East Pakistan Government Estates (Management and
+                 Allotment) Rules
+Date           : 1952
+Type           : Rules
+Subject        : Land and Revenue
+Authority      : Government of East Pakistan
+Parent Act     : Government Estates Manual
+Scope          : Management, leasing, and allotment of government-owned land
+Status         : Partially in force
+
+================================================================================
+SECTION C: FAMILY AND PERSONAL LAW
+================================================================================
+
+Ref No.        : SD-1/E3/0020
+Title          : Muslim Family Laws Rules, 1961
+Date           : 1961
+Type           : Rules
+Subject        : Family Law and Personal Law
+Authority      : Government of Pakistan
+Parent Act     : Muslim Family Laws Ordinance, 1961 (Ordinance VIII of 1961)
+Scope          : Marriage registration, polygamy restrictions, divorce
+                 procedure (talaq notice), maintenance, dower
+Status         : In force in Bangladesh
+Notes          : Critically important — governs Muslim marriage, divorce,
+                 and maintenance in Bangladesh today
+
+Ref No.        : SD-1/E3/0021
+Title          : Muslim Family Laws Rules (Registrar and Registration)
+Date           : 1961
+Type           : Rules
+Subject        : Family Law and Personal Law
+Authority      : Government of Pakistan
+Parent Act     : Muslim Family Laws Ordinance, 1961
+Scope          : Marriage registrar appointments, registration procedure
+Status         : In force in Bangladesh
+
+Ref No.        : SD-1/E3/0022
+Title          : Child Marriage Restraint Rules (Pakistan adaptation)
+Date           : 1947 (adapted)
+Type           : Rules
+Subject        : Family Law and Personal Law
+Authority      : Government of Pakistan
+Parent Act     : Child Marriage Restraint Act, 1929 (as adapted)
+Scope          : Minimum marriage age enforcement, penalties
+Status         : In force (as amended)
+
+Ref No.        : SD-1/E3/0023
+Title          : Dowry Prohibition Rules (if enacted before 1970)
+Date           : 1967
+Type           : Rules
+Subject        : Family Law and Personal Law
+Authority      : Government of Pakistan
+Parent Act     : Dowry Prohibition Ordinance (if applicable)
+Scope          : Prohibition and penalties for dowry demands
+Status         : Superseded by later legislation
+
+Ref No.        : SD-1/E3/0024
+Title          : Guardians and Wards Rules (adapted)
+Date           : 1947 (adapted)
+Type           : Rules
+Subject        : Family Law and Personal Law
+Authority      : Government of Pakistan
+Parent Act     : Guardians and Wards Act, 1890 (as adapted)
+Scope          : Appointment and powers of guardians, welfare of minors
+Status         : In force
+
+================================================================================
+SECTION D: LOCAL GOVERNMENT
+================================================================================
+
+Ref No.        : SD-1/E3/0025
+Title          : Basic Democracies Rules, 1959
+Date           : 1959
+Type           : Rules
+Subject        : Local Government and Municipal Affairs
+Authority      : Government of Pakistan
+Parent Act     : Basic Democracies Order, 1959
+Scope          : Four-tier local government system — Union Council,
+                 Thana Council, District Council, Divisional Council
+Status         : Repealed (system abolished post-independence)
+Notes          : Ayub Khan's local government system
+
+Ref No.        : SD-1/E3/0026
+Title          : Basic Democracies (Election) Rules, 1959
+Date           : 1959
+Type           : Rules
+Subject        : Local Government and Municipal Affairs
+Authority      : Government of Pakistan
+Parent Act     : Basic Democracies Order, 1959
+Scope          : Election procedure for Basic Democrats
+Status         : Repealed
+
+Ref No.        : SD-1/E3/0027
+Title          : East Pakistan Municipal Administration Rules
+Date           : 1960
+Type           : Rules
+Subject        : Local Government and Municipal Affairs
+Authority      : Government of East Pakistan
+Parent Act     : Municipal Administration Ordinance, 1960
+Scope          : Municipal committee formation, functions, finance
+Status         : Superseded
+
+Ref No.        : SD-1/E3/0028
+Title          : East Pakistan Municipal By-Laws (Dhaka)
+Date           : Various (1950s-1960s)
+Type           : By-Laws
+Subject        : Local Government and Municipal Affairs
+Authority      : Dhaka Municipality
+Parent Act     : Municipal Administration Ordinance
+Scope          : Building construction, sanitation, markets, trade licenses
+Status         : Superseded
+
+Ref No.        : SD-1/E3/0029
+Title          : East Pakistan Local Councils Service Rules
+Date           : 1960s
+Type           : Rules
+Subject        : Local Government and Municipal Affairs
+Authority      : Government of East Pakistan
+Parent Act     : Basic Democracies Order, 1959
+Scope          : Service conditions for local council staff
+Status         : Superseded
+
+Ref No.        : SD-1/E3/0030
+Title          : Town Improvement Trust Rules (Dhaka)
+Date           : 1956
+Type           : Rules
+Subject        : Local Government and Municipal Affairs
+Authority      : Government of East Pakistan
+Parent Act     : Town Improvement Act
+Scope          : Urban planning, land acquisition, development schemes
+Status         : Superseded by RAJUK rules
+
+================================================================================
+SECTION E: EDUCATION
+================================================================================
+
+Ref No.        : SD-1/E3/0031
+Title          : Dhaka University Ordinances (Pakistan period)
+Date           : 1947-1970 (various)
+Type           : Ordinances/Statutes
+Subject        : Education
+Authority      : Dhaka University Senate/Syndicate
+Parent Act     : Dacca University Act, 1920 (as adapted) / Dacca University
+                 Order, 1961
+Scope          : University governance, degree requirements, examinations,
+                 student discipline, faculty appointments
+Status         : Superseded by later ordinances
+
+Ref No.        : SD-1/E3/0032
+Title          : Rajshahi University Ordinances and Statutes
+Date           : 1953 onwards
+Type           : Ordinances/Statutes
+Subject        : Education
+Authority      : Rajshahi University
+Parent Act     : Rajshahi University Act, 1953
+Scope          : University governance and academic regulations
+Status         : Superseded
+
+Ref No.        : SD-1/E3/0033
+Title          : Chittagong University Ordinances and Statutes
+Date           : 1966 onwards
+Type           : Ordinances/Statutes
+Subject        : Education
+Authority      : Chittagong University
+Parent Act     : Chittagong University Act, 1966
+Scope          : University governance and academic regulations
+Status         : Superseded
+
+Ref No.        : SD-1/E3/0034
+Title          : East Pakistan Intermediate and Secondary Education
+                 Board Rules
+Date           : 1961
+Type           : Rules
+Subject        : Education
+Authority      : Government of East Pakistan
+Parent Act     : Intermediate and Secondary Education Ordinance, 1961
+Scope          : Examination boards, secondary education regulation
+Status         : Superseded by later rules
+
+Ref No.        : SD-1/E3/0035
+Title          : East Pakistan Compulsory Primary Education Rules
+Date           : 1960s
+Type           : Rules
+Subject        : Education
+Authority      : Government of East Pakistan
+Parent Act     : Compulsory Primary Education Ordinance
+Scope          : Compulsory enrollment, school standards, penalties
+Status         : Superseded
+
+Ref No.        : SD-1/E3/0036
+Title          : East Pakistan Madrasah Education Board Rules
+Date           : 1960s
+Type           : Rules
+Subject        : Education
+Authority      : Government of East Pakistan
+Parent Act     : Madrasah Education Ordinance
+Scope          : Madrasah curriculum, examinations, recognition
+Status         : Superseded by later madrasah education rules
+
+Ref No.        : SD-1/E3/0037
+Title          : East Pakistan Technical Education Rules
+Date           : 1960s
+Type           : Rules
+Subject        : Education
+Authority      : Government of East Pakistan
+Parent Act     : East Pakistan Technical Education Board Order
+Scope          : Technical and vocational education regulation
+Status         : Superseded
+
+================================================================================
+SECTION F: LABOUR AND EMPLOYMENT
+================================================================================
+
+Ref No.        : SD-1/E3/0038
+Title          : East Pakistan Factories Rules
+Date           : 1965 (revised)
+Type           : Rules
+Subject        : Labour and Employment
+Authority      : Government of East Pakistan
+Parent Act     : Factories Act, 1965
+Scope          : Factory registration, working conditions, safety,
+                 working hours, child labour prohibition
+Status         : Superseded by Bangladesh Factories Rules
+
+Ref No.        : SD-1/E3/0039
+Title          : Industrial Relations Rules, 1969
+Date           : 1969
+Type           : Rules
+Subject        : Labour and Employment
+Authority      : Government of Pakistan
+Parent Act     : Industrial Relations Ordinance, 1969
+Scope          : Trade union registration, collective bargaining, strikes,
+                 lockouts, industrial dispute resolution
+Status         : Superseded but provisions survived in Bangladesh labour law
+
+Ref No.        : SD-1/E3/0040
+Title          : East Pakistan Shops and Establishments Rules
+Date           : 1965
+Type           : Rules
+Subject        : Labour and Employment
+Authority      : Government of East Pakistan
+Parent Act     : Shops and Establishments Act, 1965
+Scope          : Working hours, holidays, conditions in commercial
+                 establishments
+Status         : Partially in force
+
+Ref No.        : SD-1/E3/0041
+Title          : East Pakistan Minimum Wages Rules
+Date           : 1961
+Type           : Rules
+Subject        : Labour and Employment
+Authority      : Government of East Pakistan
+Parent Act     : Minimum Wages Ordinance, 1961
+Scope          : Minimum wage fixation, wage boards
+Status         : Superseded
+
+Ref No.        : SD-1/E3/0042
+Title          : Employment of Children Rules (Pakistan)
+Date           : 1955
+Type           : Rules
+Subject        : Labour and Employment
+Authority      : Government of Pakistan
+Parent Act     : Employment of Children Act, 1938 (as adapted)
+Scope          : Prohibition and regulation of child labour
+Status         : Superseded by later child labour rules
+
+Ref No.        : SD-1/E3/0043
+Title          : Dock Workers (Regulation of Employment) Rules
+Date           : 1950s
+Type           : Rules
+Subject        : Labour and Employment
+Authority      : Government of East Pakistan
+Parent Act     : Dock Workers Regulation Act
+Scope          : Employment conditions for port/dock workers
+Status         : Partially in force
+Notes          : Important for Chittagong port workers
+
+================================================================================
+SECTION G: TRADE, COMMERCE AND INDUSTRY
+================================================================================
+
+Ref No.        : SD-1/E3/0044
+Title          : Import and Export (Control) Rules
+Date           : 1950 (amended frequently)
+Type           : Rules
+Subject        : Trade, Commerce and Industry
+Authority      : Government of Pakistan
+Parent Act     : Import and Export (Control) Act, 1950
+Scope          : Import-export licensing, restrictions, customs procedures
+Status         : Superseded by later trade rules
+
+Ref No.        : SD-1/E3/0045
+Title          : Companies Rules (Pakistan)
+Date           : 1947 (adapted from Indian Companies Rules)
+Type           : Rules
+Subject        : Trade, Commerce and Industry
+Authority      : Government of Pakistan
+Parent Act     : Companies Act, 1913 (as adapted)
+Scope          : Company incorporation, management, winding up
+Status         : Superseded
+
+Ref No.        : SD-1/E3/0046
+Title          : East Pakistan Cooperative Societies Rules
+Date           : 1948 (revised)
+Type           : Rules
+Subject        : Trade, Commerce and Industry
+Authority      : Government of East Pakistan
+Parent Act     : Co-operative Societies Act, 1940 (as adapted)
+Scope          : Registration, management, audit of cooperatives
+Status         : Superseded
+
+Ref No.        : SD-1/E3/0047
+Title          : Banking Companies Rules (Pakistan)
+Date           : 1962
+Type           : Rules
+Subject        : Trade, Commerce and Industry / Finance
+Authority      : Government of Pakistan / State Bank
+Parent Act     : Banking Companies Ordinance, 1962
+Scope          : Banking regulation, licensing, capital requirements
+Status         : Superseded
+
+Ref No.        : SD-1/E3/0048
+Title          : East Pakistan Small Industries Corporation Rules
+Date           : 1957
+Type           : Rules
+Subject        : Trade, Commerce and Industry
+Authority      : Government of East Pakistan
+Parent Act     : East Pakistan Small Industries Corporation Act
+Scope          : Promotion and regulation of small industries
+Status         : Superseded
+
+Ref No.        : SD-1/E3/0049
+Title          : Pakistan Industries (Development and Regulation) Rules
+Date           : 1952
+Type           : Rules
+Subject        : Trade, Commerce and Industry
+Authority      : Government of Pakistan
+Parent Act     : Industries (Development and Regulation) Act
+Scope          : Industrial licensing, regulation of scheduled industries
+Status         : Superseded
+
+================================================================================
+SECTION H: FINANCE, BANKING AND TAXATION
+================================================================================
+
+Ref No.        : SD-1/E3/0050
+Title          : East Pakistan Agricultural Income Tax Rules
+Date           : 1947 (adapted from Bengal rules)
+Type           : Rules
+Subject        : Finance, Banking and Taxation
+Authority      : Government of East Pakistan
+Parent Act     : Bengal Agricultural Income Tax Act, 1944 (as adapted)
+Scope          : Agricultural income tax assessment and collection
+Status         : In force (as adapted for Bangladesh)
+
+Ref No.        : SD-1/E3/0051
+Title          : Income Tax Rules (Pakistan)
+Date           : 1947 (adapted, frequently amended)
+Type           : Rules
+Subject        : Finance, Banking and Taxation
+Authority      : Government of Pakistan / Central Board of Revenue
+Parent Act     : Income Tax Ordinance, 1952 / Income Tax Act, 1922 (adapted)
+Scope          : Income tax assessment, returns, deductions, appeals
+Status         : Superseded by later income tax rules
+
+Ref No.        : SD-1/E3/0052
+Title          : East Pakistan Sales Tax Rules
+Date           : 1960s
+Type           : Rules
+Subject        : Finance, Banking and Taxation
+Authority      : Government of East Pakistan
+Parent Act     : Provincial sales tax legislation
+Scope          : Sales tax collection on goods
+Status         : Superseded
+
+Ref No.        : SD-1/E3/0053
+Title          : East Pakistan Excise Rules (adapted)
+Date           : 1947 (adapted from Bengal Excise Rules)
+Type           : Rules
+Subject        : Finance, Banking and Taxation
+Authority      : Government of East Pakistan
+Parent Act     : Bengal Excise Act, 1909 (as adapted)
+Scope          : Excise duties, liquor regulation
+Status         : Partially in force
+
+Ref No.        : SD-1/E3/0054
+Title          : Pakistan Stamp Rules (adapted)
+Date           : 1947 (adapted)
+Type           : Rules
+Subject        : Finance, Banking and Taxation
+Authority      : Government of Pakistan / East Pakistan
+Parent Act     : Stamp Act, 1899 (as adapted)
+Scope          : Stamp duty rates, procedures, adjudication
+Status         : Partially in force
+
+================================================================================
+SECTION I: MARTIAL LAW INSTRUMENTS
+================================================================================
+
+Ref No.        : SD-1/E3/0055
+Title          : Martial Law (General) Orders, 1958
+Date           : October 1958 onwards
+Type           : Orders
+Subject        : Constitutional and Administrative / Criminal Law
+Authority      : Chief Martial Law Administrator (Ayub Khan)
+Scope          : Suspension of constitution, martial law administration
+Status         : Historical
+Notes          : First martial law in Pakistan; significant impact on
+                 legal and administrative structure
+
+Ref No.        : SD-1/E3/0056
+Title          : Martial Law Regulations (MLRs), 1958-1962
+Date           : 1958-1962 (series)
+Type           : Regulations
+Subject        : Constitutional and Administrative
+Authority      : Chief Martial Law Administrator
+Scope          : Various regulatory measures — land reform, anti-corruption,
+                 public order, press control
+Status         : Some provisions absorbed into subsequent legislation;
+                 most repealed
+
+Ref No.        : SD-1/E3/0057
+Title          : Elective Bodies (Disqualification) Order, 1959
+                 (EBDO)
+Date           : 1959
+Type           : Order
+Subject        : Constitutional and Administrative
+Authority      : President of Pakistan
+Scope          : Disqualification of politicians from public office
+Status         : Repealed
+Notes          : Politically significant instrument
+
+Ref No.        : SD-1/E3/0058
+Title          : Martial Law Orders, 1969-1970 (Yahya Khan)
+Date           : 1969-1970 (series)
+Type           : Orders
+Subject        : Constitutional and Administrative
+Authority      : Chief Martial Law Administrator (Yahya Khan)
+Scope          : Abrogation of 1962 Constitution, elections framework
+Status         : Historical
+Notes          : Led to the 1970 general elections
+
+Ref No.        : SD-1/E3/0059
+Title          : Industrial Disputes Martial Law Regulation
+Date           : 1958
+Type           : Regulation
+Subject        : Labour / Constitutional
+Authority      : Chief Martial Law Administrator
+Scope          : Prohibition of strikes, compulsory arbitration
+Status         : Repealed after martial law ended
+
+Ref No.        : SD-1/E3/0060
+Title          : Public and Representative Offices
+                 (Disqualification) Order, 1959 (PRODA adaptation)
+Date           : 1959
+Type           : Order
+Subject        : Constitutional and Administrative
+Authority      : President of Pakistan
+Scope          : Anti-corruption, disqualification from office
+Status         : Repealed
+
+================================================================================
+SECTION J: CRIMINAL LAW AND POLICE
+================================================================================
+
+Ref No.        : SD-1/E3/0061
+Title          : East Pakistan Criminal Rules and Orders
+                 (adapted from Bengal Criminal Rules)
+Date           : 1947 (adapted, amended periodically)
+Type           : Rules
+Subject        : Criminal Law and Justice
+Authority      : High Court of East Pakistan / Government of East Pakistan
+Parent Act     : Code of Criminal Procedure, 1898 (as adapted)
+Scope          : Criminal court procedure, practice directions
+Status         : In force (adapted for Bangladesh)
+
+Ref No.        : SD-1/E3/0062
+Title          : East Pakistan Police Rules
+                 (adapted from Police Regulations of Bengal)
+Date           : 1947 (adapted, revised)
+Type           : Rules
+Subject        : Police and Public Order
+Authority      : Government of East Pakistan
+Parent Act     : Police Act, 1861 (as adapted)
+Scope          : Police organization, investigation procedures, discipline
+Status         : Partially in force in Bangladesh
+
+Ref No.        : SD-1/E3/0063
+Title          : East Pakistan Arms Rules
+Date           : 1947 (adapted, revised 1958)
+Type           : Rules
+Subject        : Police and Public Order
+Authority      : Government of East Pakistan
+Parent Act     : Arms Act, 1878 (as adapted)
+Scope          : Arms licensing, possession, manufacture
+Status         : Superseded by Bangladesh Arms Rules
+
+Ref No.        : SD-1/E3/0064
+Title          : East Pakistan Special Powers Rules
+Date           : 1958
+Type           : Rules
+Subject        : Police and Public Order
+Authority      : Government of East Pakistan
+Parent Act     : Special Powers legislation
+Scope          : Preventive detention, anti-hoarding, anti-smuggling
+Status         : Superseded
+
+Ref No.        : SD-1/E3/0065
+Title          : East Pakistan Jail Code / Prison Rules (revised)
+Date           : 1947 (adapted from Bengal Jail Code, revised)
+Type           : Rules
+Subject        : Prisons and Correctional Services
+Authority      : Government of East Pakistan
+Parent Act     : Prisons Act, 1894 (as adapted)
+Scope          : Prison administration, prisoner classification, discipline
+Status         : Partially in force in Bangladesh
+
+================================================================================
+SECTION K: HEALTH AND SANITATION
+================================================================================
+
+Ref No.        : SD-1/E3/0066
+Title          : East Pakistan Medical Council Rules
+Date           : 1960s
+Type           : Rules
+Subject        : Health and Sanitation
+Authority      : Government of East Pakistan
+Parent Act     : Medical legislation
+Scope          : Medical practitioner registration, discipline
+Status         : Superseded
+
+Ref No.        : SD-1/E3/0067
+Title          : East Pakistan Drugs Rules (adapted)
+Date           : 1947 (adapted from Bengal Drugs Rules)
+Type           : Rules
+Subject        : Health and Sanitation
+Authority      : Government of East Pakistan
+Parent Act     : Drugs Act, 1940 (as adapted)
+Scope          : Drug manufacture, sale, quality control
+Status         : Superseded by later drugs rules
+
+Ref No.        : SD-1/E3/0068
+Title          : Pakistan Pure Food Rules
+Date           : 1960s
+Type           : Rules
+Subject        : Health and Sanitation
+Authority      : Government of Pakistan
+Parent Act     : Pure Food Ordinance, 1960
+Scope          : Food safety standards, adulteration prevention
+Status         : Superseded
+
+Ref No.        : SD-1/E3/0069
+Title          : East Pakistan Public Health Rules (adapted)
+Date           : 1947 (adapted)
+Type           : Rules
+Subject        : Health and Sanitation
+Authority      : Government of East Pakistan
+Parent Act     : Bengal Public Health Act, 1919 (as adapted)
+Scope          : Public health administration in East Pakistan
+Status         : Partially in force
+
+================================================================================
+SECTION L: TRANSPORT AND COMMUNICATION
+================================================================================
+
+Ref No.        : SD-1/E3/0070
+Title          : East Pakistan Motor Vehicles Rules
+Date           : 1947 (adapted, revised 1960s)
+Type           : Rules
+Subject        : Transport and Communication
+Authority      : Government of East Pakistan
+Parent Act     : Motor Vehicles Act, 1939 (as adapted)
+Scope          : Vehicle registration, driving licenses, permits
+Status         : Superseded by Bangladesh Motor Vehicles Rules
+
+Ref No.        : SD-1/E3/0071
+Title          : East Pakistan Inland Water Transport Rules
+Date           : 1950s
+Type           : Rules
+Subject        : Transport and Communication
+Authority      : Government of East Pakistan
+Parent Act     : Inland Water Transport Authority Ordinance
+Scope          : Inland waterway regulation, vessel safety
+Status         : Partially in force
+
+Ref No.        : SD-1/E3/0072
+Title          : Chittagong Port Rules (Pakistan period)
+Date           : 1950s (revised)
+Type           : Rules
+Subject        : Transport and Communication
+Authority      : Government of East Pakistan / Chittagong Port Trust
+Parent Act     : Port Trust Act
+Scope          : Port operations, shipping, customs procedures
+Status         : Superseded
+
+Ref No.        : SD-1/E3/0073
+Title          : Pakistan Railway Rules (applicable to East Pakistan)
+Date           : 1947 (adapted)
+Type           : Rules
+Subject        : Transport and Communication
+Authority      : Government of Pakistan
+Parent Act     : Railways Act, 1890 (as adapted)
+Scope          : Railway operations, passenger regulations, goods transport
+Status         : Superseded
+
+================================================================================
+SECTION M: FORESTS, AGRICULTURE AND FISHERIES
+================================================================================
+
+Ref No.        : SD-1/E3/0074
+Title          : East Pakistan Forest Rules (adapted)
+Date           : 1947 (adapted from Bengal Forest Rules)
+Type           : Rules
+Subject        : Forests and Environment
+Authority      : Government of East Pakistan
+Parent Act     : Forest Act, 1927 (as adapted)
+Scope          : Forest administration, timber trade, Sundarbans management
+Status         : Partially in force in Bangladesh
+
+Ref No.        : SD-1/E3/0075
+Title          : East Pakistan Private Forests Rules (adapted)
+Date           : 1947 (adapted)
+Type           : Rules
+Subject        : Forests and Environment
+Authority      : Government of East Pakistan
+Parent Act     : Bengal Private Forests Act, 1946 (as adapted)
+Scope          : Private forest regulation and conservation
+Status         : Partially in force
+
+Ref No.        : SD-1/E3/0076
+Title          : East Pakistan Fisheries Rules
+Date           : 1950s
+Type           : Rules
+Subject        : Agriculture, Fisheries and Livestock
+Authority      : Government of East Pakistan
+Parent Act     : Protection and Conservation of Fish Act
+Scope          : Fishing regulation, conservation, licensing
+Status         : Partially in force
+
+Ref No.        : SD-1/E3/0077
+Title          : East Pakistan Agricultural Development Corporation Rules
+Date           : 1961
+Type           : Rules
+Subject        : Agriculture, Fisheries and Livestock
+Authority      : Government of East Pakistan
+Parent Act     : East Pakistan Agricultural Development Corporation
+                 Ordinance, 1961
+Scope          : Agricultural development, input supply, credit
+Status         : Superseded
+
+Ref No.        : SD-1/E3/0078
+Title          : East Pakistan Jute Regulation Rules
+Date           : 1950s
+Type           : Rules
+Subject        : Agriculture / Trade
+Authority      : Government of East Pakistan
+Parent Act     : Jute Regulation Act
+Scope          : Jute marketing, quality, pricing
+Status         : Superseded
+
+================================================================================
+SECTION N: REGISTRATION AND STAMPS
+================================================================================
+
+Ref No.        : SD-1/E3/0079
+Title          : East Pakistan Registration Rules (adapted)
+Date           : 1947 (adapted from Bengal Registration Rules)
+Type           : Rules
+Subject        : Registration and Stamps
+Authority      : Government of East Pakistan
+Parent Act     : Registration Act, 1908 (as adapted)
+Scope          : Document registration, property transfer registration
+Status         : In force in Bangladesh
+Notes          : Still actively used for property registration
+
+Ref No.        : SD-1/E3/0080
+Title          : Pakistan Births, Deaths and Marriages Registration Rules
+Date           : 1950s
+Type           : Rules
+Subject        : Registration
+Authority      : Government of Pakistan / East Pakistan
+Scope          : Vital events registration procedure
+Status         : Superseded by later registration rules
+
+================================================================================
+SECTION O: RELIGIOUS ENDOWMENTS
+================================================================================
+
+Ref No.        : SD-1/E3/0081
+Title          : East Pakistan Waqf Rules (adapted and revised)
+Date           : 1947-1962
+Type           : Rules
+Subject        : Religious and Charitable Endowments
+Authority      : Government of East Pakistan
+Parent Act     : Bengal Wakf Act, 1934 (as adapted) /
+                 Waqf Ordinance, 1962
+Scope          : Waqf property registration, administration, Waqf Board
+Status         : Superseded by later waqf rules
+
+Ref No.        : SD-1/E3/0082
+Title          : East Pakistan Hindu Religious Endowments Rules
+Date           : 1947 (adapted)
+Type           : Rules
+Subject        : Religious and Charitable Endowments
+Authority      : Government of East Pakistan
+Parent Act     : Bengal Hindu Religious Endowments Act, 1939 (as adapted)
+Scope          : Administration of Hindu temples and endowments
+Status         : Partially in force
+
+================================================================================
+SECTION P: COOPERATIVE SOCIETIES AND MISCELLANEOUS
+================================================================================
+
+Ref No.        : SD-1/E3/0083
+Title          : East Pakistan Cooperative Societies Rules (revised)
+Date           : 1960s (revised)
+Type           : Rules
+Subject        : Trade, Commerce and Industry
+Authority      : Government of East Pakistan
+Parent Act     : Co-operative Societies Ordinance
+Scope          : Cooperative formation, management, audit, liquidation
+Status         : Superseded
+
+Ref No.        : SD-1/E3/0084
+Title          : East Pakistan Boiler Rules
+Date           : 1947 (adapted)
+Type           : Rules
+Subject        : Trade, Commerce and Industry
+Authority      : Government of East Pakistan
+Parent Act     : Boilers Act, 1923 (as adapted)
+Scope          : Boiler inspection and safety
+Status         : Partially in force
+
+Ref No.        : SD-1/E3/0085
+Title          : East Pakistan Electricity Rules
+Date           : 1950s
+Type           : Rules
+Subject        : Trade, Commerce and Industry
+Authority      : Government of East Pakistan
+Parent Act     : Electricity Act, 1910 (as adapted)
+Scope          : Electricity supply, licensing, safety, tariffs
+Status         : Superseded
+
+Ref No.        : SD-1/E3/0086
+Title          : East Pakistan Explosive Rules
+Date           : 1947 (adapted)
+Type           : Rules
+Subject        : Police and Public Order
+Authority      : Government of East Pakistan
+Parent Act     : Explosives Act, 1884 (as adapted)
+Scope          : Explosives manufacture, storage, transport
+Status         : Partially in force
+
+Ref No.        : SD-1/E3/0087
+Title          : Pakistan Press and Publications Rules
+Date           : 1960s
+Type           : Rules
+Subject        : Constitutional and Administrative
+Authority      : Government of Pakistan
+Parent Act     : Press and Publications Ordinance, 1960
+Scope          : Press registration, censorship, publication control
+Status         : Repealed/Superseded
+
+Ref No.        : SD-1/E3/0088
+Title          : East Pakistan Entertainment Tax Rules
+Date           : 1950s
+Type           : Rules
+Subject        : Finance, Banking and Taxation
+Authority      : Government of East Pakistan
+Parent Act     : Entertainment Tax Act
+Scope          : Tax on cinema, performances, entertainment
+Status         : Superseded
+
+Ref No.        : SD-1/E3/0089
+Title          : East Pakistan Cinemas Rules
+Date           : 1950s
+Type           : Rules
+Subject        : Miscellaneous
+Authority      : Government of East Pakistan
+Parent Act     : Cinematograph Act
+Scope          : Cinema licensing, film censorship, safety
+Status         : Superseded
+
+Ref No.        : SD-1/E3/0090
+Title          : East Pakistan Antiquities Rules
+Date           : 1960s
+Type           : Rules
+Subject        : Miscellaneous
+Authority      : Government of East Pakistan
+Parent Act     : Antiquities Act, 1968
+Scope          : Protection of historical sites and artifacts
+Status         : Partially in force
+
+================================================================================
+SUMMARY — ERA 3 (1947-1970)
+================================================================================
+
+Total Entries in this Volume    : 90
+
+By Type:
+  - Rules                       : 62
+  - Orders                      : 15
+  - Regulations                 : 5
+  - By-Laws                     : 2
+  - Ordinances/Statutes         : 6
+
+By Subject:
+  - Constitutional and Admin    : 16
+  - Land and Revenue            : 7
+  - Family Law and Personal Law : 5
+  - Local Government            : 6
+  - Education                   : 7
+  - Labour and Employment       : 6
+  - Trade, Commerce, Industry   : 7
+  - Finance and Taxation        : 6
+  - Criminal Law and Justice    : 2
+  - Police and Public Order     : 4
+  - Health and Sanitation       : 4
+  - Transport and Communication : 4
+  - Forests and Environment     : 2
+  - Agriculture and Fisheries   : 3
+  - Registration                : 2
+  - Religious Endowments        : 2
+  - Prisons                     : 1
+  - Miscellaneous               : 6
+
+By Status:
+  - In force in Bangladesh      : 18
+  - Partially in force          : 22
+  - Superseded                  : 35
+  - Repealed/Historical         : 15
+
+NOTE: The Pakistan period generated a very large volume of subordinate
+legislation, including numerous adaptation orders, government notifications,
+and martial law instruments. This inventory captures the most significant
+instruments. Complete enumeration requires examination of the East Pakistan
+Gazette (1947-1970) and the Gazette of Pakistan for central legislation.
+
+================================================================================
+                    END OF ERA 3 INVENTORY
+================================================================================

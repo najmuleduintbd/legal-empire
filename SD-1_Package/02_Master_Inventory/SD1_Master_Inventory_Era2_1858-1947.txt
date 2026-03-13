@@ -1,0 +1,1074 @@
+================================================================================
+     MASTER INVENTORY OF SUBORDINATE LEGISLATIONS — ERA 2 (1858-1947)
+================================================================================
+
+     BRITISH CROWN RULE PERIOD
+     BENGAL PROVINCE / EAST BENGAL (PRESENT-DAY BANGLADESH)
+
+================================================================================
+     Package SD-1 | Code of Delegated/Subordinate Legislation of Bangladesh
+================================================================================
+
+NOTE: Each entry is assigned a unique reference number in the format:
+      SD-1/E2/XXXX (SD-1 = Package, E2 = Era 2, XXXX = Serial Number)
+
+================================================================================
+SECTION A: CRIMINAL LAW AND JUSTICE
+================================================================================
+
+--------------------------------------------------------------------------------
+A.1: Rules under the Indian Penal Code, 1860 (Act XLV of 1860)
+--------------------------------------------------------------------------------
+
+Ref No.        : SD-1/E2/0001
+Title          : Notifications under Section 294A IPC
+                 (Lottery Notifications for Bengal)
+Date           : Various (1870s onwards)
+Type           : Notifications
+Subject        : Criminal Law and Justice
+Authority      : Government of Bengal
+Parent Act     : Indian Penal Code, 1860, Section 294A
+Scope          : Authorization/prohibition of lotteries
+Status         : Superseded by later notifications
+
+--------------------------------------------------------------------------------
+A.2: Rules under the Code of Criminal Procedure, 1898 (Act V of 1898)
+--------------------------------------------------------------------------------
+
+Ref No.        : SD-1/E2/0002
+Title          : Bengal Criminal Rules and Orders (Practice and Procedure)
+Date           : 1898 (amended periodically)
+Type           : Rules
+Subject        : Criminal Law and Justice
+Authority      : High Court of Calcutta / Government of Bengal
+Parent Act     : Code of Criminal Procedure, 1898
+Scope          : Detailed procedural rules for criminal courts in Bengal
+Status         : Partially in force (as adapted for Bangladesh)
+Notes          : Comprehensive procedural manual for criminal courts
+
+Ref No.        : SD-1/E2/0003
+Title          : High Court Criminal Circulars and Orders (Bengal)
+Date           : Various (1862-1947)
+Type           : Circulars/Orders
+Subject        : Criminal Law and Justice
+Authority      : High Court of Calcutta
+Parent Act     : Code of Criminal Procedure, 1898
+Scope          : Directions to criminal courts on procedure and practice
+Status         : Historical / Partially superseded
+
+Ref No.        : SD-1/E2/0004
+Title          : Rules for the Grant of Probation under Section 562 CrPC
+Date           : 1900 (amended)
+Type           : Rules
+Subject        : Criminal Law and Justice
+Authority      : Government of Bengal
+Parent Act     : Code of Criminal Procedure, 1898
+Scope          : Probation procedure and conditions
+Status         : Superseded
+
+Ref No.        : SD-1/E2/0005
+Title          : Rules regarding Identification of Prisoners
+Date           : 1920
+Type           : Rules
+Subject        : Criminal Law and Justice
+Authority      : Government of Bengal
+Parent Act     : Identification of Prisoners Act, 1920
+Scope          : Fingerprinting, photographing of prisoners
+Status         : Partially in force
+
+Ref No.        : SD-1/E2/0006
+Title          : Rules for Criminal Courts regarding Record Keeping
+Date           : 1899 (amended periodically)
+Type           : Rules
+Subject        : Criminal Law and Justice
+Authority      : High Court of Calcutta
+Parent Act     : Code of Criminal Procedure, 1898
+Scope          : Record maintenance, filing, destruction schedules
+Status         : Partially in force
+
+--------------------------------------------------------------------------------
+A.3: Rules under Police Legislation
+--------------------------------------------------------------------------------
+
+Ref No.        : SD-1/E2/0007
+Title          : Police Regulations of Bengal (PRB)
+Date           : 1861 (comprehensively revised 1910, 1943)
+Type           : Regulations
+Subject        : Police and Public Order
+Authority      : Government of Bengal
+Parent Act     : Police Act, 1861 (Act V of 1861)
+Scope          : Comprehensive police administration manual — organization,
+                 discipline, duties, investigation procedures, record keeping
+Status         : Partially in force in Bangladesh
+Notes          : One of the most significant subordinate legislation sets;
+                 extensive volumes covering all aspects of policing
+
+Ref No.        : SD-1/E2/0008
+Title          : Bengal Village Self-Government (Police) Rules
+Date           : 1919
+Type           : Rules
+Subject        : Police and Public Order
+Authority      : Government of Bengal
+Parent Act     : Bengal Village Self-Government Act, 1919
+Scope          : Village-level policing, chowkidari system
+Status         : Superseded
+
+Ref No.        : SD-1/E2/0009
+Title          : Bengal Police (Incitement to Disaffection) Rules
+Date           : 1922
+Type           : Rules
+Subject        : Police and Public Order
+Authority      : Government of Bengal
+Parent Act     : Police (Incitement to Disaffection) Act, 1922
+Scope          : Prevention of sedition within police force
+Status         : Repealed/Obsolete
+
+Ref No.        : SD-1/E2/0010
+Title          : Arms Rules, Bengal
+Date           : 1878 (revised 1924, 1937)
+Type           : Rules
+Subject        : Police and Public Order
+Authority      : Government of Bengal
+Parent Act     : Indian Arms Act, 1878 / Arms Act, 1878
+Scope          : Licensing, possession, manufacture of arms and ammunition
+Status         : Superseded by later Arms Rules
+
+================================================================================
+SECTION B: CIVIL LAW AND JUSTICE
+================================================================================
+
+Ref No.        : SD-1/E2/0011
+Title          : Bengal Civil Rules and Orders (Practice and Procedure)
+Date           : 1908 (amended periodically)
+Type           : Rules
+Subject        : Civil Law and Justice
+Authority      : High Court of Calcutta / Government of Bengal
+Parent Act     : Code of Civil Procedure, 1908 (Act V of 1908)
+Scope          : Detailed procedural rules for civil courts in Bengal
+Status         : Partially in force (as adapted for Bangladesh)
+Notes          : Comprehensive procedural rules for all civil litigation
+
+Ref No.        : SD-1/E2/0012
+Title          : High Court Civil Circulars and Orders (Bengal)
+Date           : Various (1862-1947)
+Type           : Circulars/Orders
+Subject        : Civil Law and Justice
+Authority      : High Court of Calcutta
+Parent Act     : Code of Civil Procedure, 1908
+Scope          : Directions to civil courts on procedure and practice
+Status         : Historical / Partially superseded
+
+Ref No.        : SD-1/E2/0013
+Title          : Rules under the Bengal Civil Courts Act, 1887
+Date           : 1887 (amended)
+Type           : Rules
+Subject        : Civil Law and Justice
+Authority      : Government of Bengal / High Court
+Parent Act     : Bengal Civil Courts Act, 1887 (Act XII of 1887)
+Scope          : Establishment, jurisdiction, and procedure of civil courts
+Status         : Partially in force
+
+Ref No.        : SD-1/E2/0014
+Title          : Small Cause Courts Rules (Bengal)
+Date           : 1887 (amended)
+Type           : Rules
+Subject        : Civil Law and Justice
+Authority      : Government of Bengal
+Parent Act     : Provincial Small Cause Courts Act, 1887
+Scope          : Procedure for small cause courts
+Status         : Partially in force
+
+Ref No.        : SD-1/E2/0015
+Title          : Bengal Money-Lenders Rules
+Date           : 1940
+Type           : Rules
+Subject        : Civil Law and Justice / Finance
+Authority      : Government of Bengal
+Parent Act     : Bengal Money-Lenders Act, 1940
+Scope          : Registration and regulation of money-lenders
+Status         : Partially in force
+
+Ref No.        : SD-1/E2/0016
+Title          : Arbitration Rules (Bengal)
+Date           : 1940
+Type           : Rules
+Subject        : Civil Law and Justice
+Authority      : Government of Bengal / High Court
+Parent Act     : Arbitration Act, 1940 (Act X of 1940)
+Scope          : Arbitration procedure, appointment of arbitrators
+Status         : Superseded by later arbitration rules
+
+Ref No.        : SD-1/E2/0017
+Title          : Court Fees Rules (Bengal)
+Date           : 1870 (amended periodically)
+Type           : Rules
+Subject        : Civil Law and Justice
+Authority      : Government of Bengal
+Parent Act     : Court Fees Act, 1870 (Act VII of 1870)
+Scope          : Court fee schedules, exemptions, refund procedures
+Status         : Partially in force (as amended)
+
+Ref No.        : SD-1/E2/0018
+Title          : Suits Valuation Rules (Bengal)
+Date           : 1887
+Type           : Rules
+Subject        : Civil Law and Justice
+Authority      : Government of Bengal
+Parent Act     : Suits Valuation Act, 1887 (Act VII of 1887)
+Scope          : Valuation of suits for jurisdictional purposes
+Status         : Partially in force
+
+Ref No.        : SD-1/E2/0019
+Title          : Legal Practitioners Rules (Bengal)
+Date           : 1879 (amended)
+Type           : Rules
+Subject        : Civil Law and Justice
+Authority      : High Court / Government of Bengal
+Parent Act     : Legal Practitioners Act, 1879
+Scope          : Enrollment, discipline, practice rights of lawyers
+Status         : Superseded by Bar Council rules
+
+================================================================================
+SECTION C: LAND AND REVENUE
+================================================================================
+
+Ref No.        : SD-1/E2/0020
+Title          : Bengal Tenancy Rules
+Date           : 1885 (comprehensively revised multiple times)
+Type           : Rules
+Subject        : Land and Revenue
+Authority      : Government of Bengal
+Parent Act     : Bengal Tenancy Act, 1885 (Act VIII of 1885)
+Scope          : Tenant rights, rent assessment, rent recovery, occupancy
+                 rights, under-raiyat rights, transfer restrictions
+Status         : Superseded by SAT Act rules, but historically significant
+Notes          : One of the most important sets of rules for Bengal land law
+
+Ref No.        : SD-1/E2/0021
+Title          : Bengal Land Revenue Rules
+Date           : Various (1859 onwards)
+Type           : Rules
+Subject        : Land and Revenue
+Authority      : Government of Bengal / Board of Revenue
+Parent Act     : Bengal Land Revenue Sales Act, 1859 (Act XI of 1859)
+Scope          : Revenue assessment, collection, sale for arrears
+Status         : Superseded
+
+Ref No.        : SD-1/E2/0022
+Title          : Survey and Settlement Rules (Bengal)
+Date           : 1875 (revised 1908, 1920)
+Type           : Rules
+Subject        : Land and Revenue
+Authority      : Government of Bengal
+Parent Act     : Bengal Survey Act, 1875
+Scope          : Land survey procedure, record of rights preparation,
+                 settlement operations
+Status         : Partially in force
+Notes          : Critical for land administration in Bangladesh
+
+Ref No.        : SD-1/E2/0023
+Title          : Bengal Cess Rules
+Date           : 1880 (amended)
+Type           : Rules
+Subject        : Land and Revenue / Finance
+Authority      : Government of Bengal
+Parent Act     : Bengal Cess Act, 1880 (Act IX of 1880)
+Scope          : Local cess assessment and collection on land
+Status         : Superseded
+
+Ref No.        : SD-1/E2/0024
+Title          : Bengal Public Demands Recovery Rules
+Date           : 1913 (amended)
+Type           : Rules
+Subject        : Land and Revenue / Finance
+Authority      : Government of Bengal
+Parent Act     : Bengal Public Demands Recovery Act, 1913
+Scope          : Recovery of public dues including revenue arrears
+Status         : Partially in force
+
+Ref No.        : SD-1/E2/0025
+Title          : Bengal Agricultural Debtors Rules
+Date           : 1936
+Type           : Rules
+Subject        : Land and Revenue
+Authority      : Government of Bengal
+Parent Act     : Bengal Agricultural Debtors Act, 1936
+Scope          : Debt settlement boards, agricultural debt relief
+Status         : Partially in force
+
+Ref No.        : SD-1/E2/0026
+Title          : Bengal Embankment Rules
+Date           : 1882 (amended)
+Type           : Rules
+Subject        : Land and Revenue / Agriculture
+Authority      : Government of Bengal
+Parent Act     : Bengal Embankment Act, 1882
+Scope          : Flood embankment construction and maintenance
+Status         : Partially in force
+Notes          : Important for flood-prone Bangladesh
+
+Ref No.        : SD-1/E2/0027
+Title          : Waste Land Rules (Bengal)
+Date           : 1838 (revised periodically)
+Type           : Rules
+Subject        : Land and Revenue
+Authority      : Government of Bengal / Government of India
+Scope          : Grant and management of waste lands
+Status         : Obsolete/Historical
+
+Ref No.        : SD-1/E2/0028
+Title          : Bengal Partition Rules (Land)
+Date           : 1897
+Type           : Rules
+Subject        : Land and Revenue
+Authority      : Government of Bengal
+Parent Act     : Bengal Partition Act, 1897
+Scope          : Procedure for partition of jointly owned land
+Status         : Partially in force
+
+================================================================================
+SECTION D: LOCAL GOVERNMENT AND MUNICIPAL AFFAIRS
+================================================================================
+
+Ref No.        : SD-1/E2/0029
+Title          : Bengal Municipal Rules
+Date           : 1884 (revised under 1932 Act)
+Type           : Rules
+Subject        : Local Government and Municipal Affairs
+Authority      : Government of Bengal
+Parent Act     : Bengal Municipal Act, 1884 / Bengal Municipal Act, 1932
+Scope          : Municipal administration, elections, finance, services
+Status         : Superseded
+
+Ref No.        : SD-1/E2/0030
+Title          : Municipal By-Laws (Dhaka Municipality)
+Date           : Various (1884 onwards)
+Type           : By-Laws
+Subject        : Local Government and Municipal Affairs
+Authority      : Dhaka Municipality
+Parent Act     : Bengal Municipal Act, 1884 / 1932
+Scope          : Building regulations, sanitation, markets, licensing
+Status         : Superseded
+
+Ref No.        : SD-1/E2/0031
+Title          : Municipal By-Laws (Chittagong Municipality)
+Date           : Various (1884 onwards)
+Type           : By-Laws
+Subject        : Local Government and Municipal Affairs
+Authority      : Chittagong Municipality
+Parent Act     : Bengal Municipal Act, 1884 / 1932
+Scope          : Building regulations, sanitation, markets, licensing
+Status         : Superseded
+
+Ref No.        : SD-1/E2/0032
+Title          : Bengal Union Board Rules
+Date           : 1919 (amended)
+Type           : Rules
+Subject        : Local Government and Municipal Affairs
+Authority      : Government of Bengal
+Parent Act     : Bengal Village Self-Government Act, 1919
+Scope          : Union board formation, elections, functions, finance
+Status         : Superseded
+Notes          : Foundation of local government in rural Bengal
+
+Ref No.        : SD-1/E2/0033
+Title          : Bengal District Board Rules
+Date           : 1885 (revised under subsequent Acts)
+Type           : Rules
+Subject        : Local Government and Municipal Affairs
+Authority      : Government of Bengal
+Parent Act     : Bengal Local Self-Government Act, 1885
+Scope          : District board elections, functions, finance
+Status         : Superseded
+
+Ref No.        : SD-1/E2/0034
+Title          : Bengal Panchayat Rules
+Date           : 1920
+Type           : Rules
+Subject        : Local Government and Municipal Affairs
+Authority      : Government of Bengal
+Parent Act     : Bengal Panchayat Act, 1920
+Scope          : Village panchayat formation and functions
+Status         : Superseded
+
+================================================================================
+SECTION E: EDUCATION
+================================================================================
+
+Ref No.        : SD-1/E2/0035
+Title          : Bengal Education Code / Bengal Educational Rules
+Date           : 1884 (revised periodically up to 1947)
+Type           : Rules/Code
+Subject        : Education
+Authority      : Government of Bengal / Director of Public Instruction
+Parent Act     : Various education legislation
+Scope          : Comprehensive rules for all levels of education —
+                 primary, secondary, collegiate; school recognition,
+                 teacher qualifications, grants-in-aid, examinations
+Status         : Superseded but historically significant
+Notes          : Massive body of rules governing education in Bengal
+
+Ref No.        : SD-1/E2/0036
+Title          : Bengal Primary Education Rules
+Date           : 1919 (amended)
+Type           : Rules
+Subject        : Education
+Authority      : Government of Bengal
+Parent Act     : Bengal Primary Education Act, 1919 (Bengal Act II of 1919)
+Scope          : Compulsory primary education, school establishment
+Status         : Superseded
+
+Ref No.        : SD-1/E2/0037
+Title          : Dacca University Regulations and Statutes
+Date           : 1921 (amended periodically)
+Type           : Regulations/Statutes
+Subject        : Education
+Authority      : Dacca University Senate/Syndicate
+Parent Act     : Dacca University Act, 1920 (Act XIII of 1920)
+Scope          : University governance, degrees, examinations, faculties,
+                 student discipline, academic requirements
+Status         : Superseded by later university ordinances
+Notes          : Historically significant for Bangladesh's premier university
+
+Ref No.        : SD-1/E2/0038
+Title          : Calcutta University Regulations (applicable to Bengal)
+Date           : Various (1857 onwards)
+Type           : Regulations
+Subject        : Education
+Authority      : Calcutta University Senate
+Parent Act     : Calcutta University Acts, 1857/1904
+Scope          : Affiliated colleges in Bengal, examination rules
+Status         : Historical
+
+Ref No.        : SD-1/E2/0039
+Title          : Bengal Grants-in-Aid Rules (Education)
+Date           : 1880 (revised periodically)
+Type           : Rules
+Subject        : Education
+Authority      : Government of Bengal
+Scope          : Grant-in-aid to educational institutions, conditions
+Status         : Superseded
+
+================================================================================
+SECTION F: HEALTH AND SANITATION
+================================================================================
+
+Ref No.        : SD-1/E2/0040
+Title          : Bengal Public Health Rules
+Date           : 1919 (amended)
+Type           : Rules
+Subject        : Health and Sanitation
+Authority      : Government of Bengal
+Parent Act     : Bengal Public Health Act, 1919
+Scope          : Public health administration, disease control, sanitation
+Status         : Partially in force
+
+Ref No.        : SD-1/E2/0041
+Title          : Vaccination Rules (Bengal)
+Date           : 1880 (amended periodically)
+Type           : Rules
+Subject        : Health and Sanitation
+Authority      : Government of Bengal
+Parent Act     : Vaccination Act, 1880
+Scope          : Compulsory vaccination, procedure, penalties
+Status         : Superseded by later public health rules
+
+Ref No.        : SD-1/E2/0042
+Title          : Bengal Epidemic Disease Rules
+Date           : 1897 (amended)
+Type           : Rules
+Subject        : Health and Sanitation
+Authority      : Government of Bengal
+Parent Act     : Epidemic Diseases Act, 1897
+Scope          : Measures for prevention and control of epidemics
+Status         : In force (used during COVID-19 pandemic)
+Notes          : Remarkably, still actively used in Bangladesh
+
+Ref No.        : SD-1/E2/0043
+Title          : Bengal Medical Registration Rules
+Date           : 1914
+Type           : Rules
+Subject        : Health and Sanitation
+Authority      : Government of Bengal
+Parent Act     : Bengal Medical Act, 1914
+Scope          : Registration and regulation of medical practitioners
+Status         : Superseded
+
+Ref No.        : SD-1/E2/0044
+Title          : Poison Rules (Bengal)
+Date           : 1919 (amended)
+Type           : Rules
+Subject        : Health and Sanitation
+Authority      : Government of Bengal
+Parent Act     : Poisons Act, 1919
+Scope          : Sale, storage, and transport of poisons
+Status         : Partially in force
+
+Ref No.        : SD-1/E2/0045
+Title          : Bengal Drugs Rules
+Date           : 1940 (amended)
+Type           : Rules
+Subject        : Health and Sanitation
+Authority      : Government of Bengal
+Parent Act     : Drugs Act, 1940
+Scope          : Drug manufacture, sale, quality control
+Status         : Partially in force
+
+================================================================================
+SECTION G: LABOUR AND EMPLOYMENT
+================================================================================
+
+Ref No.        : SD-1/E2/0046
+Title          : Bengal Factories Rules
+Date           : 1881 (revised under 1911, 1934 Acts)
+Type           : Rules
+Subject        : Labour and Employment
+Authority      : Government of Bengal
+Parent Act     : Indian Factories Act, 1881/1911/1934
+Scope          : Factory safety, working hours, child labour, inspections
+Status         : Superseded by later factory rules
+
+Ref No.        : SD-1/E2/0047
+Title          : Workmen's Compensation Rules (Bengal)
+Date           : 1924
+Type           : Rules
+Subject        : Labour and Employment
+Authority      : Government of Bengal
+Parent Act     : Workmen's Compensation Act, 1923
+Scope          : Compensation for workplace injuries, claim procedure
+Status         : Partially in force
+
+Ref No.        : SD-1/E2/0048
+Title          : Bengal Trade Unions Regulations
+Date           : 1927
+Type           : Regulations
+Subject        : Labour and Employment
+Authority      : Government of Bengal
+Parent Act     : Trade Unions Act, 1926
+Scope          : Registration and regulation of trade unions
+Status         : Superseded
+
+Ref No.        : SD-1/E2/0049
+Title          : Payment of Wages Rules (Bengal)
+Date           : 1937
+Type           : Rules
+Subject        : Labour and Employment
+Authority      : Government of Bengal
+Parent Act     : Payment of Wages Act, 1936
+Scope          : Wage payment procedures, deductions, claims
+Status         : Partially in force
+
+Ref No.        : SD-1/E2/0050
+Title          : Bengal Maternity Benefit Rules
+Date           : 1941
+Type           : Rules
+Subject        : Labour and Employment
+Authority      : Government of Bengal
+Parent Act     : Bengal Maternity Benefit Act, 1939
+Scope          : Maternity leave, benefits for female workers
+Status         : Superseded by later maternity benefit rules
+
+Ref No.        : SD-1/E2/0051
+Title          : Bengal Shops and Establishments Rules
+Date           : 1940
+Type           : Rules
+Subject        : Labour and Employment
+Authority      : Government of Bengal
+Parent Act     : Bengal Shops and Establishments Act, 1940
+Scope          : Working hours, holidays, conditions in shops
+Status         : Superseded
+
+================================================================================
+SECTION H: TRADE, COMMERCE AND INDUSTRY
+================================================================================
+
+Ref No.        : SD-1/E2/0052
+Title          : Indian Companies Rules (Bengal application)
+Date           : 1914 (amended under 1913 Act)
+Type           : Rules
+Subject        : Trade, Commerce and Industry
+Authority      : Government of India / Government of Bengal
+Parent Act     : Indian Companies Act, 1913
+Scope          : Company registration, operation, winding up
+Status         : Superseded by later Companies Rules
+
+Ref No.        : SD-1/E2/0053
+Title          : Bengal Cooperative Societies Rules
+Date           : 1912 (revised under 1940 Act)
+Type           : Rules
+Subject        : Trade, Commerce and Industry
+Authority      : Government of Bengal
+Parent Act     : Cooperative Societies Act, 1912 / Bengal Co-operative
+                 Societies Act, 1940
+Scope          : Registration, operation, and audit of cooperatives
+Status         : Superseded
+
+Ref No.        : SD-1/E2/0054
+Title          : Bengal Jute Regulation Rules
+Date           : 1940
+Type           : Rules
+Subject        : Trade, Commerce and Industry / Agriculture
+Authority      : Government of Bengal
+Parent Act     : Bengal Jute Regulation Act
+Scope          : Jute cultivation and trade regulation
+Status         : Superseded
+Notes          : Jute was the primary export commodity of East Bengal
+
+Ref No.        : SD-1/E2/0055
+Title          : Bengal Hoarding and Profiteering Prevention Rules
+Date           : 1943
+Type           : Rules
+Subject        : Trade, Commerce and Industry
+Authority      : Government of Bengal
+Parent Act     : Hoarding and Profiteering Prevention Ordinance, 1943
+Scope          : Wartime price control, anti-hoarding measures
+Status         : Repealed/Obsolete
+Notes          : Emergency wartime regulation during Bengal Famine of 1943
+
+================================================================================
+SECTION I: FINANCE, BANKING AND TAXATION
+================================================================================
+
+Ref No.        : SD-1/E2/0056
+Title          : Bengal Income Tax Rules (Provincial)
+Date           : 1922 (amended)
+Type           : Rules
+Subject        : Finance, Banking and Taxation
+Authority      : Government of Bengal / Government of India
+Parent Act     : Indian Income Tax Act, 1922
+Scope          : Income tax assessment, collection, exemptions
+Status         : Superseded
+
+Ref No.        : SD-1/E2/0057
+Title          : Bengal Agricultural Income Tax Rules
+Date           : 1944
+Type           : Rules
+Subject        : Finance, Banking and Taxation
+Authority      : Government of Bengal
+Parent Act     : Bengal Agricultural Income Tax Act, 1944
+Scope          : Tax on agricultural income, assessment procedure
+Status         : Partially in force
+
+Ref No.        : SD-1/E2/0058
+Title          : Bengal Excise Rules
+Date           : 1909 (amended periodically)
+Type           : Rules
+Subject        : Finance, Banking and Taxation
+Authority      : Government of Bengal
+Parent Act     : Bengal Excise Act, 1909
+Scope          : Liquor licensing, manufacture, sale, transport of alcohol
+Status         : Partially in force
+
+Ref No.        : SD-1/E2/0059
+Title          : Stamp Rules (Bengal)
+Date           : 1899 (amended)
+Type           : Rules
+Subject        : Finance, Banking and Taxation / Registration
+Authority      : Government of Bengal
+Parent Act     : Indian Stamp Act, 1899 (Act II of 1899)
+Scope          : Stamp duties, procedures, adjudication, penalties
+Status         : Partially in force
+
+Ref No.        : SD-1/E2/0060
+Title          : Bengal Amusements Tax Rules
+Date           : 1922
+Type           : Rules
+Subject        : Finance, Banking and Taxation
+Authority      : Government of Bengal
+Parent Act     : Bengal Amusements Tax Act, 1922
+Scope          : Tax on entertainment, cinema, performances
+Status         : Superseded
+
+================================================================================
+SECTION J: REGISTRATION
+================================================================================
+
+Ref No.        : SD-1/E2/0061
+Title          : Bengal Registration Rules
+Date           : 1908 (amended)
+Type           : Rules
+Subject        : Registration and Stamps
+Authority      : Government of Bengal
+Parent Act     : Indian Registration Act, 1908 (Act XVI of 1908)
+Scope          : Registration of documents, deeds, powers of attorney;
+                 fees, procedure, office management
+Status         : Partially in force in Bangladesh
+Notes          : Important for property transactions
+
+Ref No.        : SD-1/E2/0062
+Title          : Bengal Births and Deaths Registration Rules
+Date           : 1886 (amended)
+Type           : Rules
+Subject        : Registration
+Authority      : Government of Bengal
+Parent Act     : Bengal Birth and Death Registration Act, 1886
+Scope          : Compulsory registration of births and deaths
+Status         : Superseded by later registration rules
+
+Ref No.        : SD-1/E2/0063
+Title          : Bengal Marriage Registration Rules
+Date           : 1876
+Type           : Rules
+Subject        : Registration / Family Law
+Authority      : Government of Bengal
+Parent Act     : Special Marriage Act, 1872 / other marriage laws
+Scope          : Procedure for marriage registration
+Status         : Partially in force
+
+================================================================================
+SECTION K: TRANSPORT AND COMMUNICATION
+================================================================================
+
+Ref No.        : SD-1/E2/0064
+Title          : Bengal Motor Vehicles Rules
+Date           : 1940
+Type           : Rules
+Subject        : Transport and Communication
+Authority      : Government of Bengal
+Parent Act     : Indian Motor Vehicles Act, 1939
+Scope          : Vehicle registration, licensing, road safety, permits
+Status         : Superseded by later motor vehicles rules
+
+Ref No.        : SD-1/E2/0065
+Title          : Bengal Inland Steam Vessels Rules
+Date           : 1917
+Type           : Rules
+Subject        : Transport and Communication
+Authority      : Government of Bengal
+Parent Act     : Inland Steam Vessels Act, 1917
+Scope          : Registration and safety of inland water vessels
+Status         : Partially in force
+Notes          : Important for riverine transport in Bangladesh
+
+Ref No.        : SD-1/E2/0066
+Title          : Bengal Port Rules (Chittagong, Narayanganj)
+Date           : Various (1908 onwards)
+Type           : Rules
+Subject        : Transport and Communication
+Authority      : Government of Bengal
+Parent Act     : Indian Ports Act, 1908
+Scope          : Port operations, shipping regulation, customs
+Status         : Superseded by later port rules
+
+Ref No.        : SD-1/E2/0067
+Title          : Eastern Bengal Railway Rules
+Date           : Various (1890 onwards)
+Type           : Rules
+Subject        : Transport and Communication
+Authority      : Government of India
+Parent Act     : Indian Railways Act, 1890
+Scope          : Railway operations in East Bengal
+Status         : Superseded
+
+================================================================================
+SECTION L: FORESTS AND ENVIRONMENT
+================================================================================
+
+Ref No.        : SD-1/E2/0068
+Title          : Bengal Forest Rules
+Date           : 1927 (amended periodically)
+Type           : Rules
+Subject        : Forests and Environment
+Authority      : Government of Bengal
+Parent Act     : Indian Forest Act, 1927 (Act XVI of 1927)
+Scope          : Reserved forests, protected forests, timber transit,
+                 forest produce, penalties
+Status         : Partially in force in Bangladesh
+Notes          : Governs the Sundarbans and other forest areas
+
+Ref No.        : SD-1/E2/0069
+Title          : Bengal Private Forests Rules
+Date           : 1946
+Type           : Rules
+Subject        : Forests and Environment
+Authority      : Government of Bengal
+Parent Act     : Bengal Private Forests Act, 1946
+Scope          : Regulation of private forests, conservation
+Status         : Partially in force
+
+Ref No.        : SD-1/E2/0070
+Title          : Fisheries Rules (Bengal)
+Date           : 1889 (amended)
+Type           : Rules
+Subject        : Agriculture, Fisheries and Livestock
+Authority      : Government of Bengal
+Parent Act     : Bengal Fishery Act, 1889
+Scope          : Fishing rights, fish conservation, licensing
+Status         : Partially in force
+
+================================================================================
+SECTION M: AGRICULTURE
+================================================================================
+
+Ref No.        : SD-1/E2/0071
+Title          : Bengal Agricultural Pests and Diseases Rules
+Date           : 1914
+Type           : Rules
+Subject        : Agriculture, Fisheries and Livestock
+Authority      : Government of Bengal
+Parent Act     : Destructive Insects and Pests Act, 1914
+Scope          : Control of agricultural pests, quarantine measures
+Status         : Partially in force
+
+Ref No.        : SD-1/E2/0072
+Title          : Bengal Cattle Trespass Rules
+Date           : 1871
+Type           : Rules
+Subject        : Agriculture, Fisheries and Livestock
+Authority      : Government of Bengal
+Parent Act     : Cattle Trespass Act, 1871
+Scope          : Impounding of stray cattle, fines, damage recovery
+Status         : Partially in force
+
+================================================================================
+SECTION N: PRISONS AND CORRECTIONAL SERVICES
+================================================================================
+
+Ref No.        : SD-1/E2/0073
+Title          : Bengal Jail Code / Bengal Prison Rules
+Date           : 1894 (comprehensively revised 1920, 1937)
+Type           : Rules/Code
+Subject        : Prisons and Correctional Services
+Authority      : Government of Bengal
+Parent Act     : Prisons Act, 1894 (Act IX of 1894)
+Scope          : Comprehensive prison administration — classification of
+                 prisoners, discipline, labor, diet, health, visits,
+                 remission, release
+Status         : Partially in force in Bangladesh
+Notes          : Extensive manual governing all aspects of prison admin
+
+Ref No.        : SD-1/E2/0074
+Title          : Bengal Prisoners Rules (Transfer)
+Date           : 1909
+Type           : Rules
+Subject        : Prisons and Correctional Services
+Authority      : Government of Bengal / Government of India
+Parent Act     : Prisoners Act, 1900
+Scope          : Transfer of prisoners between prisons
+Status         : Partially in force
+
+Ref No.        : SD-1/E2/0075
+Title          : Bengal Reformatory Schools Rules
+Date           : 1897 (amended)
+Type           : Rules
+Subject        : Prisons and Correctional Services
+Authority      : Government of Bengal
+Parent Act     : Reformatory Schools Act, 1897
+Scope          : Juvenile detention, reformation, education
+Status         : Superseded
+
+================================================================================
+SECTION O: RELIGIOUS AND CHARITABLE ENDOWMENTS
+================================================================================
+
+Ref No.        : SD-1/E2/0076
+Title          : Bengal Waqf Rules
+Date           : 1934
+Type           : Rules
+Subject        : Religious and Charitable Endowments
+Authority      : Government of Bengal
+Parent Act     : Bengal Wakf Act, 1934
+Scope          : Registration, administration, and supervision of waqf
+                 properties
+Status         : Superseded by later waqf rules
+Notes          : Governs Islamic endowments
+
+Ref No.        : SD-1/E2/0077
+Title          : Bengal Hindu Religious Endowments Rules
+Date           : 1939
+Type           : Rules
+Subject        : Religious and Charitable Endowments
+Authority      : Government of Bengal
+Parent Act     : Bengal Hindu Religious Endowments Act, 1939
+Scope          : Administration of Hindu temples and endowments
+Status         : Partially in force
+
+Ref No.        : SD-1/E2/0078
+Title          : Charitable Endowments Rules (Bengal)
+Date           : 1890 (amended)
+Type           : Rules
+Subject        : Religious and Charitable Endowments
+Authority      : Government of Bengal
+Parent Act     : Charitable Endowments Act, 1890
+Scope          : Management and vesting of charitable endowments
+Status         : Partially in force
+
+================================================================================
+SECTION P: CONSTITUTIONAL AND ADMINISTRATIVE
+================================================================================
+
+Ref No.        : SD-1/E2/0079
+Title          : Bengal Government Service Rules
+Date           : Various (1860 onwards, revised periodically)
+Type           : Rules
+Subject        : Constitutional and Administrative Law
+Authority      : Government of Bengal / Government of India
+Parent Act     : Various service legislation
+Scope          : Civil service recruitment, conditions, discipline,
+                 pensions, leave
+Status         : Superseded by Pakistan/Bangladesh service rules
+Notes          : Foundation of public service rules
+
+Ref No.        : SD-1/E2/0080
+Title          : Bengal Official Secrets Rules
+Date           : 1923
+Type           : Rules
+Subject        : Constitutional and Administrative Law
+Authority      : Government of Bengal / Government of India
+Parent Act     : Official Secrets Act, 1923
+Scope          : Classification and protection of official information
+Status         : Partially in force
+
+Ref No.        : SD-1/E2/0081
+Title          : Defence of India Rules (Bengal application)
+Date           : 1939 (World War II emergency)
+Type           : Rules
+Subject        : Constitutional and Administrative / Military
+Authority      : Government of India / Government of Bengal
+Parent Act     : Defence of India Act, 1939
+Scope          : Emergency wartime powers, detention, censorship,
+                 requisition of property, movement restrictions
+Status         : Repealed (emergency legislation)
+Notes          : Extensive wartime regulations affecting Bengal
+
+Ref No.        : SD-1/E2/0082
+Title          : Bengal Emergency Powers Rules
+Date           : 1932
+Type           : Rules
+Subject        : Constitutional and Administrative
+Authority      : Government of Bengal
+Parent Act     : Bengal Emergency Powers Act
+Scope          : Special powers during civil unrest
+Status         : Repealed
+
+Ref No.        : SD-1/E2/0083
+Title          : Bengal Special Powers Rules
+Date           : 1932 (amended)
+Type           : Rules
+Subject        : Constitutional and Administrative
+Authority      : Government of Bengal
+Parent Act     : Bengal Criminal Law Amendment Act, 1932
+Scope          : Special powers for dealing with political movements
+Status         : Partially superseded
+
+================================================================================
+SECTION Q: MISCELLANEOUS
+================================================================================
+
+Ref No.        : SD-1/E2/0084
+Title          : Bengal Boiler Rules
+Date           : 1923
+Type           : Rules
+Subject        : Trade, Commerce and Industry
+Authority      : Government of Bengal
+Parent Act     : Indian Boilers Act, 1923
+Scope          : Boiler registration, inspection, safety standards
+Status         : Partially in force
+
+Ref No.        : SD-1/E2/0085
+Title          : Bengal Electricity Rules
+Date           : 1910 (revised 1937)
+Type           : Rules
+Subject        : Trade, Commerce and Industry
+Authority      : Government of Bengal
+Parent Act     : Indian Electricity Act, 1910
+Scope          : Electricity supply, licensing, safety, tariffs
+Status         : Superseded by later electricity rules
+
+Ref No.        : SD-1/E2/0086
+Title          : Bengal Cinemas (Regulation) Rules
+Date           : 1936
+Type           : Rules
+Subject        : Miscellaneous
+Authority      : Government of Bengal
+Parent Act     : Bengal Cinemas (Regulation) Act, 1936
+Scope          : Cinema licensing, censorship, safety regulations
+Status         : Superseded
+
+Ref No.        : SD-1/E2/0087
+Title          : Treasure Trove Rules (Bengal)
+Date           : 1878
+Type           : Rules
+Subject        : Miscellaneous
+Authority      : Government of Bengal
+Parent Act     : Indian Treasure Trove Act, 1878
+Scope          : Reporting and disposal of found treasure
+Status         : Partially in force
+
+Ref No.        : SD-1/E2/0088
+Title          : Bengal Explosive Rules
+Date           : 1884 (amended)
+Type           : Rules
+Subject        : Police and Public Order
+Authority      : Government of Bengal / Government of India
+Parent Act     : Indian Explosives Act, 1884
+Scope          : Manufacture, storage, transport of explosives
+Status         : Partially in force
+
+Ref No.        : SD-1/E2/0089
+Title          : Bengal Petroleum Rules
+Date           : 1934
+Type           : Rules
+Subject        : Trade, Commerce and Industry
+Authority      : Government of Bengal
+Parent Act     : Petroleum Act, 1934
+Scope          : Storage, transport, and sale of petroleum products
+Status         : Partially in force
+
+Ref No.        : SD-1/E2/0090
+Title          : Sarais (Inns) Rules — Bengal
+Date           : 1867
+Type           : Rules
+Subject        : Miscellaneous
+Authority      : Government of Bengal
+Parent Act     : Sarais Act, 1867
+Scope          : Registration and regulation of inns/rest houses
+Status         : Partially in force
+
+================================================================================
+SUMMARY — ERA 2 (1858-1947)
+================================================================================
+
+Total Entries in this Volume    : 90
+
+By Type:
+  - Rules                       : 72
+  - Regulations                 : 5
+  - By-Laws                     : 3
+  - Circulars/Orders            : 3
+  - Others (Code/Statutes)      : 7
+
+By Subject:
+  - Criminal Law and Justice    : 10
+  - Civil Law and Justice       : 12
+  - Land and Revenue            : 10
+  - Local Government            : 6
+  - Education                   : 5
+  - Health and Sanitation       : 6
+  - Labour and Employment       : 6
+  - Trade, Commerce, Industry   : 7
+  - Finance and Taxation        : 5
+  - Transport and Communication : 4
+  - Forests and Environment     : 3
+  - Agriculture and Fisheries   : 2
+  - Police and Public Order     : 4
+  - Prisons                     : 3
+  - Religious Endowments        : 3
+  - Registration                : 3
+  - Constitutional & Admin      : 5
+  - Miscellaneous               : 4
+
+By Status:
+  - Partially in force          : 32
+  - Superseded                  : 38
+  - Repealed/Obsolete           : 12
+  - Historical                  : 8
+
+NOTE: This is a representative inventory. The actual volume of subordinate
+legislation from 1858-1947 is estimated to be in the thousands. Complete
+enumeration requires systematic examination of every issue of the Bengal
+Gazette and related official publications from this 89-year period.
+
+================================================================================
+                    END OF ERA 2 INVENTORY
+================================================================================

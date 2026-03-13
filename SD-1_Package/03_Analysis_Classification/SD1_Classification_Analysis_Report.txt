@@ -1,0 +1,544 @@
+================================================================================
+     ANALYSIS AND CLASSIFICATION REPORT — PACKAGE SD-1 (1799-1970)
+================================================================================
+
+          CODE OF DELEGATED/SUBORDINATE LEGISLATION OF BANGLADESH
+          Period: 1799-1970
+
+================================================================================
+          Prepared by: THE LEGAL EMPIRE
+          www.thelegalempire.org
+================================================================================
+
+EOI Ref No.     : 55.00.0000.120.14.065.24.1493
+Project Code    : 224359600
+Package No.     : SD-1 (1799-1970)
+
+================================================================================
+TABLE OF CONTENTS
+================================================================================
+
+   Part I    : Executive Summary
+   Part II   : Analytical Framework
+   Part III  : Statistical Overview
+   Part IV   : Era-wise Analysis
+   Part V    : Subject-wise Analysis
+   Part VI   : Status Analysis
+   Part VII  : Cross-referencing Analysis
+   Part VIII : Gaps, Inconsistencies, and Recommendations
+
+================================================================================
+PART I: EXECUTIVE SUMMARY
+================================================================================
+
+This Analysis and Classification Report presents the findings of the
+comprehensive identification, analysis, and classification exercise conducted
+under Package SD-1 of the Strengthening Legislative Capacity and Legal
+Awareness Building Project. The report covers all delegated/subordinate
+legislations (rules, regulations, by-laws, orders, notifications, etc.)
+identified for the period 1799-1970.
+
+Key Findings:
+   - Total subordinate legislations identified: [Insert Total Number]
+   - Active/In Force: [Insert Number] ([X]%)
+   - Amended: [Insert Number] ([X]%)
+   - Repealed: [Insert Number] ([X]%)
+   - Obsolete/Spent: [Insert Number] ([X]%)
+   - Status Uncertain: [Insert Number] ([X]%)
+
+================================================================================
+PART II: ANALYTICAL FRAMEWORK
+================================================================================
+
+Each subordinate legislation has been analyzed across the following parameters:
+
+   1. IDENTIFICATION DATA
+      - Unique Reference Number (SD-1/XXXX)
+      - Full Title
+      - Short Title (if any)
+      - Date of Enactment/Promulgation
+      - Date of Commencement
+      - Gazette Reference (gazette number, date, page)
+
+   2. LEGAL AUTHORITY
+      - Parent/Enabling Act (full citation)
+      - Specific Section(s) conferring rule-making power
+      - Rule-making Authority (who made the subordinate legislation)
+      - Territorial Application
+
+   3. CLASSIFICATION
+      - Historical Era (Era 1/2/3)
+      - Type of Instrument (Rules/Regulations/By-Laws/Orders/Notifications)
+      - Primary Subject Category (from 20 categories)
+      - Secondary Subject Category (if applicable)
+      - Responsible Ministry/Division (current Bangladesh equivalent)
+
+   4. STATUS ANALYSIS
+      - Current Legal Status
+      - Amendment History (all amendments with dates)
+      - Repealing Instrument (if repealed)
+      - Superseding Instrument (if superseded)
+      - Judicial Pronouncements (if any)
+
+   5. CROSS-REFERENCES
+      - Related Subordinate Legislations
+      - Related Parent Acts
+      - Successor Instruments
+
+================================================================================
+PART III: STATISTICAL OVERVIEW
+================================================================================
+
+A. BY HISTORICAL ERA:
+
+Era                              | Count     | Percentage
+---------------------------------|-----------|----------
+Era 1: EIC Period (1799-1858)    | [Number]  | [X]%
+Era 2: British Crown (1858-1947) | [Number]  | [X]%
+Era 3: Pakistan (1947-1970)      | [Number]  | [X]%
+---------------------------------|-----------|----------
+TOTAL                            | [Number]  | 100%
+
+--------------------------------------------------------------------------------
+
+B. BY TYPE OF INSTRUMENT:
+
+Type              | Era 1   | Era 2   | Era 3   | Total   | %
+------------------|---------|---------|---------|---------|-----
+Rules             | [N]     | [N]     | [N]     | [N]     | [X]%
+Regulations       | [N]     | [N]     | [N]     | [N]     | [X]%
+By-Laws           | [N]     | [N]     | [N]     | [N]     | [X]%
+Orders            | [N]     | [N]     | [N]     | [N]     | [X]%
+Notifications     | [N]     | [N]     | [N]     | [N]     | [X]%
+Circulars         | [N]     | [N]     | [N]     | [N]     | [X]%
+Others            | [N]     | [N]     | [N]     | [N]     | [X]%
+------------------|---------|---------|---------|---------|-----
+TOTAL             | [N]     | [N]     | [N]     | [N]     | 100%
+
+--------------------------------------------------------------------------------
+
+C. BY SUBJECT MATTER:
+
+S/N | Subject Category                        | Count   | %
+----|-----------------------------------------|---------|-----
+ 01 | Constitutional and Administrative Law   | [N]     | [X]%
+ 02 | Criminal Law and Justice                | [N]     | [X]%
+ 03 | Civil Law and Justice                   | [N]     | [X]%
+ 04 | Land and Revenue                        | [N]     | [X]%
+ 05 | Local Government and Municipal Affairs  | [N]     | [X]%
+ 06 | Education                               | [N]     | [X]%
+ 07 | Health and Sanitation                   | [N]     | [X]%
+ 08 | Labour and Employment                   | [N]     | [X]%
+ 09 | Trade, Commerce and Industry            | [N]     | [X]%
+ 10 | Finance, Banking and Taxation           | [N]     | [X]%
+ 11 | Transport and Communication             | [N]     | [X]%
+ 12 | Agriculture, Fisheries and Livestock    | [N]     | [X]%
+ 13 | Forests and Environment                 | [N]     | [X]%
+ 14 | Police and Public Order                 | [N]     | [X]%
+ 15 | Prisons and Correctional Services       | [N]     | [X]%
+ 16 | Registration and Stamps                 | [N]     | [X]%
+ 17 | Family Law and Personal Law             | [N]     | [X]%
+ 18 | Military and Defence                    | [N]     | [X]%
+ 19 | Religious and Charitable Endowments     | [N]     | [X]%
+ 20 | Miscellaneous                           | [N]     | [X]%
+----|-----------------------------------------|---------|-----
+    | TOTAL                                   | [N]     | 100%
+
+--------------------------------------------------------------------------------
+
+D. BY CURRENT STATUS:
+
+Status                | Era 1   | Era 2   | Era 3   | Total   | %
+----------------------|---------|---------|---------|---------|-----
+Active/In Force       | [N]     | [N]     | [N]     | [N]     | [X]%
+Amended               | [N]     | [N]     | [N]     | [N]     | [X]%
+Repealed              | [N]     | [N]     | [N]     | [N]     | [X]%
+Obsolete/Spent        | [N]     | [N]     | [N]     | [N]     | [X]%
+Superseded            | [N]     | [N]     | [N]     | [N]     | [X]%
+Partially in Force    | [N]     | [N]     | [N]     | [N]     | [X]%
+Status Uncertain      | [N]     | [N]     | [N]     | [N]     | [X]%
+----------------------|---------|---------|---------|---------|-----
+TOTAL                 | [N]     | [N]     | [N]     | [N]     | 100%
+
+================================================================================
+PART IV: ERA-WISE ANALYSIS
+================================================================================
+
+--------------------------------------------------------------------------------
+ERA 1: EAST INDIA COMPANY PERIOD (1799-1858)
+--------------------------------------------------------------------------------
+
+Overview:
+The earliest period of codified subordinate legislation in Bengal dates from
+1799 when the Governor-General Lord Wellesley initiated systematic regulation.
+The Bengal Regulations (1799-1834) represent the foundational layer of
+delegated legislation applicable to present-day Bangladesh.
+
+Key Characteristics:
+   - Regulations were the primary instrument of governance
+   - Governor-General in Council held both legislative and executive power
+   - Subordinate legislation was less differentiated from primary legislation
+   - Revenue administration was the dominant subject area
+   - Judicial administration regulations were extensive
+   - Limited separation of powers
+
+Significant Subordinate Legislations Identified:
+   [To be populated with detailed entries from Master Inventory]
+
+Analysis Notes:
+   - Many regulations from this era have been repealed or superseded
+   - Some foundational principles from these regulations survive in
+     current law (particularly land revenue and civil procedure)
+   - Language: primarily English, with some Persian/Urdu documents
+
+--------------------------------------------------------------------------------
+ERA 2: BRITISH CROWN RULE (1858-1947)
+--------------------------------------------------------------------------------
+
+Overview:
+This is the most prolific period for subordinate legislation, spanning nearly
+90 years of British Crown administration. The Government of India Acts of
+1919 and 1935 significantly expanded the scope and volume of delegated
+legislation, particularly at the provincial level.
+
+Key Characteristics:
+   - Clear distinction between primary and subordinate legislation
+   - Extensive rule-making under major codifying statutes
+   - Provincial autonomy (post-1919) led to Bengal-specific rules
+   - Systematic gazette publication
+   - Rapid expansion during World Wars (emergency regulations)
+   - Local government by-laws proliferated
+
+Major Parent Acts and Their Subordinate Legislations:
+
+   A) CRIMINAL LAW AND JUSTICE:
+      - Indian Penal Code, 1860 (Act XLV of 1860)
+        * Related Rules and Notifications: [List]
+      - Code of Criminal Procedure, 1898 (Act V of 1898)
+        * Criminal Rules and Orders: [List]
+        * High Court Rules: [List]
+      - Indian Evidence Act, 1872 (Act I of 1872)
+        * Related Notifications: [List]
+      - Bengal Police Act, 1861 / Police Act, 1861
+        * Police Regulations of Bengal: [List]
+        * Bengal Police Rules: [List]
+
+   B) CIVIL LAW AND JUSTICE:
+      - Code of Civil Procedure, 1908 (Act V of 1908)
+        * Civil Rules and Orders: [List]
+        * High Court Rules: [List]
+      - Limitation Act, 1908 / Limitation Act, 1877
+        * Related Notifications: [List]
+      - Specific Relief Act, 1877
+        * Related Rules: [List]
+      - Bengal Civil Courts Act, 1887
+        * Rules under the Act: [List]
+
+   C) LAND AND REVENUE:
+      - Bengal Tenancy Act, 1885 (Act VIII of 1885)
+        * Bengal Tenancy Rules: [List]
+      - Bengal Land Revenue Sales Act, 1859
+        * Related Rules: [List]
+      - Bengal Alluvion and Diluvion Act, 1825
+        * Related Rules: [List]
+      - Bengal Survey Act, 1875
+        * Survey Rules: [List]
+      - Bengal State Acquisition and Tenancy Act, 1950 (bridges to Era 3)
+        * Related Rules: [List]
+      - Cess Act, 1880
+        * Cess Rules: [List]
+      - Bengal Public Demands Recovery Act, 1913
+        * Related Rules: [List]
+
+   D) LOCAL GOVERNMENT AND MUNICIPAL:
+      - Bengal Municipal Act, 1884 / Bengal Municipal Act, 1932
+        * Municipal By-Laws: [List]
+      - Bengal Village Self-Government Act, 1919
+        * Union Board Rules: [List]
+      - Bengal Local Self-Government Act, 1885
+        * District Board Rules: [List]
+      - Bengal Panchayat Act, 1920
+        * Panchayat Rules: [List]
+
+   E) EDUCATION:
+      - Bengal Primary Education Act, 1919
+        * Primary Education Rules: [List]
+      - Calcutta University Act, 1857/1904
+        * University Regulations: [List]
+      - Dacca University Act, 1920
+        * University Ordinances and Regulations: [List]
+      - Bengal Education Code
+        * Various Rules and Orders: [List]
+
+   F) LABOUR AND EMPLOYMENT:
+      - Indian Factories Act, 1881/1911/1934
+        * Factory Rules: [List]
+      - Indian Mines Act, 1923
+        * Mining Rules: [List]
+      - Workmen's Compensation Act, 1923
+        * Compensation Rules: [List]
+      - Trade Unions Act, 1926
+        * Trade Union Regulations: [List]
+      - Payment of Wages Act, 1936
+        * Related Rules: [List]
+
+   G) TRADE AND COMMERCE:
+      - Indian Companies Act, 1913
+        * Companies Rules: [List]
+      - Indian Partnership Act, 1932
+        * Partnership Rules: [List]
+      - Indian Sale of Goods Act, 1930
+        * Related Rules: [List]
+      - Bengal Money-Lenders Act, 1940
+        * Related Rules: [List]
+
+   H) REGISTRATION AND STAMPS:
+      - Indian Registration Act, 1908
+        * Registration Rules: [List]
+      - Indian Stamp Act, 1899
+        * Stamp Rules and Notifications: [List]
+
+   I) HEALTH AND SANITATION:
+      - Bengal Public Health Act, 1919
+        * Public Health Rules: [List]
+      - Bengal Epidemics Act, various years
+        * Related Orders and Notifications: [List]
+      - Vaccination Act, 1880
+        * Vaccination Rules: [List]
+
+   J) FORESTS AND ENVIRONMENT:
+      - Indian Forest Act, 1927 (Act XVI of 1927)
+        * Forest Rules: [List]
+      - Bengal Private Forests Act, 1946
+        * Related Rules: [List]
+
+   K) FINANCE AND TAXATION:
+      - Indian Income Tax Act, 1922
+        * Income Tax Rules: [List]
+      - Bengal Agricultural Income Tax Act, 1944
+        * Agricultural Income Tax Rules: [List]
+      - Bengal Excise Act, 1909
+        * Excise Rules: [List]
+      - Bengal Amusements Tax Act, 1922
+        * Amusement Tax Rules: [List]
+
+   L) TRANSPORT AND COMMUNICATION:
+      - Indian Railways Act, 1890
+        * Railway Rules: [List]
+      - Indian Motor Vehicles Act, 1939
+        * Motor Vehicles Rules: [List]
+      - Indian Ports Act, 1908
+        * Port Rules: [List]
+      - Indian Telegraph Act, 1885
+        * Telegraph Rules: [List]
+
+Analysis Notes:
+   - This era has the largest volume of subordinate legislation
+   - Bengal-specific rules form a significant subset
+   - Emergency wartime regulations add substantial volume
+   - Many rules from this era remain partially in force in Bangladesh
+
+--------------------------------------------------------------------------------
+ERA 3: PAKISTAN PERIOD (1947-1970)
+--------------------------------------------------------------------------------
+
+Overview:
+Upon independence in 1947, Pakistan (including East Pakistan / present-day
+Bangladesh) inherited the entire body of British Indian law. The Pakistan
+period saw adaptation, modification, and creation of new subordinate
+legislation to suit the new national context.
+
+Key Characteristics:
+   - Continuity of pre-partition laws through adaptation orders
+   - New rule-making under Pakistani central and provincial Acts
+   - Martial Law periods generated significant subordinate legislation
+   - Islamic law considerations influenced some rules
+   - Provincial autonomy for East Pakistan in certain subjects
+   - Land reform generated new subordinate legislation
+
+Major Parent Acts and Their Subordinate Legislations:
+
+   A) CONSTITUTIONAL AND ADMINISTRATIVE:
+      - Government of India (Adaptation) Order, 1947
+        * Adaptation orders and notifications
+      - Pakistan (Provisional Constitution) Order, 1947
+        * Related orders
+      - Constitution of Pakistan, 1956
+        * Constitutional rules and orders
+      - Constitution of Pakistan, 1962
+        * Constitutional rules and orders
+      - Legal Framework Order, 1970
+        * Related orders
+      - General Clauses Act, 1897 (as adapted)
+        * Related notifications
+
+   B) LAND AND REVENUE:
+      - East Bengal State Acquisition and Tenancy Act, 1950
+        * State Acquisition Rules: [List]
+        * Tenancy Rules: [List]
+      - East Pakistan Land Revenue Ordinance
+        * Revenue Rules: [List]
+      - Non-Agricultural Tenancy Act, 1949
+        * Related Rules: [List]
+
+   C) FAMILY AND PERSONAL LAW:
+      - Muslim Family Laws Ordinance, 1961
+        * Muslim Family Laws Rules, 1961: [List]
+      - Dissolution of Muslim Marriages Act, 1939
+        * Related Rules: [List]
+      - Child Marriage Restraint Act, 1929 (as adapted)
+        * Related Rules: [List]
+
+   D) LOCAL GOVERNMENT:
+      - Basic Democracies Order, 1959
+        * Basic Democracies Rules: [List]
+        * Municipal Administration Rules: [List]
+      - East Pakistan Municipal Administration Ordinance
+        * Municipal By-Laws: [List]
+      - East Pakistan Local Councils Service Rules
+
+   E) EDUCATION:
+      - University Ordinances (Dhaka, Rajshahi, Chittagong)
+        * University Regulations and Statutes: [List]
+      - East Pakistan Education Ordinance
+        * Education Rules: [List]
+      - East Pakistan Compulsory Primary Education Ordinance
+        * Related Rules: [List]
+
+   F) LABOUR AND INDUSTRIAL:
+      - Industrial Relations Ordinance, 1969
+        * Industrial Relations Rules: [List]
+      - Factories Act, 1965
+        * Factory Rules: [List]
+      - Shops and Establishments Act, 1965
+        * Related Rules: [List]
+      - East Pakistan Minimum Wages Ordinance
+        * Minimum Wages Rules: [List]
+
+   G) TRADE AND COMMERCE:
+      - Companies Act, 1913 (as adapted)
+        * Companies Rules: [List]
+      - Import and Export (Control) Act, 1950
+        * Import-Export Rules and Orders: [List]
+      - Banking Companies Ordinance, 1962
+        * Banking Regulations: [List]
+
+   H) MARTIAL LAW INSTRUMENTS:
+      - Martial Law Orders (MLOs) 1958-1962
+        * Various Orders and Regulations: [List]
+      - Martial Law Regulations (MLRs) 1958-1962
+        * Various Regulations: [List]
+      - Martial Law Orders (MLOs) 1969-1970
+        * Various Orders: [List]
+
+   I) PUBLIC SERVICE:
+      - Government Servants (Conduct) Rules, 1964
+      - East Pakistan Government Servants (Discipline and Appeal) Rules
+      - Civil Service Rules (East Pakistan)
+      - Various Service Cadre Rules
+
+   J) COOPERATIVE SOCIETIES:
+      - Cooperative Societies Act, 1940 (as adapted)
+        * Cooperative Society Rules: [List]
+      - East Pakistan Cooperative Societies Ordinance
+        * Related Rules: [List]
+
+Analysis Notes:
+   - Significant volume of adaptation orders translating British Indian
+     law into the Pakistani legal framework
+   - Martial law periods created parallel legal structures
+   - Land reform legislation generated extensive subordinate rules
+   - Many rules from this period continue in force in Bangladesh today
+
+================================================================================
+PART V: SUBJECT-WISE ANALYSIS
+================================================================================
+
+[Detailed analysis for each of the 20 subject categories showing:
+ - Number and types of subordinate legislations
+ - Key instruments
+ - Evolution across the three eras
+ - Current relevance and status
+ - Cross-references]
+
+[To be completed with data from Master Inventory]
+
+================================================================================
+PART VI: STATUS ANALYSIS
+================================================================================
+
+A. ACTIVE/IN FORCE:
+   [List of all subordinate legislations determined to be currently in force
+    in Bangladesh, with their amendment history]
+
+B. AMENDED:
+   [List of subordinate legislations that have been amended, with complete
+    amendment histories]
+
+C. REPEALED:
+   [List of repealed subordinate legislations with repealing instruments
+    and dates of repeal]
+
+D. OBSOLETE/SPENT:
+   [List of subordinate legislations that are obsolete or spent, with
+    reasons for obsolescence]
+
+E. SUPERSEDED:
+   [List of subordinate legislations superseded by later instruments]
+
+F. STATUS UNCERTAIN:
+   [List of subordinate legislations whose current status could not be
+    definitively determined, with notes on the uncertainty]
+
+================================================================================
+PART VII: CROSS-REFERENCING ANALYSIS
+================================================================================
+
+A. PARENT ACT → SUBORDINATE LEGISLATION MAPPING
+   [Complete mapping showing each parent Act and all subordinate
+    legislations made thereunder]
+
+B. INTER-SUBORDINATE LEGISLATION REFERENCES
+   [Mapping of cross-references between subordinate legislations]
+
+C. AMENDMENT CHAINS
+   [Tracking of amendment histories for subordinate legislations that
+    have been repeatedly amended]
+
+D. REPEAL AND REPLACEMENT CHAINS
+   [Tracking of repeal and replacement sequences]
+
+================================================================================
+PART VIII: GAPS, INCONSISTENCIES, AND RECOMMENDATIONS
+================================================================================
+
+A. IDENTIFIED GAPS:
+   1. [Gap description and impact]
+   2. [Gap description and impact]
+   [To be populated]
+
+B. IDENTIFIED INCONSISTENCIES:
+   1. [Inconsistency description between specific instruments]
+   2. [Inconsistency description between specific instruments]
+   [To be populated]
+
+C. OVERLAPPING PROVISIONS:
+   1. [Overlap description]
+   2. [Overlap description]
+   [To be populated]
+
+D. RECOMMENDATIONS:
+   1. [Recommendation for legislative reform]
+   2. [Recommendation for consolidation]
+   3. [Recommendation for repeal of obsolete instruments]
+   [To be populated]
+
+================================================================================
+
+Prepared by: The Legal Empire
+Date: [Insert Date]
+Version: 1.0
+
+================================================================================
+              END OF ANALYSIS AND CLASSIFICATION REPORT
+================================================================================
