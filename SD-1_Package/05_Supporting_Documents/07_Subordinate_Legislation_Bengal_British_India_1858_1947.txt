@@ -1,0 +1,1750 @@
+================================================================================
+        SUBORDINATE/DELEGATED LEGISLATION OF BENGAL/BRITISH INDIA (1858-1947)
+        RELEVANT TO PRESENT-DAY BANGLADESH
+
+        Comprehensive Research Compilation for Package SD-1
+        Prepared for: Code of Delegated/Subordinate Legislation of Bangladesh
+        Project: Strengthening Legislative Capacity and Legal Awareness Building
+================================================================================
+
+NOTE ON METHODOLOGY:
+This document compiles subordinate/delegated legislation (rules, regulations,
+by-laws, orders, notifications) enacted during British India (1858-1947) under
+parent/enabling Acts, with focus on Bengal Presidency / Bengal Province as the
+principal jurisdiction relevant to present-day Bangladesh. Entries are organized
+by subject-matter category. Status indications are based on known legislative
+history; final verification against the Bangladesh Gazette and bdlaws.minlaw.gov.bd
+is required for each instrument.
+
+ABBREVIATIONS:
+  BG   = Bengal Gazette / Calcutta Gazette
+  GI   = Gazette of India
+  GoB  = Government of Bengal
+  GoI  = Government of India
+  SRO  = Statutory Rules and Orders
+  SOR  = Statutory Order
+  BTA  = Bengal Tenancy Act
+  IPC  = Indian Penal Code
+  CrPC = Code of Criminal Procedure
+  CPC  = Code of Civil Procedure
+
+================================================================================
+CATEGORY 1: CRIMINAL LAW AND PROCEDURE -- RULES AND REGULATIONS
+================================================================================
+
+1.1  Title: Rules under the Code of Criminal Procedure, 1898 (Act V of 1898)
+     Year: 1898 onwards (various notifications)
+     Type: Rules
+     Parent Act: Code of Criminal Procedure, 1898
+     Subject: Criminal procedure -- court processes, bail, summons, warrants,
+              trial procedures, execution of sentences
+     Sub-instruments:
+       (a) Criminal Rules and Orders (Bengal) -- also known as
+           "Criminal Rules and Orders (Practice and Procedure of the
+           Criminal Courts in Bengal)"
+           - Originally framed by the High Court of Calcutta
+           - Multiple editions and amendments through 1947
+           - Status: Substantially active in Bangladesh (as adapted);
+             forms the basis of the Criminal Rules and Orders still
+             used by Bangladesh courts
+       (b) Rules for Identification of Prisoners
+           - Year: 1920
+           - Parent Act: Identification of Prisoners Act, 1920 (Act XXXIII of 1920)
+           - Type: Rules
+           - Status: Active (as adapted) until replaced by modern legislation
+       (c) Rules regarding Execution of Death Sentences
+           - Framed under CrPC sections
+           - Type: Rules / Standing Orders
+           - Status: Active (as adapted)
+
+1.2  Title: Indian Penal Code -- Related Executive Rules and Notifications
+     Year: 1860 onwards
+     Type: Notifications / Orders
+     Parent Act: Indian Penal Code, 1860 (Act XLV of 1860)
+     Subject: Declarations under various IPC sections (e.g., Section 21
+              definitions of "public servant," Section 99 notifications)
+     Note: The IPC itself is a primary Act; subordinate instruments include
+           GoI and GoB notifications specifying categories, declaring
+           offences under specific provisions, etc.
+     Status: Many notifications subsumed into subsequent amendments;
+             verification required
+
+1.3  Title: Bengal Police Regulations
+     Year: 1905 (original), revised through 1943
+     Type: Regulations
+     Parent Act: Police Act, 1861 (Act V of 1861); Indian Police Act, 1861
+     Subject: Organization, discipline, duties, and powers of police in Bengal
+     Key Contents:
+       - Regulation I to XXXVI covering all aspects of police administration
+       - Recruitment and service conditions
+       - Investigation procedures
+       - Maintenance of records
+       - Use of force protocols
+     Status: Substantially active in Bangladesh as "Police Regulations of
+             Bengal" (PRB); still the primary regulatory framework for
+             Bangladesh Police alongside the Police Act, 1861
+
+1.4  Title: Bengal Jail Code / Bengal Prison Rules
+     Year: 1894 (original); revised 1927, 1937
+     Type: Rules
+     Parent Act: Prisons Act, 1894 (Act IX of 1894)
+     Subject: Prison administration, prisoner classification, discipline,
+              diet, medical treatment, labor, visiting rules
+     Key Contents:
+       - Part I: General administration
+       - Part II: Admission and classification of prisoners
+       - Part III: Discipline and punishment
+       - Part IV: Diet and clothing
+       - Part V: Medical rules
+       - Part VI: Under-trial prisoners
+       - Part VII: Convict labor
+       - Part VIII: Release and discharge
+     Status: Active in Bangladesh (with amendments); forms the basis of
+             current prison administration rules
+
+1.5  Title: Rules under the Bengal Children Act, 1922
+     Year: 1922 onwards
+     Type: Rules
+     Parent Act: Bengal Children Act, 1922 (Bengal Act II of 1922)
+     Subject: Juvenile justice, reformatory schools, treatment of
+              child offenders, neglected children
+     Status: Replaced by Children Act, 1974 in Bangladesh; historical
+             significance for SD-1 codification
+
+1.6  Title: Rules under the Suppression of Immoral Traffic Act, 1933
+     Year: 1933 onwards
+     Type: Rules
+     Parent Act: Bengal Suppression of Immoral Traffic Act, 1933
+     Subject: Regulation of brothels, trafficking prevention
+     Status: Amended/replaced post-independence
+
+1.7  Title: Rules under the Arms Act, 1878 / Arms Act, 1959
+     Year: 1878 onwards; Arms Rules 1924
+     Type: Rules
+     Parent Act: Indian Arms Act, 1878 (Act XI of 1878)
+     Subject: Licensing of firearms, possession, manufacture, sale,
+              import/export of arms and ammunition
+     Key Sub-instruments:
+       (a) Indian Arms Rules, 1924
+       (b) Bengal Arms Rules (provincial supplement)
+     Status: Active (as adapted); Arms Act replaced in Bangladesh by
+             Arms Act, 1878 as adapted and subsequently the Arms Act, 2024
+
+1.8  Title: Rules under the Explosive Substances Act, 1908
+     Year: 1908 onwards
+     Type: Rules
+     Parent Act: Explosive Substances Act, 1908 (Act VI of 1908)
+     Subject: Regulation of explosive substances
+     Sub-instrument: Indian Explosives Rules, 1940
+     Status: Active (as adapted)
+
+1.9  Title: Rules under the Poisons Act, 1919
+     Year: 1919 onwards
+     Type: Rules
+     Parent Act: Poisons Act, 1919 (Act XII of 1919)
+     Subject: Regulation of sale and possession of poisons
+     Sub-instrument: Bengal Poison Rules, 1922
+     Status: Active (as adapted)
+
+1.10 Title: Rules under the Official Secrets Act, 1923
+     Year: 1923 onwards
+     Type: Rules / Notifications
+     Parent Act: Official Secrets Act, 1923 (Act XIX of 1923)
+     Subject: Protection of state secrets, prohibited places, espionage
+     Status: Active in Bangladesh
+
+1.11 Title: Rules under the Foreigners Act, 1946
+     Year: 1946 onwards
+     Type: Rules / Orders
+     Parent Act: Foreigners Act, 1946 (Act XXXI of 1946)
+     Subject: Entry, residence, movement of foreigners
+     Sub-instruments:
+       (a) Foreigners Order, 1948 (post-partition adaptation)
+       (b) Registration of Foreigners Rules, 1939
+     Status: Active in Bangladesh (as adapted)
+
+1.12 Title: Whipping Act Rules
+     Year: 1909 onwards
+     Type: Rules
+     Parent Act: Whipping Act, 1909 (Act IV of 1909)
+     Subject: Corporal punishment procedures
+     Status: Repealed in Bangladesh
+
+================================================================================
+CATEGORY 2: CIVIL LAW AND PROCEDURE -- RULES AND REGULATIONS
+================================================================================
+
+2.1  Title: Civil Rules and Orders (Bengal)
+     Year: Original framework 1908 onwards; consolidated multiple times
+     Type: Rules / Practice Directions
+     Parent Act: Code of Civil Procedure, 1908 (Act V of 1908)
+     Subject: Practice and procedure of civil courts in Bengal -- filing
+              of suits, service of summons, execution of decrees, appeals,
+              review, revision, court fees, interlocutory applications
+     Key Contents:
+       - Volume I: General Rules
+       - Volume II: Forms and Precedents
+       - Rules regarding Pleaders and Mukhtars
+       - Rules for Small Cause Courts
+     Status: Substantially active in Bangladesh; forms the foundation of
+             civil court practice. The "Civil Rules and Orders" as
+             applicable to the territory of Bangladesh continue to govern
+             civil procedure alongside CPC 1908.
+
+2.2  Title: Rules under the Indian Evidence Act, 1872
+     Year: Various notifications from 1872
+     Type: Rules / Notifications
+     Parent Act: Indian Evidence Act, 1872 (Act I of 1872)
+     Subject: Evidentiary procedures -- examination of witnesses, admission
+              of documents, expert evidence rules
+     Note: Limited subordinate legislation directly under the Evidence Act;
+           most procedural aspects governed through CrPC/CPC rules and
+           High Court circular orders
+     Status: Evidence Act active in Bangladesh; related rules continue
+
+2.3  Title: Rules under the Indian Limitation Act, 1908
+     (Later: Limitation Act, 1908, Act IX of 1908)
+     Year: 1908 onwards
+     Type: Rules / Notifications
+     Parent Act: Limitation Act, 1908
+     Subject: Time limits for filing suits, appeals, and applications
+     Sub-instruments: Notifications specifying computation methods,
+                      extension conditions
+     Status: Active in Bangladesh (as adapted)
+
+2.4  Title: Rules under the Specific Relief Act, 1877
+     Year: 1877 onwards
+     Type: Rules
+     Parent Act: Specific Relief Act, 1877 (Act I of 1877)
+     Subject: Specific performance, injunctions, declaratory decrees
+     Status: Active in Bangladesh (as adapted); Specific Relief Act 1877
+             continues to apply
+
+2.5  Title: Rules under the Indian Succession Act, 1925
+     Year: 1925 onwards
+     Type: Rules
+     Parent Act: Indian Succession Act, 1925 (Act XXXIX of 1925)
+     Subject: Succession, wills, probate, letters of administration
+     Sub-instruments:
+       (a) Probate and Administration Rules (Bengal)
+       (b) Court Fees applicable to succession matters (notifications)
+     Status: Active in Bangladesh (as adapted)
+
+2.6  Title: Bengal Money-Lenders Rules
+     Year: 1940 onwards
+     Type: Rules
+     Parent Act: Bengal Money-Lenders Act, 1940 (Bengal Act X of 1940)
+     Subject: Regulation of money-lending, interest rates, licensing
+     Status: Active in Bangladesh (as adapted)
+
+2.7  Title: Rules under the Guardian and Wards Act, 1890
+     Year: 1890 onwards
+     Type: Rules
+     Parent Act: Guardians and Wards Act, 1890 (Act VIII of 1890)
+     Subject: Guardianship of minors, custody proceedings
+     Status: Active in Bangladesh
+
+2.8  Title: Rules under the Indian Trusts Act, 1882
+     Year: 1882 onwards
+     Type: Rules
+     Parent Act: Indian Trusts Act, 1882 (Act II of 1882)
+     Subject: Trust administration
+     Status: Active in Bangladesh (as adapted)
+
+2.9  Title: Rules under the Indian Contract Act, 1872
+     Year: Various notifications
+     Type: Notifications
+     Parent Act: Indian Contract Act, 1872 (Act IX of 1872)
+     Subject: Declarations and notifications under the Act
+     Status: Contract Act active in Bangladesh
+
+2.10 Title: Bengal Court Fees Rules
+     Year: Various dates; consolidated periodically
+     Type: Rules
+     Parent Act: Court Fees Act, 1870 (Act VII of 1870)
+     Subject: Valuation of suits, computation and payment of court fees
+     Status: Active in Bangladesh (with amendments)
+
+2.11 Title: Rules under the Suits Valuation Act, 1887
+     Year: 1887 onwards
+     Type: Rules / Notifications
+     Parent Act: Suits Valuation Act, 1887 (Act VII of 1887)
+     Subject: Valuation of suits for jurisdictional purposes
+     Status: Active in Bangladesh
+
+2.12 Title: Insolvency Rules (Bengal)
+     Year: Various; major rules under Presidency-towns and Provincial Acts
+     Type: Rules
+     Parent Act: Provincial Insolvency Act, 1920 (Act V of 1920);
+                 Presidency-towns Insolvency Act, 1909 (Act III of 1909)
+     Subject: Insolvency proceedings, adjudication, administration of
+              insolvent estates
+     Status: Active in Bangladesh (as adapted); Provincial Insolvency Act
+             still applicable
+
+================================================================================
+CATEGORY 3: LAND REVENUE AND TENANCY -- RULES AND REGULATIONS
+================================================================================
+
+3.1  Title: Bengal Tenancy Rules
+     Year: 1886 onwards; amended multiple times through 1938
+     Type: Rules
+     Parent Act: Bengal Tenancy Act, 1885 (Bengal Act VIII of 1885)
+     Subject: Tenancy rights, rent fixation, transfer of holdings,
+              survey and record-of-rights, arrear rent recovery,
+              tenant-landlord relations
+     Key Sub-instruments:
+       (a) Rules for preparation of Record of Rights under BTA
+       (b) Rules for commutation of rents
+       (c) Rules for transfer of holdings
+       (d) Rules relating to distraint for arrears of rent
+     Status: Bengal Tenancy Act repealed in East Pakistan by the State
+             Acquisition and Tenancy Act, 1950; however, many procedural
+             rules adapted under the new Act. Historical significance for
+             SD-1 codification. Rules under SAT Act 1950 are post-1947.
+
+3.2  Title: Bengal Land Revenue Sales Rules
+     Year: 1869 onwards
+     Type: Rules
+     Parent Act: Bengal Land Revenue Sales Act, 1868 (Bengal Act VII of 1868)
+     Subject: Sale of land for arrears of land revenue, procedures for
+              auction, setting aside of sales, annulment
+     Status: Historically significant; superseded in many aspects by
+             post-independence legislation but elements survive in
+             adapted form
+
+3.3  Title: Bengal Survey and Settlement Rules
+     Year: 1875 onwards; major revisions 1898, 1908, 1935
+     Type: Rules
+     Parent Act: Bengal Survey Act, 1875 (Bengal Act V of 1875);
+                 Bengal Tenancy Act, 1885
+     Subject: Cadastral survey, settlement of rents, preparation of
+              record-of-rights (khatian), map preparation, demarcation
+     Key Sub-instruments:
+       (a) Bengal Survey Rules, 1910
+       (b) Rules for the Preparation of Record of Rights
+       (c) Settlement Officers' procedural rules
+       (d) Rules for Revisional Survey
+     Status: Survey methodology rules still substantially influential;
+             many adapted under the State Acquisition and Tenancy Act, 1950
+             and the Survey Act framework in Bangladesh
+
+3.4  Title: Rules under the Bengal Alluvion and Diluvion Regulation, 1825
+     (Regulation XI of 1825)
+     Year: 1825 onwards; rules updated through British period
+     Type: Rules
+     Parent Act: Bengal Alluvion and Diluvion Regulation, 1825
+     Subject: Rights over newly formed land (char lands) in rivers,
+              alluvion and diluvion rules
+     Status: Active in Bangladesh; extremely relevant for char land
+             disputes in riverine Bangladesh
+
+3.5  Title: Rules under the Bengal Cess Act, 1880
+     Year: 1880 onwards
+     Type: Rules
+     Parent Act: Bengal Cess Act, 1880 (Bengal Act IX of 1880)
+     Subject: Local cess/tax on land for road and public works maintenance
+     Status: Largely superseded; historical significance
+
+3.6  Title: Bengal Land Registration Rules
+     Year: Various; under the Bengal Permanent Settlement Regulation, 1793
+           and subsequent revenue legislation
+     Type: Rules / Regulations
+     Parent Act: Permanent Settlement Regulation, 1793 (Regulation I of 1793);
+                 Bengal Rent Act, 1859
+     Subject: Registration of landholding, pattas, transfer procedures
+     Status: Historical; superseded by post-independence land legislation
+
+3.7  Title: Rules under the Bengal Land Revenue Commission
+     Year: 1940 (Bengal Land Revenue Commission -- Floud Commission)
+     Type: Rules / Notifications
+     Subject: Land revenue assessment, commission procedures
+     Status: Historical -- led to State Acquisition and Tenancy Act, 1950
+
+3.8  Title: Rules under the Court of Wards Act, 1879
+     Year: 1879 onwards
+     Type: Rules
+     Parent Act: Court of Wards Act, 1879 (Bengal Act IX of 1879)
+     Subject: Management of estates of minors, lunatics, and incapacitated
+              landholders
+     Status: Active in Bangladesh (as adapted)
+
+3.9  Title: Bengal Estates Partition Rules
+     Year: 1897 onwards
+     Type: Rules
+     Parent Act: Bengal Estates Partition Act, 1897 (Bengal Act IV of 1897)
+     Subject: Partition of jointly held estates, procedure, costs
+     Status: Active in Bangladesh (as adapted)
+
+3.10 Title: Rules under the Bengal Public Demands Recovery Act, 1913
+     Year: 1913 onwards
+     Type: Rules
+     Parent Act: Bengal Public Demands Recovery Act, 1913
+                 (Bengal Act III of 1913)
+     Subject: Recovery of public demands (revenue, taxes, etc.) as
+              arrears of land revenue -- certificate procedures
+     Status: Active in Bangladesh as Public Demands Recovery Act, 1913
+             (with amendments); rules continue to apply
+
+3.11 Title: Rules under the Bengal Agricultural Debtors Act, 1936
+     Year: 1936 onwards
+     Type: Rules
+     Parent Act: Bengal Agricultural Debtors Act, 1936 (Bengal Act VII of 1936)
+     Subject: Relief of agricultural indebtedness, debt settlement boards
+     Status: Historical; largely superseded
+
+3.12 Title: Rules under the Non-Agricultural Tenancy Act, 1949
+     Year: 1949 (pre-partition legislative process, enacted in East Bengal)
+     Type: Rules
+     Parent Act: East Bengal Non-Agricultural Tenancy Act, 1949
+     Subject: Non-agricultural tenancy rights in urban/semi-urban areas
+     Note: Technically East Bengal/Pakistan period but roots in pre-1947
+           legislative process
+     Status: Active in Bangladesh
+
+================================================================================
+CATEGORY 4: REGISTRATION AND STAMP -- RULES AND REGULATIONS
+================================================================================
+
+4.1  Title: Bengal Registration Rules
+     Year: 1909 onwards; consolidated and amended multiple times
+     Type: Rules
+     Parent Act: Indian Registration Act, 1908 (Act XVI of 1908)
+     Subject: Registration of documents -- compulsory and optional
+              registration, procedure, fees, registration offices,
+              indexes, copies, searches
+     Key Sub-instruments:
+       (a) Registration Rules (Bengal), 1909
+       (b) Rules for maintenance of books and indexes
+       (c) Rules for sub-registrar offices
+       (d) Fee schedules (notifications)
+     Status: Active in Bangladesh (as adapted); Registration Act, 1908
+             continues to apply with Bengal Registration Rules as adapted
+
+4.2  Title: Bengal Stamp Rules
+     Year: 1899 onwards
+     Type: Rules
+     Parent Act: Indian Stamp Act, 1899 (Act II of 1899)
+     Subject: Stamp duty rates, procedures for stamping instruments,
+              adjudication, refund, penalty
+     Key Sub-instruments:
+       (a) Bengal Stamp Rules (under the Stamp Act, 1899)
+       (b) Notifications specifying stamp duty rates for different
+           categories of instruments
+       (c) Rules for impressed and adhesive stamps
+       (d) Stamping of court documents rules
+     Status: Active in Bangladesh (as adapted); Stamp Act, 1899 continues
+             to apply; rates revised by subsequent notifications
+
+================================================================================
+CATEGORY 5: MUNICIPAL AND LOCAL GOVERNMENT -- BY-LAWS AND RULES
+================================================================================
+
+5.1  Title: Bengal Municipal Rules / By-Laws
+     Year: Various from 1884 onwards; major consolidation 1932
+     Type: By-Laws / Rules
+     Parent Act: Bengal Municipal Act, 1884 (Bengal Act III of 1884);
+                 Bengal Municipal Act, 1932 (Bengal Act XV of 1932)
+     Subject: Municipal administration, water supply, drainage, sanitation,
+              building regulations, markets, roads, lighting, taxation
+     Key Sub-instruments:
+       (a) Bengal Municipal Building Rules
+       (b) Bengal Municipal Water Supply Rules
+       (c) Bengal Municipal Drainage and Sanitation By-Laws
+       (d) Bengal Municipal Taxation Rules
+       (e) Municipal Election Rules
+       (f) Market Regulation By-Laws
+       (g) Municipal Accounts Rules
+     Status: Bengal Municipal Act 1932 was a key statute; replaced by
+             various municipal ordinances and Acts post-independence but
+             many by-laws continued in adapted form until formally
+             replaced. Local Government (Municipality) Act 2009 now governs.
+             Historical significance for SD-1.
+
+5.2  Title: Calcutta Municipal By-Laws and Rules
+     Year: Various from 1899 onwards
+     Type: By-Laws / Rules
+     Parent Act: Calcutta Municipal Act, 1899;
+                 Calcutta Municipal Act, 1923 (Bengal Act III of 1923)
+     Subject: Municipal governance of Calcutta
+     Note: Less directly relevant to Bangladesh territory but influential
+           as a model for Dhaka and Chittagong municipal by-laws
+     Status: Not directly applicable to Bangladesh
+
+5.3  Title: Dhaka Municipal By-Laws and Rules
+     Year: Various from 1864 onwards (Dhaka Municipality established 1864)
+     Type: By-Laws / Rules
+     Parent Act: Bengal Municipal Act, 1884; Bengal Municipal Act, 1932
+     Subject: Administration of Dhaka Municipality -- building, sanitation,
+              water supply, roads, markets, taxation
+     Status: Historical; superseded by subsequent legislation but
+             foundational for Dhaka city governance
+
+5.4  Title: Chittagong Municipal By-Laws
+     Year: Various from 1863 onwards
+     Type: By-Laws / Rules
+     Parent Act: Bengal Municipal Act, 1884; Bengal Municipal Act, 1932
+     Subject: Administration of Chittagong Municipality
+     Status: Historical; superseded
+
+5.5  Title: Bengal Village Self-Government Rules
+     Year: 1919 onwards
+     Type: Rules
+     Parent Act: Bengal Village Self-Government Act, 1919
+                 (Bengal Act V of 1919)
+     Subject: Union boards, village courts, local governance at
+              village/union level
+     Key Sub-instruments:
+       (a) Union Board Election Rules
+       (b) Union Board Budget and Accounts Rules
+       (c) Union Board Taxation Rules
+       (d) Village Court Rules
+     Status: Superseded by Basic Democracies Order 1959 and subsequently
+             Local Government Acts in Bangladesh; historical significance
+
+5.6  Title: Bengal Local Self-Government Rules
+     Year: 1885 onwards
+     Type: Rules
+     Parent Act: Bengal Local Self-Government Act, 1885
+                 (Bengal Act III of 1885)
+     Subject: District and local boards -- establishment, powers,
+              functions, finances
+     Status: Historical; superseded by subsequent local government
+             legislation
+
+5.7  Title: Rules under the Bengal (Rural) Primary Education Act, 1930
+     Year: 1930 onwards
+     Type: Rules
+     Parent Act: Bengal (Rural) Primary Education Act, 1930
+                 (Bengal Act V of 1930)
+     Subject: Compulsory primary education in rural Bengal,
+              school management, teacher qualifications
+     Status: Historical; superseded by post-independence education laws
+
+5.8  Title: Rules under the Union Boards (Bengal Amendment) Act, 1943
+     Year: 1943
+     Type: Rules
+     Parent Act: Bengal Village Self-Government (Amendment) Act, 1943
+     Subject: Amendments to union board governance
+     Status: Historical
+
+5.9  Title: Bengal District Administration Rules
+     Year: Various
+     Type: Rules / Standing Orders
+     Parent Act: Various enabling provisions; District Administration
+                 conventions under Bengal Administration
+     Subject: Revenue administration, magisterial functions, district
+              officer duties
+     Status: Many administrative practices continued post-independence
+
+================================================================================
+CATEGORY 6: EDUCATION -- REGULATIONS AND RULES
+================================================================================
+
+6.1  Title: University of Calcutta Regulations and By-Laws
+     Year: 1857 onwards; major revisions 1904, 1920
+     Type: Regulations / By-Laws
+     Parent Act: Indian Universities Act, 1904;
+                 Calcutta University Act, 1857 (Act II of 1857);
+                 Calcutta University Act, 1904
+     Subject: Degree requirements, examination rules, affiliation of
+              colleges, academic governance
+     Note: Calcutta University was the affiliating university for all
+           colleges in Bengal including those in present-day Bangladesh
+           territory until Dhaka University was established in 1921
+     Status: Historical; but influenced the framework for Dhaka University
+
+6.2  Title: University of Dhaka Regulations, Statutes, and Ordinances
+     Year: 1921 onwards
+     Type: Regulations / Statutes / Ordinances (university-level)
+     Parent Act: Dacca University Act, 1920 (Act XIII of 1920)
+     Subject: University governance, academic regulations, examination
+              rules, affiliation, degrees, faculty appointments,
+              student discipline
+     Key Sub-instruments:
+       (a) Statutes of Dhaka University (framed under the Act)
+       (b) Ordinances of Dhaka University
+       (c) Regulations for various degrees and examinations
+       (d) Hostel regulations
+       (e) Library regulations
+     Status: Dhaka University Act 1920 was replaced by Dhaka University
+             Order 1973; however, many regulations adapted and continued.
+             Historical significance for SD-1.
+
+6.3  Title: Indian Education Rules (Grant-in-Aid)
+     Year: Various from 1859 onwards
+     Type: Rules / Codes
+     Parent Act: Various education resolutions and Acts
+     Subject: Grant-in-aid to schools and colleges, conditions for grants,
+              inspection, standards
+     Key Sub-instruments:
+       (a) Bengal Education Code (not a statute but an administrative code
+           containing rules and regulations)
+       (b) Grant-in-Aid Rules for primary schools
+       (c) Grant-in-Aid Rules for secondary schools
+       (d) Grant-in-Aid Rules for colleges
+       (e) Rules for recognition of schools
+     Status: Framework substantially continued; Bengal Education Code
+             influenced post-independence education administration
+
+6.4  Title: Bengal Primary Education Rules
+     Year: 1919 onwards; revised 1930
+     Type: Rules
+     Parent Act: Bengal Primary Education Act, 1919;
+                 Bengal (Rural) Primary Education Act, 1930
+     Subject: Primary school management, teacher qualifications,
+              curriculum standards, school construction, attendance
+     Status: Historical; superseded
+
+6.5  Title: Madrasah Education Rules and Regulations (Bengal)
+     Year: Various from 1780s; reformed significantly 1870s, 1916, 1939
+     Type: Rules / Regulations
+     Parent Act: Administrative orders under Education Department, GoB;
+                 Calcutta Madrasah Act
+     Subject: Islamic education institutions -- curriculum, examinations,
+              management, teacher qualifications, government grants
+     Key Sub-instruments:
+       (a) Bengal Madrasah Education Board Rules
+       (b) Rules for Reformed Madrasah Scheme (1914 -- New Scheme)
+       (c) Madrasah examination rules
+     Status: Madrasah education system continues in Bangladesh;
+             foundational rules influenced current framework.
+             Bangladesh Madrasah Education Board now governs.
+
+6.6  Title: Rules under the Bengal Private Universities Act
+     Year: Not enacted during British period; but university affiliation
+           rules under Calcutta/Dhaka University Acts served this purpose
+     Type: Regulations
+     Parent Act: Respective university Acts
+     Subject: Affiliation and control of private colleges
+     Status: Historical
+
+================================================================================
+CATEGORY 7: PUBLIC HEALTH AND SANITATION -- RULES AND REGULATIONS
+================================================================================
+
+7.1  Title: Bengal Public Health Rules
+     Year: Various from 1897 onwards
+     Type: Rules
+     Parent Act: Bengal Local Self-Government Act, 1885;
+                 Epidemic Diseases Act, 1897 (Act III of 1897);
+                 Bengal Public Health Act, 1939
+     Subject: Epidemic control, vaccination, water supply safety,
+              food adulteration prevention, quarantine
+     Key Sub-instruments:
+       (a) Rules under the Epidemic Diseases Act, 1897
+           (Bengal-specific rules for plague, cholera, smallpox)
+       (b) Bengal Vaccination Rules
+       (c) Water Supply and Sanitation Rules
+     Status: Epidemic Diseases Act 1897 remains active in Bangladesh;
+             related rules continue in adapted form
+
+7.2  Title: Bengal Vaccination Rules
+     Year: 1880 onwards; revised 1892, 1919
+     Type: Rules
+     Parent Act: Vaccination Act, 1880 (Act XIII of 1880);
+                 Bengal Vaccination Act, 1880
+     Subject: Compulsory vaccination, vaccinators' duties, registers,
+              penalties for non-compliance
+     Status: Active framework continued; now supplemented by modern
+             health legislation
+
+7.3  Title: Bengal Smoke Nuisances Rules
+     Year: 1905 onwards
+     Type: Rules
+     Parent Act: Bengal Smoke Nuisances Act, 1905 (Bengal Act II of 1905)
+     Subject: Industrial smoke and air pollution control in urban areas
+     Status: Historical; superseded by environmental legislation
+
+7.4  Title: Rules under the Bengal Public Health Act, 1939
+     Year: 1939 onwards
+     Type: Rules
+     Parent Act: Bengal Public Health Act, 1939 (Bengal Act V of 1939)
+     Subject: Public health administration, sanitary districts, water
+              supply, sewerage, epidemic prevention, nuisance control
+     Status: Historical; elements continued in adapted form
+
+7.5  Title: Food Adulteration Rules (Bengal)
+     Year: Various; consolidated under 1919 and later legislation
+     Type: Rules
+     Parent Act: Bengal Municipal Act, 1932 (food adulteration provisions);
+                 Pure Food Act (if enacted)
+     Subject: Food safety standards, penalties for adulteration,
+              inspection and analysis
+     Status: Superseded by Pure Food Ordinance 1959 (Pakistan) and
+             subsequent Bangladesh legislation
+
+7.6  Title: Bengal Drugs Rules
+     Year: 1940 onwards
+     Type: Rules
+     Parent Act: Drugs Act, 1940 (Act XXIII of 1940)
+     Subject: Manufacture, sale, and distribution of drugs;
+              licensing of pharmacies; quality control
+     Key Sub-instruments:
+       (a) Drugs Rules, 1945 (Central)
+       (b) Bengal Drugs Rules (Provincial supplement)
+     Status: Drugs Act 1940 active in Bangladesh; rules continued
+             in adapted form until Drugs Act replaced
+
+7.7  Title: Rules under the Opium Act, 1878
+     Year: 1878 onwards
+     Type: Rules
+     Parent Act: Opium Act, 1878 (Act I of 1878)
+     Subject: Cultivation, manufacture, possession, transport, sale of opium
+     Status: Historical; narcotic control now under Narcotics Control Act
+
+7.8  Title: Bengal Excise Rules
+     Year: Various from 1909 onwards
+     Type: Rules
+     Parent Act: Bengal Excise Act, 1909 (Bengal Act V of 1909)
+     Subject: Manufacture, possession, sale, and transport of intoxicants
+              and excisable articles; licensing of liquor shops; distillery
+              rules; country spirit and foreign liquor regulations
+     Key Sub-instruments:
+       (a) Bengal Distillery Rules
+       (b) Bengal Liquor License Rules
+       (c) Bengal Hemp Drugs Rules
+       (d) Excise revenue collection rules
+     Status: Bengal Excise Act 1909 active in Bangladesh (as adapted);
+             excise rules continue in substantially the same framework
+
+7.9  Title: Rules under the Dangerous Drugs Act, 1930
+     Year: 1930 onwards
+     Type: Rules
+     Parent Act: Dangerous Drugs Act, 1930 (Act II of 1930)
+     Subject: Control of narcotic drugs -- opium, cocaine, hemp drugs
+     Status: Superseded by Narcotics Control Act in Bangladesh
+
+================================================================================
+CATEGORY 8: TRADE, COMMERCE, AND INDUSTRY -- RULES AND REGULATIONS
+================================================================================
+
+8.1  Title: Bengal Factories Rules
+     Year: 1911 onwards; revised under 1934 Act
+     Type: Rules
+     Parent Act: Indian Factories Act, 1881 (Act XV of 1881);
+                 Indian Factories Act, 1911 (Act XII of 1911);
+                 Factories Act, 1934 (Act XXV of 1934)
+     Subject: Factory inspection, working hours, safety provisions,
+              health and welfare of workers, child labor restrictions,
+              overtime, holidays, registers
+     Key Sub-instruments:
+       (a) Bengal Factories Rules, 1935 (under Factories Act 1934)
+       (b) Rules for inspection of factories
+       (c) Rules for dangerous operations
+       (d) Rules for welfare measures
+     Status: Factories Act 1934 continued in Bangladesh until replaced;
+             Bengal Factories Rules formed basis of subsequent rules
+
+8.2  Title: Bengal Boiler Rules
+     Year: 1923 onwards
+     Type: Rules
+     Parent Act: Indian Boilers Act, 1923 (Act V of 1923)
+     Subject: Boiler inspection, registration, safety standards,
+              certification of boiler attendants
+     Status: Indian Boilers Act 1923 active in Bangladesh; rules
+             continue in adapted form
+
+8.3  Title: Bengal Electricity Rules
+     Year: 1910 onwards; revised 1937
+     Type: Rules
+     Parent Act: Indian Electricity Act, 1910 (Act IX of 1910)
+     Subject: Generation, distribution, supply, and use of electricity;
+              licensing; safety; meters; tariffs
+     Key Sub-instruments:
+       (a) Indian Electricity Rules, 1937 (Central)
+       (b) Bengal Electrical Installation Rules
+       (c) Electricity Supply Licensee Rules
+     Status: Electricity Act framework continued in Bangladesh;
+             rules adapted and subsequently amended
+
+8.4  Title: Bengal Weights and Measures Rules
+     Year: Various
+     Type: Rules
+     Parent Act: Indian Standards of Weights and Measures Act;
+                 Bengal Standard of Weights Regulation
+     Subject: Standardization of weights and measures, inspection,
+              penalties for false measures
+     Status: Historical; superseded by modern legislation
+
+8.5  Title: Indian Companies Rules (Bengal applications)
+     Year: 1913 onwards
+     Type: Rules
+     Parent Act: Indian Companies Act, 1913 (Act VII of 1913)
+     Subject: Company registration, filing, meetings, audit,
+              winding up, inspection
+     Status: Historical; Companies Act 1913 replaced by Companies
+             Act 1994 in Bangladesh
+
+8.6  Title: Rules under the Indian Partnership Act, 1932
+     Year: 1932 onwards
+     Type: Rules
+     Parent Act: Indian Partnership Act, 1932 (Act IX of 1932)
+     Subject: Registration of firms, partnership procedures
+     Sub-instrument: Bengal Partnership Registration Rules
+     Status: Partnership Act 1932 active in Bangladesh; rules continue
+
+8.7  Title: Rules under the Trade Marks Act, 1940
+     Year: 1940 onwards
+     Type: Rules
+     Parent Act: Trade Marks Act, 1940 (Act V of 1940)
+     Subject: Registration of trade marks, procedures, fees
+     Status: Historical; superseded by modern trade marks legislation
+
+8.8  Title: Rules under the Indian Patents and Designs Act, 1911
+     Year: 1911 onwards
+     Type: Rules
+     Parent Act: Indian Patents and Designs Act, 1911 (Act II of 1911)
+     Subject: Patent applications, designs registration, procedures
+     Status: Historical; superseded
+
+8.9  Title: Cotton Ginning and Pressing Rules (Bengal)
+     Year: 1925 onwards
+     Type: Rules
+     Parent Act: Cotton Ginning and Pressing Factories Act, 1925
+                 (Act XII of 1925)
+     Subject: Regulation of cotton ginning factories
+     Status: Historical; jute was more relevant to Bengal/Bangladesh
+
+8.10 Title: Bengal Jute Regulation Rules
+     Year: Various; particularly important 1930s-1940s
+     Type: Rules / Orders / Notifications
+     Parent Act: Various wartime and trade regulation orders;
+                 Jute Regulation Acts
+     Subject: Jute cultivation, trade, export control, quality standards
+     Note: Jute was Bengal's premier export commodity
+     Status: Historical; jute regulation continued under separate
+             legislation in Bangladesh
+
+8.11 Title: Rules under the Tea Districts Emigrant Labour Act, 1932
+     Year: 1932 onwards
+     Type: Rules
+     Parent Act: Tea Districts Emigrant Labour Act, 1932
+     Subject: Recruitment and conditions of labor for tea gardens
+              in Assam and Bengal (Sylhet tea gardens relevant to
+              present-day Bangladesh)
+     Status: Historical; labor law framework evolved
+
+8.12 Title: Bengal Agricultural and Sanitary Improvement Act Rules
+     Year: 1907 onwards
+     Type: Rules
+     Parent Act: Bengal Agricultural and Sanitary Improvement Act, 1907
+                 (Bengal Act VI of 1907)
+     Subject: Agricultural improvement loans, sanitary works
+     Status: Historical
+
+8.13 Title: Rules under the Indian Mines Act, 1923
+     Year: 1923 onwards
+     Type: Rules
+     Parent Act: Indian Mines Act, 1923 (Act IV of 1923)
+     Subject: Mine safety, inspection, working conditions
+     Sub-instrument: Indian Mines Rules, 1926
+     Status: Active in Bangladesh (as adapted)
+
+================================================================================
+CATEGORY 9: LABOUR AND EMPLOYMENT -- RULES AND REGULATIONS
+================================================================================
+
+9.1  Title: Bengal Workmen's Compensation Rules
+     Year: 1924 onwards
+     Type: Rules
+     Parent Act: Workmen's Compensation Act, 1923 (Act VIII of 1923)
+     Subject: Compensation for work-related injuries and death,
+              claims procedures, calculation of compensation
+     Status: Active in Bangladesh (as adapted); Workmen's Compensation
+             Act 1923 continued until Labour Act 2006 consolidated
+             various labor laws
+
+9.2  Title: Bengal Trade Disputes Rules
+     Year: 1929 onwards
+     Type: Rules
+     Parent Act: Trade Disputes Act, 1929 (Act VII of 1929)
+     Subject: Industrial disputes resolution, strikes, lockouts,
+              conciliation, arbitration
+     Status: Historical; superseded by Industrial Relations legislation
+
+9.3  Title: Bengal Payment of Wages Rules
+     Year: 1937 onwards
+     Type: Rules
+     Parent Act: Payment of Wages Act, 1936 (Act IV of 1936)
+     Subject: Timely payment of wages, deductions, claims
+     Status: Active in Bangladesh (as adapted) until Labour Act 2006
+
+9.4  Title: Bengal Maternity Benefit Rules
+     Year: 1939 onwards
+     Type: Rules
+     Parent Act: Bengal Maternity Benefit Act, 1939 (Bengal Act IV of 1939);
+                 Maternity Benefit Act, 1939
+     Subject: Maternity leave, benefits for women workers in factories
+              and establishments
+     Status: Active framework continued in Bangladesh; provisions now
+             in Labour Act 2006
+
+9.5  Title: Bengal Shops and Establishments Rules
+     Year: 1940 onwards
+     Type: Rules
+     Parent Act: Bengal Shops and Establishments Act, 1940
+                 (Bengal Act VII of 1940)
+     Subject: Working hours, holidays, leave, conditions of service
+              for shop and commercial establishment workers
+     Status: Active in Bangladesh (as adapted); Shops and Establishments
+             Act continues with rules
+
+9.6  Title: Rules under the Employment of Children Act, 1938
+     Year: 1938 onwards
+     Type: Rules
+     Parent Act: Employment of Children Act, 1938 (Act XXVI of 1938)
+     Subject: Prohibition and regulation of child labor
+     Status: Active framework; now part of Labour Act 2006
+
+9.7  Title: Rules under the Indian Trade Unions Act, 1926
+     Year: 1926 onwards
+     Type: Rules
+     Parent Act: Indian Trade Unions Act, 1926 (Act XVI of 1926)
+     Subject: Registration of trade unions, constitution,
+              rights and liabilities of registered trade unions
+     Sub-instrument: Bengal Trade Unions Regulations
+     Status: Trade Unions Act framework continued; now in Labour Act 2006
+
+9.8  Title: Bengal Tea Plantation Labour Rules
+     Year: 1944 onwards
+     Type: Rules
+     Parent Act: Plantations Labour Act (pre-1947 framework);
+                 Tea Plantations Labour Act
+     Subject: Conditions of employment, housing, health, education
+              for tea plantation workers in Sylhet, Chittagong Hill Tracts
+     Status: Historical; subsequently regulated under specific
+             tea labour legislation
+
+================================================================================
+CATEGORY 10: FOREST AND ENVIRONMENT -- RULES AND REGULATIONS
+================================================================================
+
+10.1 Title: Bengal Forest Rules
+     Year: 1890 onwards; major revision 1927
+     Type: Rules
+     Parent Act: Indian Forest Act, 1878 (Act VII of 1878);
+                 Indian Forest Act, 1927 (Act XVI of 1927)
+     Subject: Reserved forests, protected forests, forest produce,
+              transit of timber, penalties, grazing rights, community
+              forest rights
+     Key Sub-instruments:
+       (a) Bengal Forest Rules (under Indian Forest Act 1927)
+       (b) Bengal Forest Transit Rules
+       (c) Rules for disposal of forest produce
+       (d) Grazing rules in reserved forests
+       (e) Rules for community rights in forests
+       (f) Sundarbans Forest Division Rules
+           (specific rules for the Sundarbans -- highly relevant to
+            Bangladesh as the Sundarbans is shared between India and
+            Bangladesh)
+     Status: Indian Forest Act 1927 active in Bangladesh; Bengal Forest
+             Rules continue in adapted form. Forest Act 1927 is still
+             the primary forest legislation in Bangladesh.
+
+10.2 Title: Bengal Fisheries Rules
+     Year: Various from 1889 onwards
+     Type: Rules
+     Parent Act: Bengal Fisheries Act (various enactments)
+     Subject: Inland fisheries regulation, fishing rights in
+              government waters, licensing, closed seasons
+     Status: Historical; fisheries now regulated under separate
+             Bangladesh legislation
+
+10.3 Title: Bengal Irrigation Rules
+     Year: Various
+     Type: Rules
+     Parent Act: Bengal Irrigation Act, 1876 (Bengal Act III of 1876)
+     Subject: Irrigation works, water rights, water rates,
+              canal maintenance, embankment rules
+     Status: Historical; irrigation now under separate legislation
+             but foundational framework
+
+10.4 Title: Bengal Embankment Rules
+     Year: Various from 1882 onwards
+     Type: Rules
+     Parent Act: Bengal Embankment Act, 1882 (Bengal Act I of 1882)
+     Subject: Construction and maintenance of embankments for flood
+              protection; extremely relevant to Bangladesh's geography
+     Status: Historical; flood management now under separate
+             institutional framework
+
+10.5 Title: Sundarbans Rules and Regulations
+     Year: Various from 1878 onwards
+     Type: Rules / Regulations / Notifications
+     Parent Act: Indian Forest Act, 1878/1927;
+                 Bengal Forest Rules
+     Subject: Special regulations for the Sundarbans mangrove forest --
+              timber felling, honey collection, fishing, wildlife
+              protection, navigation, settlement
+     Status: Partially active; Sundarbans management rules continue
+             under Forest Department, Bangladesh
+
+10.6 Title: Rules under the Wild Birds and Animals Protection Act, 1912
+     Year: 1912 onwards
+     Type: Rules
+     Parent Act: Wild Birds and Animals Protection Act, 1912
+                 (Act VIII of 1912)
+     Subject: Protection of specified species, closed seasons,
+              hunting licenses, sanctuaries
+     Status: Historical; superseded by Wildlife (Conservation and
+             Security) Act, 2012 in Bangladesh
+
+10.7 Title: Bengal Ferries Rules
+     Year: Various from 1885 onwards
+     Type: Rules
+     Parent Act: Bengal Ferries Act, 1885 (Bengal Act I of 1885)
+     Subject: Ferry operation, licensing, tolls, safety standards
+              on rivers and waterways
+     Note: Extremely relevant to Bangladesh given its extensive
+           river system
+     Status: Bengal Ferries Act was active in Bangladesh;
+             rules continued in adapted form
+
+================================================================================
+CATEGORY 11: FINANCIAL REGULATIONS AND TAX RULES
+================================================================================
+
+11.1 Title: Bengal Income Tax Rules (Provincial)
+     Year: Various
+     Type: Rules / Notifications
+     Parent Act: Indian Income Tax Act, 1922 (Act XI of 1922)
+     Subject: Income tax assessment, collection, refund procedures,
+              appellate procedures (Bengal-specific notifications and
+              jurisdictional orders)
+     Status: Income Tax Act 1922 was the basis for Bangladesh income
+             tax law until Income Tax Ordinance 1984; related rules
+             adapted over time
+
+11.2 Title: Bengal Agricultural Income Tax Rules
+     Year: 1944 onwards
+     Type: Rules
+     Parent Act: Bengal Agricultural Income Tax Act, 1944
+                 (Bengal Act IV of 1944)
+     Subject: Tax on agricultural income, assessment, collection
+     Status: Historical; agricultural income tax system evolved
+             post-independence
+
+11.3 Title: Bengal Amusement Tax Rules
+     Year: 1922 onwards
+     Type: Rules
+     Parent Act: Bengal Amusements Tax Act, 1922 (Bengal Act V of 1922)
+     Subject: Tax on entertainment -- cinema, theatre, sports events
+     Status: Active in Bangladesh (as adapted)
+
+11.4 Title: Bengal Finance Rules
+     Year: Various; part of the broader Indian Financial Code framework
+     Type: Rules
+     Parent Act: Government of India Act 1919/1935 (financial provisions);
+                 various financial legislation
+     Subject: Government expenditure, budget procedures, audit,
+              treasury rules, contingency expenditure
+     Key Sub-instruments:
+       (a) Bengal Treasury Rules
+       (b) Bengal Financial Rules (adaptation of Central Financial Rules)
+       (c) Bengal Account Rules
+       (d) Bengal Budget Manual
+       (e) Bengal Pension Rules
+     Status: Framework substantially continued; Bengal Treasury Rules
+             influenced Bangladesh treasury management
+
+11.5 Title: Bengal Pension Rules
+     Year: Various from 1870s onwards; consolidated multiple times
+     Type: Rules
+     Parent Act: Various service rules and pension legislation
+     Subject: Government service pensions -- eligibility, computation,
+              commutation, family pension, gratuity
+     Status: Historical; pension rules evolved but early framework
+             continued post-independence
+
+11.6 Title: Bengal General Provident Fund Rules
+     Year: Various
+     Type: Rules
+     Parent Act: Provident Funds Act, 1925 (Act XIX of 1925)
+     Subject: Provident fund contributions, withdrawals, advances,
+              final payment
+     Status: Active framework continued in Bangladesh
+
+11.7 Title: Rules under the Bengal Sales Tax Act
+     Year: 1941 onwards
+     Type: Rules
+     Parent Act: Bengal Finance (Sales Tax) Act, 1941
+                 (Bengal Act XIX of 1941)
+     Subject: Sales tax assessment, collection, registration of dealers
+     Status: Historical; sales tax replaced by VAT in Bangladesh
+
+11.8 Title: Rules under the Bengal Motor Vehicles Tax Act, 1932
+     Year: 1932 onwards
+     Type: Rules
+     Parent Act: Bengal Motor Vehicles Tax Act, 1932
+     Subject: Motor vehicle taxation, rates, exemptions
+     Status: Historical; superseded
+
+11.9 Title: Customs Rules (applicable to Bengal ports)
+     Year: Various from 1878 onwards
+     Type: Rules
+     Parent Act: Sea Customs Act, 1878 (Act VIII of 1878);
+                 Land Customs Act, 1924 (Act XIX of 1924)
+     Subject: Customs procedures, import/export, warehousing, bonding,
+              drawback, smuggling prevention
+     Key Sub-instruments:
+       (a) Sea Customs Rules
+       (b) Land Customs Rules
+       (c) Customs tariff notifications
+       (d) Rules for bonded warehouses
+     Status: Sea Customs Act continued in Bangladesh until Customs
+             Act 1969; framework rules evolved
+
+================================================================================
+CATEGORY 12: TRANSPORT AND COMMUNICATION -- RULES AND REGULATIONS
+================================================================================
+
+12.1 Title: Bengal Motor Vehicles Rules
+     Year: 1914 onwards; revised under 1939 Act
+     Type: Rules
+     Parent Act: Indian Motor Vehicles Act, 1914;
+                 Motor Vehicles Act, 1939 (Act IV of 1939)
+     Subject: Driving licenses, vehicle registration, speed limits,
+              road safety, permits, insurance, fitness certificates
+     Key Sub-instruments:
+       (a) Bengal Motor Vehicles Rules (under MV Act 1939)
+       (b) Rules for driving licenses
+       (c) Vehicle registration rules
+       (d) Rules for motor transport permit
+       (e) Road traffic signs and signals rules
+     Status: Motor Vehicles Act 1939 was operative in Bangladesh;
+             Bengal MV Rules continued until Motor Vehicles Ordinance
+             1983 replaced the framework
+
+12.2 Title: Indian Aircraft Rules (Bengal applications)
+     Year: 1937 onwards
+     Type: Rules
+     Parent Act: Indian Aircraft Act, 1934 (Act XXII of 1934)
+     Subject: Aircraft registration, airworthiness, pilot licensing,
+              aerodromes
+     Sub-instrument: Indian Aircraft Rules, 1937
+     Status: Aircraft Rules framework continued in Bangladesh;
+             now under Civil Aviation Authority
+
+12.3 Title: Bengal Inland Steam Vessels Rules
+     Year: 1917 onwards
+     Type: Rules
+     Parent Act: Inland Steam Vessels Act, 1917 (Act I of 1917)
+     Subject: Registration of inland vessels, safety equipment,
+              navigation rules, crew requirements, port rules
+     Key Sub-instruments:
+       (a) Bengal Inland Steam Vessels Rules
+       (b) Rules for survey of inland vessels
+       (c) Rules for licensing of engine drivers
+     Note: Extremely relevant to Bangladesh given its extensive
+           inland waterway system
+     Status: Inland Shipping framework continued in Bangladesh;
+             Inland Shipping Ordinance 1976 replaced but rules
+             adapted
+
+12.4 Title: Indian Telegraph Rules (Bengal applications)
+     Year: 1885 onwards
+     Type: Rules
+     Parent Act: Indian Telegraph Act, 1885 (Act XIII of 1885)
+     Subject: Telegraph and telephone services, licensing, tariffs,
+              interception provisions
+     Sub-instrument: Indian Telegraph Rules, 1886
+     Status: Telegraph Act framework continued; now telecommunications
+             regulatory framework in Bangladesh
+
+12.5 Title: Indian Post Office Rules (Bengal applications)
+     Year: 1898 onwards
+     Type: Rules
+     Parent Act: Indian Post Office Act, 1898 (Act VI of 1898)
+     Subject: Postal services, rates, money orders, savings bank,
+              insurance, parcel rules
+     Status: Post Office Act continued in Bangladesh; rules adapted
+
+12.6 Title: Bengal Highways Rules
+     Year: Various
+     Type: Rules
+     Parent Act: Bengal Highways Act (road legislation)
+     Subject: Highway construction, maintenance, tolls, land
+              acquisition for roads
+     Status: Historical; superseded
+
+12.7 Title: Indian Railways Rules (Bengal applications)
+     Year: Various from 1890 onwards
+     Type: Rules
+     Parent Act: Indian Railways Act, 1890 (Act IX of 1890)
+     Subject: Railway operations, passenger fares, goods carriage,
+              safety, accidents, claims
+     Key Sub-instruments:
+       (a) Bengal and Assam Railway Rules
+       (b) Eastern Bengal Railway Rules
+       (c) Rules for transport of dangerous goods
+       (d) Railway Servants' Conduct Rules
+     Status: Railways Act 1890 continued; Bangladesh Railway now
+             under separate legislation
+
+12.8 Title: Indian Ports Rules (Chittagong and other Bengal ports)
+     Year: 1908 onwards
+     Type: Rules
+     Parent Act: Indian Ports Act, 1908 (Act XV of 1908)
+     Subject: Port administration, pilotage, harbor safety,
+              anchorage, loading/unloading, quarantine
+     Key Sub-instruments:
+       (a) Chittagong Port Rules
+       (b) Rules for minor ports in Bengal
+     Status: Ports Act framework continued in Bangladesh;
+             Chittagong Port Authority now governs
+
+================================================================================
+CATEGORY 13: SERVICE AND ADMINISTRATIVE RULES
+================================================================================
+
+13.1 Title: Bengal Civil Service Rules
+     Year: Various from 1860s onwards; consolidated periodically
+     Type: Rules
+     Parent Act: Government of India Act, 1919 / 1935;
+                 various service legislation
+     Subject: Recruitment, appointment, promotion, discipline,
+              leave, pay, allowances for government servants in Bengal
+     Key Sub-instruments:
+       (a) Bengal Service Rules (Part I: General)
+       (b) Bengal Service Rules (Part II: Leave)
+       (c) Bengal Service Rules (Part III: Pension)
+       (d) Bengal Government Servants' Conduct Rules
+       (e) Bengal Ministerial Service Rules
+       (f) Bengal Subordinate Civil Service Rules
+       (g) Bengal Classification, Control, and Appeal Rules
+       (h) Bengal Civil Services (Classification, Control, and Appeal) Rules
+     Status: Framework substantially influenced post-independence
+             Bangladesh civil service rules; many provisions adapted
+
+13.2 Title: Bengal Police Service Rules
+     Year: Various
+     Type: Rules
+     Parent Act: Police Act, 1861; Bengal Police Act
+     Subject: Police recruitment, training, promotion, discipline,
+              pay scales, leave, pension
+     Status: Framework continued; adapted in Bangladesh police
+             service rules
+
+13.3 Title: Bengal Judicial Service Rules
+     Year: Various
+     Type: Rules
+     Parent Act: Government of India Act 1919/1935;
+                 High Court rules
+     Subject: Recruitment, appointment, promotion of judicial officers --
+              munsifs, subordinate judges, district judges
+     Status: Adapted post-independence; judicial service rules
+             evolved under Bangladesh framework
+
+13.4 Title: Bengal Government Servants' Conduct Rules
+     Year: Various; based on Central Government Servants' Conduct Rules, 1935
+     Type: Rules
+     Parent Act: Government of India Act 1935; service legislation
+     Subject: Standards of conduct for government employees,
+              political activity restrictions, gifts, private trade
+     Status: Framework continued; Government Servants (Conduct)
+             Rules adapted in Bangladesh
+
+13.5 Title: Bengal Secretariat Instructions
+     Year: Various
+     Type: Instructions / Rules
+     Parent Act: Administrative practice under Bengal government
+     Subject: Secretariat procedure, file management, noting,
+              drafting, correspondence procedures
+     Status: Influenced post-independence secretariat procedures
+
+13.6 Title: Bengal Travelling Allowance Rules
+     Year: Various
+     Type: Rules
+     Parent Act: Service rules framework
+     Subject: Travel allowance, daily allowance, transfer rules
+              for government servants
+     Status: Framework adapted in Bangladesh
+
+================================================================================
+CATEGORY 14: LAND ACQUISITION AND PUBLIC WORKS
+================================================================================
+
+14.1 Title: Bengal Land Acquisition Rules
+     Year: 1894 onwards
+     Type: Rules
+     Parent Act: Land Acquisition Act, 1894 (Act I of 1894)
+     Subject: Procedures for acquisition of land for public purpose,
+              compensation assessment, appeals, taking possession
+     Key Sub-instruments:
+       (a) Rules for determination of compensation
+       (b) Rules for reference to court under Section 18
+       (c) Urgency provisions rules
+       (d) Rules for acquisition for companies
+     Status: Land Acquisition Act 1894 was operative in Bangladesh
+             until Acquisition and Requisition of Immovable Property
+             Ordinance 1982; rules adapted
+
+14.2 Title: Rules under the Bengal Public Works Department Code
+     Year: Various
+     Type: Rules / Codes
+     Parent Act: Administrative rules under the PWD
+     Subject: Public works execution, tenders, contracts, supervision,
+              accounts, road and building construction standards
+     Status: Framework influenced Bangladesh PWD procedures
+
+================================================================================
+CATEGORY 15: COOPERATIVE SOCIETIES -- RULES AND REGULATIONS
+================================================================================
+
+15.1 Title: Bengal Cooperative Societies Rules
+     Year: 1912 onwards; revised 1940
+     Type: Rules
+     Parent Act: Cooperative Societies Act, 1912 (Act II of 1912);
+                 Bengal Cooperative Societies Act, 1940 (Bengal Act XXI of 1940)
+     Subject: Registration of cooperative societies, management,
+              audit, liquidation, dispute resolution
+     Key Sub-instruments:
+       (a) Rules for registration
+       (b) Rules for audit and inspection
+       (c) Rules for election of managing committees
+       (d) Rules for liquidation of societies
+       (e) Rules for credit cooperative societies
+       (f) Rules for agricultural cooperative societies
+     Status: Cooperative Societies Act framework continued in Bangladesh;
+             rules adapted under subsequent legislation
+
+================================================================================
+CATEGORY 16: WAQF, RELIGIOUS ENDOWMENTS, AND TRUSTS
+================================================================================
+
+16.1 Title: Bengal Waqf Rules
+     Year: 1935 onwards
+     Type: Rules
+     Parent Act: Bengal Wakf Act, 1934 (Bengal Act XIII of 1934);
+                 Mussalman Wakf Validating Act, 1913 (Act VI of 1913)
+     Subject: Registration of waqf properties, management, accounts,
+              survey of waqf estates, waqf tribunal procedures
+     Status: Active in Bangladesh (as adapted); Waqf Ordinance 1962
+             replaced Bengal Wakf Act but many procedural rules continued
+
+16.2 Title: Rules under the Charitable Endowments Act, 1890
+     Year: 1890 onwards
+     Type: Rules
+     Parent Act: Charitable Endowments Act, 1890 (Act VI of 1890)
+     Subject: Vesting and administration of charitable endowments
+     Status: Active in Bangladesh (as adapted)
+
+16.3 Title: Bengal Hindu Religious Endowments Rules
+     Year: 1935 onwards
+     Type: Rules
+     Parent Act: Bengal Hindu Religious Endowments Act
+     Subject: Management of Hindu religious endowment properties
+     Status: Historical; adapted post-independence
+
+16.4 Title: Rules under the Societies Registration Act, 1860
+     Year: 1860 onwards
+     Type: Rules
+     Parent Act: Societies Registration Act, 1860 (Act XXI of 1860)
+     Subject: Registration of literary, scientific, charitable societies;
+              governance, annual returns
+     Status: Active in Bangladesh
+
+================================================================================
+CATEGORY 17: TRANSFER OF PROPERTY AND EASEMENTS
+================================================================================
+
+17.1 Title: Rules and Notifications under the Transfer of Property Act, 1882
+     Year: 1882 onwards
+     Type: Rules / Notifications
+     Parent Act: Transfer of Property Act, 1882 (Act IV of 1882)
+     Subject: Transfer procedures, mortgage rules, lease rules
+     Status: Transfer of Property Act active in Bangladesh; rules continue
+
+17.2 Title: Rules under the Indian Easements Act, 1882
+     Year: 1882 onwards
+     Type: Rules / Notifications
+     Parent Act: Indian Easements Act, 1882 (Act V of 1882)
+     Subject: Easement rights, prescriptive rights
+     Status: Active in Bangladesh
+
+================================================================================
+CATEGORY 18: MISCELLANEOUS BENGAL-SPECIFIC RULES AND REGULATIONS
+================================================================================
+
+18.1 Title: Bengal Emigration Rules
+     Year: Various
+     Type: Rules
+     Parent Act: Indian Emigration Act, 1922 (Act VII of 1922)
+     Subject: Regulation of emigration of laborers
+     Status: Historical
+
+18.2 Title: Bengal Dramatic Performances Rules
+     Year: 1876 onwards
+     Type: Rules
+     Parent Act: Dramatic Performances Act, 1876 (Act XIX of 1876)
+     Subject: Censorship and control of dramatic performances
+     Status: Historical; largely obsolete
+
+18.3 Title: Bengal Press Rules
+     Year: Various from 1867 onwards
+     Type: Rules / Regulations
+     Parent Act: Press and Registration of Books Act, 1867
+                 (Act XXV of 1867); Indian Press (Emergency Powers) Act, 1931
+     Subject: Registration of printing presses, newspapers,
+              book publication requirements, press regulation
+     Key Sub-instruments:
+       (a) Rules for registration of printing presses
+       (b) Rules for registration of newspapers
+       (c) Rules for delivery of books to government
+     Status: Press and Registration of Books Act 1867 continues in
+             Bangladesh (as adapted); rules continue
+
+18.4 Title: Bengal Official Language Rules
+     Year: Various notifications
+     Type: Notifications / Rules
+     Parent Act: Administrative orders
+     Subject: Use of languages in courts and government offices
+     Status: Historical; superseded by Bengali language legislation
+             post-independence
+
+18.5 Title: Rules under the Indian Treasure Trove Act, 1878
+     Year: 1878 onwards
+     Type: Rules
+     Parent Act: Indian Treasure Trove Act, 1878 (Act VI of 1878)
+     Subject: Finding and reporting of treasure, reward, government claims
+     Status: Active in Bangladesh (as adapted)
+
+18.6 Title: Rules under the Bengal Suppression of Terrorist
+            Outrages Act, 1932
+     Year: 1932 onwards
+     Type: Rules
+     Parent Act: Bengal Suppression of Terrorist Outrages Act, 1932
+     Subject: Emergency security measures (colonial era)
+     Status: Repealed; historical significance only
+
+18.7 Title: Rules under the Indian Lunacy Act, 1912
+     Year: 1912 onwards
+     Type: Rules
+     Parent Act: Indian Lunacy Act, 1912 (Act IV of 1912)
+     Subject: Mental health -- reception orders, custody of lunatics,
+              asylum administration
+     Sub-instrument: Bengal Lunacy Rules
+     Status: Historical; superseded by mental health legislation
+
+18.8 Title: Bengal Cinematograph Rules
+     Year: 1918 onwards
+     Type: Rules
+     Parent Act: Indian Cinematograph Act, 1918;
+                 Cinematograph Act, 1918 (Act II of 1918)
+     Subject: Censorship of films, cinema licensing, safety regulations
+              for cinema halls
+     Status: Active framework continued; Censorship of Films Act
+             framework in Bangladesh
+
+18.9 Title: Rules under the Bengal Smoke Nuisances Act, 1905
+     Year: 1905 onwards
+     Type: Rules
+     Parent Act: Bengal Smoke Nuisances Act, 1905
+     Subject: Industrial air pollution control, smoke standards
+     Status: Historical; environmental law evolved
+
+18.10 Title: Rules under the Bengal Town Planning Act
+      Year: Not enacted during British period at provincial level;
+            town planning governed through municipal by-laws
+      Type: N/A
+      Note: For reference -- Town Improvement Act, 1953 came later
+
+18.11 Title: Rules under the Legal Practitioners Act, 1879
+      Year: 1879 onwards
+      Type: Rules
+      Parent Act: Legal Practitioners Act, 1879 (Act XVIII of 1879)
+      Subject: Enrollment of legal practitioners, conduct rules,
+               fees, discipline
+      Sub-instruments:
+        (a) Bar Council Rules (under later legislation)
+        (b) Rules for Mukhtars and Revenue Agents
+      Status: Historical; superseded by Legal Practitioners and
+              Bar Council Act/Order
+
+18.12 Title: Rules under the Indian Majority Act, 1875
+      Year: 1875 onwards
+      Type: Notifications
+      Parent Act: Indian Majority Act, 1875 (Act IX of 1875)
+      Subject: Age of majority for various legal purposes
+      Status: Active in Bangladesh
+
+18.13 Title: Rules under the Bengal Tenancy (Amendment) Act, 1928
+      Year: 1928 onwards
+      Type: Rules
+      Parent Act: Bengal Tenancy (Amendment) Act, 1928
+      Subject: Amendments to tenancy procedures
+      Status: Historical; superseded by SAT Act 1950
+
+18.14 Title: Bengal Detention Rules
+      Year: Various; particularly 1930s-1940s
+      Type: Rules
+      Parent Act: Bengal Criminal Law Amendment Act;
+                  Defence of India Rules, 1939
+      Subject: Preventive detention procedures during colonial period
+      Status: Historical; repealed
+
+18.15 Title: Rules under the Bengal Special Powers Act, 1932
+      Year: 1932 onwards
+      Type: Rules
+      Parent Act: Bengal Criminal Law Amendment (Special Powers) Act, 1932
+      Subject: Special criminal law powers, tribunal procedures
+      Status: Historical
+
+18.16 Title: Rules under the Cantonment Act, 1924
+      Year: 1924 onwards
+      Type: Rules / By-Laws
+      Parent Act: Cantonments Act, 1924 (Act II of 1924)
+      Subject: Administration of cantonment areas (military stations)
+               including building, sanitation, taxation, markets
+      Relevant Cantonments: Dhaka Cantonment, Chittagong Cantonment,
+                            Comilla Cantonment, Jessore Cantonment,
+                            Rangpur Cantonment
+      Status: Cantonments Act framework continued in Bangladesh;
+              Cantonment Board by-laws adapted
+
+18.17 Title: Rules under the Cattle-trespass Act, 1871
+      Year: 1871 onwards
+      Type: Rules
+      Parent Act: Cattle-trespass Act, 1871 (Act I of 1871)
+      Subject: Impounding of trespassing cattle, fines, pound rules
+      Status: Active in Bangladesh (as adapted)
+
+18.18 Title: Rules under the Bengal Military Police Regulation
+      Year: Various
+      Type: Regulations
+      Parent Act: Administrative regulations
+      Subject: Auxiliary military police forces
+      Status: Historical
+
+18.19 Title: Rules under the Antiquities Act / Ancient Monuments
+             Preservation Act, 1904
+      Year: 1904 onwards
+      Type: Rules
+      Parent Act: Ancient Monuments Preservation Act, 1904 (Act VII of 1904)
+      Subject: Protection of ancient monuments and sites, archaeological
+               excavation permits, protected area declarations
+      Sub-instrument: Ancient Monuments Preservation Rules
+      Status: Active framework; Antiquities Act 1968 in Bangladesh
+              inherited from this tradition
+
+18.20 Title: Rules under the Indian Electricity Act, 1910
+      Year: 1910 onwards (covered partially in Category 8)
+      Type: Rules
+      Parent Act: Indian Electricity Act, 1910
+      Subject: Electrical safety, wiring rules, meter rules
+      Status: Active framework continued
+
+================================================================================
+CATEGORY 19: WARTIME AND EMERGENCY REGULATIONS (1939-1947)
+================================================================================
+
+NOTE: During World War II, extensive emergency subordinate legislation was
+enacted under the Defence of India Act, 1939 and Defence of India Rules.
+Many of these were temporary but some provisions were continued post-war.
+
+19.1 Title: Defence of India Rules, 1939
+     Year: 1939 onwards
+     Type: Rules
+     Parent Act: Defence of India Act, 1939
+     Subject: Comprehensive emergency powers -- detention, censorship,
+              requisition, rationing, price control, movement restrictions
+     Status: Expired; historical significance
+
+19.2 Title: Bengal Food Grains Control Order
+     Year: 1942 onwards
+     Type: Order
+     Parent Act: Defence of India Rules; Essential Supplies
+                 (Temporary Powers) Act, 1946
+     Subject: Food rationing, price control, procurement, distribution
+              (enacted during Bengal Famine of 1943)
+     Status: Historical; food control system evolved
+
+19.3 Title: Bengal Foodstuffs (Control) Order
+     Year: 1943 onwards
+     Type: Order
+     Parent Act: Defence of India Rules
+     Subject: Control of foodstuff prices and distribution
+     Status: Historical
+
+19.4 Title: Bengal Cloth and Yarn Control Order
+     Year: 1943 onwards
+     Type: Order
+     Parent Act: Defence of India Rules
+     Subject: Textile rationing and distribution
+     Status: Historical
+
+19.5 Title: Essential Commodities Rules (Bengal)
+     Year: 1946 onwards
+     Type: Rules
+     Parent Act: Essential Supplies (Temporary Powers) Act, 1946
+     Subject: Control of essential commodities -- post-war continuation
+              of wartime controls
+     Status: Framework continued under Essential Commodities Acts
+             in Pakistan and Bangladesh
+
+19.6 Title: Bengal Civil Defence Rules
+     Year: 1939 onwards
+     Type: Rules
+     Parent Act: Defence of India Rules; Civil Defence Act
+     Subject: Air raid precautions, blackout regulations, civil
+              defence organization
+     Status: Historical
+
+================================================================================
+CATEGORY 20: HIGH COURT RULES AND PRACTICE DIRECTIONS
+================================================================================
+
+NOTE: The High Court of Calcutta exercised jurisdiction over Bengal
+(including present-day Bangladesh) until 1947. The Dhaka Bench of the
+Calcutta High Court was established in 1905 (abolished 1911, re-established
+at various points). After Partition (1947), the Dhaka High Court
+(later the High Court Division of the Supreme Court of Bangladesh)
+inherited many of the practice rules.
+
+20.1 Title: Calcutta High Court Rules (Original Side)
+     Year: Various from 1862 onwards
+     Type: Rules
+     Parent Act: Letters Patent, 1865 (Calcutta High Court);
+                 Charter of the High Court
+     Subject: Original jurisdiction proceedings, commercial suits,
+              admiralty, testamentary, matrimonial jurisdiction
+     Status: Historical; Dhaka High Court developed its own rules
+             post-partition
+
+20.2 Title: Calcutta High Court Rules (Appellate Side)
+     Year: Various from 1862 onwards
+     Type: Rules
+     Parent Act: Letters Patent; CPC; CrPC
+     Subject: Appeals, revision, reference procedures, criminal appeals,
+              constitutional writs
+     Status: Historical; foundational for High Court Division rules
+             in Bangladesh
+
+20.3 Title: Calcutta High Court Circular Orders
+     Year: Various; compiled periodically
+     Type: Circular Orders / Practice Directions
+     Parent Act: Inherent jurisdiction of High Court; CPC/CrPC
+     Subject: Court administration, case management, filing procedures,
+              format of documents, adjournment policies, listing
+     Status: Historical; Dhaka/Bangladesh High Court issued its own
+             circular orders but inherited many practices
+
+20.4 Title: Appellate Side Rules of the High Court (Bengal/Dhaka)
+     Year: Various
+     Type: Rules
+     Subject: Filing of appeals, memoranda, cross-objections, stay
+              applications, hearing procedures
+     Status: Evolved into the current Appellate Division and High Court
+             Division Rules of the Supreme Court of Bangladesh
+
+================================================================================
+SUMMARY STATISTICS AND NOTES
+================================================================================
+
+TOTAL CATEGORIES COVERED: 20
+
+ESTIMATED NUMBER OF DISCRETE SUBORDINATE LEGISLATION INSTRUMENTS
+IDENTIFIED IN THIS COMPILATION: Approximately 200+ individual instruments
+across all categories (including sub-instruments under major headings).
+
+KEY OBSERVATIONS:
+
+1. MOST PROLIFIC SOURCES OF SUBORDINATE LEGISLATION:
+   - Bengal Tenancy Act, 1885 (land and tenancy rules)
+   - Code of Criminal Procedure, 1898 (criminal court rules)
+   - Code of Civil Procedure, 1908 (civil court rules)
+   - Indian Forest Act, 1927 (forest rules)
+   - Police Act, 1861 (police regulations)
+   - Bengal Municipal Act, 1932 (municipal by-laws)
+   - Government of India Act, 1935 (service and administrative rules)
+   - Defence of India Act, 1939 (wartime emergency rules)
+
+2. STATUS DISTRIBUTION (ESTIMATED):
+   - Active in Bangladesh (as adapted): ~35-40%
+   - Amended but framework continues: ~20-25%
+   - Superseded by post-independence legislation: ~25-30%
+   - Repealed or obsolete: ~10-15%
+
+3. CRITICAL DATA SOURCES FOR VERIFICATION:
+   - Bangladesh Laws (bdlaws.minlaw.gov.bd) -- Ministry of Law digital repository
+   - Bangladesh Gazette archives (Bangladesh Government Press, Tejgaon)
+   - National Archives of Bangladesh, Dhaka
+   - Gazette of India archives (National Archives of India, New Delhi)
+   - Bengal Gazette / Calcutta Gazette historical archives
+   - Supreme Court of Bangladesh Library
+   - Dhaka University Law Library
+   - Indian Kanoon (indiankanoon.org) -- for historical Indian legislation
+   - CommonLII (commonlii.org) -- Commonwealth legal information
+   - British Library India Office Records (for earliest period)
+
+4. IMPORTANT METHODOLOGICAL NOTES:
+   - Many instruments were published only in the Bengal Gazette and
+     may not be available in digital form; physical archival research
+     is essential for SD-1 (1799-1947 segment)
+   - Post-Partition (1947) adaptations must be traced through the
+     Pakistan Legal Framework Orders and East Bengal adaptation orders
+   - Some instruments were made by the Central Government (GoI) but
+     applied to Bengal Province specifically
+   - University regulations, cantonment by-laws, and port trust rules
+     constitute a significant body of quasi-legislative instruments
+     that may or may not fall within the strict definition of
+     "subordinate legislation" -- clarification from the Project Office
+     may be needed
+   - Wartime emergency legislation (1939-1945) generated an enormous
+     volume of orders and notifications, many of which were temporary
+     but some of which were continued through adaptation
+
+5. KNOWN GAPS IN THIS COMPILATION:
+   - Specific gazette notification numbers and dates require
+     archival verification
+   - Precise amendment histories for most instruments require
+     gazette-by-gazette tracking
+   - Some Bengal-specific by-laws of individual municipalities
+     (beyond Dhaka and Chittagong) are not individually listed
+   - Rules of individual educational institutions (beyond Dhaka
+     University) are not comprehensively listed
+   - Individual cantonment board by-laws are not separately enumerated
+   - District-level administrative orders and notifications are
+     not individually catalogued
+
+================================================================================
+RECOMMENDED NEXT STEPS FOR THE LEGAL EMPIRE TEAM
+================================================================================
+
+1. Cross-reference this compilation against bdlaws.minlaw.gov.bd for
+   all instruments currently listed as active laws of Bangladesh
+
+2. Access the National Archives of Bangladesh for Bengal Gazette
+   volumes from 1858-1947 to identify gazette notifications not
+   captured in secondary compilations
+
+3. Consult "The Unrepealed General Acts of the Governor General in
+   Council" (compiled by the Government of India) for central
+   subordinate legislation applicable to Bengal
+
+4. Review "Bengal Acts and Ordinances" compilations published by
+   the Bengal Government Press for provincial subordinate legislation
+
+5. Examine the "East Bengal Adaptation of Laws Order, 1947" and
+   subsequent adaptation instruments to determine which pre-1947
+   subordinate legislation was formally adopted in East Pakistan/Bangladesh
+
+6. Consult the "Manual of Bengal Laws" and "Bengal Code" publications
+   for comprehensive listings of rules under each Act
+
+7. Review the Pakistan Legal Framework Orders (1947-1970) for the
+   adaptation and continuation status of pre-1947 instruments
+
+8. For each instrument, prepare a detailed data entry in the Master
+   Inventory format specified in the Work Plan (Serial Number, Title,
+   Type, Parent Act, Ministry, Date, Gazette Reference, Status, Remarks)
+
+================================================================================
+                              END OF COMPILATION
+================================================================================
+
+Document prepared for: The Legal Empire
+Project: Preparation of Code of Delegated/Subordinate Legislation of Bangladesh
+Package: SD-1 (1799-1970)
+================================================================================

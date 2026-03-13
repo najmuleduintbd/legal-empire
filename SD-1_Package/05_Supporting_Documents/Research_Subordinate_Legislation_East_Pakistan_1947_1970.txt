@@ -1,0 +1,2241 @@
+================================================================================
+    COMPREHENSIVE RESEARCH: SUBORDINATE/DELEGATED LEGISLATIONS OF
+    EAST PAKISTAN/PAKISTAN (1947-1970)
+
+    Prepared for: Package SD-1 (1799-1970) - Code of Delegated/Subordinate
+    Legislation of Bangladesh
+
+    Project: Strengthening Legislative Capacity and Legal Awareness Building
+    Legislative and Parliamentary Affairs Division
+    Ministry of Law, Justice and Parliamentary Affairs
+    Government of the People's Republic of Bangladesh
+
+    Research Date: March 2026
+================================================================================
+
+TABLE OF CONTENTS
+-----------------
+  I.    Introductory Note and Legal Framework
+  II.   Land Reform Rules and Regulations
+  III.  Revenue and Tax Rules
+  IV.   Municipal Administration By-Laws
+  V.    Education Rules and Regulations
+  VI.   Public Order and Safety Regulations
+  VII.  Labour and Industrial Regulations
+  VIII. Family Law Rules
+  IX.   Trade and Commerce Regulations
+  X.    Basic Democracies Rules
+  XI.   Martial Law Regulations and Orders
+  XII.  Constitution-Related Subordinate Legislation
+  XIII. Agricultural and Cooperative Society Rules
+  XIV.  Transport, Communication, and Infrastructure Rules
+  XV.   Public Service Rules and Regulations
+  XVI.  Banking and Financial Regulations
+  XVII. Import/Export Regulations
+  XVIII.Criminal Justice and Procedural Rules
+  XIX.  Local Government Rules
+  XX.   Miscellaneous Subordinate Legislations
+  XXI.  Key Archival Sources and Repositories
+  XXII. Methodological Notes
+
+================================================================================
+I. INTRODUCTORY NOTE AND LEGAL FRAMEWORK
+================================================================================
+
+LEGAL CONTINUITY FRAMEWORK:
+Upon the partition of British India on 14 August 1947, the Indian Independence
+Act, 1947 (10 & 11 Geo. 6. c. 30) provided under Section 18 that all existing
+laws would continue in force in Pakistan until altered, repealed, or amended by
+competent authority. This principle of legal continuity meant that the entire
+body of British Indian subordinate legislation -- rules, regulations, by-laws,
+orders, notifications -- remained operative in Pakistan (including East Bengal/
+East Pakistan) from 1947 onward.
+
+The Pakistan (Provisional Constitution) Order, 1947, adapted by the Governor-
+General, further confirmed this continuity. Subsequently, the Government of
+India (Adaptation of Existing Pakistani Laws) Order, 1947, made textual
+adaptations (replacing "British India" with "Pakistan," "Governor-General in
+Council" with "Governor-General," etc.) but preserved the substance.
+
+For East Bengal (renamed East Pakistan in 1956), the dual structure of central
+and provincial legislation meant that subordinate legislation existed at both
+levels:
+  - Central (Federal): Rules/regulations under Acts of the Central Legislature
+    (Dominion Parliament, later National Assembly)
+  - Provincial: Rules/regulations under East Bengal/East Pakistan Provincial
+    Assembly Acts, as well as continued pre-partition Bengal Acts
+
+KEY ENABLING INSTRUMENTS FOR SUBORDINATE LEGISLATION:
+  1. General Clauses Act, 1897 (Act X of 1897) - Section 21: Powers of
+     rule-making authorities
+  2. Individual parent Acts containing specific delegation clauses
+  3. Essential Services (Maintenance) Ordinance, 1952
+  4. Various Adaptation Orders (1947, 1949, 1950, 1956, 1962)
+
+PUBLICATION REQUIREMENTS:
+All subordinate legislations were required to be published in:
+  - The Gazette of Pakistan (for central legislation)
+  - The Dhaka/Dacca Gazette (East Bengal/East Pakistan Gazette) for provincial
+    subordinate legislation
+  - Occasionally in the Bangladesh Gazette post-1971 when re-notified
+
+NOTE ON CURRENT STATUS:
+Under Article 149 of the Constitution of the People's Republic of Bangladesh
+(1972), and by virtue of the Bangladesh (Adaptation of Existing Laws) Order,
+1972 (President's Order No. 48 of 1972), known as the Laws Continuance
+Enforcement Order, all Pakistan-era laws (including subordinate legislation)
+continued in force in Bangladesh subject to modifications, adaptations, and
+repeals made from time to time. The Bangladesh Laws Revision and Declaration
+Act, 1973 (Act VIII of 1973) further confirmed this.
+
+================================================================================
+II. LAND REFORM RULES AND REGULATIONS
+================================================================================
+
+1.  Title: East Bengal State Acquisition and Tenancy Rules, 1951
+    Year: 1951
+    Type: Rules
+    Parent/Enabling Act: East Bengal State Acquisition and Tenancy Act, 1950
+        (East Bengal Act XXVIII of 1951)
+    Subject: Land reform, abolition of zamindari, acquisition of rent-
+        receiving interests, tenancy rights, ceiling on landholding
+    Current Status: Active (with amendments) - One of the most important
+        land law instruments still operative in Bangladesh
+    Notes: These rules prescribed detailed procedures for:
+        - Notification and acquisition of rent-receiving interests
+        - Preparation of Compensation Assessment Rolls (CA Rolls)
+        - Assessment and payment of compensation
+        - Preparation of record of rights (khatians)
+        - Revenue survey procedures
+        - Transfer of holdings and mutation
+        - Ceiling on holdings and redistribution of surplus land
+
+2.  Title: East Bengal State Acquisition and Tenancy (Amendment) Rules, 1955
+    Year: 1955
+    Type: Rules (Amendment)
+    Parent/Enabling Act: East Bengal State Acquisition and Tenancy Act, 1950
+    Subject: Amendments to acquisition procedures
+    Current Status: Merged into principal rules
+
+3.  Title: East Bengal State Acquisition and Tenancy (Amendment) Rules, 1961
+    Year: 1961
+    Type: Rules (Amendment)
+    Parent/Enabling Act: East Bengal State Acquisition and Tenancy Act, 1950
+    Subject: Further procedural amendments
+    Current Status: Merged into principal rules
+
+4.  Title: East Pakistan Land Revenue Rules
+    Year: 1950 (continuing from Bengal Land Revenue Rules)
+    Type: Rules
+    Parent/Enabling Act: Bengal Land Revenue Sale Act, 1868 (Act VII of
+        1868) / Bengal Tenancy Act, 1885 (Act VIII of 1885)
+    Subject: Collection of land revenue, assessment, default procedures
+    Current Status: Partially active, substantially modified
+
+5.  Title: Non-Agricultural Tenancy Rules, 1949
+    Year: 1949
+    Type: Rules
+    Parent/Enabling Act: Non-Agricultural Tenancy Act, 1949 (East Bengal
+        Act XXIII of 1949)
+    Subject: Tenancy of non-agricultural land, urban plots
+    Current Status: Active with amendments
+
+6.  Title: East Pakistan Government Estates Manual, 1958
+    Year: 1958
+    Type: Manual/Rules
+    Parent/Enabling Act: Various land revenue statutes
+    Subject: Management of government estates (khas land), land settlement,
+        lease procedures
+    Current Status: Active (substantially amended)
+
+7.  Title: East Pakistan Land Reforms (Limitation of Land Holdings)
+    Rules, 1961
+    Year: 1961
+    Type: Rules
+    Parent/Enabling Act: Land Reforms Ordinance, 1961 (Ordinance V of 1961)
+        / Land Reforms Regulation, 1959 (MLR-64)
+    Subject: Ceiling on agricultural holdings (100 bighas/33.3 acres),
+        surrender of excess land, redistribution
+    Current Status: Superseded by subsequent Bangladesh legislation
+
+8.  Title: Waqf Estate Rules, 1962
+    Year: 1962
+    Type: Rules
+    Parent/Enabling Act: East Pakistan Waqfs Ordinance, 1962 (Ordinance I
+        of 1962)
+    Subject: Administration and management of waqf properties
+    Current Status: Amended and incorporated into Bangladesh Waqf framework
+
+9.  Title: East Pakistan Disturbed Persons Rehabilitation (Land Settlement)
+    Rules, 1964
+    Year: 1964
+    Type: Rules
+    Parent/Enabling Act: East Pakistan Disturbed Persons Rehabilitation
+        Ordinance, 1964
+    Subject: Settlement of land to displaced persons, refugee rehabilitation
+    Current Status: Largely obsolete
+
+10. Title: Court of Wards Rules, 1951 (East Bengal)
+    Year: 1951
+    Type: Rules
+    Parent/Enabling Act: Court of Wards Act, 1879 (Act IX of 1879)
+    Subject: Management of estates of disqualified proprietors, minors
+    Current Status: Limited applicability
+
+11. Title: East Pakistan Acquisition of Waste Land Rules, 1951
+    Year: 1951
+    Type: Rules
+    Parent/Enabling Act: East Bengal (Emergency) Requisition of Property
+        Act, 1948
+    Subject: Acquisition and distribution of waste lands
+    Current Status: Partially active
+
+12. Title: East Bengal Alluvion and Diluvion Regulations, 1952
+    Year: 1952
+    Type: Regulation/Rules
+    Parent/Enabling Act: General land revenue laws
+    Subject: Rules for dealing with newly formed chars (alluvion) and
+        eroded land (diluvion)
+    Current Status: Active - critical for Bangladesh riverine land issues
+
+13. Title: Chittagong Hill Tracts Land Revenue Regulation Rules
+    Year: 1950 (adapted)
+    Type: Rules
+    Parent/Enabling Act: Chittagong Hill Tracts Regulation, 1900
+        (Regulation I of 1900)
+    Subject: Land revenue, settlement, and administration in CHT
+    Current Status: Active with modifications under CHT Accord framework
+
+14. Title: East Pakistan Survey and Settlement Rules, 1962
+    Year: 1962
+    Type: Rules
+    Parent/Enabling Act: Survey Act, 1875 / Bengal Survey Act, 1875
+    Subject: Cadastral and revisional surveys, preparation of records
+        of rights
+    Current Status: Active - still governing land survey operations
+
+15. Title: Registration Rules, 1949 (East Bengal Adaptation)
+    Year: 1949
+    Type: Rules
+    Parent/Enabling Act: Registration Act, 1908 (Act XVI of 1908)
+    Subject: Registration of documents, deeds, property transfers
+    Current Status: Active with amendments
+
+================================================================================
+III. REVENUE AND TAX RULES
+================================================================================
+
+1.  Title: East Bengal Finance Rules, 1951
+    Year: 1951
+    Type: Rules
+    Parent/Enabling Act: Government of India Act, 1935 (adapted) /
+        Pakistan Finance Act provisions
+    Subject: Government financial procedures, expenditure authorization,
+        budget processes
+    Current Status: Replaced by Bangladesh Finance Rules
+
+2.  Title: Income Tax Rules, 1962
+    Year: 1962
+    Type: Rules
+    Parent/Enabling Act: Income Tax Ordinance, 1962 (Ordinance XXXVI of
+        1962) [Central]
+    Subject: Detailed procedures for income tax assessment, collection,
+        appeals, exemptions, tax holidays
+    Current Status: Active in Bangladesh (with extensive amendments) -
+        still the operative procedural framework
+
+3.  Title: East Pakistan Urban Immovable Property Tax Rules, 1963
+    Year: 1963
+    Type: Rules
+    Parent/Enabling Act: East Pakistan Urban Immovable Property Tax
+        Ordinance, 1962
+    Subject: Assessment and collection of property tax in urban areas
+    Current Status: Substantially modified but framework continues
+
+4.  Title: Sales Tax Rules, 1951
+    Year: 1951
+    Type: Rules
+    Parent/Enabling Act: Sales Tax Act, 1951 (Act XXXIII of 1951) [Central]
+    Subject: Procedures for levy, collection, and exemption of sales tax
+    Current Status: Superseded by VAT regime but historical significance
+
+5.  Title: Central Excise Rules, 1944 (Pakistan Adaptation)
+    Year: 1947 (adapted), amended multiple times through 1970
+    Type: Rules
+    Parent/Enabling Act: Central Excises and Salt Act, 1944 (Act I of 1944)
+    Subject: Excise duty on manufactured goods, licensing of manufacturers
+    Current Status: Active with amendments (now under Excise and Salt Act
+        framework in Bangladesh)
+
+6.  Title: Customs Rules, 1951
+    Year: 1951
+    Type: Rules
+    Parent/Enabling Act: Sea Customs Act, 1878 (Act VIII of 1878) /
+        Land Customs Act, 1924
+    Subject: Customs procedures, valuation, clearance, warehousing
+    Current Status: Substantially revised under Customs Act, 1969
+
+7.  Title: Customs Rules, 1969 (Revised)
+    Year: 1969
+    Type: Rules
+    Parent/Enabling Act: Customs Act, 1969 (Act IV of 1969) [Central]
+    Subject: Comprehensive customs procedures
+    Current Status: Active in Bangladesh with amendments
+
+8.  Title: East Pakistan Agricultural Income Tax Rules, 1949
+    Year: 1949
+    Type: Rules
+    Parent/Enabling Act: East Bengal Agricultural Income Tax Act, 1944
+        (Bengal Act IV of 1944, adapted)
+    Subject: Assessment of agricultural income tax
+    Current Status: Framework continues with modifications
+
+9.  Title: Estate Duty Rules, 1953
+    Year: 1953
+    Type: Rules
+    Parent/Enabling Act: Estate Duty Act, 1950 (Act XV of 1950) [Central]
+    Subject: Estate duty on deceased persons' property
+    Current Status: Obsolete (Estate Duty Act no longer operative)
+
+10. Title: Stamp Rules, 1950 (East Bengal)
+    Year: 1950
+    Type: Rules
+    Parent/Enabling Act: Stamp Act, 1899 (Act II of 1899)
+    Subject: Rates, procedures, and exemptions for stamp duty
+    Current Status: Active with amendments
+
+11. Title: Court Fees Rules, 1950 (East Bengal)
+    Year: 1950
+    Type: Rules
+    Parent/Enabling Act: Court Fees Act, 1870 (Act VII of 1870)
+    Subject: Court fee schedules, exemptions
+    Current Status: Active with amendments
+
+12. Title: East Pakistan Entertainment Tax Rules, 1954
+    Year: 1954
+    Type: Rules
+    Parent/Enabling Act: East Bengal Entertainment Tax Act, 1949 (East
+        Bengal Act VII of 1949)
+    Subject: Tax on cinema halls, theaters, amusements
+    Current Status: Modified/Active
+
+13. Title: East Pakistan Motor Vehicles Tax Rules, 1958
+    Year: 1958
+    Type: Rules
+    Parent/Enabling Act: Bengal Motor Vehicles Tax Act, 1932 (adapted)
+    Subject: Road tax on motor vehicles
+    Current Status: Active with modifications
+
+14. Title: Wealth Tax Rules, 1963
+    Year: 1963
+    Type: Rules
+    Parent/Enabling Act: Wealth Tax Act, 1963 (Act XV of 1963) [Central]
+    Subject: Assessment of wealth tax on individuals
+    Current Status: Active framework in Bangladesh
+
+15. Title: Gift Tax Rules, 1963
+    Year: 1963
+    Type: Rules
+    Parent/Enabling Act: Gift Tax Act, 1963 (Act XIV of 1963) [Central]
+    Subject: Tax on gifts and transfers
+    Current Status: Active framework in Bangladesh
+
+16. Title: East Pakistan Hotel and Restaurant Tax Rules, 1966
+    Year: 1966
+    Type: Rules
+    Parent/Enabling Act: East Pakistan Hotel and Restaurant Tax Ordinance, 1965
+    Subject: Luxury tax on hotel and restaurant services
+    Current Status: Modified
+
+17. Title: East Pakistan Treasury Rules (Adaptation), 1949
+    Year: 1949
+    Type: Rules
+    Parent/Enabling Act: Treasury rules adapted from British Indian framework
+    Subject: Treasury management, government receipts and payments
+    Current Status: Replaced by Bangladesh Treasury Rules
+
+================================================================================
+IV. MUNICIPAL ADMINISTRATION BY-LAWS
+================================================================================
+
+1.  Title: East Bengal Municipal (Model By-Laws) Rules, 1953
+    Year: 1953
+    Type: By-Laws/Rules
+    Parent/Enabling Act: East Bengal Municipal Act, 1932 (adapted) /
+        Bengal Municipal Act, 1932 (Bengal Act XV of 1932)
+    Subject: Model by-laws for municipalities covering sanitation, water
+        supply, building construction, markets, slaughterhouses
+    Current Status: Superseded by Local Government Acts but historically
+        significant
+
+2.  Title: Municipal Administration Rules, 1960 (East Pakistan)
+    Year: 1960
+    Type: Rules
+    Parent/Enabling Act: Municipal Administration Ordinance, 1960
+        (East Pakistan Ordinance XXVI of 1960)
+    Subject: Composition, elections, powers, and functions of municipal bodies
+    Current Status: Superseded but framework inherited
+
+3.  Title: Dacca Municipal Corporation By-Laws, 1965
+    Year: 1965
+    Type: By-Laws
+    Parent/Enabling Act: Municipal Administration Ordinance, 1960
+    Subject: Specific by-laws for Dacca city - building regulations,
+        sanitation, licensing, hawkers, markets
+    Current Status: Superseded by Dhaka City Corporation laws
+
+4.  Title: Chittagong Municipal Corporation By-Laws, 1966
+    Year: 1966
+    Type: By-Laws
+    Parent/Enabling Act: Municipal Administration Ordinance, 1960
+    Subject: Similar to Dacca by-laws for Chittagong
+    Current Status: Superseded
+
+5.  Title: East Pakistan Building Construction Rules, 1953
+    Year: 1953
+    Type: Rules
+    Parent/Enabling Act: East Bengal Building Construction Act, 1952
+        (East Bengal Act II of 1953)
+    Subject: Building codes, construction permits, structural standards
+    Current Status: Modified and still partially operative
+
+6.  Title: Town Improvement Trust Rules (Dacca), 1957
+    Year: 1957
+    Type: Rules
+    Parent/Enabling Act: Town Improvement Act, 1953 (East Bengal Act
+        XXXIII of 1953)
+    Subject: Town planning, improvement schemes, land acquisition
+        for development
+    Current Status: Superseded by RAJUK framework
+
+7.  Title: East Pakistan Cantonment Board Rules, 1950
+    Year: 1950
+    Type: Rules
+    Parent/Enabling Act: Cantonments Act, 1924 (Act II of 1924)
+    Subject: Cantonment administration and by-laws
+    Current Status: Modified under Bangladesh Cantonment framework
+
+8.  Title: East Pakistan Water and Sewerage Authority Rules, 1963
+    Year: 1963
+    Type: Rules
+    Parent/Enabling Act: East Pakistan Water Supply and Sewerage Authority
+        Ordinance, 1963 (Ordinance XXXIX of 1963)
+    Subject: Water supply and sewerage services in urban areas (later
+        became DWASA/CWASA)
+    Current Status: Active with major amendments
+
+9.  Title: East Pakistan Small Towns Committee Rules, 1960
+    Year: 1960
+    Type: Rules
+    Parent/Enabling Act: East Pakistan Small Towns Committee Act, 1960
+    Subject: Administration of small towns below municipal status
+    Current Status: Superseded
+
+10. Title: East Pakistan Markets and Fairs Rules, 1965
+    Year: 1965
+    Type: Rules
+    Parent/Enabling Act: Provincial legislation on markets
+    Subject: Regulation of hat-bazaars, markets, and fairs
+    Current Status: Framework incorporated into local government rules
+
+================================================================================
+V. EDUCATION RULES AND REGULATIONS
+================================================================================
+
+1.  Title: East Bengal Educational Code (Revised), 1951
+    Year: 1951
+    Type: Code/Rules
+    Parent/Enabling Act: Various education statutes
+    Subject: Comprehensive educational administration rules -- recognition
+        of schools, teacher qualifications, curriculum, examinations
+    Current Status: Substantially replaced but historically foundational
+
+2.  Title: East Pakistan Intermediate and Secondary Education Rules, 1964
+    Year: 1964
+    Type: Rules
+    Parent/Enabling Act: East Pakistan Intermediate and Secondary Education
+        Ordinance, 1961 (East Pakistan Ordinance XXXIII of 1961)
+    Subject: Board of Intermediate and Secondary Education -- examinations,
+        recognition of institutions, curriculum
+    Current Status: Active with amendments (governs SSC/HSC examination
+        boards in Bangladesh)
+
+3.  Title: Dacca University Rules/Ordinances, 1947-1970
+    Year: Various (1947-1970)
+    Type: Ordinances/Regulations (University)
+    Parent/Enabling Act: Dacca University Act, 1920 (Bengal Act XIII of 1920)
+        / Dacca University Order, 1961
+    Subject: Academic regulations, examinations, faculties, departments,
+        student conduct
+    Current Status: Superseded by subsequent Dhaka University Orders
+
+4.  Title: Rajshahi University Regulations, 1953
+    Year: 1953
+    Type: Regulations
+    Parent/Enabling Act: Rajshahi University Act, 1953 (East Bengal Act
+        XV of 1953)
+    Subject: University governance, academic rules
+    Current Status: Active with amendments
+
+5.  Title: University of Engineering and Technology Regulations, 1962
+    Year: 1962
+    Type: Regulations
+    Parent/Enabling Act: University of Engineering and Technology Ordinance,
+        1961 (Ordinance LI of 1961)
+    Subject: BUET academic and administrative regulations
+    Current Status: Active with amendments
+
+6.  Title: East Pakistan Compulsory Primary Education Rules, 1962
+    Year: 1962
+    Type: Rules
+    Parent/Enabling Act: Compulsory Primary Education Act, 1962
+    Subject: Implementation of compulsory primary education
+    Current Status: Superseded by Bangladesh Compulsory Primary Education Act
+
+7.  Title: East Pakistan Madrasah Education Rules, 1963
+    Year: 1963
+    Type: Rules
+    Parent/Enabling Act: East Pakistan Madrasah Education Ordinance, 1963
+        (East Pakistan Ordinance VI of 1963)
+    Subject: Madrasah education board, curriculum, examinations
+    Current Status: Active with major amendments (Bangladesh Madrasah
+        Education Board framework)
+
+8.  Title: East Pakistan Private Educational Institutions
+    (Acquisition and Grant-in-Aid) Rules, 1968
+    Year: 1968
+    Type: Rules
+    Parent/Enabling Act: Related education ordinances
+    Subject: Government grants to private educational institutions,
+        conditions for recognition
+    Current Status: Active with amendments
+
+9.  Title: Pakistan (East Pakistan) Textbook Board Rules, 1954
+    Year: 1954
+    Type: Rules
+    Parent/Enabling Act: East Pakistan Textbook Board establishment order
+    Subject: Textbook preparation, publication, and distribution
+    Current Status: Incorporated into NCTB framework
+
+10. Title: East Pakistan Non-Government Educational Institutions
+    (Management and Control) Rules, 1966
+    Year: 1966
+    Type: Rules
+    Parent/Enabling Act: East Pakistan Non-Government Educational
+        Institutions Ordinance, 1966
+    Subject: Management committees, teacher appointment, discipline
+    Current Status: Active framework continued
+
+11. Title: Agricultural University Rules, 1962
+    Year: 1962
+    Type: Rules
+    Parent/Enabling Act: East Pakistan Agricultural University Ordinance,
+        1961 (Ordinance XXXIV of 1961) -- for BAU Mymensingh
+    Subject: University governance, academic regulations
+    Current Status: Active with amendments
+
+12. Title: East Pakistan Technical Education Rules, 1968
+    Year: 1968
+    Type: Rules
+    Parent/Enabling Act: Related technical education legislation
+    Subject: Polytechnic institutes, vocational training
+    Current Status: Modified and continued
+
+================================================================================
+VI. PUBLIC ORDER AND SAFETY REGULATIONS
+================================================================================
+
+1.  Title: East Pakistan Police Rules (Adaptation), 1950
+    Year: 1950 (adapted from Bengal Police Regulations)
+    Type: Rules
+    Parent/Enabling Act: Police Act, 1861 (Act V of 1861)
+    Subject: Police organization, duties, discipline, investigation
+        procedures, station management
+    Current Status: Active -- still the core operational manual for
+        Bangladesh Police
+
+2.  Title: East Pakistan Special Powers Rules, 1958
+    Year: 1958
+    Type: Rules
+    Parent/Enabling Act: East Pakistan Special Powers Ordinance, 1958
+        (later Special Powers Act, 1974 inherited the framework)
+    Subject: Preventive detention, control of prejudicial activities
+    Current Status: Framework carried into Special Powers Act, 1974
+
+3.  Title: Arms Rules, 1951 (Pakistan)
+    Year: 1951
+    Type: Rules
+    Parent/Enabling Act: Arms Act, 1878 (Act XI of 1878)
+    Subject: Licensing, possession, manufacture, and sale of arms
+    Current Status: Active with amendments in Bangladesh
+
+4.  Title: Explosive Rules, 1951 (Pakistan Adaptation)
+    Year: 1951
+    Type: Rules
+    Parent/Enabling Act: Explosives Act, 1884 (Act IV of 1884)
+    Subject: Manufacturing, storage, transport of explosives, licensing
+    Current Status: Active with amendments
+
+5.  Title: East Pakistan Fire Services Rules, 1960
+    Year: 1960
+    Type: Rules
+    Parent/Enabling Act: Fire Services Act/administrative orders
+    Subject: Fire brigade organization, equipment, procedures
+    Current Status: Modified and continued
+
+6.  Title: East Pakistan Jail Code (Revised), 1950
+    Year: 1950
+    Type: Code/Rules
+    Parent/Enabling Act: Prisons Act, 1894 (Act IX of 1894)
+    Subject: Prison administration, prisoner classification, discipline,
+        remission, parole
+    Current Status: Active -- still the primary jail administration manual
+        in Bangladesh
+
+7.  Title: Whipping Rules, 1950 (adapted)
+    Year: 1950
+    Type: Rules
+    Parent/Enabling Act: Whipping Act, 1909 (now largely obsolete)
+    Subject: Corporal punishment procedures
+    Current Status: Obsolete
+
+8.  Title: East Pakistan Village Defence Rules, 1962
+    Year: 1962
+    Type: Rules
+    Parent/Enabling Act: Village Defence Act, 1918 (as adapted)
+    Subject: Village defence parties, chowkidari system
+    Current Status: Modified
+
+9.  Title: Civil Defence Rules (East Pakistan), 1952
+    Year: 1952
+    Type: Rules
+    Parent/Enabling Act: Civil Defence Act, 1952
+    Subject: Civil defence organization, air raid precautions
+    Current Status: Active framework continued
+
+10. Title: East Pakistan Public Safety Ordinance Rules, 1958
+    Year: 1958
+    Type: Rules
+    Parent/Enabling Act: East Pakistan Public Safety Ordinance, 1958
+    Subject: Maintenance of public order, prohibitory orders
+    Current Status: Framework partially continued
+
+11. Title: Passport Rules, 1955 (Pakistan)
+    Year: 1955
+    Type: Rules
+    Parent/Enabling Act: Pakistan Passport Act, 1950
+    Subject: Issuance, renewal, and cancellation of passports
+    Current Status: Replaced by Bangladesh passport legislation
+
+12. Title: East Pakistan Press and Publications Rules, 1963
+    Year: 1963
+    Type: Rules
+    Parent/Enabling Act: Press and Publications Ordinance, 1963
+    Subject: Registration of newspapers, printing presses
+    Current Status: Superseded by Printing Presses and Publications Act
+
+13. Title: Cinematograph Rules, 1960 (East Pakistan)
+    Year: 1960
+    Type: Rules
+    Parent/Enabling Act: Censorship of Films Act, 1963 / Bengal
+        Cinematograph Rules adapted
+    Subject: Film censorship, licensing of cinemas
+    Current Status: Active with amendments
+
+14. Title: East Pakistan Enemy Property (Custody and Registration)
+    Rules, 1966
+    Year: 1966
+    Type: Rules
+    Parent/Enabling Act: Enemy Property (Custody and Registration) Order,
+        1965 (renamed Vested Property after 1971)
+    Subject: Custody of properties of persons who migrated to India
+    Current Status: Superseded by Vested Property Return Act, 2001
+        (highly significant and controversial legislation in Bangladesh)
+
+================================================================================
+VII. LABOUR AND INDUSTRIAL REGULATIONS
+================================================================================
+
+1.  Title: East Pakistan Factories Rules, 1951
+    Year: 1951
+    Type: Rules
+    Parent/Enabling Act: Factories Act, 1934 (Act XXV of 1934)
+    Subject: Factory registration, inspection, working hours, safety,
+        welfare of workers, employment of women and children
+    Current Status: Superseded by Bangladesh Labour Act, 2006 and
+        Bangladesh Labour Rules, 2015
+
+2.  Title: East Pakistan Shops and Establishments Rules, 1965
+    Year: 1965
+    Type: Rules
+    Parent/Enabling Act: East Pakistan Shops and Establishments Act, 1965
+        (East Pakistan Act VII of 1965)
+    Subject: Working conditions in commercial establishments, hours of
+        work, holidays, leave
+    Current Status: Incorporated into Bangladesh Labour Act framework
+
+3.  Title: Industrial Relations Rules, 1969
+    Year: 1969
+    Type: Rules
+    Parent/Enabling Act: Industrial Relations Ordinance, 1969
+        (Ordinance XXIII of 1969)
+    Subject: Trade unions, collective bargaining, industrial disputes,
+        conciliation, arbitration
+    Current Status: Framework continued in Bangladesh industrial relations
+        law until Labour Act, 2006
+
+4.  Title: East Pakistan Minimum Wages Rules, 1961
+    Year: 1961
+    Type: Rules
+    Parent/Enabling Act: Minimum Wages Ordinance, 1961 (Ordinance
+        XXXIX of 1961)
+    Subject: Minimum wage boards, wage fixation, enforcement
+    Current Status: Framework continued and expanded
+
+5.  Title: East Pakistan Employment of Labour (Standing Orders) Rules, 1968
+    Year: 1968
+    Type: Rules
+    Parent/Enabling Act: Employment of Labour (Standing Orders) Act, 1965
+        (East Pakistan Act VIII of 1965)
+    Subject: Conditions of employment, termination, misconduct, grievances
+    Current Status: Incorporated into Bangladesh Labour Act
+
+6.  Title: Payment of Wages Rules, 1951 (East Pakistan)
+    Year: 1951
+    Type: Rules
+    Parent/Enabling Act: Payment of Wages Act, 1936 (Act IV of 1936)
+    Subject: Time and mode of payment of wages, deductions
+    Current Status: Incorporated into Labour Act framework
+
+7.  Title: Workmen's Compensation Rules, 1951 (East Pakistan)
+    Year: 1951
+    Type: Rules
+    Parent/Enabling Act: Workmen's Compensation Act, 1923 (Act VIII of 1923)
+    Subject: Compensation for workplace injuries, disability, death
+    Current Status: Incorporated into Labour Act framework
+
+8.  Title: East Pakistan Boiler Rules, 1951
+    Year: 1951
+    Type: Rules
+    Parent/Enabling Act: Boilers Act, 1923 (Act V of 1923)
+    Subject: Inspection, registration, and safety of boilers
+    Current Status: Active with amendments
+
+9.  Title: East Pakistan Industrial Disputes Rules, 1960
+    Year: 1960
+    Type: Rules
+    Parent/Enabling Act: East Pakistan Industrial Disputes Ordinance, 1960
+    Subject: Conciliation, adjudication of industrial disputes
+    Current Status: Superseded by Industrial Relations Ordinance, 1969
+
+10. Title: Maternity Benefit Rules, 1950 (East Bengal)
+    Year: 1950
+    Type: Rules
+    Parent/Enabling Act: Maternity Benefit Act, 1939 (Bengal Act IV of 1939)
+    Subject: Maternity leave, benefits for women workers
+    Current Status: Incorporated into Labour Act framework
+
+11. Title: East Pakistan Dock Labourers Rules, 1952
+    Year: 1952
+    Type: Rules
+    Parent/Enabling Act: Dock Labourers Act, 1934 (Act XIX of 1934)
+    Subject: Working conditions, safety of dock workers
+    Current Status: Modified
+
+12. Title: Mines Rules, 1951 (Pakistan)
+    Year: 1951
+    Type: Rules
+    Parent/Enabling Act: Mines Act, 1923 (Act IV of 1923)
+    Subject: Mine safety, inspection, working conditions
+    Current Status: Active in Bangladesh
+
+13. Title: East Pakistan Tea Plantation Labour Rules, 1951
+    Year: 1951
+    Type: Rules
+    Parent/Enabling Act: Tea Plantation Labour Ordinance, 1962 /
+        earlier plantation labour legislation
+    Subject: Labour conditions on tea estates in Sylhet, Chittagong
+    Current Status: Active framework in Bangladesh tea industry
+
+14. Title: Companies Profits (Workers' Participation) Rules, 1968
+    Year: 1968
+    Type: Rules
+    Parent/Enabling Act: Companies Profits (Workers' Participation) Act,
+        1968
+    Subject: Worker participation in company profits
+    Current Status: Active framework continued
+
+================================================================================
+VIII. FAMILY LAW RULES
+================================================================================
+
+1.  Title: Muslim Family Laws Rules, 1961
+    Year: 1961
+    Type: Rules
+    Parent/Enabling Act: Muslim Family Laws Ordinance, 1961 (Ordinance
+        VIII of 1961)
+    Subject: Registration of marriages, polygamy restrictions (arbitration
+        council procedures), divorce (talaq) notice procedures, maintenance,
+        succession/inheritance
+    Current Status: ACTIVE -- One of the most important family law
+        instruments in Bangladesh. Administered through Union Council/
+        Pourashava Chairmen
+
+2.  Title: Muslim Marriages and Divorces (Registration) Rules, 1963
+    Year: 1963
+    Type: Rules (East Pakistan)
+    Parent/Enabling Act: Muslim Marriages and Divorces (Registration)
+        Act, 1974 precursor / Muslim Family Laws Ordinance, 1961
+    Subject: Nikah registration procedures, Nikah Registrar (Kazi)
+        appointment, forms (Kabin-nama), registration fees
+    Current Status: Active -- directly governs marriage registration
+        in Bangladesh
+
+3.  Title: Family Courts Rules, 1965
+    Year: 1965
+    Type: Rules
+    Parent/Enabling Act: West Pakistan Family Courts Act, 1964 /
+        adapted in East Pakistan through subsequent legislation
+    Subject: Family court procedures -- dissolution of marriage,
+        dower, maintenance, custody
+    Current Status: Framework continued under Family Courts Ordinance, 1985
+
+4.  Title: Muslim Personal Law (Shariat) Application Rules, 1948
+    Year: 1948
+    Type: Rules
+    Parent/Enabling Act: Muslim Personal Law (Shariat) Application
+        Act, 1937 (Act XXVI of 1937)
+    Subject: Application of Islamic personal law in matters of
+        succession, inheritance, special property of females
+    Current Status: Active
+
+5.  Title: Dissolution of Muslim Marriages Rules, 1948
+    Year: 1948
+    Type: Rules
+    Parent/Enabling Act: Dissolution of Muslim Marriages Act, 1939
+        (Act VIII of 1939)
+    Subject: Grounds and procedures for dissolution of Muslim marriages
+    Current Status: Active
+
+6.  Title: Child Marriage Restraint Rules, 1950 (East Bengal)
+    Year: 1950
+    Type: Rules
+    Parent/Enabling Act: Child Marriage Restraint Act, 1929 (Act XIX of 1929)
+    Subject: Prevention of child marriages, penalties
+    Current Status: Superseded by Child Marriage Restraint Act, 2017
+
+7.  Title: Guardians and Wards Rules, 1950 (East Bengal)
+    Year: 1950
+    Type: Rules
+    Parent/Enabling Act: Guardians and Wards Act, 1890 (Act VIII of 1890)
+    Subject: Appointment of guardians, custody proceedings
+    Current Status: Active
+
+8.  Title: Hindu Married Women's Separate Property Rules
+    Year: 1948 (adapted)
+    Type: Rules
+    Parent/Enabling Act: Hindu Married Women's Right to Separate
+        Residence and Maintenance Act, 1946 (Bengal Act)
+    Subject: Hindu women's property rights
+    Current Status: Active
+
+================================================================================
+IX. TRADE AND COMMERCE REGULATIONS
+================================================================================
+
+1.  Title: East Pakistan Essential Articles (Price Control and
+    Anti-Hoarding) Rules, 1953
+    Year: 1953
+    Type: Rules
+    Parent/Enabling Act: East Pakistan Essential Articles (Price Control
+        and Anti-Hoarding) Act, 1953
+    Subject: Price control of essential commodities, anti-hoarding measures
+    Current Status: Superseded by Control of Essential Commodities Act
+
+2.  Title: Companies Rules, 1950 (Pakistan)
+    Year: 1950
+    Type: Rules
+    Parent/Enabling Act: Companies Act, 1913 (Act VII of 1913)
+    Subject: Company registration, management, winding-up
+    Current Status: Superseded by Companies Act, 1994
+
+3.  Title: East Pakistan Industries (Development and Regulation)
+    Rules, 1958
+    Year: 1958
+    Type: Rules
+    Parent/Enabling Act: East Pakistan Industries (Development and
+        Regulation) Act, 1957
+    Subject: Industrial licensing, regulation of industries
+    Current Status: Modified
+
+4.  Title: Partnership Registration Rules, 1950 (East Pakistan)
+    Year: 1950
+    Type: Rules
+    Parent/Enabling Act: Partnership Act, 1932 (Act IX of 1932)
+    Subject: Registration of partnership firms
+    Current Status: Active
+
+5.  Title: Trade Marks Rules, 1963 (Pakistan)
+    Year: 1963
+    Type: Rules
+    Parent/Enabling Act: Trade Marks Act, 1940 (Act V of 1940)
+    Subject: Registration and protection of trade marks
+    Current Status: Superseded by Bangladesh Trademarks Act
+
+6.  Title: Patents and Designs Rules, 1951 (Pakistan)
+    Year: 1951
+    Type: Rules
+    Parent/Enabling Act: Patents and Designs Act, 1911 (Act II of 1911)
+    Subject: Registration of patents and industrial designs
+    Current Status: Active framework continued
+
+7.  Title: East Pakistan Market Committee Rules, 1964
+    Year: 1964
+    Type: Rules
+    Parent/Enabling Act: Agricultural Produce Markets Regulation Act, 1964
+    Subject: Regulation of agricultural markets
+    Current Status: Modified
+
+8.  Title: Jute Regulation Rules, 1952
+    Year: 1952
+    Type: Rules
+    Parent/Enabling Act: East Bengal Jute Act, 1950 / various jute
+        control legislation
+    Subject: Jute grading, baling, trade regulation -- critical for East
+        Pakistan's primary export commodity
+    Current Status: Framework continued (Bangladesh Jute Acts)
+
+9.  Title: Pakistan Tea Board Rules, 1949
+    Year: 1949
+    Type: Rules
+    Parent/Enabling Act: Pakistan Tea Board Ordinance, 1949
+    Subject: Tea industry regulation, quality control, export
+    Current Status: Modified under Bangladesh Tea Board
+
+10. Title: East Pakistan Small Industries Corporation Rules, 1957
+    Year: 1957
+    Type: Rules
+    Parent/Enabling Act: East Pakistan Small Industries Corporation
+        Act, 1957
+    Subject: Small industry promotion, loans, technical assistance
+    Current Status: Modified under BSCIC framework
+
+11. Title: Weights and Measures Rules, 1950 (East Pakistan)
+    Year: 1950
+    Type: Rules
+    Parent/Enabling Act: Standards of Weights and Measures Act, 1939
+    Subject: Standardization of weights and measures
+    Current Status: Active with amendments
+
+12. Title: East Pakistan Foodgrains (Movement Control) Rules, 1957
+    Year: 1957
+    Type: Rules
+    Parent/Enabling Act: Foodgrains Supply (East Pakistan) Ordinance
+    Subject: Control of movement and distribution of foodgrains
+    Current Status: Substantially modified
+
+13. Title: Cotton Textiles (Control) Rules, 1951
+    Year: 1951
+    Type: Rules
+    Parent/Enabling Act: Essential Supplies (Temporary Powers) Act, 1946
+    Subject: Control of cotton textile distribution and pricing
+    Current Status: Obsolete
+
+14. Title: East Pakistan Industrial Development Corporation Rules, 1962
+    Year: 1962
+    Type: Rules
+    Parent/Enabling Act: East Pakistan Industrial Development Corporation
+        Ordinance, 1962
+    Subject: Governance and operations of EPIDC (later BSEC/BCIC)
+    Current Status: Framework continued under successor bodies
+
+================================================================================
+X. BASIC DEMOCRACIES RULES
+================================================================================
+
+1.  Title: Basic Democracies Rules, 1959
+    Year: 1959
+    Type: Rules
+    Parent/Enabling Act: Basic Democracies Order, 1959 (President's
+        Order No. 18 of 1959)
+    Subject: Comprehensive local government rules under Ayub Khan's
+        Basic Democracies system -- Union Councils, Thana Councils,
+        District Councils, Divisional Councils
+    Current Status: Repealed/Obsolete after 1971, but structural
+        elements influenced Bangladesh local government framework
+
+2.  Title: Union Council Rules, 1960 (East Pakistan)
+    Year: 1960
+    Type: Rules
+    Parent/Enabling Act: Basic Democracies Order, 1959
+    Subject: Composition, elections, functions of Union Councils
+    Current Status: Superseded by Bangladesh Local Government Acts
+
+3.  Title: Thana Council Rules, 1960 (East Pakistan)
+    Year: 1960
+    Type: Rules
+    Parent/Enabling Act: Basic Democracies Order, 1959
+    Subject: Thana-level council administration
+    Current Status: Superseded
+
+4.  Title: District Council Rules, 1960 (East Pakistan)
+    Year: 1960
+    Type: Rules
+    Parent/Enabling Act: Basic Democracies Order, 1959
+    Subject: District-level council administration, development functions
+    Current Status: Superseded by Zila Parishad framework
+
+5.  Title: Divisional Council Rules, 1960 (East Pakistan)
+    Year: 1960
+    Type: Rules
+    Parent/Enabling Act: Basic Democracies Order, 1959
+    Subject: Divisional-level council coordination
+    Current Status: Superseded
+
+6.  Title: Basic Democracies (Election) Rules, 1959
+    Year: 1959
+    Type: Rules
+    Parent/Enabling Act: Basic Democracies Order, 1959 / Electoral
+        College Act, 1960
+    Subject: Election procedures for Basic Democrats (80,000 electors
+        who formed the Electoral College for President and Assembly elections)
+    Current Status: Obsolete
+
+7.  Title: Basic Democracies (Works Programme) Rules, 1962
+    Year: 1962
+    Type: Rules
+    Parent/Enabling Act: Basic Democracies Order, 1959
+    Subject: Rural works programme, development projects through
+        local councils
+    Current Status: Obsolete but influenced subsequent rural development
+        programme structures
+
+8.  Title: Basic Democracies (Budget and Accounts) Rules, 1960
+    Year: 1960
+    Type: Rules
+    Parent/Enabling Act: Basic Democracies Order, 1959
+    Subject: Financial management of local councils
+    Current Status: Superseded
+
+9.  Title: Basic Democracies (Taxation) Rules, 1960
+    Year: 1960
+    Type: Rules
+    Parent/Enabling Act: Basic Democracies Order, 1959
+    Subject: Local taxation powers, rates, and levies
+    Current Status: Superseded
+
+10. Title: East Pakistan Local Government (Model By-Laws), 1962
+    Year: 1962
+    Type: By-Laws
+    Parent/Enabling Act: Basic Democracies Order, 1959
+    Subject: Model by-laws for local government bodies
+    Current Status: Superseded
+
+================================================================================
+XI. MARTIAL LAW REGULATIONS AND ORDERS
+================================================================================
+
+A. FIRST MARTIAL LAW PERIOD (October 7, 1958 - June 8, 1962)
+
+1.  Title: Laws (Continuance in Force) Order, 1958
+    Year: 1958
+    Type: Order (Presidential)
+    Parent/Enabling Act: Proclamation of Martial Law, October 7, 1958
+    Subject: Continuation of existing laws subject to martial law orders
+    Current Status: Historical/Obsolete
+
+2.  Title: Martial Law Regulation No. 1-89 (1958-1962)
+    Year: 1958-1962
+    Type: Regulations
+    Parent/Enabling Act: Proclamation of Martial Law, 1958
+    Subject: Various -- ranging from anti-corruption measures, price
+        controls, press censorship, political party bans, screening of
+        public servants
+    Current Status: Mostly obsolete; some incorporated into permanent
+        legislation
+
+3.  Title: Martial Law Regulation No. 6 (Screening of Government Servants)
+    Year: 1958
+    Type: Regulation
+    Parent/Enabling Act: Martial Law Proclamation
+    Subject: Screening and dismissal of corrupt or inefficient government
+        servants
+    Current Status: Obsolete
+
+4.  Title: Martial Law Regulation No. 12 (Anti-Hoarding)
+    Year: 1958
+    Type: Regulation
+    Parent/Enabling Act: Martial Law Proclamation
+    Subject: Prevention of hoarding and black-marketing
+    Current Status: Incorporated into permanent anti-hoarding legislation
+
+5.  Title: Martial Law Regulation No. 22 (Press Control)
+    Year: 1958
+    Type: Regulation
+    Parent/Enabling Act: Martial Law Proclamation
+    Subject: Press censorship and control
+    Current Status: Obsolete
+
+6.  Title: Martial Law Regulation No. 51 (Price Control)
+    Year: 1959
+    Type: Regulation
+    Parent/Enabling Act: Martial Law Proclamation
+    Subject: Price control of essential commodities
+    Current Status: Incorporated into permanent legislation
+
+7.  Title: Martial Law Regulation No. 64 (Land Reforms)
+    Year: 1959
+    Type: Regulation
+    Parent/Enabling Act: Martial Law Proclamation
+    Subject: Land reform measures -- ceiling on holdings
+    Current Status: Incorporated into Land Reforms Ordinance, 1961
+
+8.  Title: Elective Bodies (Disqualification) Order, 1959 (EBDO)
+    Year: 1959
+    Type: Order
+    Parent/Enabling Act: Martial Law powers
+    Subject: Disqualification of former politicians from public life
+    Current Status: Obsolete
+
+9.  Title: Public Offices (Disqualification) Order, 1959 (PODO)
+    Year: 1959
+    Type: Order
+    Parent/Enabling Act: Martial Law powers
+    Subject: Disqualification of civil servants for misconduct
+    Current Status: Obsolete
+
+B. SECOND MARTIAL LAW PERIOD (March 25, 1969 - December 1970 elections period)
+
+10. Title: Martial Law Proclamation and Orders, 1969 (Yahya Khan)
+    Year: 1969
+    Type: Orders/Regulations
+    Parent/Enabling Act: Proclamation of Martial Law, March 25, 1969
+    Subject: Abrogation of 1962 Constitution, dissolution of assemblies,
+        ban on political activities (later lifted)
+    Current Status: Obsolete
+
+11. Title: Martial Law Regulation No. 1-60 (1969-1970)
+    Year: 1969-1970
+    Type: Regulations
+    Parent/Enabling Act: Martial Law Proclamation, 1969
+    Subject: Various administrative and control measures
+    Current Status: Mostly obsolete
+
+12. Title: Legal Framework Order, 1970 (LFO)
+    Year: 1970
+    Type: Order (Presidential)
+    Parent/Enabling Act: Martial Law powers of President Yahya Khan
+    Subject: Framework for transfer of power, general elections, constitution-
+        making -- prescribed seats, electoral procedure, timeline
+    Current Status: Historical significance -- the elections held under
+        this order led to the Awami League's landslide victory and
+        ultimately Bangladesh's independence
+
+13. Title: Martial Law Order on Labour Disputes, 1969
+    Year: 1969
+    Type: Order
+    Parent/Enabling Act: Martial Law Proclamation
+    Subject: Prohibition of strikes and lockouts
+    Current Status: Obsolete
+
+14. Title: Martial Law Order on Student Discipline, 1969
+    Year: 1969
+    Type: Order
+    Parent/Enabling Act: Martial Law Proclamation
+    Subject: University discipline, restrictions on student politics
+    Current Status: Obsolete
+
+15. Title: Provincial Constitution Order, 1969
+    Year: 1969
+    Type: Order
+    Parent/Enabling Act: Martial Law Proclamation
+    Subject: Provincial administration during martial law
+    Current Status: Obsolete
+
+================================================================================
+XII. CONSTITUTION-RELATED SUBORDINATE LEGISLATION
+================================================================================
+
+1.  Title: Government of India (Adaptation of Existing Pakistani Laws)
+    Order, 1947
+    Year: 1947
+    Type: Order
+    Parent/Enabling Act: Indian Independence Act, 1947
+    Subject: Adaptation of pre-partition laws for Pakistan
+    Current Status: Historical -- foundational adaptation instrument
+
+2.  Title: Pakistan (Adaptation of Central Acts and Ordinances) Order, 1949
+    Year: 1949
+    Type: Order
+    Parent/Enabling Act: Provisional Constitution provisions
+    Subject: Further adaptations of central legislation
+    Current Status: Historical
+
+3.  Title: Pakistan (Adaptation of Existing Laws) Order, 1950
+    Year: 1950
+    Type: Order
+    Parent/Enabling Act: Constitutional provisions
+    Subject: Comprehensive adaptation of laws
+    Current Status: Historical
+
+4.  Title: East Bengal (Adaptation of Existing Laws) Order, 1950
+    Year: 1950
+    Type: Order
+    Parent/Enabling Act: Constitutional provisions
+    Subject: Provincial-level adaptation of laws for East Bengal
+    Current Status: Historical
+
+5.  Title: Constitution (Adaptation of Laws) Order, 1956
+    Year: 1956
+    Type: Order
+    Parent/Enabling Act: Constitution of Pakistan, 1956
+    Subject: Adaptation of laws to first constitution
+    Current Status: Historical
+
+6.  Title: Constitution (Adaptation of Laws) Order, 1962
+    Year: 1962
+    Type: Order
+    Parent/Enabling Act: Constitution of Pakistan, 1962
+    Subject: Adaptation of laws to second constitution
+    Current Status: Historical
+
+7.  Title: East Pakistan Provincial Assembly Rules of Procedure, 1956
+    Year: 1956
+    Type: Rules
+    Parent/Enabling Act: Constitution of Pakistan, 1956
+    Subject: Assembly procedural rules
+    Current Status: Superseded
+
+8.  Title: East Pakistan Provincial Assembly Rules of Procedure, 1963
+    Year: 1963
+    Type: Rules
+    Parent/Enabling Act: Constitution of Pakistan, 1962
+    Subject: Assembly procedural rules under new constitution
+    Current Status: Superseded
+
+9.  Title: Election Rules, 1956 (Pakistan)
+    Year: 1956
+    Type: Rules
+    Parent/Enabling Act: Constitution/electoral legislation
+    Subject: Electoral procedures, voter registration
+    Current Status: Superseded
+
+10. Title: National Assembly and Provincial Assembly Electoral Rules, 1964
+    Year: 1964
+    Type: Rules
+    Parent/Enabling Act: Electoral College Act, 1964 / Constitution, 1962
+    Subject: Indirect elections through Basic Democrats
+    Current Status: Obsolete
+
+11. Title: Electoral Rolls Rules, 1965
+    Year: 1965
+    Type: Rules
+    Parent/Enabling Act: Electoral Rolls Act, 1964
+    Subject: Preparation of electoral rolls
+    Current Status: Superseded
+
+12. Title: Representation of the People Rules, 1970
+    Year: 1970
+    Type: Rules
+    Parent/Enabling Act: Legal Framework Order, 1970
+    Subject: Rules for the 1970 general elections (direct elections on
+        adult franchise)
+    Current Status: Historical significance
+
+================================================================================
+XIII. AGRICULTURAL AND COOPERATIVE SOCIETY RULES
+================================================================================
+
+1.  Title: East Bengal Co-operative Societies Rules, 1948
+    Year: 1948
+    Type: Rules
+    Parent/Enabling Act: Co-operative Societies Act, 1940 (Bengal Act
+        XXI of 1940)
+    Subject: Registration, management, audit of cooperative societies
+    Current Status: Active with amendments -- governs cooperative
+        movement in Bangladesh
+
+2.  Title: East Pakistan Agricultural Development Corporation Rules, 1962
+    Year: 1962
+    Type: Rules
+    Parent/Enabling Act: East Pakistan Agricultural Development
+        Corporation Ordinance, 1961
+    Subject: Governance of EPADC (later BADC) -- agricultural inputs,
+        mechanization, irrigation
+    Current Status: Active framework under BADC
+
+3.  Title: East Pakistan Irrigation Rules, 1963
+    Year: 1963
+    Type: Rules
+    Parent/Enabling Act: East Pakistan Irrigation Act, 1956
+    Subject: Irrigation systems, water rates, canal management
+    Current Status: Active with amendments
+
+4.  Title: East Pakistan Agricultural Pests and Diseases Rules, 1966
+    Year: 1966
+    Type: Rules
+    Parent/Enabling Act: Destructive Insects and Pests Act, 1914
+        (Act II of 1914, adapted)
+    Subject: Plant quarantine, pest control measures
+    Current Status: Active with modifications
+
+5.  Title: Fertilizer (Control) Rules, 1959
+    Year: 1959
+    Type: Rules
+    Parent/Enabling Act: Fertilizer (Control) Order, 1959
+    Subject: Distribution and pricing of chemical fertilizers
+    Current Status: Modified and continued
+
+6.  Title: East Pakistan Tobacco (Control of Cultivation) Rules, 1960
+    Year: 1960
+    Type: Rules
+    Parent/Enabling Act: Related tobacco legislation
+    Subject: Regulation of tobacco cultivation
+    Current Status: Modified
+
+7.  Title: East Pakistan Fisheries Rules, 1951
+    Year: 1951
+    Type: Rules
+    Parent/Enabling Act: Bengal Fisheries Act, 1927 (Bengal Act II of
+        1927, adapted) / Protection and Conservation of Fish Act, 1950
+    Subject: Fishing rights, jalmohal (water body) leasing, fish
+        conservation
+    Current Status: Active with amendments -- still critical for
+        Bangladesh fisheries management
+
+8.  Title: East Pakistan Livestock and Poultry Improvement Rules, 1962
+    Year: 1962
+    Type: Rules
+    Parent/Enabling Act: Related livestock legislation
+    Subject: Cattle breeding, veterinary services
+    Current Status: Modified
+
+9.  Title: East Pakistan Forest Rules, 1959
+    Year: 1959
+    Type: Rules
+    Parent/Enabling Act: Forest Act, 1927 (Act XVI of 1927)
+    Subject: Forest management, timber harvesting, reserved forests,
+        forest offences
+    Current Status: Active -- governs Bangladesh Forest Department
+        operations
+
+10. Title: East Pakistan Timber Transit Rules, 1960
+    Year: 1960
+    Type: Rules
+    Parent/Enabling Act: Forest Act, 1927
+    Subject: Transit passes for timber movement
+    Current Status: Active
+
+11. Title: East Pakistan Seeds Rules, 1966
+    Year: 1966
+    Type: Rules
+    Parent/Enabling Act: Seeds Ordinance, 1961
+    Subject: Seed certification, quality control
+    Current Status: Active framework continued
+
+12. Title: Food Adulteration Rules, 1959 (East Pakistan)
+    Year: 1959
+    Type: Rules
+    Parent/Enabling Act: Pure Food Ordinance, 1959 (East Pakistan
+        Ordinance LXVIII of 1959)
+    Subject: Food safety, adulteration prevention, inspection
+    Current Status: Active framework (now under Safe Food Act)
+
+13. Title: East Pakistan Rural Credit (Control) Rules, 1964
+    Year: 1964
+    Type: Rules
+    Parent/Enabling Act: Agricultural loans legislation
+    Subject: Rural credit through cooperatives
+    Current Status: Modified under microfinance/rural credit frameworks
+
+================================================================================
+XIV. TRANSPORT, COMMUNICATION, AND INFRASTRUCTURE RULES
+================================================================================
+
+1.  Title: East Pakistan Motor Vehicles Rules, 1940 (Adapted)
+    Year: 1947 (adapted), amended multiple times
+    Type: Rules
+    Parent/Enabling Act: Motor Vehicles Act, 1939 (Act IV of 1939)
+    Subject: Motor vehicle registration, licensing, traffic rules,
+        permits, insurance
+    Current Status: Active -- core traffic regulation framework in
+        Bangladesh (pre-Road Transport Act, 2018)
+
+2.  Title: East Pakistan Inland Water Transport Authority Rules, 1959
+    Year: 1959
+    Type: Rules
+    Parent/Enabling Act: East Pakistan Inland Water Transport Authority
+        Ordinance, 1958
+    Subject: Inland waterway regulation, vessel licensing, route permits
+    Current Status: Active under BIWTA framework
+
+3.  Title: Inland Shipping (Safety) Rules, 1960
+    Year: 1960
+    Type: Rules
+    Parent/Enabling Act: Inland Shipping Ordinance, 1976 (precursor
+        legislation existed)
+    Subject: Safety standards for inland vessels
+    Current Status: Active with amendments
+
+4.  Title: East Pakistan Railway Rules (Adaptation), 1951
+    Year: 1951
+    Type: Rules
+    Parent/Enabling Act: Railways Act, 1890 (Act IX of 1890)
+    Subject: Railway operations, passenger and goods traffic, safety
+    Current Status: Active under Bangladesh Railway framework
+
+5.  Title: Pakistan Post Office Rules, 1948 (as applicable to East Pakistan)
+    Year: 1948
+    Type: Rules
+    Parent/Enabling Act: Post Office Act, 1898 (Act VI of 1898)
+    Subject: Postal services, mail delivery, postal rates
+    Current Status: Active with amendments
+
+6.  Title: Telegraph Rules, 1951 (Pakistan)
+    Year: 1951
+    Type: Rules
+    Parent/Enabling Act: Telegraph Act, 1885 (Act XIII of 1885)
+    Subject: Telegraph and telephone services, licensing
+    Current Status: Modified under Bangladesh telecommunications framework
+
+7.  Title: East Pakistan Roads and Highways Rules, 1960
+    Year: 1960
+    Type: Rules
+    Parent/Enabling Act: Various public works legislation
+    Subject: Road construction, maintenance, classification
+    Current Status: Active framework under Roads and Highways Department
+
+8.  Title: Electricity Rules, 1952 (East Pakistan)
+    Year: 1952
+    Type: Rules
+    Parent/Enabling Act: Electricity Act, 1910 (Act IX of 1910)
+    Subject: Electrical installations, licensing, safety standards,
+        supply rules
+    Current Status: Active -- foundational for Bangladesh electricity
+        regulation
+
+9.  Title: East Pakistan Embankment and Drainage Rules, 1963
+    Year: 1963
+    Type: Rules
+    Parent/Enabling Act: East Pakistan Embankment and Drainage Act, 1952
+    Subject: Flood control, embankment construction, drainage systems
+    Current Status: Active -- critical for Bangladesh Water Development
+        Board operations
+
+10. Title: East Pakistan Aviation Rules, 1955
+    Year: 1955
+    Type: Rules
+    Parent/Enabling Act: Aircraft Act, 1934 (as adapted)
+    Subject: Civil aviation, aerodromes
+    Current Status: Superseded by Civil Aviation Authority framework
+
+11. Title: Pakistan Merchant Shipping Rules, 1950
+    Year: 1950
+    Type: Rules
+    Parent/Enabling Act: Merchant Shipping Act, 1923
+    Subject: Merchant shipping, vessel registration, safety
+    Current Status: Active with amendments in Bangladesh
+
+12. Title: East Pakistan Ferries Rules, 1952
+    Year: 1952
+    Type: Rules
+    Parent/Enabling Act: Bengal Ferries Act, 1885 (Bengal Act I of 1885)
+    Subject: Ferry services, licensing, safety
+    Current Status: Active framework
+
+================================================================================
+XV. PUBLIC SERVICE RULES AND REGULATIONS
+================================================================================
+
+1.  Title: East Pakistan Government Servants (Conduct) Rules, 1966
+    Year: 1966
+    Type: Rules
+    Parent/Enabling Act: Government Servants (Conduct) Rules framework /
+        various service legislation
+    Subject: Code of conduct for government servants -- political
+        neutrality, financial propriety, gifts, outside employment
+    Current Status: Active -- forms basis of Bangladesh Government
+        Servants (Conduct) Rules, 1979
+
+2.  Title: East Pakistan Government Servants (Discipline and Appeal)
+    Rules, 1966
+    Year: 1966
+    Type: Rules
+    Parent/Enabling Act: Service rules framework
+    Subject: Disciplinary proceedings, penalties, appeals, show-cause
+        procedures
+    Current Status: Active -- forms basis of Bangladesh Government
+        Servants (Discipline and Appeal) Rules, 1985
+
+3.  Title: East Pakistan Civil Service (Classification, Control and
+    Appeal) Rules, 1965
+    Year: 1965
+    Type: Rules
+    Parent/Enabling Act: Service rules framework
+    Subject: Classification of civil services, controlling authority
+    Current Status: Active framework continued
+
+4.  Title: East Pakistan Government Servants' Leave Rules, 1959
+    Year: 1959
+    Type: Rules
+    Parent/Enabling Act: Fundamental Rules / service legislation
+    Subject: Leave entitlements -- casual leave, earned leave, medical
+        leave, study leave, extraordinary leave
+    Current Status: Active -- basis for Bangladesh leave rules
+
+5.  Title: Fundamental Rules and Supplementary Rules (East Pakistan
+    Adaptation), 1948
+    Year: 1948
+    Type: Rules
+    Parent/Enabling Act: Government of India Act, 1935 (adapted) /
+        Civil Service framework
+    Subject: Pay, allowances, leave, pension -- foundational service
+        conditions for all government employees
+    Current Status: Active with significant amendments -- still referred
+        to as "FR & SR" in Bangladesh administration
+
+6.  Title: East Pakistan Civil Service Pension Rules, 1960
+    Year: 1960
+    Type: Rules
+    Parent/Enabling Act: Service rules framework
+    Subject: Pension entitlements, gratuity, commutation, family pension
+    Current Status: Active framework under Bangladesh pension rules
+
+7.  Title: East Pakistan General Provident Fund Rules, 1960
+    Year: 1960
+    Type: Rules
+    Parent/Enabling Act: Provident Funds Act, 1925
+    Subject: General Provident Fund contributions, withdrawals, advances
+    Current Status: Active framework continued
+
+8.  Title: East Pakistan Travelling Allowance Rules, 1959
+    Year: 1959
+    Type: Rules
+    Parent/Enabling Act: Fundamental Rules / Treasury Rules
+    Subject: Travel allowances, daily allowances for government servants
+    Current Status: Active with amendments
+
+9.  Title: Pakistan Civil Service Rules (as applicable to East Pakistan)
+    Year: Various (1948-1970)
+    Type: Rules
+    Parent/Enabling Act: Civil Service of Pakistan Act, 1948 / Constitution
+    Subject: CSP cadre rules -- recruitment, posting, promotion, seniority
+    Current Status: Superseded by Bangladesh Civil Service framework
+
+10. Title: East Pakistan Public Service Commission Regulations, 1951
+    Year: 1951
+    Type: Regulations
+    Parent/Enabling Act: Constitution / EPSC establishment orders
+    Subject: Recruitment examinations, commission procedures
+    Current Status: Superseded by Bangladesh Public Service Commission
+        framework
+
+11. Title: East Pakistan Judicial Service Rules, 1965
+    Year: 1965
+    Type: Rules
+    Parent/Enabling Act: High Court/Constitutional provisions
+    Subject: Recruitment, posting, promotion of judicial officers
+    Current Status: Framework continued under Bangladesh Judicial
+        Service Commission
+
+12. Title: East Pakistan Police Service Rules, 1960
+    Year: 1960
+    Type: Rules
+    Parent/Enabling Act: Police Act, 1861 / service rules framework
+    Subject: Police recruitment, training, promotion, discipline
+    Current Status: Active with amendments
+
+13. Title: Pakistan Essential Services (Maintenance) Rules, 1952
+    Year: 1952
+    Type: Rules
+    Parent/Enabling Act: Essential Services (Maintenance) Act, 1952
+    Subject: Prohibition of strikes in essential services, penalties
+    Current Status: Active framework continued
+
+14. Title: Medical Attendance Rules (East Pakistan), 1959
+    Year: 1959
+    Type: Rules
+    Parent/Enabling Act: Service rules framework
+    Subject: Medical facilities for government servants and families
+    Current Status: Active with amendments
+
+15. Title: East Pakistan (Medical, Dental) Service Rules, 1962
+    Year: 1962
+    Type: Rules
+    Parent/Enabling Act: Service rules framework
+    Subject: Recruitment and service conditions for medical officers
+    Current Status: Active framework continued
+
+================================================================================
+XVI. BANKING AND FINANCIAL REGULATIONS
+================================================================================
+
+1.  Title: State Bank of Pakistan Regulations (as applicable to
+    East Pakistan), 1948-1970
+    Year: 1948-1970
+    Type: Regulations
+    Parent/Enabling Act: State Bank of Pakistan Order, 1948
+    Subject: Banking regulation, monetary policy, credit control
+    Current Status: Superseded by Bangladesh Bank Order, 1972
+
+2.  Title: Banking Companies Rules, 1963
+    Year: 1963
+    Type: Rules
+    Parent/Enabling Act: Banking Companies Ordinance, 1962 (Ordinance
+        LVII of 1962)
+    Subject: Regulation of commercial banks, licensing, capital requirements,
+        deposit insurance
+    Current Status: Active framework continued under Bangladesh Bank
+
+3.  Title: Co-operative Credit Societies Rules, 1948 (East Bengal)
+    Year: 1948
+    Type: Rules
+    Parent/Enabling Act: Co-operative Societies Act, 1940
+    Subject: Agricultural and rural credit cooperatives
+    Current Status: Active framework
+
+4.  Title: Pakistan Insurance Rules, 1958
+    Year: 1958
+    Type: Rules
+    Parent/Enabling Act: Insurance Act, 1938 (Act IV of 1938)
+    Subject: Insurance company regulation, licensing, actuarial requirements
+    Current Status: Active framework under Insurance Development and
+        Regulatory Authority
+
+5.  Title: Securities and Exchange Rules, 1969
+    Year: 1969
+    Type: Rules
+    Parent/Enabling Act: Securities and Exchange Ordinance, 1969
+    Subject: Stock exchange regulation, securities trading
+    Current Status: Active framework under BSEC (Bangladesh Securities
+        and Exchange Commission)
+
+6.  Title: East Pakistan House Building Finance Corporation Rules, 1953
+    Year: 1953
+    Type: Rules
+    Parent/Enabling Act: House Building Finance Corporation Act, 1952
+    Subject: Housing loans, mortgage finance
+    Current Status: Active under BHBFC framework
+
+7.  Title: Pakistan Industrial Credit and Investment Corporation Rules, 1957
+    Year: 1957
+    Type: Rules
+    Parent/Enabling Act: PICIC establishment legislation
+    Subject: Industrial lending, investment promotion
+    Current Status: Superseded by subsequent development finance institutions
+
+8.  Title: East Pakistan Government Savings Rules, 1949
+    Year: 1949
+    Type: Rules
+    Parent/Enabling Act: Government Savings Certificates Act, 1947
+    Subject: National savings schemes, savings certificates
+    Current Status: Active under National Savings Directorate
+
+9.  Title: Small Loans (Recovery) Rules, 1951
+    Year: 1951
+    Type: Rules
+    Parent/Enabling Act: Public Demands Recovery Act, 1913 / Small Loans Act
+    Subject: Recovery of small loans as public demand
+    Current Status: Active framework
+
+10. Title: Negotiable Instruments Rules, 1950 (East Pakistan)
+    Year: 1950
+    Type: Rules
+    Parent/Enabling Act: Negotiable Instruments Act, 1881 (Act XXVI of 1881)
+    Subject: Procedures for bills of exchange, cheques, promissory notes
+    Current Status: Active
+
+================================================================================
+XVII. IMPORT/EXPORT REGULATIONS
+================================================================================
+
+1.  Title: Imports and Exports (Control) Rules, 1950
+    Year: 1950
+    Type: Rules
+    Parent/Enabling Act: Imports and Exports (Control) Act, 1950
+        (Act XXXIX of 1950)
+    Subject: Import licensing, export controls, trade policy administration
+    Current Status: Active with extensive amendments -- foundational for
+        Bangladesh trade regulation
+
+2.  Title: Import Policy Orders (Annual), 1948-1970
+    Year: Annual (1948-1970)
+    Type: Orders/Notifications
+    Parent/Enabling Act: Imports and Exports (Control) Act, 1950
+    Subject: Annual import policy specifying permissible imports, licensing
+        categories, restricted items
+    Current Status: Framework continued in Bangladesh Import Policy Orders
+
+3.  Title: Export Policy Orders (Annual), 1948-1970
+    Year: Annual (1948-1970)
+    Type: Orders/Notifications
+    Parent/Enabling Act: Imports and Exports (Control) Act, 1950
+    Subject: Export promotion, licensing, bonded warehouse provisions
+    Current Status: Framework continued
+
+4.  Title: Foreign Exchange Regulations, 1947-1970
+    Year: Various
+    Type: Regulations/Notifications
+    Parent/Enabling Act: Foreign Exchange Regulation Act, 1947 (Act VII
+        of 1947)
+    Subject: Foreign exchange control, remittance rules, capital account
+        restrictions
+    Current Status: Active framework under Bangladesh Foreign Exchange
+        Regulation Act
+
+5.  Title: East Pakistan Jute Export Rules, 1952
+    Year: 1952
+    Type: Rules
+    Parent/Enabling Act: Jute control legislation
+    Subject: Jute export licensing, quality grading, shipping rules
+    Current Status: Modified under Bangladesh jute export framework
+
+6.  Title: Customs (Valuation) Rules, 1960
+    Year: 1960
+    Type: Rules
+    Parent/Enabling Act: Customs Act / Sea Customs Act
+    Subject: Customs valuation methodology, assessable value
+    Current Status: Modified under Customs Act, 1969
+
+7.  Title: Customs (Warehousing) Rules, 1960
+    Year: 1960
+    Type: Rules
+    Parent/Enabling Act: Customs legislation
+    Subject: Bonded warehouse licensing, storage, clearance
+    Current Status: Active with amendments
+
+8.  Title: Customs (Baggage) Rules, 1957
+    Year: 1957
+    Type: Rules
+    Parent/Enabling Act: Customs legislation
+    Subject: Personal baggage allowance for travelers
+    Current Status: Active with amendments
+
+9.  Title: Export Bonus Scheme Rules, 1959
+    Year: 1959
+    Type: Rules/Notifications
+    Parent/Enabling Act: Export Bonus Scheme Order, 1959
+    Subject: Export incentive scheme (bonus voucher system)
+    Current Status: Obsolete (scheme discontinued)
+
+10. Title: Chittagong Port Rules, 1960
+    Year: 1960
+    Type: Rules
+    Parent/Enabling Act: Ports Act, 1908 (Act XV of 1908)
+    Subject: Port operations, shipping, cargo handling at Chittagong Port
+    Current Status: Active under Chittagong Port Authority
+
+================================================================================
+XVIII. CRIMINAL JUSTICE AND PROCEDURAL RULES
+================================================================================
+
+1.  Title: Criminal Rules and Orders (Practice and Procedure), 1960
+    Year: 1960 (East Pakistan High Court)
+    Type: Rules
+    Parent/Enabling Act: Code of Criminal Procedure, 1898 (Act V of 1898)
+    Subject: Practice and procedure in criminal courts
+    Current Status: Active with amendments
+
+2.  Title: Civil Rules and Orders (Practice and Procedure), 1960
+    Year: 1960 (East Pakistan High Court)
+    Type: Rules
+    Parent/Enabling Act: Code of Civil Procedure, 1908 (Act V of 1908)
+    Subject: Practice and procedure in civil courts
+    Current Status: Active -- primary procedural guide for Bangladesh courts
+
+3.  Title: East Pakistan Corrupt Practices (Prevention) Rules, 1958
+    Year: 1958
+    Type: Rules
+    Parent/Enabling Act: Prevention of Corruption Act, 1947 (Act II of
+        1947) / Martial Law anti-corruption orders
+    Subject: Anti-corruption procedures, investigation, prosecution
+    Current Status: Framework continued under Anti-Corruption Commission
+
+4.  Title: Probation of Offenders Rules, 1964 (East Pakistan)
+    Year: 1964
+    Type: Rules
+    Parent/Enabling Act: Probation of Offenders Ordinance, 1960
+        (Ordinance XLV of 1960)
+    Subject: Probation services, rehabilitation of offenders
+    Current Status: Active
+
+5.  Title: East Pakistan Suppression of Immoral Traffic Rules, 1964
+    Year: 1964
+    Type: Rules
+    Parent/Enabling Act: Suppression of Immoral Traffic Act, 1933
+    Subject: Anti-trafficking measures
+    Current Status: Modified under subsequent legislation
+
+6.  Title: Legal Practitioners and Bar Council Rules, 1966
+    Year: 1966
+    Type: Rules
+    Parent/Enabling Act: Legal Practitioners and Bar Councils Act, 1965
+        (Act XXI of 1965)
+    Subject: Enrollment of advocates, bar council governance, professional
+        conduct
+    Current Status: Active -- governs Bangladesh Bar Council
+
+7.  Title: East Pakistan Anti-Corruption Rules, 1962
+    Year: 1962
+    Type: Rules
+    Parent/Enabling Act: Anti-corruption legislation
+    Subject: Anti-corruption department procedures
+    Current Status: Superseded by Anti-Corruption Commission framework
+
+8.  Title: Public Demands Recovery Rules, 1951 (East Pakistan)
+    Year: 1951
+    Type: Rules
+    Parent/Enabling Act: Public Demands Recovery Act, 1913 (Bengal Act
+        III of 1913)
+    Subject: Recovery of government dues, certificate cases
+    Current Status: Active -- widely used in Bangladesh revenue recovery
+
+================================================================================
+XIX. LOCAL GOVERNMENT RULES (BEYOND BASIC DEMOCRACIES)
+================================================================================
+
+1.  Title: East Bengal Local Self-Government Rules, 1951
+    Year: 1951
+    Type: Rules
+    Parent/Enabling Act: Bengal Local Self-Government Act, 1885 /
+        as adapted for East Bengal
+    Subject: District board and local board administration
+    Current Status: Superseded
+
+2.  Title: East Pakistan Union Council (Model By-Laws), 1962
+    Year: 1962
+    Type: By-Laws
+    Parent/Enabling Act: Basic Democracies Order, 1959
+    Subject: Standard by-laws for Union Councils
+    Current Status: Superseded but influenced current framework
+
+3.  Title: Village Courts Rules, 1960
+    Year: 1960
+    Type: Rules
+    Parent/Enabling Act: Village Courts Ordinance, 1960 /
+        Conciliation Courts Ordinance, 1961 (Ordinance XLIV of 1961)
+    Subject: Village-level dispute resolution, petty criminal and
+        civil cases
+    Current Status: Active framework -- Village Courts Act, 2006
+        continues the tradition
+
+4.  Title: East Pakistan Paurashava (Municipality) Model By-Laws, 1965
+    Year: 1965
+    Type: By-Laws
+    Parent/Enabling Act: Municipal Administration Ordinance, 1960
+    Subject: Standard by-laws for Pourashavas
+    Current Status: Superseded by Pourashava Ordinance framework
+
+5.  Title: East Pakistan Local Fund Audit Rules, 1960
+    Year: 1960
+    Type: Rules
+    Parent/Enabling Act: Local fund audit legislation
+    Subject: Audit of local government funds
+    Current Status: Active framework under Local Government Division
+
+================================================================================
+XX. MISCELLANEOUS SUBORDINATE LEGISLATIONS
+================================================================================
+
+A. HEALTH AND SANITATION
+
+1.  Title: East Pakistan Drugs Rules, 1952
+    Year: 1952
+    Type: Rules
+    Parent/Enabling Act: Drugs Act, 1940 (Act XXIII of 1940)
+    Subject: Drug manufacturing, import, sale, quality control, licensing
+        of pharmacies
+    Current Status: Active under Drug Administration framework
+
+2.  Title: East Pakistan Vaccination Rules, 1960
+    Year: 1960
+    Type: Rules
+    Parent/Enabling Act: Vaccination Act, 1880 (Act XIII of 1880)
+    Subject: Compulsory vaccination programmes
+    Current Status: Modified
+
+3.  Title: East Pakistan Medical Registration Rules, 1960
+    Year: 1960
+    Type: Rules
+    Parent/Enabling Act: Medical Council legislation
+    Subject: Registration of medical practitioners
+    Current Status: Active under BMDC
+
+4.  Title: East Pakistan Epidemic Diseases Rules, 1960
+    Year: 1960
+    Type: Rules
+    Parent/Enabling Act: Epidemic Diseases Act, 1897 (Act III of 1897)
+    Subject: Measures against epidemic diseases
+    Current Status: Active
+
+5.  Title: Poison Rules, 1952 (East Pakistan)
+    Year: 1952
+    Type: Rules
+    Parent/Enabling Act: Poison Act, 1919 (Act XII of 1919)
+    Subject: Sale, storage, and transport of poisons
+    Current Status: Active
+
+B. RELIGIOUS AND CHARITABLE ENDOWMENTS
+
+6.  Title: Waqf Rules, 1962 (East Pakistan)
+    Year: 1962
+    Type: Rules
+    Parent/Enabling Act: East Pakistan Waqfs Ordinance, 1962
+    Subject: Waqf property management, Waqf Administrator powers
+    Current Status: Active under Bangladesh Waqf Administration framework
+
+7.  Title: Hindu Religious and Charitable Endowments Rules
+    Year: 1950 (adapted)
+    Type: Rules
+    Parent/Enabling Act: Bengal Hindu Religious Endowments Act, 1934
+    Subject: Management of Hindu religious endowments
+    Current Status: Active
+
+8.  Title: Societies Registration Rules, 1950 (East Bengal)
+    Year: 1950
+    Type: Rules
+    Parent/Enabling Act: Societies Registration Act, 1860 (Act XXI of 1860)
+    Subject: Registration and governance of voluntary societies
+    Current Status: Active
+
+C. ENVIRONMENT AND NATURAL RESOURCES
+
+9.  Title: East Pakistan Wildlife Preservation Rules, 1959
+    Year: 1959
+    Type: Rules
+    Parent/Enabling Act: Wild Life (Preservation) (Protection) Act, 1947 /
+        East Pakistan Wild Life (Preservation) Ordinance, 1959
+    Subject: Wildlife protection, game reserves, hunting licenses
+    Current Status: Active under Bangladesh Wildlife (Conservation and
+        Security) Act, 2012
+
+10. Title: Petroleum Rules, 1951 (Pakistan)
+    Year: 1951
+    Type: Rules
+    Parent/Enabling Act: Petroleum Act, 1934 (Act XXX of 1934)
+    Subject: Storage, transport, and sale of petroleum products
+    Current Status: Active with amendments
+
+11. Title: East Pakistan Mining Concession Rules, 1959
+    Year: 1959
+    Type: Rules
+    Parent/Enabling Act: Mines and Minerals (Regulation and Development)
+        Act, 1948
+    Subject: Mining leases, exploration licenses, royalties
+    Current Status: Active framework under Bangladesh mining laws
+
+12. Title: Gas Safety Rules, 1960 (East Pakistan)
+    Year: 1960
+    Type: Rules
+    Parent/Enabling Act: Gas Act/Rules framework
+    Subject: Natural gas safety, pipeline standards
+    Current Status: Active with amendments
+
+D. INFORMATION AND PRESS
+
+13. Title: Press and Registration of Books Rules, 1951 (East Pakistan)
+    Year: 1951
+    Type: Rules
+    Parent/Enabling Act: Press and Registration of Books Act, 1867
+        (Act XXV of 1867)
+    Subject: Registration of printing presses, newspapers, periodicals
+    Current Status: Active framework
+
+14. Title: East Pakistan Official Secrets Rules, 1951
+    Year: 1951
+    Type: Rules
+    Parent/Enabling Act: Official Secrets Act, 1923 (Act XIX of 1923)
+    Subject: Protection of state secrets, classification of documents
+    Current Status: Active
+
+E. CITIZENSHIP AND IMMIGRATION
+
+15. Title: Pakistan Citizenship Rules, 1952
+    Year: 1952
+    Type: Rules
+    Parent/Enabling Act: Pakistan Citizenship Act, 1951
+    Subject: Citizenship acquisition, registration, naturalization
+    Current Status: Superseded by Bangladesh Citizenship framework
+
+16. Title: Foreigners Rules, 1951 (Pakistan)
+    Year: 1951
+    Type: Rules
+    Parent/Enabling Act: Foreigners Act, 1946 (Act XXXI of 1946)
+    Subject: Registration of foreigners, visa rules, restrictions
+    Current Status: Active framework under Bangladesh Foreigners legislation
+
+F. CHARITABLE AND VOLUNTARY ORGANIZATIONS
+
+17. Title: Voluntary Social Welfare Agencies (Registration and Control)
+    Rules, 1962
+    Year: 1962
+    Type: Rules
+    Parent/Enabling Act: Voluntary Social Welfare Agencies (Registration
+        and Control) Ordinance, 1961 (Ordinance XLVI of 1961)
+    Subject: Registration and oversight of NGOs and welfare agencies
+    Current Status: Active -- precursor to Bangladesh NGO regulatory
+        framework
+
+G. LAND ACQUISITION AND PUBLIC WORKS
+
+18. Title: Land Acquisition Rules, 1963 (East Pakistan)
+    Year: 1963
+    Type: Rules
+    Parent/Enabling Act: Land Acquisition Act, 1894 (Act I of 1894)
+    Subject: Acquisition of private land for public purposes, compensation
+        procedures
+    Current Status: Active (Land Acquisition Act, 1894 was still operative
+        in Bangladesh until 2017 Amendment Act)
+
+19. Title: East Pakistan Public Works Department Code/Rules, 1962
+    Year: 1962
+    Type: Code/Rules
+    Parent/Enabling Act: Administrative orders
+    Subject: PWD operational procedures, contract management, construction
+        standards
+    Current Status: Active with amendments
+
+20. Title: Requisition of Property Rules, 1952 (East Pakistan)
+    Year: 1952
+    Type: Rules
+    Parent/Enabling Act: East Bengal (Emergency) Requisition of Property
+        Act, 1948
+    Subject: Government requisition of private property
+    Current Status: Active
+
+H. OTHERS
+
+21. Title: East Pakistan Abandoned Property (Control, Management and
+    Disposal) Rules, 1965
+    Year: 1965
+    Type: Rules
+    Parent/Enabling Act: East Pakistan Abandoned Property (Control,
+        Management and Disposal) Order, 1965
+    Subject: Management of properties abandoned during communal tensions
+    Current Status: See Vested Property framework
+
+22. Title: East Pakistan Charitable and Religious Trust Rules, 1952
+    Year: 1952
+    Type: Rules
+    Parent/Enabling Act: Charitable and Religious Trusts Act, 1920
+        (Act XIV of 1920)
+    Subject: Registration and management of charitable trusts
+    Current Status: Active
+
+23. Title: Canals and Drainage Rules (East Pakistan), 1952
+    Year: 1952
+    Type: Rules
+    Parent/Enabling Act: Bengal Canals Act, 1864 / Irrigation Acts
+    Subject: Canal management, water distribution, drainage
+    Current Status: Active framework
+
+24. Title: East Pakistan Warehousing Corporation Rules, 1960
+    Year: 1960
+    Type: Rules
+    Parent/Enabling Act: East Pakistan Warehousing Corporation
+        Ordinance, 1960
+    Subject: Grain storage, warehousing facilities
+    Current Status: Active framework under CWC/TCB
+
+25. Title: East Pakistan Hotel and Restaurant Licensing Rules, 1960
+    Year: 1960
+    Type: Rules
+    Parent/Enabling Act: Related licensing legislation
+    Subject: Hotel and restaurant licensing, hygiene standards
+    Current Status: Modified
+
+================================================================================
+XXI. KEY ARCHIVAL SOURCES AND REPOSITORIES
+================================================================================
+
+For the comprehensive identification and codification exercise under
+Package SD-1 (1799-1970), the following sources should be systematically
+consulted:
+
+PRIMARY SOURCES:
+
+1.  The Dhaka Gazette (formerly East Bengal Gazette / East Pakistan
+    Gazette) -- Extraordinary and Ordinary issues
+    Location: Bangladesh Government Press, Tejgaon; National Library;
+    Legislative Division archives
+    Coverage: 1947-1971 -- All notifications, rules, orders, by-laws
+    were published here
+
+2.  The Gazette of Pakistan -- Central government subordinate legislation
+    Location: National Archives of Bangladesh (Agargaon); Bangladesh
+    National Library; some held at Parliament Library
+    Coverage: 1947-1971 -- Federal rules and regulations applicable
+    to East Pakistan
+
+3.  Bangladesh Code (volumes covering pre-1971 legislation)
+    Location: Legislative and Parliamentary Affairs Division; Law
+    Commission of Bangladesh
+    Coverage: Compiled text of laws including subordinate legislation
+
+4.  East Pakistan Statutory Rules and Orders (SRO) Register
+    Location: Legislative Division archives
+    Notes: Systematic register of all SROs issued under provincial
+    laws
+
+5.  Manual of Bangladesh Laws (multiple volumes)
+    Publisher: Ministry of Law
+    Notes: Includes many pre-1971 subordinate legislations
+
+6.  bdlaws.minlaw.gov.bd (Laws of Bangladesh Database)
+    Notes: Official online database maintained by Legislative and
+    Parliamentary Affairs Division -- contains many pre-1971 laws
+    and some subordinate legislation
+
+7.  Pakistan Legal Decisions (PLD) -- Annual volumes 1947-1971
+    Notes: Contains gazette notifications and judicial decisions
+    interpreting subordinate legislation
+
+8.  All Pakistan Legal Decisions (APLD) and Dacca Law Reports (DLR)
+    Notes: Case law interpreting subordinate legislation
+
+SECONDARY SOURCES:
+
+9.  "The Laws of East Pakistan" by A.K.M. Fazlul Haque (multiple volumes)
+10. "Bangladesh Legal System" by Halim, M.A.
+11. "Constitutional and Legal History of Bangladesh" by Mahmudul Islam
+12. "Bangladesh: National Culture and Heritage" -- law sections
+13. Reports of the Bangladesh Law Commission
+14. Reports of the Law Reforms Commission of Bangladesh
+15. "Compilation of Laws Relating to Land" by various authors
+16. Revenue Department manuals and settlement reports
+17. District Gazetteers of Bengal (reprinted) -- contain lists of
+    applicable subordinate legislation by district
+
+INSTITUTIONAL ARCHIVES:
+
+18. National Archives of Bangladesh, Agargaon, Dhaka
+19. Bangladesh Parliament Library, Jatiya Sangsad Bhaban
+20. Supreme Court Library, Dhaka
+21. Bangladesh Bar Council Library
+22. Dhaka University Law Library
+23. Record rooms of: Ministry of Land, Ministry of Education, Ministry
+    of Home Affairs, Ministry of Commerce, Ministry of Finance
+24. Divisional Commissioner's Record Rooms (especially Dhaka, Rajshahi,
+    Chittagong, Khulna, Barisal, Sylhet)
+25. District Collectorate Record Rooms -- contain local SRO files
+
+================================================================================
+XXII. METHODOLOGICAL NOTES
+================================================================================
+
+1. SCOPE CHALLENGES:
+   The period 1947-1970 presents unique challenges because:
+   - Many subordinate legislations were published only in the Gazette and
+     never compiled into any single volume
+   - Some Gazette issues from this period are missing or deteriorated
+   - The distinction between "central" and "provincial" subordinate
+     legislation requires careful sorting -- some central rules had
+     differentiated application in East and West Pakistan
+   - Martial law regulations (1958-1962, 1969-1970) were often issued
+     without formal gazette notification
+
+2. ADAPTATION AND CONTINUITY:
+   Three layers of subordinate legislation must be tracked:
+   Layer 1: Pre-1947 British Indian rules/regulations that continued under
+            the legal continuity principle (these overlap with the 1799-1947
+            portion of SD-1)
+   Layer 2: New subordinate legislation issued 1947-1970 under new Pakistani/
+            East Pakistani parent legislation
+   Layer 3: Adaptation orders that modified pre-existing subordinate
+            legislation
+
+3. CURRENT STATUS DETERMINATION:
+   To determine current status (Active/Amended/Repealed/Obsolete), the
+   following must be checked:
+   - Bangladesh (Adaptation of Existing Laws) Order, 1972 (P.O. 48 of 1972)
+   - Laws Continuance Enforcement Order, 1971
+   - Bangladesh Laws Revision and Declaration Act, 1973
+   - Subsequent specific repeal acts
+   - Specific amendment acts and ordinances
+   - Bangladesh Gazette notifications of amendment/repeal
+   - Bangladesh Law Commission recommendations for repeal
+
+4. ESTIMATED VOLUME:
+   Based on scholarly estimates, the total number of subordinate legislation
+   instruments (rules, regulations, by-laws, orders, notifications) from
+   the 1947-1970 period applicable to East Pakistan/Bangladesh likely
+   numbers between 1,500 and 3,000 individual instruments. This research
+   document identifies the major categories and most significant
+   instruments. The full codification exercise will require systematic
+   gazette-by-gazette review.
+
+5. PRIORITY CATEGORIES FOR CODIFICATION:
+   Based on continuing relevance to Bangladesh governance:
+   HIGH PRIORITY (still widely operative):
+   - Land and revenue rules
+   - Public service rules
+   - Tax rules (especially Income Tax Rules, 1962)
+   - Family law rules (Muslim Family Laws Rules, 1961)
+   - Labour rules
+   - Court procedural rules
+   - Police rules
+
+   MEDIUM PRIORITY (partially operative or foundational):
+   - Municipal by-laws
+   - Education rules
+   - Trade and commerce rules
+   - Banking regulations
+   - Transport rules
+
+   LOWER PRIORITY (largely obsolete but needed for completeness):
+   - Martial law regulations
+   - Basic Democracies rules
+   - Constitution-related adaptation orders
+
+================================================================================
+SUMMARY STATISTICS
+================================================================================
+
+Total subordinate legislation instruments identified in this research:
+
+Category                                          | Count
+--------------------------------------------------|------
+Land Reform Rules and Regulations                 |   15
+Revenue and Tax Rules                             |   17
+Municipal Administration By-Laws                  |   10
+Education Rules and Regulations                   |   12
+Public Order and Safety Regulations               |   14
+Labour and Industrial Regulations                 |   14
+Family Law Rules                                  |    8
+Trade and Commerce Regulations                    |   14
+Basic Democracies Rules                           |   10
+Martial Law Regulations and Orders                |   15
+Constitution-Related Subordinate Legislation      |   12
+Agricultural and Cooperative Society Rules        |   13
+Transport, Communication, Infrastructure Rules    |   12
+Public Service Rules and Regulations              |   15
+Banking and Financial Regulations                 |   10
+Import/Export Regulations                         |   10
+Criminal Justice and Procedural Rules             |    8
+Local Government Rules                            |    5
+Miscellaneous (Health, Religious, Environment,    |   25
+  Press, Citizenship, NGO, Land Acq., Others)     |
+--------------------------------------------------|------
+TOTAL IDENTIFIED                                  |  229
+--------------------------------------------------|------
+
+NOTE: This represents the major and most significant instruments. The
+full universe of subordinate legislation from 1947-1970 is substantially
+larger and will be identified through systematic gazette review during
+the codification project.
+
+================================================================================
+                              END OF RESEARCH DOCUMENT
+================================================================================
+
+Prepared for: The Legal Empire (www.thelegalempire.org)
+For: Package SD-1 (1799-1970) -- Code of Delegated/Subordinate Legislation
+Project: Strengthening Legislative Capacity and Legal Awareness Building
+Client: Legislative and Parliamentary Affairs Division, Ministry of Law,
+        Justice and Parliamentary Affairs, Government of Bangladesh
+
+DISCLAIMER: This research document is compiled from legal scholarship,
+published compilations, and institutional knowledge. It should be verified
+against primary gazette sources during the formal codification exercise.
+Some titles, years, or parent act references may require confirmation
+from original gazette notifications.
