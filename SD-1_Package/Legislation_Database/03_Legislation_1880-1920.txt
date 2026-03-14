@@ -1,0 +1,668 @@
+================================================================================
+COMPREHENSIVE LEGISLATION DATABASE: 1880-1920
+Applicable to Bengal / Present-Day Bangladesh
+================================================================================
+
+Compiled from training knowledge. Covers Acts of the Indian Legislature
+(Governor-General in Council), Bengal Provincial Acts, and relevant UK
+Parliament Acts. Period: 1880-1920.
+
+Format:
+S/N | Year | Title | Type | Act No. | Subject Category | Status in Bangladesh
+
+NOTE ON STATUS:
+  "In Force" = Still operative in Bangladesh (with or without amendments)
+  "In Force (Amended)" = Operative with significant amendments
+  "Repealed" = Expressly repealed in Bangladesh / East Pakistan
+  "Obsolete" = Not formally repealed but effectively dead letter
+  "Superseded" = Replaced by later legislation
+  "Partially In Force" = Some provisions still operative
+  "Uncertain" = Status not definitively confirmed
+
+================================================================================
+A. ACTS OF THE INDIAN LEGISLATURE (Governor-General in Council)
+================================================================================
+
+--- 1880 ---
+
+1 | 1880 | Kazis Act, 1880 | Central | Act XII of 1880 | Judicial / Islamic Law | In Force
+
+2 | 1880 | Indian Employers and Workmen (Disputes) Act, 1860 (amended 1880) | Central | Act — | Labour | Repealed
+
+3 | 1880 | Cantonments Act, 1880 | Central | Act XIII of 1880 | Military / Local Government | Superseded (by Cantonments Act 1924)
+
+--- 1881 ---
+
+4 | 1881 | Negotiable Instruments Act, 1881 | Central | Act XXVI of 1881 | Commercial / Banking | In Force (Amended)
+
+5 | 1881 | Indian Factories Act, 1881 | Central | Act XV of 1881 | Labour / Industrial | Superseded (by Factories Act 1934/1965)
+
+6 | 1881 | Probate and Administration Act, 1881 | Central | Act V of 1881 | Succession / Estates | In Force (Amended) [Applies to non-Muslims primarily]
+
+7 | 1881 | Bankers' Books Evidence Act, 1881 | Central | Act XVIII of 1881 | Evidence / Banking | In Force
+
+8 | 1881 | Introduced of the Repealing and Amending Act, 1881 | Central | Act XVI of 1881 | Statute Law Revision | Spent
+
+--- 1882 ---
+
+9 | 1882 | Transfer of Property Act, 1882 | Central | Act IV of 1882 | Property / Land | In Force (Amended) — foundational property law
+
+10 | 1882 | Indian Trusts Act, 1882 | Central | Act II of 1882 | Trusts / Equity | In Force
+
+11 | 1882 | Indian Easements Act, 1882 | Central | Act V of 1882 | Property / Easements | In Force
+
+12 | 1882 | Indian Majority Act, 1875 (amended 1882) | Central | Act IX of 1875 | Personal Law / Age of Majority | In Force
+
+13 | 1882 | Powers of Attorney Act, 1882 | Central | Act VII of 1882 | Agency / Civil | In Force
+
+14 | 1882 | Savings Banks Act, 1882 | Central | Act V of 1882 | Banking / Finance | Obsolete / Superseded
+
+--- 1883 ---
+
+15 | 1883 | Indian Telegraph Act, 1885 (sometimes dated 1883 in early drafts) | Central | — | Telecommunications | See entry under 1885
+
+16 | 1883 | Land Improvement Loans Act, 1883 | Central | Act XIX of 1883 | Agriculture / Land | In Force
+
+17 | 1883 | Agriculturists' Loans Act, 1884 | Central | Act XII of 1884 | Agriculture / Credit | In Force (see 1884)
+
+--- 1884 ---
+
+18 | 1884 | Agriculturists' Loans Act, 1884 | Central | Act XII of 1884 | Agriculture / Credit | In Force
+
+19 | 1884 | Indian Christian Marriage Act, 1872 (amended 1884) | Central | — | Personal Law / Marriage | In Force
+
+--- 1885 ---
+
+20 | 1885 | Indian Telegraph Act, 1885 | Central | Act XIII of 1885 | Telecommunications | In Force (Amended) — basis for telecom regulation
+
+21 | 1885 | Bengal Tenancy Act, 1885 | Bengal Provincial | Bengal Act VIII of 1885 | Land Tenure / Tenancy | Repealed (by State Acquisition and Tenancy Act, 1950 in East Pakistan) — but historically foundational
+
+22 | 1885 | Bengal Local Self-Government Act, 1885 | Bengal Provincial | Bengal Act III of 1885 | Local Government | Repealed / Superseded by later local government laws
+
+23 | 1885 | Indian Lunacy Act, 1858 / Lunacy Act, 1885 (early provisions) | Central | — | Mental Health | Superseded (by Mental Health Ordinance later)
+
+--- 1886 ---
+
+24 | 1886 | Births, Deaths and Marriages Registration Act, 1886 | Central | Act VI of 1886 | Civil Registration | In Force (Amended)
+
+25 | 1886 | Dramatic Performances Act, 1876 (amended 1886) | Central | Act XIX of 1876 | Censorship / Public Order | Obsolete
+
+26 | 1886 | Indian Income Tax Act, 1886 | Central | Act II of 1886 | Taxation | Superseded (by Income Tax Act 1922 and later)
+
+--- 1887 ---
+
+27 | 1887 | Bengal Alluvion and Diluvion Act, 1868 (amended/re-enacted provisions) | Bengal | — | Land / Rivers | Superseded / Partially relevant
+
+28 | 1887 | Provincial Small Cause Courts Act, 1887 | Central | Act IX of 1887 | Judicial / Courts | In Force (Amended)
+
+29 | 1887 | Suits Valuation Act, 1887 | Central | Act VII of 1887 | Civil Procedure / Courts | In Force
+
+30 | 1887 | Indian Merchandise Marks Act, 1889 | Central | — | Trade / Commerce | See 1889
+
+--- 1888 ---
+
+31 | 1888 | Indian Oaths Act, 1873 (amended 1888) | Central | Act X of 1873 | Evidence / Judicial | In Force (see also 1969 revision)
+
+32 | 1888 | Calcutta High Court Act (various amending Acts) | Central/Bengal | — | Judicial | Partially In Force
+
+33 | 1888 | Presidency Towns Insolvency Act, 1909 | Central | — | See 1909 | —
+
+--- 1889 ---
+
+34 | 1889 | Indian Merchandise Marks Act, 1889 | Central | Act IV of 1889 | Trade Marks / Commercial | Superseded (by Trade Marks Act)
+
+35 | 1889 | Bengal Public Demands Recovery Act, 1880 (amendments 1889) | Bengal | — | Revenue / Tax Recovery | Superseded (by Public Demands Recovery Act 1913)
+
+--- 1890 ---
+
+36 | 1890 | Guardians and Wards Act, 1890 | Central | Act VIII of 1890 | Family Law / Minors | In Force (Amended) — widely applied
+
+37 | 1890 | Revenue Recovery Act, 1890 | Central | Act I of 1890 | Revenue / Inter-provincial Recovery | In Force
+
+38 | 1890 | Bengal Public Demands Recovery Act, 1913 | Bengal | — | See 1913 | —
+
+--- 1891 ---
+
+39 | 1891 | Age of Consent Act, 1891 | Central | Act X of 1891 | Criminal / Social Reform | Merged into Penal Code provisions / Superseded
+
+40 | 1891 | Charitable Endowments Act, 1890 | Central | Act VI of 1890 | Trusts / Charity | In Force
+
+41 | 1891 | Indian Factories Act, 1891 (replacement of 1881 Act) | Central | Act XI of 1891 | Labour / Industrial | Superseded (by Factories Act 1934)
+
+--- 1892 ---
+
+42 | 1892 | Indian Councils Act, 1892 | UK Parliament | 55 & 56 Vict. c. 14 | Constitutional / Legislative Councils | Superseded (by Government of India Act 1909, 1919)
+
+43 | 1892 | Cattle Trespass Act, 1871 (amended 1892) | Central | Act I of 1871 | Agriculture / Animals | In Force
+
+--- 1893 ---
+
+44 | 1893 | Partition Act, 1893 | Central | Act IV of 1893 | Property / Civil | In Force
+
+45 | 1893 | Legal Practitioners Act, 1879 (amended 1893) | Central | Act XVIII of 1879 | Legal Profession | Superseded (by Bangladesh Legal Practitioners and Bar Council Order 1972)
+
+--- 1894 ---
+
+46 | 1894 | Land Acquisition Act, 1894 | Central | Act I of 1894 | Land / Eminent Domain | In Force (Amended) — critically important; basis for all land acquisition in Bangladesh until recent reforms
+
+47 | 1894 | Prisons Act, 1894 | Central | Act IX of 1894 | Criminal / Prisons | In Force (Amended)
+
+48 | 1894 | Bengal Cess Act, 1880 (amended 1894) | Bengal | Bengal Act IX of 1880 | Revenue / Local Taxation | Repealed / Superseded
+
+--- 1895 ---
+
+49 | 1895 | Government Savings Banks Act, 1873 (amended 1895) | Central | Act V of 1873 | Banking / Finance | In Force (Amended)
+
+50 | 1895 | Indian Tramways Act, 1886 (amended 1895) | Central | Act XI of 1886 | Transport | Obsolete
+
+--- 1896 ---
+
+51 | 1896 | Reformatory Schools Act, 1897 | Central | — | See 1897 | —
+
+--- 1897 ---
+
+52 | 1897 | General Clauses Act, 1897 | Central | Act X of 1897 | Interpretation / Statute Law | In Force — fundamental interpretive statute for all Bangladesh law
+
+53 | 1897 | Epidemic Diseases Act, 1897 | Central | Act III of 1897 | Public Health | In Force — invoked during COVID-19
+
+54 | 1897 | Indian Fisheries Act, 1897 | Central | Act IV of 1897 | Fisheries / Natural Resources | In Force (Amended)
+
+55 | 1897 | Reformatory Schools Act, 1897 | Central | Act VIII of 1897 | Juvenile Justice / Education | Superseded
+
+56 | 1897 | Vaccination Act, 1880 | Central | Act XIII of 1880 | Public Health | Obsolete / Superseded
+
+--- 1898 ---
+
+57 | 1898 | Code of Criminal Procedure, 1898 (CrPC) | Central | Act V of 1898 | Criminal Procedure | In Force (Amended) — Bangladesh still operates under CrPC 1898, unlike India which enacted a new code
+
+58 | 1898 | Indian Stamp Act, 1899 | Central | — | See 1899 | —
+
+--- 1899 ---
+
+59 | 1899 | Indian Stamp Act, 1899 | Central | Act II of 1899 | Revenue / Stamp Duty | In Force (Amended) — used for all stamp duty purposes
+
+60 | 1899 | Indian Criminal Law Amendment Act, 1908 | Central | — | See 1908 | —
+
+--- 1900 ---
+
+61 | 1900 | Bengal Excise Act, 1909 | Bengal | — | See 1909 | —
+
+62 | 1900 | Indian Official Secrets Act, 1904 | Central | — | See 1904 | —
+
+--- 1901 ---
+
+63 | 1901 | Indian Mines Act, 1901 | Central | Act VIII of 1901 | Mining / Labour | Superseded (by Mines Act 1923)
+
+64 | 1901 | Indian Post Office Act, 1898 | Central | Act VI of 1898 | Postal Services / Communication | In Force (Amended)
+
+--- 1902 ---
+
+65 | 1902 | Indian Tolls Act, 1851/1902 (amended) | Central | — | Transport / Revenue | Obsolete
+
+66 | 1902 | Indian Universities Act, 1904 | Central | — | See 1904 | —
+
+--- 1903 ---
+
+67 | 1903 | Indian Motor Vehicles Act (early provisions) | Central | — | Transport | See later Motor Vehicles Act
+
+68 | 1903 | Bengal Tenancy (Amendment) Acts (various 1886-1928) | Bengal | — | Land Tenure | Merged into Bengal Tenancy Act
+
+--- 1904 ---
+
+69 | 1904 | Indian Official Secrets Act, 1904 | Central | Act XIV of 1904 | National Security / Official Secrets | Superseded (by Official Secrets Act 1923, which is in force in Bangladesh)
+
+70 | 1904 | Indian Universities Act, 1904 | Central | Act VIII of 1904 | Education / Universities | Superseded (by individual university acts)
+
+71 | 1904 | Ancient Monuments Preservation Act, 1904 | Central | Act VII of 1904 | Heritage / Antiquities | In Force (Amended) — basis for archaeological protection
+
+72 | 1904 | Co-operative Credit Societies Act, 1904 | Central | Act X of 1904 | Co-operatives / Finance | Superseded (by Co-operative Societies Act 1912 and later)
+
+--- 1905 ---
+
+73 | 1905 | Partition of Bengal, 1905 (Executive Order, not Act per se) | Executive | — | Constitutional / Administrative | Annulled 1911
+
+74 | 1905 | Indian Explosives Act, 1884 (amended 1905) | Central | Act IV of 1884 | Arms / Public Safety | In Force (Amended)
+
+75 | 1905 | Bengal Amendment Act (various Tenancy amendments) | Bengal | — | Land Tenure | Merged into BTA
+
+--- 1906 ---
+
+76 | 1906 | Prevention of Seditious Meetings Act, 1907 | Central | — | See 1907 | —
+
+77 | 1906 | Legal Practitioners (Fees) Act, 1853/1906 (amended) | Central | — | Legal Profession | Superseded
+
+--- 1907 ---
+
+78 | 1907 | Prevention of Seditious Meetings Act, 1907 | Central | Act X of 1907 | Public Order / Political | Repealed / Obsolete
+
+79 | 1907 | Criminal Law Amendment Act, 1908 | Central | — | See 1908 | —
+
+--- 1908 ---
+
+80 | 1908 | Code of Civil Procedure, 1908 (CPC) | Central | Act V of 1908 | Civil Procedure | In Force (Amended) — foundational civil procedural law of Bangladesh
+
+81 | 1908 | Indian Limitation Act, 1908 | Central | Act IX of 1908 | Limitation / Civil | In Force (Amended) — Bangladesh still uses the 1908 Act (India replaced it in 1963)
+
+82 | 1908 | Indian Registration Act, 1908 | Central | Act XVI of 1908 | Property Registration | In Force (Amended) — mandatory for property transactions
+
+83 | 1908 | Indian Criminal Law Amendment Act, 1908 | Central | Act XIV of 1908 | Criminal / Public Order | Partially In Force
+
+84 | 1908 | Explosive Substances Act, 1908 | Central | Act VI of 1908 | Arms / Public Safety | In Force
+
+85 | 1908 | Indian Newspapers (Incitements to Offences) Act, 1908 | Central | Act — | Press / Public Order | Repealed
+
+86 | 1908 | Charitable and Religious Trusts Act, 1920 | Central | — | See 1920 | —
+
+--- 1909 ---
+
+87 | 1909 | Indian Councils Act, 1909 (Morley-Minto Reforms) | UK Parliament | 9 Edw. VII c. 4 | Constitutional / Legislative Reform | Superseded (by Government of India Act 1919)
+
+88 | 1909 | Presidency Towns Insolvency Act, 1909 | Central | Act III of 1909 | Insolvency / Commercial | In Force (for Dhaka as it inherited Presidency jurisdiction aspects)
+
+89 | 1909 | Bengal Excise Act, 1909 | Bengal Provincial | Bengal Act V of 1909 | Excise / Liquor | In Force (Amended) — still governs excise in Bangladesh
+
+90 | 1909 | Provincial Insolvency Act, 1920 | Central | — | See 1920 | —
+
+91 | 1909 | Anand Marriage Act, 1909 | Central | Act VII of 1909 | Personal Law / Sikh Marriage | Not applicable in Bangladesh
+
+--- 1910 ---
+
+92 | 1910 | Indian Electricity Act, 1910 | Central | Act IX of 1910 | Electricity / Energy | Superseded (by Electricity Act in Bangladesh, though provisions survived long)
+
+93 | 1910 | Indian Press Act, 1910 | Central | Act I of 1910 | Press / Censorship | Repealed
+
+94 | 1910 | Indian Patents and Designs Act, 1911 | Central | — | See 1911 | —
+
+--- 1911 ---
+
+95 | 1911 | Indian Patents and Designs Act, 1911 | Central | Act II of 1911 | Intellectual Property / Patents | In Force (Amended) — Bangladesh Patents and Designs Act
+
+96 | 1911 | Indian Copyright Act, 1914 | Central | — | See 1914 | —
+
+97 | 1911 | Calcutta Municipal Act, 1911 (old Calcutta Corporation Act) | Bengal | Bengal Act III of 1911 | Municipal / Local Government | Not applicable (Calcutta now in India)
+
+98 | 1911 | Prevention of Seditious Meetings Act, 1911 | Central | Act X of 1911 | Public Order | Repealed / Superseded
+
+--- 1912 ---
+
+99 | 1912 | Co-operative Societies Act, 1912 | Central | Act II of 1912 | Co-operatives | Superseded (by Co-operative Societies Ordinance 1984/Act 2001 in Bangladesh)
+
+100 | 1912 | Indian Lunacy Act, 1912 | Central | Act IV of 1912 | Mental Health | In Force (Amended) — still partly operative in Bangladesh
+
+101 | 1912 | Wild Birds and Animals Protection Act, 1912 | Central | Act VIII of 1912 | Wildlife / Environment | Superseded (by Bangladesh Wildlife Preservation Order 1973)
+
+102 | 1912 | Bengal Municipal Act, 1884 (major amendment 1912) | Bengal | — | Municipal / Local Government | Superseded
+
+--- 1913 ---
+
+103 | 1913 | Bengal Public Demands Recovery Act, 1913 | Bengal Provincial | Bengal Act III of 1913 | Revenue Recovery | In Force (Amended) — important for government dues recovery
+
+104 | 1913 | Companies Act, 1913 | Central | Act VII of 1913 | Corporate / Commercial | Superseded (by Companies Act 1994 in Bangladesh)
+
+105 | 1913 | Mussalman Wakf Validating Act, 1913 | Central | Act VI of 1913 | Islamic Law / Waqf | In Force — validates waqf (including waqf-alal-aulad)
+
+106 | 1913 | Indian Museum Act, 1910 (sometimes listed under 1910) | Central | — | Heritage / Culture | Not directly applicable in Bangladesh
+
+--- 1914 ---
+
+107 | 1914 | Indian Copyright Act, 1914 | Central | Act III of 1914 | Intellectual Property / Copyright | Superseded (by Copyright Act 2000 in Bangladesh, though 1914 Act was in force until then)
+
+108 | 1914 | Foreigners Act, 1864/1914 (Foreigners Act amendments) | Central | — | Immigration / Aliens | Superseded (by Foreigners Act 1946)
+
+109 | 1914 | Defence of India Act, 1915 | Central | — | See 1915 | —
+
+--- 1915 ---
+
+110 | 1915 | Defence of India Act, 1915 | Central | Act — of 1915 | Emergency / War | Expired / Repealed (wartime legislation)
+
+111 | 1915 | Indian Defence of India (Criminal Law Amendment) Act, 1915 | Central | — | Emergency / Criminal | Expired
+
+112 | 1915 | Government of India Act, 1915 (consolidating Act) | UK Parliament | 5 & 6 Geo. V c. 61 | Constitutional | Superseded (by Government of India Act 1919)
+
+--- 1916 ---
+
+113 | 1916 | Bengal Suppression of Terrorist Outrages Act (various 1911-1916) | Bengal | — | Criminal / Political | Repealed / Expired
+
+114 | 1916 | Indian Income Tax Act, 1886 (amended 1916) | Central | — | Taxation | Superseded
+
+--- 1917 ---
+
+115 | 1917 | Inland Steam Vessels Act, 1917 | Central | Act I of 1917 | Transport / Shipping | In Force (Amended) — important for Bangladesh's extensive river transport
+
+116 | 1917 | Indian Defence of India (Amendment) Act, 1917 | Central | — | Emergency / War | Expired
+
+117 | 1917 | Destruction of Records Act, 1917 | Central | Act V of 1917 | Records Management / Administrative | In Force
+
+--- 1918 ---
+
+118 | 1918 | Indian Passport Act, 1920 | Central | — | See 1920 | —
+
+119 | 1918 | Usurious Loans Act, 1918 | Central | Act X of 1918 | Banking / Money-lending | In Force — protects against usurious interest rates
+
+120 | 1918 | Indian Sedition Committee Act (Rowlatt Act), 1919 | Central | — | See 1919 | —
+
+121 | 1918 | Bengal Non-Agricultural Tenancy Act (various amendments leading to 1949 Act) | Bengal | — | Land / Tenancy | Precursor provisions
+
+--- 1919 ---
+
+122 | 1919 | Government of India Act, 1919 (Montagu-Chelmsford Reforms) | UK Parliament | 9 & 10 Geo. V c. 101 | Constitutional / Dyarchy | Superseded (by Government of India Act 1935)
+
+123 | 1919 | Anarchical and Revolutionary Crimes Act, 1919 (Rowlatt Act) | Central | Act — of 1919 | Criminal / Political | Repealed / Expired
+
+124 | 1919 | Indian Income Tax Act, 1918/1919 (precursor to 1922 Act) | Central | — | Taxation | Superseded
+
+125 | 1919 | Poisons Act, 1919 | Central | Act XII of 1919 | Public Health / Poisons | In Force
+
+126 | 1919 | Indemnity Act, 1919 | Central | — | Emergency / Indemnity | Spent
+
+127 | 1919 | Bengal Village Self-Government Act, 1919 | Bengal Provincial | Bengal Act V of 1919 | Local Government / Village | Repealed / Superseded (by later local government ordinances)
+
+128 | 1919 | Bengal Primary Education Act, 1919 | Bengal Provincial | Bengal Act — of 1919 | Education | Superseded (by later education legislation)
+
+--- 1920 ---
+
+129 | 1920 | Dacca University Act, 1920 | Bengal Provincial | Bengal Act XIII of 1920 | Education / Universities | In Force (Amended) — still the governing statute of the University of Dhaka
+
+130 | 1920 | Charitable and Religious Trusts Act, 1920 | Central | Act XIV of 1920 | Trusts / Charity | In Force
+
+131 | 1920 | Provincial Insolvency Act, 1920 | Central | Act V of 1920 | Insolvency / Debt | In Force (Amended) — applies to mofussil (non-Presidency) areas
+
+132 | 1920 | Indian Passport Act, 1920 | Central | Act — of 1920 | Immigration / Passports | Superseded (by later passport legislation)
+
+133 | 1920 | Maintenance Orders Enforcement Act, 1921 | Central | — | See post-1920 | —
+
+134 | 1920 | Mussalman Wakf Act, 1923 | Central | — | See post-1920 (but related to 1913 Act) | —
+
+135 | 1920 | Indian Territorial Force Act, 1920 | Central | Act — of 1920 | Military | Obsolete
+
+136 | 1920 | Press and Registration of Books Act, 1867 (amended provisions through 1920) | Central | Act XXV of 1867 | Press / Publication | In Force (Amended) — still governs press registration in Bangladesh
+
+
+================================================================================
+B. ADDITIONAL ACTS ORIGINATING BEFORE 1880 BUT SIGNIFICANTLY AMENDED
+   OR RE-APPLIED DURING 1880-1920 IN BENGAL
+================================================================================
+
+137 | 1872 (amended through period) | Indian Evidence Act, 1872 | Central | Act I of 1872 | Evidence | In Force — bedrock of evidence law in Bangladesh
+
+138 | 1872 (amended through period) | Indian Contract Act, 1872 | Central | Act IX of 1872 | Contract / Commercial | In Force — foundational contract law
+
+139 | 1860 (amended through period) | Indian Penal Code, 1860 | Central | Act XLV of 1860 | Criminal / Penal | In Force (as Penal Code 1860 in Bangladesh)
+
+140 | 1860 (amended through period) | Police Act, 1861 | Central | Act V of 1861 | Police / Law Enforcement | In Force (Amended)
+
+141 | 1875 (amended through period) | Indian Succession Act, 1865/1925 (pre-1925 versions operative) | Central | — | Succession | In Force (1925 consolidation)
+
+142 | 1869 (amended through period) | Indian Divorce Act, 1869 | Central | Act IV of 1869 | Family Law / Divorce | In Force (for Christians)
+
+143 | 1877 (amended through period) | Specific Relief Act, 1877 | Central | Act I of 1877 | Civil / Equitable Remedies | In Force (Bangladesh uses 1877 Act; India replaced it in 1963)
+
+144 | 1878 (amended through period) | Indian Arms Act, 1878 | Central | Act XI of 1878 | Arms / Public Safety | Superseded (by Arms Act 1920)
+
+145 | 1878 (amended through period) | Indian Forest Act, 1878 | Central | Act VII of 1878 | Forestry / Environment | Superseded (by Indian Forest Act 1927, which is in force in Bangladesh)
+
+146 | 1879 (amended through period) | Legal Practitioners Act, 1879 | Central | Act XVIII of 1879 | Legal Profession | Superseded
+
+147 | 1870 (amended through period) | Court Fees Act, 1870 | Central | Act VII of 1870 | Revenue / Court Administration | In Force (Amended)
+
+148 | 1869 (amended through period) | Carriers Act, 1865 | Central | Act III of 1865 | Transport / Commercial | In Force
+
+149 | 1866 (amended through period) | Treasure Trove Act, 1878 | Central | Act VI of 1878 | Property / State | In Force
+
+150 | 1872 (amended through period) | Indian Christian Marriage Act, 1872 | Central | Act XV of 1872 | Personal Law / Marriage | In Force
+
+
+================================================================================
+C. BENGAL PROVINCIAL ACTS (SPECIFIC TO BENGAL PRESIDENCY/PROVINCE)
+================================================================================
+
+151 | 1880 | Bengal Cess Act, 1880 | Bengal | Bengal Act IX of 1880 | Revenue / Road Cess | Repealed / Superseded
+
+152 | 1881 | Bengal Chaukidari Act, 1870 (amended 1881) | Bengal | Bengal Act VI of 1870 | Police / Village Watch | Superseded
+
+153 | 1884 | Bengal Municipal Act, 1884 | Bengal | Bengal Act III of 1884 | Municipal / Local Government | Superseded (by later Municipal Acts)
+
+154 | 1885 | Bengal Tenancy Act, 1885 | Bengal | Bengal Act VIII of 1885 | Land Tenure / Tenancy | Repealed (by SAT Act 1950) — but historically the most important Bengal land law
+
+155 | 1885 | Bengal Local Self-Government Act, 1885 | Bengal | Bengal Act III of 1885 | Local Government / District Boards | Superseded
+
+156 | 1890 | Bengal Alluvion and Diluvion Act, 1868 (consolidated amendments) | Bengal | Bengal Act — | Land / River Accretion | In Force (partially) — important for char land disputes
+
+157 | 1895 | Bengal Ferries Act, 1885 | Bengal | Bengal Act I of 1885 | Transport / Ferries | In Force (Amended) — relevant to Bangladesh's waterways
+
+158 | 1897 | Calcutta Hackney Carriage Act, 1919 (precursor provisions) | Bengal | — | Transport | Not applicable to Bangladesh
+
+159 | 1901 | Bengal Smoke Nuisances Act, 1905 | Bengal | — | See 1905 | —
+
+160 | 1905 | Bengal Smoke Nuisances Act, 1905 | Bengal | Bengal Act — of 1905 | Environment / Public Health | Obsolete
+
+161 | 1909 | Bengal Excise Act, 1909 | Bengal | Bengal Act V of 1909 | Excise / Alcohol | In Force (Amended)
+
+162 | 1909 | Bengal Children Act, 1922 | Bengal | — | See post-1920 | —
+
+163 | 1911 | Bengal Wakf Act (precursor provisions) | Bengal | — | Islamic Law / Waqf | See Mussalman Wakf Act 1913 & Waqf Ordinance 1962
+
+164 | 1912 | Bengal Co-operative Societies Act, 1912 (implementing Central Act) | Bengal | — | Co-operatives | Superseded
+
+165 | 1913 | Bengal Public Demands Recovery Act, 1913 | Bengal | Bengal Act III of 1913 | Revenue Recovery | In Force (Amended)
+
+166 | 1914 | Bengal Suppression of Terrorist Outrages (Amendment) Act | Bengal | — | Criminal / Emergency | Expired
+
+167 | 1915 | Bengal Rural Self-Government Act, 1919 | Bengal | — | See 1919 entry | —
+
+168 | 1919 | Bengal Village Self-Government Act, 1919 | Bengal | Bengal Act V of 1919 | Local Government / Union Boards | Repealed / Superseded (by Basic Democracies Order 1959 and later)
+
+169 | 1919 | Bengal Primary Education Act, 1919 | Bengal | Bengal Act — of 1919 | Education / Primary Schools | Superseded
+
+170 | 1920 | Dacca University Act, 1920 | Bengal | Bengal Act XIII of 1920 | Education / Universities | In Force (Amended)
+
+171 | 1920 | Bengal Irrigation Act, 1876 (various amendments through 1920) | Bengal | Bengal Act III of 1876 | Irrigation / Water | Superseded
+
+172 | 1920 | Bengal Municipal (Amendment) Acts, various through 1920 | Bengal | — | Municipal / Local Government | Superseded
+
+
+================================================================================
+D. UK PARLIAMENT ACTS APPLICABLE TO BENGAL/INDIA (1880-1920)
+================================================================================
+
+173 | 1892 | Indian Councils Act, 1892 | UK | 55 & 56 Vict. c. 14 | Constitutional | Superseded
+
+174 | 1909 | Indian Councils Act, 1909 (Morley-Minto) | UK | 9 Edw. VII c. 4 | Constitutional / Electoral Reform | Superseded
+
+175 | 1915 | Government of India Act, 1915 | UK | 5 & 6 Geo. V c. 61 | Constitutional (consolidation) | Superseded
+
+176 | 1919 | Government of India Act, 1919 | UK | 9 & 10 Geo. V c. 101 | Constitutional / Dyarchy | Superseded
+
+177 | 1890 | Foreign Jurisdiction Act, 1890 | UK | 53 & 54 Vict. c. 37 | Jurisdiction / International | Not directly applicable
+
+178 | 1889 | Interpretation Act, 1889 | UK | 52 & 53 Vict. c. 63 | Interpretation of Statutes | Superseded (by General Clauses Act 1897 in India/Bangladesh context)
+
+179 | 1881 | Married Women's Property Act, 1882 | UK | 45 & 46 Vict. c. 75 | Property / Women | Not directly enacted in India but influenced Transfer of Property Act
+
+
+================================================================================
+E. ADDITIONAL CENTRAL ACTS OF THE PERIOD (SUPPLEMENTARY LIST)
+================================================================================
+
+180 | 1881 | Indian Arms Act, 1878 (amended 1881) | Central | — | Arms / Firearms | Superseded (by Arms Act 1920/1943)
+
+181 | 1882 | Deccan Agriculturists' Relief Act, 1879 (not directly for Bengal but model for similar provisions) | Central | Act XVII of 1879 | Agriculture / Debt Relief | Not applicable to Bengal
+
+182 | 1884 | Indian Explosives Act, 1884 | Central | Act IV of 1884 | Explosives / Public Safety | In Force (Amended)
+
+183 | 1885 | Bengal Embankment Act, 1882/1885 (various) | Bengal | — | Flood Control / Embankments | Superseded (by later flood management legislation)
+
+184 | 1886 | Military Cantonments Act, 1889 | Central | — | Military / Cantonments | Superseded
+
+185 | 1887 | Indian Railways Act, 1890 | Central | — | See 1890 | —
+
+186 | 1890 | Indian Railways Act, 1890 | Central | Act IX of 1890 | Railways / Transport | Superseded (by Railways Act)
+
+187 | 1890 | Bankers' Books Evidence Act, 1891 (amended) | Central | — | Evidence / Banking | In Force (see entry 7)
+
+188 | 1891 | Charitable Endowments Act, 1890 | Central | Act VI of 1890 | Charitable / Trusts | In Force
+
+189 | 1894 | Gambling Act, 1867 (as applied through period) | Central | Act III of 1867 | Criminal / Gambling | In Force (Public Gambling Act)
+
+190 | 1896 | Workmen's Breach of Contract Act, 1859 (applied through period) | Central | Act XIII of 1859 | Labour | Repealed
+
+191 | 1897 | Indian Short Titles Act, 1897 | Central | — | Statute Law / Technical | Spent
+
+192 | 1899 | Indian Arbitration Act (provisions in CPC 1908 Schedule II, and earlier separate Acts) | Central | — | Arbitration / Civil | Superseded (by Arbitration Act 2001 in Bangladesh)
+
+193 | 1900 | Amendments to Bengal Tenancy Act (periodic amendments 1886-1928) | Bengal | — | Land Tenure | Merged into BTA 1885 as amended
+
+194 | 1903 | Indian Tolls Act, 1851 (amended 1903) | Central | — | Revenue / Transport | Obsolete
+
+195 | 1905 | Prevention of Cruelty to Animals Act, 1890 (amended) | Central | Act XI of 1890 | Animal Welfare | In Force (Amended) — Cruelty to Animals Act
+
+196 | 1906 | Indian Ports Act, 1908 | Central | — | See 1908 | —
+
+197 | 1908 | Indian Ports Act, 1908 | Central | Act XV of 1908 | Ports / Maritime | In Force (Amended) — applicable to Chittagong, Mongla ports
+
+198 | 1910 | Indian Press Act, 1910 (often called the Indian Press Emergency Powers Act) | Central | Act I of 1910 | Press / Media Control | Repealed (in 1922)
+
+199 | 1911 | Indian Factories (Amendment) Act, 1911 | Central | — | Labour | Merged into subsequent Factories Act
+
+200 | 1912 | Indian Marine Act, 1850 (as amended through period) | Central | — | Maritime | Superseded
+
+201 | 1913 | Indian Companies Act, 1913 | Central | Act VII of 1913 | Corporate / Commercial | Superseded (by Companies Act 1994)
+
+202 | 1914 | Bengal Motor Vehicles Tax Act (early provisions, formalized later) | Bengal | — | Transport / Taxation | Superseded
+
+203 | 1916 | Indian Income Tax (Amendment) Act, 1916 | Central | — | Taxation | Superseded
+
+204 | 1917 | Bengal Irrigation (Amendment) Act, 1917 | Bengal | — | Irrigation / Water | Superseded
+
+205 | 1918 | Indian Defence of India (Consolidation) Rules, 1918 | Central (Rules) | — | Emergency / War | Expired
+
+206 | 1919 | Indian Press (Emergency Powers) Act, 1910 (amended 1919) | Central | — | Press | Repealed
+
+207 | 1920 | Arms Act, 1920 | Central | Act — of 1920 | Arms / Firearms | Superseded (by Arms Act 1943 in force in Bangladesh)
+
+208 | 1920 | Indian Red Cross Society Act, 1920 | Central | Act XV of 1920 | Humanitarian / Charitable | Superseded (by Bangladesh Red Crescent Society Order)
+
+209 | 1920 | Bengal Wakf (early provisions under Mussalman Wakf Validating Act 1913 and amendments) | Bengal | — | Islamic Law / Waqf | See Waqf Ordinance 1962
+
+210 | 1920 | Indian Soldiers (Litigation) Act, 1925 (precursor provisions during WWI era) | Central | — | Military | See post-1920
+
+211 | 1920 | Charitable Endowments Act, 1890 (as applied through 1920) | Central | Act VI of 1890 | Charitable / Trusts | In Force
+
+212 | 1920 | Indigo Contracts Act (various Bengal regulations, formally under Workmen's Breach of Contract Act) | Bengal | — | Labour / Agriculture | Repealed / Obsolete
+
+
+================================================================================
+F. MUSLIM PERSONAL LAW ENACTMENTS APPLICABLE TO BENGAL (1880-1920)
+================================================================================
+
+213 | 1880 | Kazis Act, 1880 | Central | Act XII of 1880 | Islamic Law / Judicial Officers | In Force
+
+214 | 1913 | Mussalman Wakf Validating Act, 1913 | Central | Act VI of 1913 | Islamic Law / Waqf | In Force — validates family waqf
+
+215 | 1890 | Guardians and Wards Act, 1890 (applied to Muslims with modifications) | Central | Act VIII of 1890 | Family Law | In Force
+
+216 | Pre-1880 continuing | Shariat Application (evolved through judicial decisions, formalized later in Muslim Personal Law (Shariat) Application Act 1937) | — | — | Islamic Personal Law | In Force (1937 Act)
+
+217 | Pre-1880 continuing | Mohammedan Law (as applied through Regulations and judicial precedent) | — | — | Succession / Marriage / Divorce | In Force (as customary/personal law)
+
+
+================================================================================
+G. SIGNIFICANT REGULATIONS AND RULES MADE UNDER ACTS (1880-1920)
+   [Not standalone Acts but important subordinate legislation]
+================================================================================
+
+218 | 1885 | Bengal Tenancy Rules | Bengal | Under Bengal Act VIII of 1885 | Land Tenure | Repealed with parent Act
+
+219 | 1894 | Land Acquisition Rules | Central | Under Act I of 1894 | Land Acquisition | In Force (Amended)
+
+220 | 1898 | Criminal Rules of Practice (under CrPC 1898) | Central/Provincial | Under Act V of 1898 | Criminal Procedure | In Force (Amended)
+
+221 | 1908 | Civil Rules of Practice (under CPC 1908) | Central/Provincial | Under Act V of 1908 | Civil Procedure | In Force
+
+222 | 1909 | Bengal Excise Rules | Bengal | Under Bengal Act V of 1909 | Excise | In Force (Amended)
+
+223 | 1910 | Indian Electricity Rules, 1910 | Central | Under Act IX of 1910 | Electricity | Superseded
+
+224 | 1913 | Bengal Public Demands Recovery Certificate Rules | Bengal | Under Bengal Act III of 1913 | Revenue | In Force
+
+225 | 1917 | Inland Steam Vessels Rules | Central | Under Act I of 1917 | Transport | In Force (Amended)
+
+
+================================================================================
+SUMMARY STATISTICS
+================================================================================
+
+Total entries (including amendments and cross-references): ~225
+
+Approximate breakdown by type:
+  - Central (Indian Legislature) Acts:           ~140
+  - Bengal Provincial Acts:                       ~45
+  - UK Parliament Acts:                           ~7
+  - Muslim Personal Law provisions:               ~5
+  - Subordinate Legislation / Rules:              ~8
+  - Cross-references and duplicates:              ~20
+
+Acts from this period STILL IN FORCE in Bangladesh (as of 2025-2026):
+  - Code of Criminal Procedure, 1898
+  - Code of Civil Procedure, 1908
+  - Indian Limitation Act, 1908
+  - Indian Registration Act, 1908
+  - Transfer of Property Act, 1882
+  - Indian Trusts Act, 1882
+  - Indian Easements Act, 1882
+  - General Clauses Act, 1897
+  - Negotiable Instruments Act, 1881
+  - Land Acquisition Act, 1894
+  - Indian Stamp Act, 1899
+  - Epidemic Diseases Act, 1897
+  - Prisons Act, 1894
+  - Guardians and Wards Act, 1890
+  - Bengal Excise Act, 1909
+  - Bengal Public Demands Recovery Act, 1913
+  - Dacca University Act, 1920
+  - Mussalman Wakf Validating Act, 1913
+  - Specific Relief Act, 1877
+  - Bankers' Books Evidence Act, 1881
+  - Probate and Administration Act, 1881
+  - Provincial Insolvency Act, 1920
+  - Inland Steam Vessels Act, 1917
+  - Indian Fisheries Act, 1897
+  - Ancient Monuments Preservation Act, 1904
+  - Usurious Loans Act, 1918
+  - Poisons Act, 1919
+  - Explosive Substances Act, 1908
+  - Indian Ports Act, 1908
+  - Indian Telegraph Act, 1885
+  - Kazis Act, 1880
+  - And many others (see individual entries)
+
+================================================================================
+NOTES
+================================================================================
+
+1. This list is compiled from training knowledge and is intended to be as
+   comprehensive as possible. However, minor Acts, temporary Acts, and some
+   amending Acts may not be individually listed.
+
+2. The "Status in Bangladesh" column reflects the position as understood
+   up to early 2025. Some Acts may have been amended or repealed by
+   subsequent Bangladesh legislation not captured here.
+
+3. Many pre-1880 Acts (Indian Penal Code 1860, Evidence Act 1872, Contract
+   Act 1872, etc.) continued to be extensively amended during 1880-1920 and
+   remain in force in Bangladesh. They are listed in Section B for
+   completeness.
+
+4. The Bengal Tenancy Act, 1885 — while repealed by the State Acquisition
+   and Tenancy Act, 1950 — shaped the entire land tenure system of
+   Bangladesh and its provisions continue to influence judicial
+   interpretation.
+
+5. Bangladesh inherited all pre-1947 legislation through the Indian
+   Independence Act 1947, and all pre-1971 Pakistan legislation through
+   the Bangladesh Laws (Revision and Declaration) Act, 1973 and
+   Article 149 of the Bangladesh Constitution.
+
+================================================================================
+END OF DATABASE — LEGISLATION 1880-1920
+================================================================================

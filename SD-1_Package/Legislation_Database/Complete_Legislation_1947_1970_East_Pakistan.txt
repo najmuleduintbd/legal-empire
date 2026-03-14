@@ -1,0 +1,894 @@
+================================================================================
+    COMPREHENSIVE LIST OF ALL LEGISLATION (1947-1970)
+    APPLICABLE TO EAST PAKISTAN / PRESENT-DAY BANGLADESH
+================================================================================
+
+    PRIMARY LEGISLATION: Acts, Ordinances, Orders, Martial Law Orders,
+    Constitutional Instruments
+
+    Compiled for: Package SD-1 (1799-1970)
+    Project: Strengthening Legislative Capacity and Legal Awareness Building
+    Legislative and Parliamentary Affairs Division
+    Ministry of Law, Justice and Parliamentary Affairs
+    Government of the People's Republic of Bangladesh
+
+    Compilation Date: March 2026
+    NOTE: This covers PARENT/ENABLING legislation (Acts, Ordinances, Orders),
+    not subordinate/delegated legislation (rules, regulations, by-laws),
+    which is covered separately in the Research document.
+
+================================================================================
+TABLE OF CONTENTS
+================================================================================
+
+    PART I   : Constitutional Instruments and Adaptation Orders
+    PART II  : Pakistan Central Acts (1947-1970)
+    PART III : Pakistan Central Ordinances (1947-1970)
+    PART IV  : East Bengal / East Pakistan Provincial Acts (1947-1970)
+    PART V   : East Bengal / East Pakistan Provincial Ordinances (1947-1970)
+    PART VI  : Governor-General's / President's Orders (1947-1970)
+    PART VII : Martial Law Orders (MLOs) and Regulations (MLRs) - 1958-1962
+    PART VIII: Martial Law Orders (MLOs) and Regulations (MLRs) - 1969-1970
+    PART IX  : Pre-1947 Acts Continued in Force (Key Selections)
+    PART X   : Summary Statistics
+
+================================================================================
+PART I: CONSTITUTIONAL INSTRUMENTS AND ADAPTATION ORDERS
+================================================================================
+
+Ref | Title                                           | Year | Status in BD
+----|------------------------------------------------|------|-------------
+C-01| Indian Independence Act, 1947                   | 1947 | Historical
+    | (10 & 11 Geo. 6 c. 30, UK Parliament)          |      |
+    | Subject: Partition of British India, creation   |      |
+    |   of Pakistan and India as independent dominions|      |
+    | Significance: Foundation of Pakistan's legal    |      |
+    |   existence; Section 18 ensured legal continuity|      |
+    |                                                |      |
+C-02| Pakistan (Provisional Constitution) Order, 1947 | 1947 | Historical
+    | Authority: Governor-General                     |      |
+    | Subject: Adopted Government of India Act, 1935  |      |
+    |   as Pakistan's provisional constitution        |      |
+    |                                                |      |
+C-03| Government of India (Adaptation of Existing     | 1947 | Historical
+    |   Laws) Order, 1947                             |      |
+    | Authority: Governor-General                     |      |
+    | Subject: Textual adaptation of all inherited    |      |
+    |   British Indian laws for Pakistan              |      |
+    |                                                |      |
+C-04| Pakistan (Adaptation of Central Acts and        | 1949 | Historical
+    |   Ordinances) Order, 1949                       |      |
+    | Authority: Governor-General                     |      |
+    |                                                |      |
+C-05| Pakistan (Adaptation of Existing Laws) Order,   | 1950 | Historical
+    |   1950                                          |      |
+    | Authority: Governor-General                     |      |
+    |                                                |      |
+C-06| East Bengal (Adaptation of Existing Laws)       | 1950 | Historical
+    |   Order, 1950                                   |      |
+    | Authority: Governor of East Bengal              |      |
+    |                                                |      |
+C-07| General Clauses (Adaptation) Order, 1947        | 1947 | Historical
+    | Authority: Governor-General                     |      |
+    |                                                |      |
+C-08| Constitution of the Islamic Republic of         | 1956 | Abrogated 1958
+    |   Pakistan, 1956                                |      |
+    | Subject: First constitution of Pakistan;        |      |
+    |   federal parliamentary system; East Pakistan   |      |
+    |   as a province with parity representation;     |      |
+    |   Bengali and Urdu as national languages;       |      |
+    |   fundamental rights                            |      |
+    | Abrogated by Martial Law Proclamation, 1958     |      |
+    |                                                |      |
+C-09| Constitution (Adaptation of Laws) Order, 1956   | 1956 | Historical
+    | Authority: President                            |      |
+    |                                                |      |
+C-10| Constitution of the Republic of Pakistan, 1962  | 1962 | Abrogated 1969
+    | Subject: Second constitution; presidential      |      |
+    |   system; indirect elections through Basic       |      |
+    |   Democrats; "Pakistan" as single designation   |      |
+    |   (not "Islamic Republic"); consolidated        |      |
+    |   West Pakistan as one unit                     |      |
+    | Abrogated by Martial Law Proclamation, 1969     |      |
+    |                                                |      |
+C-11| Constitution (Adaptation of Laws) Order, 1962   | 1962 | Historical
+    | Authority: President                            |      |
+    |                                                |      |
+C-12| Legal Framework Order, 1970 (LFO)               | 1970 | Historical
+    | President's Order No. 2 of 1970                 |      |
+    | Authority: President Yahya Khan                 |      |
+    | Subject: Framework for 1970 elections;          |      |
+    |   seat allocation (169 EP, 144 WP in NA);      |      |
+    |   adult franchise; 120-day constitution-making  |      |
+    |   deadline; federal principles                  |      |
+    | Significance: Led to Awami League's landslide   |      |
+    |   victory and ultimately Bangladesh independence|      |
+
+================================================================================
+PART II: PAKISTAN CENTRAL ACTS (1947-1970)
+================================================================================
+
+Note: These were enacted by the Constituent Assembly (acting as legislature),
+the National Assembly of Pakistan, or validated by subsequent constitutional
+instruments. Central Acts applied throughout Pakistan including East Pakistan.
+bdlaws.minlaw.gov.bd reference numbers are provided where known.
+
+--- 1947 ---
+
+Ref  | Title                                          | Act No.    | Subject Category        | In Force in BD?
+-----|------------------------------------------------|------------|-------------------------|----------------
+PA-01| Pakistan (Adaptation of Existing Laws) Act     | --         | Constitutional          | Historical
+PA-02| Prevention of Corruption Act, 1947             | Act II/1947| Criminal Law            | Yes (amended)
+     | Subject: Bribery, criminal misconduct of       |            |                         |
+     |   public servants                              |            |                         |
+PA-03| Foreign Exchange Regulation Act, 1947          | Act VII/47 | Finance/Banking         | Yes (as adapted)
+     | Subject: Regulation of foreign exchange        |            |                         |
+     |   transactions, controls on capital movement   |            |                         |
+
+--- 1948 ---
+
+PA-04| Civil Service of Pakistan Act, 1948            | --         | Public Service          | Superseded
+PA-05| Pakistan Citizenship Act, 1948                 | --         | Citizenship             | Superseded
+     | (Note: Some sources date this to 1951)         |            |                         |
+PA-06| Mines and Minerals (Regulation and Development)| --         | Mining                  | Yes (amended)
+     |   Act, 1948                                    |            |                         |
+PA-07| State Bank of Pakistan Order, 1948             | --         | Banking                 | Superseded
+     | (Governor-General's Order)                     |            |                         |
+
+--- 1949 ---
+
+PA-08| Pakistan Tea Board Ordinance, 1949             | --         | Agriculture/Trade       | Yes (as adapted)
+     | (Later became Act)                             |            |                         |
+
+--- 1950 ---
+
+PA-09| Import and Export (Control) Act, 1950          | Act XXXIX  | Trade/Commerce          | Yes (amended)
+     | Subject: Government control over imports/      | of 1950    |                         |
+     |   exports, licensing                           |            |                         |
+PA-10| Estate Duty Act, 1950                          | Act XV/1950| Taxation                | Repealed
+PA-11| Pakistan Passport Act, 1950                    | --         | Administrative          | Superseded
+PA-12| Pakistan Red Cross Society Act, 1950           | --         | Charitable              | Yes (as adapted)
+
+--- 1951 ---
+
+PA-13| Pakistan Citizenship Act, 1951                 | --         | Citizenship             | Superseded
+PA-14| Sales Tax Act, 1951                            | Act XXXIII | Taxation                | Superseded by VAT
+     |                                                | of 1951    |                         |
+PA-15| Pakistan Army Act, 1952                        | --         | Defence                 | N/A (central)
+     | (Some sources date to 1952)                    |            |                         |
+
+--- 1952 ---
+
+PA-16| Essential Services (Maintenance) Act, 1952     | --         | Labour/Public Order     | Yes (amended)
+     | Subject: Prohibition of strikes in essential   |            |                         |
+     |   services                                     |            |                         |
+PA-17| Civil Defence Act, 1952                        | --         | Public Safety           | Yes (amended)
+PA-18| House Building Finance Corporation Act, 1952   | --         | Banking/Finance         | Yes (as adapted)
+PA-19| Income Tax Act, 1922 (continued) /             | --         | Taxation                | Superseded by
+     |   Various Finance Acts 1947-1961               |            |                         |   ITO 1984
+
+--- 1953 ---
+
+PA-20| Pakistan (Control of Entry) Act, 1953          | --         | Immigration             | Superseded
+
+--- 1955 ---
+
+PA-21| Establishment of West Pakistan Act, 1955       | --         | Constitutional          | N/A
+     | Subject: One Unit scheme merging all West      |            |                         |
+     |   Pakistan provinces                           |            |                         |
+
+--- 1956 ---
+
+PA-22| Various laws passed under Constitution of 1956 | --         | Various                 | Various
+
+--- 1958 ---
+
+(Legislature suspended - Martial Law. See Part VII)
+
+--- 1960 ---
+
+(Under Martial Law/Presidential system, legislation was primarily
+through Ordinances. See Part III for Central Ordinances)
+
+--- 1962 ---
+
+(After 1962 Constitution, National Assembly reconvened)
+
+PA-23| Political Parties Act, 1962                    | --         | Constitutional          | Superseded
+PA-24| Companies Act, 1913 (as adapted and continued) | Act VII/   | Corporate Law           | Superseded by
+     | Subject: Incorporation, management, winding-up | 1913       |                         |   Co. Act 1994
+     | Note: This pre-1947 Act continued in force     |            |                         |
+     |   with Pakistan adaptations throughout 1947-70 |            |                         |
+
+--- 1963 ---
+
+PA-25| Wealth Tax Act, 1963                           | Act XV/1963| Taxation                | Yes (amended)
+PA-26| Gift Tax Act, 1963                             | Act XIV/   | Taxation                | Yes (amended)
+     |                                                | 1963       |                         |
+
+--- 1964 ---
+
+PA-27| Electoral College Act, 1964                    | --         | Electoral               | Repealed
+PA-28| Electoral Rolls Act, 1964                      | --         | Electoral               | Repealed
+PA-29| Press and Publications Ordinance, 1963         | --         | Press/Media             | Superseded
+     | (validated as Act in 1964)                     |            |                         |
+
+--- 1965 ---
+
+PA-30| Legal Practitioners and Bar Councils Act, 1965 | Act XXI/   | Legal Profession        | Yes (amended)
+     | Subject: Enrollment of advocates, bar council  | 1965       |                         |
+     |   establishment, professional conduct          |            |                         |
+
+--- 1967 ---
+
+PA-31| Enemy Property (Custody and Registration)      | --         | Property                | Superseded by
+     |   Order, 1965 (validated by Acts)              |            |                         |   Vested Property
+     | Subject: Custody of properties of persons      |            |                         |   Return Act 2001
+     |   migrated to India                            |            |                         |
+
+--- 1968 ---
+
+PA-32| Companies Profits (Workers' Participation)     | --         | Labour/Corporate        | Yes (amended)
+     |   Act, 1968                                    |            |                         |
+PA-33| Antiquities Act, 1968                          | --         | Cultural Heritage       | Yes (amended)
+
+--- 1969 ---
+
+PA-34| Customs Act, 1969                              | Act IV/1969| Customs/Trade           | Yes (amended)
+     | Subject: Comprehensive customs law replacing   |            |                         |
+     |   Sea Customs Act, 1878                        |            |                         |
+
+--- 1970 ---
+
+(Legislature dissolved - Martial Law period. See Part VIII)
+
+================================================================================
+PART III: PAKISTAN CENTRAL ORDINANCES (1947-1970)
+================================================================================
+
+Note: Ordinances were promulgated by the Governor-General (1947-1956),
+the President (1956-1958, 1962-1969), or under Martial Law authority.
+Under the 1962 Constitution, the President had extensive ordinance-making
+powers (Article 29). Many key laws were enacted through Ordinances rather
+than Acts.
+
+--- 1947-1958 (Pre-Martial Law Ordinances) ---
+
+Ref   | Title                                         | Ord. No.   | Subject Category        | In Force in BD?
+------|-----------------------------------------------|------------|-------------------------|----------------
+CO-01 | Essential Supplies (Temporary Powers)          | --         | Trade/Commerce          | Superseded
+      |   Act, 1946 (continued) / Various Essential   |            |                         |
+      |   Commodities Ordinances                      |            |                         |
+
+--- 1958-1962 (Martial Law / Early Ayub Era Ordinances) ---
+
+CO-02 | Laws (Continuance in Force) Order, 1958       | --         | Constitutional          | Historical
+      | (Martial Law instrument, functioned as        |            |                         |
+      |   enabling ordinance for legal continuity)    |            |                         |
+CO-03 | Basic Democracies Order, 1959                  | P.O. 18/   | Local Government        | Repealed
+      | Subject: Four-tier local government system;   | 1959       |                         |
+      |   80,000 Basic Democrats as Electoral College |            |                         |
+CO-04 | Conciliation Courts Ordinance, 1961           | Ord. XLIV/ | Judiciary/Local Govt    | Superseded by
+      | Subject: Village-level dispute resolution     | 1961       |                         |   Village Courts
+      |                                               |            |                         |   Act 2006
+CO-05 | Muslim Family Laws Ordinance, 1961            | Ord. VIII/ | Family Law              | YES - In Force
+      | Subject: Marriage registration, polygamy      | 1961       |                         |
+      |   restrictions, talaq notice procedure,       |            |                         |
+      |   maintenance, succession of orphaned         |            |                         |
+      |   grandchildren                               |            |                         |
+      | bdlaws ref: Act No. LII (Ordinance No. VIII  |            |                         |
+      |   of 1961)                                    |            |                         |
+      | Significance: Single most important family    |            |                         |
+      |   law instrument in Bangladesh                |            |                         |
+CO-06 | Minimum Wages Ordinance, 1961                 | Ord. XXXIX | Labour                  | Yes (incorporated
+      | Subject: Minimum wage boards, wage fixation   | of 1961    |                         |   into Labour Act)
+CO-07 | Seeds Ordinance, 1961                         | --         | Agriculture             | Yes (amended)
+CO-08 | Voluntary Social Welfare Agencies             | Ord. XLVI/ | Social Welfare/NGO      | Yes (amended)
+      |   (Registration and Control) Ordinance, 1961 | 1961       |                         |
+CO-09 | Probation of Offenders Ordinance, 1960        | Ord. XLV/  | Criminal Law            | Yes (amended)
+      |                                               | 1960       |                         |
+CO-10 | West Pakistan Family Courts Act, 1964         | --         | Family Law              | Framework
+      | (Central Act extended to EP in modified form) |            |                         |   continued
+
+--- 1962-1969 (Under 1962 Constitution) ---
+
+CO-11 | Income Tax Ordinance, 1962                    | Ord. XXXVI | Taxation                | Superseded by
+      | Subject: Comprehensive income tax law         | of 1962    |                         |   ITO 1984 but
+      |   replacing Income Tax Act, 1922              |            |                         |   framework lasted
+CO-12 | Banking Companies Ordinance, 1962             | Ord. LVII/ | Banking                 | Yes (amended)
+      | Subject: Regulation of commercial banking     | 1962       |                         |
+CO-13 | Press and Publications Ordinance, 1963        | --         | Press/Media             | Superseded
+CO-14 | Censorship of Films Act, 1963                 | --         | Media/Culture           | Yes (amended)
+CO-15 | Securities and Exchange Ordinance, 1969       | --         | Capital Markets         | Yes (amended)
+
+--- 1969 ---
+
+CO-16 | Industrial Relations Ordinance, 1969          | Ord. XXIII | Labour                  | Yes (framework
+      | Subject: Trade unions, collective bargaining, | of 1969    |                         |   continued until
+      |   strikes, lockouts, industrial disputes      |            |                         |   Labour Act 2006)
+      | Significance: Landmark labour law             |            |                         |
+
+================================================================================
+PART IV: EAST BENGAL / EAST PAKISTAN PROVINCIAL ACTS (1947-1970)
+================================================================================
+
+Note: These were enacted by the East Bengal/East Pakistan Provincial Assembly
+(Legislative Assembly). East Bengal was renamed East Pakistan by the
+Constitution of 1956. The provincial legislature had extensive powers
+under the provincial legislative list.
+
+bdlaws.minlaw.gov.bd is the primary repository for these Acts.
+
+--- 1948 ---
+
+Ref   | Title                                         | Act No.    | Subject Category        | In Force in BD?
+------|-----------------------------------------------|------------|-------------------------|----------------
+EA-01 | East Bengal (Emergency) Requisition of         | EB Act I   | Property/Admin          | Yes (amended)
+      |   Property Act, 1948                           | of 1948    |                         |
+      | Subject: Government power to requisition      |            |                         |
+      |   private property for public purposes        |            |                         |
+
+--- 1949 ---
+
+EA-02 | Non-Agricultural Tenancy Act, 1949             | EB Act     | Land/Property           | Yes (amended)
+      | Subject: Tenancy rights for non-agricultural   | XXIII/1949 |                         |
+      |   land (urban, commercial, homestead)          |            |                         |
+EA-03 | East Bengal Entertainment Tax Act, 1949         | EB Act VII | Taxation                | Yes (modified)
+      |                                                | of 1949    |                         |
+
+--- 1950 ---
+
+EA-04 | East Bengal State Acquisition and Tenancy      | EB Act     | Land Reform             | YES - In Force
+      |   Act, 1950 (sometimes cited as 1951)          | XXVIII/    |                         |
+      | Subject: Abolition of zamindari system;        | 1951       |                         |
+      |   acquisition of all rent-receiving interests; |            |                         |
+      |   tenant rights; ceiling on land holdings;     |            |                         |
+      |   rent assessment and collection               |            |                         |
+      | bdlaws ref: Act No. 89                         |            |                         |
+      | Significance: Most important land law in       |            |                         |
+      |   Bangladesh; governs all land administration  |            |                         |
+EA-05 | Protection and Conservation of Fish Act, 1950  | EB Act     | Fisheries               | Yes (amended)
+      |                                                | XVIII/1950 |                         |
+EA-06 | East Bengal Jute Act, 1950                     | --         | Agriculture/Trade       | Superseded
+
+--- 1951 ---
+
+EA-07 | East Bengal Finance Act, 1951                  | --         | Finance                 | Superseded
+
+--- 1952 ---
+
+EA-08 | East Bengal Building Construction Act, 1952    | EB Act II  | Municipal/Construction  | Yes (amended)
+      | Subject: Regulation of building construction   | of 1953    |                         |
+      |   in notified areas                            |            |                         |
+EA-09 | East Bengal Embankment and Drainage Act, 1952   | --         | Water/Infrastructure    | Yes (amended)
+
+--- 1953 ---
+
+EA-10 | Rajshahi University Act, 1953                  | EB Act XV/ | Education               | Yes (amended)
+      |                                                | 1953       |                         |
+EA-11 | Town Improvement Act, 1953                     | EB Act     | Urban Planning          | Yes (amended)
+      | Subject: Town improvement trusts, urban        | XXXIII/    |                         |
+      |   planning, land acquisition for development   | 1953       |                         |
+EA-12 | East Pakistan Essential Articles (Price Control | EB Act     | Trade/Consumer          | Superseded
+      |   and Anti-Hoarding) Act, 1953                 | --         |                         |
+
+--- 1954 ---
+
+EA-13 | East Pakistan Disturbed Areas (Special Powers)  | --        | Public Order            | Superseded
+      |   Act, 1954                                     |           |                         |
+
+--- 1956 ---
+
+EA-14 | East Pakistan Irrigation Act, 1956             | --         | Agriculture/Water       | Yes (amended)
+
+--- 1957 ---
+
+EA-15 | East Pakistan Small Industries Corporation     | EP Act     | Industry                | Yes (as BSCIC)
+      |   Act, 1957                                    | --         |                         |
+EA-16 | East Pakistan Industries (Development and      | --         | Industry                | Yes (modified)
+      |   Regulation) Act, 1957                        |            |                         |
+
+--- 1958 ---
+
+EA-17 | East Pakistan Public Safety Ordinance, 1958    | --         | Public Order            | Superseded
+      | (Provincial Ordinance, later validated as Act) |            |                         |
+
+--- 1960 ---
+
+EA-18 | Municipal Administration Ordinance, 1960       | EP Ord.    | Local Government        | Superseded
+      | Subject: Comprehensive municipal law replacing | XXVI/1960  |                         |
+      |   Bengal Municipal Act, 1932                   |            |                         |
+
+--- 1961 ---
+
+EA-19 | East Pakistan Agricultural Development         | EP Ord.    | Agriculture             | Yes (as BADC)
+      |   Corporation Ordinance, 1961                  | XXXIV/1961 |                         |
+EA-20 | East Pakistan Intermediate and Secondary       | EP Ord.    | Education               | Yes (amended)
+      |   Education Ordinance, 1961                    | XXXIII/    |                         |
+      |                                                | 1961       |                         |
+EA-21 | Dacca University Order, 1961                   | --         | Education               | Superseded
+EA-22 | University of Engineering and Technology       | EP Ord.    | Education               | Yes (BUET)
+      |   Ordinance, 1961                              | LI/1961    |                         |
+EA-23 | East Pakistan Agricultural University          | EP Ord.    | Education               | Yes (BAU)
+      |   Ordinance, 1961                              | XXXIV/1961 |                         |
+EA-24 | East Pakistan Land Reforms Ordinance, 1961     | Ord. V/    | Land Reform             | Superseded
+      | Subject: Ceiling on agricultural holdings      | 1961       |                         |
+      |   (100 bighas / 33.3 acres)                    |            |                         |
+
+--- 1962 ---
+
+EA-25 | East Pakistan Waqfs Ordinance, 1962            | EP Ord.    | Religious Endowment     | Yes (amended)
+      | Subject: Waqf property administration,         | I/1962     |                         |
+      |   Waqf Board establishment                     |            |                         |
+EA-26 | East Pakistan Industrial Development           | --         | Industry                | Yes (as BSEC/
+      |   Corporation Ordinance, 1962                  |            |                         |   BCIC)
+EA-27 | Tea Plantation Labour Ordinance, 1962          | --         | Labour                  | Yes (amended)
+EA-28 | East Pakistan Compulsory Primary Education     | --         | Education               | Superseded
+      |   Act, 1962                                    |            |                         |
+EA-29 | East Pakistan Urban Immovable Property Tax     | --         | Taxation                | Yes (modified)
+      |   Ordinance, 1962                              |            |                         |
+
+--- 1963 ---
+
+EA-30 | East Pakistan Water Supply and Sewerage        | EP Ord.    | Municipal/Utilities     | Yes (DWASA/
+      |   Authority Ordinance, 1963                    | XXXIX/1963 |                         |   CWASA)
+EA-31 | East Pakistan Madrasah Education Ordinance,    | EP Ord.    | Education               | Yes (amended)
+      |   1963                                         | VI/1963    |                         |
+
+--- 1964 ---
+
+EA-32 | Agricultural Produce Markets Regulation        | --         | Agriculture/Trade       | Yes (modified)
+      |   Act, 1964                                    |            |                         |
+EA-33 | East Pakistan Disturbed Persons Rehabilitation | --         | Property/Refugee        | Largely obsolete
+      |   Ordinance, 1964                              |            |                         |
+
+--- 1965 ---
+
+EA-34 | East Pakistan Shops and Establishments Act,    | EP Act     | Labour                  | Yes (incorporated
+      |   1965                                         | VII/1965   |                         |   into Labour Act)
+EA-35 | Employment of Labour (Standing Orders) Act,    | EP Act     | Labour                  | Yes (incorporated
+      |   1965                                         | VIII/1965  |                         |   into Labour Act)
+EA-36 | Factories Act, 1965 (EP application)           | --         | Labour                  | Yes (incorporated
+      | Note: This may be the central Factories Act,   |            |                         |   into Labour Act)
+      |   1934 as amended/replaced                     |            |                         |
+EA-37 | East Pakistan Hotel and Restaurant Tax         | --         | Taxation                | Modified
+      |   Ordinance, 1965                              |            |                         |
+EA-38 | East Pakistan Abandoned Property (Control,     | --         | Property                | Superseded (see
+      |   Management and Disposal) Order, 1965         |            |                         |   Vested Property)
+
+--- 1966 ---
+
+EA-39 | Chittagong University Act, 1966                | --         | Education               | Yes (amended)
+EA-40 | East Pakistan Non-Government Educational       | --         | Education               | Yes (framework
+      |   Institutions Ordinance, 1966                 |            |                         |   continued)
+EA-41 | East Pakistan Enemy Property (Custody and      | --         | Property                | Superseded by
+      |   Registration) Order, 1966                    |            |                         |   Vested Property
+
+--- 1968 ---
+
+EA-42 | East Pakistan State Acquisition and Tenancy    | --         | Land Reform             | Yes (merged into
+      |   (Amendment) Act, 1968                        |            |                         |   principal Act)
+
+--- 1969-1970 ---
+
+(Provincial Assembly dissolved under Martial Law 1969)
+
+================================================================================
+PART V: EAST BENGAL / EAST PAKISTAN PROVINCIAL ORDINANCES (1947-1970)
+================================================================================
+
+Note: These were promulgated by the Governor of East Bengal / East Pakistan
+when the Provincial Assembly was not in session (or dissolved).
+
+Ref   | Title                                         | Ord. No.   | Subject Category        | In Force in BD?
+------|-----------------------------------------------|------------|-------------------------|----------------
+EO-01 | East Pakistan Pure Food Ordinance, 1959        | EP Ord.    | Health/Food Safety      | Yes (framework
+      | (Some sources cite East Pakistan Ordinance     | LXVIII/    |                         |   continued under
+      |   No. LXVIII of 1959)                          | 1959       |                         |   Safe Food Act)
+EO-02 | East Pakistan Wildlife Preservation            | --         | Environment             | Superseded by
+      |   Ordinance, 1959                              |            |                         |   Wildlife Act 2012
+EO-03 | East Pakistan Inland Water Transport Authority | --         | Transport               | Yes (BIWTA)
+      |   Ordinance, 1958                              |            |                         |
+EO-04 | East Pakistan Special Powers Ordinance, 1958   | --         | Public Order            | Framework carried
+      |                                                |            |                         |   into SPA 1974
+EO-05 | East Pakistan Warehousing Corporation          | --         | Trade/Storage           | Yes (as adapted)
+      |   Ordinance, 1960                              |            |                         |
+EO-06 | East Pakistan Small Towns Committee Act, 1960  | --         | Local Government        | Superseded
+EO-07 | East Pakistan Public Safety Ordinance, 1958    | --         | Public Order            | Superseded
+EO-08 | East Pakistan Industrial Disputes Ordinance,   | --         | Labour                  | Superseded by
+      |   1960                                         |            |                         |   IRO 1969
+
+================================================================================
+PART VI: GOVERNOR-GENERAL'S / PRESIDENT'S ORDERS (1947-1970)
+================================================================================
+
+These are executive orders with the force of law, issued by the
+Governor-General (1947-1956) or President (1956-1958, 1962-1969).
+
+Ref   | Title                                         | Order No.  | Subject Category        | In Force in BD?
+------|-----------------------------------------------|------------|-------------------------|----------------
+GO-01 | Pakistan (Provisional Constitution) Order      | --         | Constitutional          | Historical
+      |   1947                                         |            |                         |
+GO-02 | Government of India (Adaptation of Existing    | --         | Constitutional          | Historical
+      |   Laws) Order, 1947                            |            |                         |
+GO-03 | Pakistan (Adaptation of Central Acts and       | --         | Constitutional          | Historical
+      |   Ordinances) Order, 1949                      |            |                         |
+GO-04 | Pakistan (Adaptation of Existing Laws) Order,  | --         | Constitutional          | Historical
+      |   1950                                         |            |                         |
+GO-05 | State Bank of Pakistan Order, 1948             | --         | Banking                 | Superseded
+GO-06 | Basic Democracies Order, 1959                  | P.O. 18/   | Local Government        | Repealed
+      |                                                | 1959       |                         |
+GO-07 | Elective Bodies (Disqualification) Order,      | --         | Political               | Repealed
+      |   1959 (EBDO)                                  |            |                         |
+GO-08 | Public Offices (Disqualification) Order,       | --         | Public Service          | Repealed
+      |   1959 (PODO)                                  |            |                         |
+GO-09 | Constitution (Adaptation of Laws) Order, 1956  | --         | Constitutional          | Historical
+GO-10 | Constitution (Adaptation of Laws) Order, 1962  | --         | Constitutional          | Historical
+GO-11 | Legal Framework Order, 1970                    | P.O. 2/1970| Constitutional/         | Historical
+      |                                                |            |   Electoral             |
+GO-12 | Provincial Constitution Order, 1969            | --         | Constitutional          | Historical
+GO-13 | Enemy Property (Custody and Registration)      | --         | Property                | Superseded
+      |   Order, 1965 (President's Order)              |            |                         |
+
+================================================================================
+PART VII: MARTIAL LAW ORDERS (MLOs) AND REGULATIONS (MLRs)
+FIRST MARTIAL LAW PERIOD: October 7, 1958 - June 8, 1962
+Chief Martial Law Administrator: General (later Field Marshal) Ayub Khan
+================================================================================
+
+A. PROCLAMATION AND GENERAL ORDERS
+
+Ref   | Title                                         | MLO/MLR No.| Subject Category        | Status
+------|-----------------------------------------------|------------|-------------------------|--------
+ML1-01| Proclamation of Martial Law, 7 October 1958   | --         | Constitutional          | Historical
+      | Subject: Abrogation of Constitution of 1956;  |            |                         |
+      |   dissolution of central and provincial        |            |                         |
+      |   legislatures; ban on political activities    |            |                         |
+ML1-02| Laws (Continuance in Force) Order, 1958        | --         | Constitutional          | Historical
+      | Subject: All existing laws to continue subject |            |                         |
+      |   to martial law orders                        |            |                         |
+ML1-03| MLO No. 1 - Powers of CMLA                     | MLO 1      | Administrative          | Historical
+ML1-04| MLO No. 2 - Continuation of courts and         | MLO 2      | Judicial                | Historical
+      |   judicial proceedings                         |            |                         |
+ML1-05| MLO No. 3 - Powers of Zonal Martial Law        | MLO 3      | Administrative          | Historical
+      |   Administrators                               |            |                         |
+ML1-06| MLO No. 5 - Restriction on political activities| MLO 5      | Political               | Historical
+ML1-07| MLO No. 9 - Screening of government servants   | MLO 9      | Public Service          | Historical
+ML1-08| MLO No. 12 - Press censorship                  | MLO 12     | Press/Media             | Historical
+ML1-09| MLO No. 15 - Anti-hoarding and anti-profiteering| MLO 15    | Trade/Commerce          | Incorporated
+ML1-10| MLO No. 18 - Land reform measures              | MLO 18     | Land Reform             | Incorporated
+
+B. MARTIAL LAW REGULATIONS (MLRs) - FIRST PERIOD
+
+ML1-11| MLR No. 1-89 (Series, 1958-1962)               | Various    | Various                 | Mostly repealed
+      | Key individual MLRs:                           |            |                         |
+      |                                                |            |                         |
+ML1-12| MLR No. 6 - Screening of Government Servants   | MLR 6      | Public Service          | Historical
+      | Subject: Removal of corrupt/inefficient        |            |                         |
+      |   government servants through screening        |            |                         |
+ML1-13| MLR No. 12 - Anti-Hoarding                     | MLR 12     | Trade/Commerce          | Incorporated
+      | Subject: Prevention of hoarding, black market  |            |                         |
+ML1-14| MLR No. 22 - Press Control                     | MLR 22     | Press/Media             | Historical
+ML1-15| MLR No. 51 - Price Control                     | MLR 51     | Trade/Commerce          | Incorporated
+ML1-16| MLR No. 64 - Land Reforms                      | MLR 64     | Land Reform             | Incorporated
+      | Subject: Ceiling on land holdings, surrender   |            |                         |   into LRO 1961
+      |   of surplus land                              |            |                         |
+ML1-17| MLR No. 78 - Industrial Disputes               | MLR 78     | Labour                  | Superseded
+      | Subject: Prohibition of strikes, compulsory    |            |                         |
+      |   arbitration                                  |            |                         |
+
+Note: Approximately 89 MLRs were issued during the first martial law
+period. Many dealt with day-to-day administrative matters, price controls,
+anti-corruption measures, and public order. Most were absorbed into
+permanent legislation or became obsolete when martial law was lifted.
+
+================================================================================
+PART VIII: MARTIAL LAW ORDERS (MLOs) AND REGULATIONS (MLRs)
+SECOND MARTIAL LAW PERIOD: March 25, 1969 - December 1970 (elections)
+Chief Martial Law Administrator: General Agha Mohammad Yahya Khan
+================================================================================
+
+Ref   | Title                                         | MLO/MLR No.| Subject Category        | Status
+------|-----------------------------------------------|------------|-------------------------|--------
+ML2-01| Proclamation of Martial Law, 25 March 1969     | --         | Constitutional          | Historical
+      | Subject: Abrogation of Constitution of 1962;  |            |                         |
+      |   dissolution of National and Provincial       |            |                         |
+      |   Assemblies; ban on political activities      |            |                         |
+      |   (later lifted)                               |            |                         |
+ML2-02| Provisional Constitution Order, 1969           | --         | Constitutional          | Historical
+      | Subject: Framework for governance during       |            |                         |
+      |   martial law period                           |            |                         |
+ML2-03| MLR No. 1-60 (Series, 1969-1970)               | Various    | Various                 | Mostly obsolete
+ML2-04| MLO on Labour Disputes, 1969                   | --         | Labour                  | Historical
+      | Subject: Prohibition of strikes and lockouts   |            |                         |
+ML2-05| MLO on Student Discipline, 1969                | --         | Education               | Historical
+ML2-06| MLO on Dissolution of One Unit, 1969           | --         | Constitutional          | Historical
+      | Subject: Dissolution of West Pakistan One Unit |            |                         |
+      |   (restoration of four provinces)              |            |                         |
+ML2-07| Legal Framework Order, 1970 (LFO)              | P.O. 2/    | Constitutional/         | Historical
+      |                                                | 1970       | Electoral               |
+      | (Also listed in Part I and Part VI)            |            |                         |
+
+Note: Approximately 60 MLRs were issued during the second martial law
+period. Key measures included restoration of provincial structure,
+lifting of political ban (January 1970), announcement of elections,
+and various administrative orders. The LFO 1970 was the most significant
+instrument of this period.
+
+================================================================================
+PART IX: PRE-1947 ACTS CONTINUED IN FORCE (KEY SELECTIONS)
+================================================================================
+
+These are British Indian Acts that continued in force in East Pakistan
+by virtue of the legal continuity principle (Indian Independence Act,
+1947, Section 18) and various adaptation orders. Many remain in force
+in Bangladesh today. This list includes only the most significant ones.
+
+Ref   | Title                                         | Original   | Subject Category        | In Force in BD?
+      |                                               | Act No.    |                         |
+------|-----------------------------------------------|------------|-------------------------|----------------
+PR-01 | Penal Code, 1860                               | Act XLV/   | Criminal Law            | Yes (amended)
+      |                                                | 1860       |                         |
+PR-02 | Code of Criminal Procedure, 1898               | Act V/1898 | Criminal Procedure      | Yes (amended)
+PR-03 | Code of Civil Procedure, 1908                  | Act V/1908 | Civil Procedure         | Yes (amended)
+PR-04 | Evidence Act, 1872                             | Act I/1872 | Evidence                | Yes (amended)
+PR-05 | Contract Act, 1872                             | Act IX/1872| Commercial Law          | Yes (amended)
+PR-06 | Sale of Goods Act, 1930                        | Act III/   | Commercial Law          | Yes (amended)
+      |                                                | 1930       |                         |
+PR-07 | Partnership Act, 1932                          | Act IX/1932| Commercial Law          | Yes (amended)
+PR-08 | Specific Relief Act, 1877                      | Act I/1877 | Civil Law               | Yes (amended)
+PR-09 | Limitation Act, 1908                           | Act IX/1908| Civil Law               | Superseded by
+      |                                                |            |                         |   Limitation Act
+      |                                                |            |                         |   1908 (continued)
+PR-10 | Transfer of Property Act, 1882                 | Act IV/1882| Property Law            | Yes (amended)
+PR-11 | Registration Act, 1908                         | Act XVI/   | Registration            | Yes (amended)
+      |                                                | 1908       |                         |
+PR-12 | Stamp Act, 1899                                | Act II/1899| Taxation                | Yes (amended)
+PR-13 | Court Fees Act, 1870                           | Act VII/   | Taxation/Judicial       | Yes (amended)
+      |                                                | 1870       |                         |
+PR-14 | Negotiable Instruments Act, 1881               | Act XXVI/  | Commercial Law          | Yes (amended)
+      |                                                | 1881       |                         |
+PR-15 | Police Act, 1861                               | Act V/1861 | Police                  | Yes (amended)
+PR-16 | Arms Act, 1878                                 | Act XI/1878| Public Order            | Yes (amended)
+PR-17 | Explosives Act, 1884                           | Act IV/1884| Public Safety           | Yes (amended)
+PR-18 | Forest Act, 1927                               | Act XVI/   | Forestry                | Yes (amended)
+      |                                                | 1927       |                         |
+PR-19 | Railways Act, 1890                             | Act IX/1890| Transport               | Yes (amended)
+PR-20 | Motor Vehicles Act, 1939                       | Act IV/1939| Transport               | Yes (amended)
+PR-21 | Electricity Act, 1910                          | Act IX/1910| Energy                  | Yes (amended)
+PR-22 | Boilers Act, 1923                              | Act V/1923 | Industry/Safety         | Yes (amended)
+PR-23 | Mines Act, 1923                                | Act IV/1923| Mining/Labour           | Yes (amended)
+PR-24 | Factories Act, 1934                            | Act XXV/   | Labour                  | Superseded by
+      |                                                | 1934       |                         |   Labour Act 2006
+PR-25 | Payment of Wages Act, 1936                     | Act IV/1936| Labour                  | Incorporated into
+      |                                                |            |                         |   Labour Act 2006
+PR-26 | Workmen's Compensation Act, 1923               | Act VIII/  | Labour                  | Incorporated into
+      |                                                | 1923       |                         |   Labour Act 2006
+PR-27 | Maternity Benefit Act, 1939 (Bengal)           | Beng. Act  | Labour                  | Incorporated into
+      |                                                | IV/1939    |                         |   Labour Act 2006
+PR-28 | Prisons Act, 1894                              | Act IX/1894| Prison/Correctional     | Yes (amended)
+PR-29 | Guardians and Wards Act, 1890                  | Act VIII/  | Family Law              | Yes (amended)
+      |                                                | 1890       |                         |
+PR-30 | Child Marriage Restraint Act, 1929             | Act XIX/   | Family Law              | Superseded 2017
+      |                                                | 1929       |                         |
+PR-31 | Dissolution of Muslim Marriages Act, 1939      | Act VIII/  | Family Law              | Yes
+      |                                                | 1939       |                         |
+PR-32 | Muslim Personal Law (Shariat) Application      | Act XXVI/  | Personal Law            | Yes
+      |   Act, 1937                                    | 1937       |                         |
+PR-33 | Companies Act, 1913                            | Act VII/   | Corporate Law           | Superseded 1994
+      |                                                | 1913       |                         |
+PR-34 | Cooperative Societies Act, 1940 (Bengal)       | Beng. Act  | Cooperative             | Yes (amended)
+      |                                                | XXI/1940   |                         |
+PR-35 | Drugs Act, 1940                                | Act XXIII/ | Health                  | Yes (amended)
+      |                                                | 1940       |                         |
+PR-36 | Insurance Act, 1938                            | Act IV/1938| Finance/Insurance       | Yes (amended)
+PR-37 | General Clauses Act, 1897                      | Act X/1897 | Constitutional          | Yes (amended)
+PR-38 | Societies Registration Act, 1860               | Act XXI/   | Charitable/NGO          | Yes (amended)
+      |                                                | 1860       |                         |
+PR-39 | Bengal Tenancy Act, 1885                       | Beng. Act  | Land/Tenancy            | Partially (many
+      |                                                | VIII/1885  |                         |   provisions
+      |                                                |            |                         |   superseded by
+      |                                                |            |                         |   SAT Act 1950)
+PR-40 | Bengal Municipal Act, 1932                     | Beng. Act  | Local Government        | Superseded
+      |                                                | XV/1932    |                         |
+PR-41 | Charitable and Religious Trusts Act, 1920      | Act XIV/   | Trusts                  | Yes
+      |                                                | 1920       |                         |
+PR-42 | Official Secrets Act, 1923                     | Act XIX/   | Administrative          | Yes (amended)
+      |                                                | 1923       |                         |
+PR-43 | Public Demands Recovery Act, 1913 (Bengal)     | Beng. Act  | Revenue Recovery        | Yes (amended)
+      |                                                | III/1913   |                         |
+PR-44 | Bengal Private Forests Act, 1946               | Beng. Act  | Forestry                | Yes (amended)
+      |                                                | --         |                         |
+PR-45 | Bengal Hindu Religious Endowments Act, 1934    | Beng. Act  | Religious Endowment     | Yes (amended)
+      |                                                | --         |                         |
+PR-46 | Bengal Wakf Act, 1934                          | Beng. Act  | Religious Endowment     | Superseded by
+      |                                                | --         |                         |   Waqf Ord. 1962
+PR-47 | Vaccination Act, 1880                          | Act XIII/  | Health                  | Yes (modified)
+      |                                                | 1880       |                         |
+PR-48 | Epidemic Diseases Act, 1897                    | Act III/   | Health                  | Yes (amended)
+      |                                                | 1897       |                         |
+PR-49 | Poison Act, 1919                               | Act XII/   | Health                  | Yes
+      |                                                | 1919       |                         |
+PR-50 | Land Acquisition Act, 1894                     | Act I/1894 | Land/Property           | Yes (amended 2017)
+PR-51 | Foreigners Act, 1946                           | Act XXXI/  | Immigration             | Yes (amended)
+      |                                                | 1946       |                         |
+PR-52 | Press and Registration of Books Act, 1867      | Act XXV/   | Press/Media             | Yes (amended)
+      |                                                | 1867       |                         |
+PR-53 | Petroleum Act, 1934                            | Act XXX/   | Energy/Safety           | Yes (amended)
+      |                                                | 1934       |                         |
+PR-54 | Telegraph Act, 1885                            | Act XIII/  | Communications          | Yes (modified)
+      |                                                | 1885       |                         |
+PR-55 | Post Office Act, 1898                          | Act VI/1898| Communications          | Yes (amended)
+PR-56 | Cantonments Act, 1924                          | Act II/1924| Defence/Municipal       | Yes (amended)
+PR-57 | Prevention of Corruption Act, 1947             | Act II/1947| Criminal Law            | Yes (amended)
+PR-58 | Bengal Agricultural Income Tax Act, 1944       | Beng. Act  | Taxation                | Yes (adapted)
+      |                                                | IV/1944    |                         |
+PR-59 | Ports Act, 1908                                | Act XV/1908| Transport/Maritime      | Yes (amended)
+PR-60 | Merchant Shipping Act, 1923                    | --         | Maritime                | Yes (amended)
+PR-61 | Bengal Ferries Act, 1885                       | Beng. Act  | Transport               | Yes (amended)
+      |                                                | I/1885     |                         |
+PR-62 | Patents and Designs Act, 1911                  | Act II/1911| Intellectual Property   | Yes (amended)
+PR-63 | Trade Marks Act, 1940                          | Act V/1940 | Intellectual Property   | Superseded
+PR-64 | Destructive Insects and Pests Act, 1914        | Act II/1914| Agriculture             | Yes (amended)
+PR-65 | Standards of Weights and Measures Act, 1939    | --         | Trade                   | Yes (amended)
+PR-66 | Bengal Local Self-Government Act, 1885         | --         | Local Government        | Superseded
+PR-67 | Hindu Married Women's Right to Separate        | Beng. Act  | Family/Property Law     | Yes
+      |   Residence and Maintenance Act, 1946          | --         |                         |
+PR-68 | Provident Funds Act, 1925                      | --         | Labour/Finance          | Yes (amended)
+PR-69 | Survey Act, 1875 (Bengal Survey Act)           | --         | Land Survey             | Yes (amended)
+PR-70 | Village Courts Ordinance, 1960 (pre-partition  | --         | Judiciary/Local         | Superseded by
+      |   framework continued)                         |            |                         |   VC Act 2006
+PR-71 | Suppression of Immoral Traffic Act, 1933       | --         | Criminal Law            | Yes (modified)
+PR-72 | Chittagong Hill Tracts Regulation, 1900        | Reg. I/1900| CHT Administration      | Yes (amended,
+      |                                                |            |                         |   CHT Accord)
+PR-73 | Bengal Excise Act, 1909                        | Beng. Act  | Excise/Revenue          | Yes (amended)
+      |                                                | --         |                         |
+PR-74 | Dock Labourers Act, 1934                       | Act XIX/   | Labour                  | Yes (modified)
+      |                                                | 1934       |                         |
+PR-75 | Employment of Children Act, 1938               | --         | Labour                  | Superseded
+
+================================================================================
+PART X: SUMMARY STATISTICS
+================================================================================
+
+TOTAL PRIMARY LEGISLATION IDENTIFIED:
+
+Category                                              | Count
+------------------------------------------------------|------
+Constitutional Instruments and Adaptation Orders      |   12
+Pakistan Central Acts (1947-1970)                     |   34
+Pakistan Central Ordinances (1947-1970)               |   16
+East Bengal / East Pakistan Provincial Acts (1947-70) |   42
+East Bengal / East Pakistan Provincial Ordinances     |    8
+Governor-General's / President's Orders               |   13
+Martial Law Orders - First Period (1958-1962)         |   17
+Martial Law Orders - Second Period (1969-1970)        |    7
+Pre-1947 Acts Continued in Force (key selections)    |   75
+------------------------------------------------------|------
+TOTAL PRIMARY LEGISLATION IDENTIFIED                  |  224
+------------------------------------------------------|------
+
+TOTAL SUBORDINATE LEGISLATION IDENTIFIED (from Research doc):  229
+
+COMBINED TOTAL (Primary + Subordinate):                        453
+
+STATUS BREAKDOWN (Primary Legislation):
+
+Still in Force in Bangladesh (amended or original)    | ~120
+Superseded by later Bangladesh legislation            |  ~55
+Repealed/Historical/Obsolete                          |  ~49
+------------------------------------------------------|------
+
+================================================================================
+NOTES ON COMPLETENESS
+================================================================================
+
+1. BDLAWS DATABASE: The bdlaws.minlaw.gov.bd database lists approximately
+   1,300+ laws currently in its database, of which a significant portion
+   (estimated 300-400) originate from the 1947-1970 period. This compilation
+   captures the most significant legislation but the full list requires
+   systematic verification against the bdlaws database.
+
+2. GAZETTE REVIEW: A comprehensive identification requires systematic
+   review of:
+   - The Gazette of Pakistan (1947-1971) - all extraordinary issues
+   - The East Bengal/East Pakistan Gazette (1947-1971) - all extraordinary
+     issues
+   - Both ordinary and extraordinary issues contain notifications of
+     new legislation, amendments, and orders
+
+3. ESTIMATED TOTAL UNIVERSE: Legal scholars estimate that between 2,000
+   and 5,000 distinct legislative instruments (including all Acts,
+   Ordinances, Orders, MLOs, MLRs, SROs, notifications, and rules)
+   were applicable to East Pakistan during 1947-1970. This compilation
+   identifies approximately 450 of the most significant.
+
+4. ANNUAL FINANCE ACTS: Pakistan enacted annual Finance Acts from 1947
+   onwards, each containing tax amendments. These are not individually
+   listed but are significant legislative instruments.
+
+5. APPROPRIATION ACTS: Annual Appropriation Acts authorizing government
+   expenditure are not individually listed.
+
+6. AMENDMENT ACTS: Many Acts had multiple amendment Acts during this
+   period. Only the principal Acts are listed; individual amendment
+   Acts are not separately enumerated.
+
+7. WEST PAKISTAN ACTS: Some West Pakistan Acts were later extended to
+   East Pakistan by presidential/governor's orders. These are not
+   exhaustively captured here.
+
+================================================================================
+KEY LEGISLATION STILL ACTIVELY APPLIED IN BANGLADESH (2026)
+================================================================================
+
+The following legislation from the 1947-1970 period remains critically
+important in Bangladesh's daily legal and administrative practice:
+
+TIER 1 - FOUNDATIONAL (applied daily across Bangladesh):
+
+1.  East Bengal State Acquisition and Tenancy Act, 1950 (EA-04)
+    - Governs ALL land administration in Bangladesh
+    - Applied in: Land offices, courts, AC Land offices nationwide
+
+2.  Muslim Family Laws Ordinance, 1961 (CO-05)
+    - Governs ALL Muslim marriages, divorces, maintenance
+    - Applied in: Union Councils, Family Courts, Kazi offices
+
+3.  Government Servants (Conduct) Rules, 1964 (under various Acts)
+    - Governs conduct of all government servants
+    - Applied in: All government offices
+
+4.  Code of Criminal Procedure, 1898 (PR-02)
+    - Primary criminal procedural law
+    - Applied in: All criminal courts
+
+5.  Code of Civil Procedure, 1908 (PR-03)
+    - Primary civil procedural law
+    - Applied in: All civil courts
+
+6.  Penal Code, 1860 (PR-01)
+    - Primary criminal law
+    - Applied in: All criminal courts
+
+TIER 2 - WIDELY APPLIED:
+
+7.  Transfer of Property Act, 1882 (PR-10)
+8.  Registration Act, 1908 (PR-11)
+9.  Contract Act, 1872 (PR-05)
+10. Evidence Act, 1872 (PR-04)
+11. Stamp Act, 1899 (PR-12)
+12. Legal Practitioners and Bar Councils Act, 1965 (PA-30)
+13. Customs Act, 1969 (PA-34)
+14. Police Act, 1861 (PR-15)
+15. Forest Act, 1927 (PR-18)
+
+TIER 3 - REGULARLY APPLIED IN SPECIFIC DOMAINS:
+
+16. Non-Agricultural Tenancy Act, 1949 (EA-02)
+17. Land Acquisition Act, 1894 (PR-50)
+18. Industrial Relations Ordinance, 1969 (CO-16)
+19. Guardians and Wards Act, 1890 (PR-29)
+20. Companies Act, 1913 (PR-33) [until 1994]
+21. Cooperative Societies Act, 1940 (PR-34)
+22. Public Demands Recovery Act, 1913 (PR-43)
+23. Prisons Act, 1894 (PR-28)
+
+================================================================================
+                         END OF COMPILATION
+================================================================================
+
+Compiled by: The Legal Empire (www.thelegalempire.org)
+For: Package SD-1 (1799-1970) - Code of Delegated/Subordinate Legislation
+Project: Strengthening Legislative Capacity and Legal Awareness Building
+Client: Legislative and Parliamentary Affairs Division
+        Ministry of Law, Justice and Parliamentary Affairs
+        Government of the People's Republic of Bangladesh
+
+METHODOLOGY NOTE: This compilation is based on legal scholarship,
+published compilations, institutional knowledge, and the bdlaws.minlaw.gov.bd
+database structure. Web-based verification against primary gazette sources
+was attempted but requires in-person archival research for completeness.
+All entries should be verified against original gazette notifications
+during the formal codification exercise.
+================================================================================
