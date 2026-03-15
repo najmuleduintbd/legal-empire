@@ -1,0 +1,1543 @@
+================================================================================
+    COMPREHENSIVE LIST OF SUBORDINATE LEGISLATION UNDER BRITISH INDIA ACTS
+    (1900-1947) APPLICABLE TO BENGAL / PRESENT-DAY BANGLADESH
+================================================================================
+
+    Compiled for: Code of Delegated/Subordinate Legislation of Bangladesh
+    Package: SD-1
+    Scope: 28 Parent Acts with ALL known subordinate legislation
+    Date of Compilation: 15 March 2026
+
+================================================================================
+ABBREVIATIONS
+================================================================================
+  GoB   = Government of Bengal
+  GoI   = Government of India / Governor-General in Council
+  HC    = High Court of Calcutta
+  BG    = Bengal Gazette / Calcutta Gazette
+  GI    = Gazette of India
+  SRO   = Statutory Rules and Orders
+  CPC   = Code of Civil Procedure
+  CrPC  = Code of Criminal Procedure
+
+================================================================================
+1. CODE OF CIVIL PROCEDURE, 1908 (Act V of 1908)
+   -- CIVIL RULES AND ORDERS
+================================================================================
+
+1.1  Bengal Civil Rules and Orders (Practice and Procedure of Civil Courts)
+     Year: 1908 onwards (consolidated periodically; major editions c.1914, 1936)
+     Authority: High Court of Calcutta / Government of Bengal
+     Description: Comprehensive rules governing all civil court procedure in
+       Bengal, covering institution of suits, service of process, interlocutory
+       applications, trial, judgment, execution of decrees, appeals, revision,
+       and review. Organized in multiple volumes with prescribed forms.
+     Status: PARTIALLY IN FORCE in Bangladesh. Adapted for East Pakistan and
+       subsequently Bangladesh. Continues to govern civil court practice.
+
+1.2  High Court Civil Circular Orders (Bengal)
+     Year: Various (1862-1947)
+     Authority: High Court of Calcutta
+     Description: Practice directions and administrative circulars issued to
+       subordinate civil courts covering interpretation of CPC provisions,
+       standard procedures, filing requirements, and case management.
+     Status: Historical; many principles incorporated into later practice.
+
+1.3  Rules for Pleaders, Mukhtars, and Revenue Agents (Bengal)
+     Year: Various from 1908 onwards
+     Authority: High Court of Calcutta
+     Description: Rules governing appearance of legal practitioners in civil
+       courts, qualifications, enrollment, conduct, fees, and discipline.
+     Status: Superseded by Legal Practitioners and Bar Council legislation.
+
+1.4  Rules for Small Cause Courts (Bengal)
+     Year: 1908 onwards
+     Authority: High Court of Calcutta / GoB
+     Description: Special procedural rules for Provincial Small Cause Courts
+       under CPC provisions, covering summary trial of civil suits below
+       prescribed pecuniary limits.
+     Status: Partially in force (as adapted).
+
+1.5  Insolvency Rules (Bengal) -- under CPC provisions
+     Year: Various
+     Authority: High Court of Calcutta / GoB
+     Description: Rules governing insolvency proceedings under the Provincial
+       Insolvency Act, 1920 (cross-referenced with CPC execution provisions).
+       Covers adjudication of insolvency, administration of estates,
+       composition, discharge.
+     Status: Partially in force (as adapted).
+
+1.6  Commission Rules under CPC (Bengal)
+     Year: 1908 onwards
+     Authority: High Court of Calcutta
+     Description: Rules for issuing commissions for examination of witnesses,
+       local investigation, scientific investigation, and sale of property.
+     Status: Partially in force.
+
+1.7  Rules for Execution of Foreign Decrees (Bengal)
+     Year: Various
+     Authority: GoI / HC
+     Description: Rules governing reciprocal enforcement of decrees from
+       courts outside Bengal.
+     Status: Historical; superseded by subsequent arrangements.
+
+================================================================================
+2. REGISTRATION ACT, 1908 (Act XVI of 1908)
+   -- REGISTRATION RULES
+================================================================================
+
+2.1  Bengal Registration Rules, 1909
+     Year: 1909 (amended periodically through 1947)
+     Authority: Government of Bengal (Inspector General of Registration)
+     Description: Comprehensive rules for registration of documents including:
+       - Compulsory and optional registration procedures
+       - Duties of Sub-Registrars and Registrars
+       - Maintenance of books, indexes, and registers (Books I-IV)
+       - Fees for registration services
+       - Procedure for presenting documents
+       - Endorsements and certificates
+       - Copying and search procedures
+       - Filing of testamentary documents
+     Status: IN FORCE in Bangladesh (as adapted). Registration Act 1908 and
+       Bengal Registration Rules continue to govern document registration.
+
+2.2  Registration Fee Schedule (Bengal) -- Notifications
+     Year: Various notifications from 1909 onwards
+     Authority: Government of Bengal
+     Description: Fee schedules for registration of different classes of
+       documents, periodically revised by notification.
+     Status: Superseded by subsequent fee notifications but framework continues.
+
+2.3  Rules for Maintenance of Registration Office Books and Indexes
+     Year: 1909 onwards
+     Authority: Inspector General of Registration, Bengal
+     Description: Detailed rules for maintenance of Book I (Non-testamentary
+       documents relating to immovable property), Book II (Non-testamentary
+       documents not relating to immovable property), Book III (Wills and
+       authorities to adopt), Book IV (Miscellaneous documents), and Indexes.
+     Status: Partially in force.
+
+2.4  Rules for Registration of Documents by Purdanashin Women
+     Year: 1909 onwards
+     Authority: GoB
+     Description: Special procedures for presentation and execution of
+       documents by women observing purdah, including attendance at residence.
+     Status: Historical; procedures modified post-independence.
+
+================================================================================
+3. INDIAN PORTS ACT, 1908 (Act XV of 1908)
+   -- PORT RULES
+================================================================================
+
+3.1  Chittagong Port Rules
+     Year: 1908 onwards (revised periodically)
+     Authority: Government of Bengal / Port Officer, Chittagong
+     Description: Rules governing the administration of Chittagong Port,
+       covering pilotage, anchorage, berthing, loading and unloading of cargo,
+       harbor safety, navigation channels, quarantine procedures, port dues,
+       dangerous goods handling, and ship surveys.
+     Status: Superseded by Chittagong Port Authority (CPA) rules but
+       foundational framework. Ports Act 1908 continues in Bangladesh.
+
+3.2  Rules for Minor Ports in Bengal (Narayanganj, Khulna, Chandpur, etc.)
+     Year: Various from 1908 onwards
+     Authority: Government of Bengal
+     Description: Rules for smaller riverine ports in Bengal, covering vessel
+       registration, docking, safety, and tolls.
+     Status: Historical; port administration reorganized post-independence.
+
+3.3  Pilotage Rules (Bengal Ports)
+     Year: 1908 onwards
+     Authority: GoB / Port Officer
+     Description: Rules for appointment and duties of harbor pilots,
+       compulsory pilotage areas, pilot fees, vessel navigation in port waters.
+     Status: Adapted under Chittagong Port Authority framework.
+
+3.4  Port Health Rules (Bengal)
+     Year: 1908 onwards
+     Authority: GoB / Port Health Officer
+     Description: Quarantine procedures for incoming vessels, medical
+       inspection of passengers and crew, prevention of epidemic disease
+       transmission through ports.
+     Status: Framework continued; adapted under modern health legislation.
+
+================================================================================
+4. BENGAL EXCISE ACT, 1909 (Bengal Act V of 1909)
+   -- EXCISE RULES
+================================================================================
+
+4.1  Bengal Excise Rules (General)
+     Year: 1909 onwards (comprehensive revision 1925, 1937)
+     Authority: Government of Bengal (Excise Department)
+     Description: Comprehensive rules governing the manufacture, possession,
+       sale, transport, import, and export of all excisable articles including
+       country spirit, foreign liquor, beer, wine, and intoxicating drugs.
+     Status: IN FORCE in Bangladesh (as adapted). Bengal Excise Act 1909
+       continues to be the primary excise legislation.
+
+4.2  Bengal Distillery Rules
+     Year: 1909 onwards
+     Authority: GoB (Excise Commissioner)
+     Description: Rules governing establishment and operation of distilleries,
+       distillation processes, storage, duty payment, wastage allowance,
+       record-keeping, and inspection.
+     Status: In force (as adapted).
+
+4.3  Bengal Country Spirit Rules
+     Year: 1909 onwards
+     Authority: GoB
+     Description: Rules for manufacture, wholesale, and retail sale of country
+       spirit (indigenous liquor); licensing of shops; minimum and maximum
+       pricing; quality standards.
+     Status: In force (as adapted).
+
+4.4  Bengal Foreign Liquor Rules
+     Year: 1909 onwards
+     Authority: GoB
+     Description: Rules for import, wholesale and retail of foreign liquor
+       (imported spirits, wine, beer); licensing of bonded warehouses, hotels,
+       clubs, and retail shops.
+     Status: In force (as adapted).
+
+4.5  Bengal Hemp Drug Rules
+     Year: 1909 onwards
+     Authority: GoB
+     Description: Rules for cultivation, collection, manufacture, possession,
+       sale, and transport of ganja and bhang; licensing; maximum possession
+       limits.
+     Status: Modified by subsequent narcotics legislation; historical framework.
+
+4.6  Bengal Tari (Toddy) Rules
+     Year: 1909 onwards
+     Authority: GoB
+     Description: Rules governing tapping and sale of palm toddy; licensing
+       of tappers and sellers; area restrictions.
+     Status: In force (as adapted).
+
+4.7  Bengal Excise Revenue Collection Rules
+     Year: 1909 onwards
+     Authority: GoB (Excise Commissioner / Collector)
+     Description: Rules for assessment, collection, and accounting of excise
+       duties and license fees.
+     Status: In force (as adapted).
+
+4.8  Bengal Opium Smoking Rules
+     Year: 1909 onwards
+     Authority: GoB
+     Description: Rules regulating licensed opium smoking establishments.
+     Status: Historical; opium control now under Narcotics Control Act.
+
+4.9  Bengal Excise (Bonded Warehouse) Rules
+     Year: 1909 onwards
+     Authority: GoB
+     Description: Rules for establishment and operation of bonded warehouses
+       for excisable goods; storage conditions; duty deferral.
+     Status: In force (as adapted).
+
+================================================================================
+5. INDIAN ELECTRICITY ACT, 1910 (Act IX of 1910)
+   -- ELECTRICITY RULES
+================================================================================
+
+5.1  Indian Electricity Rules, 1937
+     Year: 1937 (replacing earlier rules from 1910)
+     Authority: Government of India (Central Electricity Authority)
+     Description: Comprehensive central rules governing generation, supply,
+       distribution, and use of electrical energy. Covers safety standards,
+       wiring regulations, installations, meters, earthing, overhead lines,
+       substations, consumer protection, electrical accidents, and inspections.
+       Applied to Bengal as central legislation.
+     Status: IN FORCE in Bangladesh (as adapted). Forms the basis of
+       electrical safety regulation.
+
+5.2  Bengal Electrical Installation Rules
+     Year: 1910 onwards (revised 1937)
+     Authority: GoB / Chief Electrical Inspector
+     Description: Provincial rules supplementing the central rules, covering
+       licensing of electrical contractors and wiremen, inspection of
+       installations, approval of electrical fittings, and provincial safety
+       standards.
+     Status: Framework continued in Bangladesh.
+
+5.3  Electricity Supply Licensee Rules (Bengal)
+     Year: 1910 onwards
+     Authority: GoB
+     Description: Rules for granting, revocation, and conditions of licenses
+       for electricity supply undertakings; tariff regulation; supply
+       conditions; metering requirements.
+     Status: Framework evolved under Bangladesh energy regulatory structure.
+
+5.4  Indian Electricity (Meter) Rules
+     Year: 1937 (under the 1910 Act)
+     Authority: GoI
+     Description: Rules governing testing, installation, and reading of
+       electricity meters; standards for accuracy; procedures for dispute
+       resolution on meter readings.
+     Status: In force (as adapted).
+
+5.5  Rules for Electrical Accidents (Investigation)
+     Year: 1937
+     Authority: GoI / Chief Electrical Inspector
+     Description: Rules for investigation of fatal and non-fatal electrical
+       accidents; reporting requirements; inquiry procedures.
+     Status: In force (as adapted).
+
+================================================================================
+6. COOPERATIVE SOCIETIES ACT, 1912 (Act II of 1912)
+   -- COOPERATIVE RULES
+================================================================================
+
+6.1  Bengal Cooperative Societies Rules, 1912
+     Year: 1912 (revised substantially 1927, 1940)
+     Authority: Government of Bengal (Registrar of Cooperative Societies)
+     Description: Comprehensive rules for registration, management, audit,
+       inspection, and liquidation of cooperative societies. Covers:
+       - Application for registration and by-laws
+       - Membership conditions and rights
+       - Management committee election and powers
+       - Financial management and audit requirements
+       - Annual returns and reports
+       - Dispute resolution through arbitration
+       - Liquidation and winding-up procedures
+     Status: Framework continued. Cooperative Societies Act 1912 remained
+       applicable until replaced by Cooperative Societies Ordinance 1984
+       in Bangladesh.
+
+6.2  Bengal Cooperative Societies (Election) Rules
+     Year: 1912 onwards
+     Authority: GoB / Registrar
+     Description: Rules for election of managing committees, qualifications
+       of candidates, voting procedures, and election disputes.
+     Status: Superseded by later cooperative legislation.
+
+6.3  Bengal Cooperative Societies (Audit) Rules
+     Year: 1912 onwards
+     Authority: GoB / Registrar
+     Description: Rules for annual audit of cooperative society accounts,
+       qualifications of auditors, audit standards, and rectification.
+     Status: Framework continued.
+
+6.4  Bengal Cooperative Credit Societies Rules
+     Year: 1912 onwards
+     Authority: GoB / Registrar
+     Description: Special rules for agricultural and non-agricultural credit
+       cooperative societies; loan procedures; interest rates; security.
+     Status: Framework continued.
+
+6.5  Bengal Cooperative Land Mortgage Bank Rules
+     Year: c.1930 onwards
+     Authority: GoB / Registrar
+     Description: Rules for cooperative land mortgage banks providing long-term
+       agricultural credit against land security.
+     Status: Historical.
+
+6.6  Rules under the Bengal Cooperative Societies Act, 1940 (Bengal Act XXI of 1940)
+     Year: 1940 onwards
+     Authority: GoB / Registrar
+     Description: Revised and expanded rules under the provincial Act replacing
+       the central 1912 Act for Bengal. Covered all aspects of cooperative
+       administration with greater provincial control.
+     Status: Framework continued until Cooperative Societies Ordinance 1984.
+
+================================================================================
+7. BENGAL PUBLIC DEMANDS RECOVERY ACT, 1913 (Bengal Act III of 1913)
+   -- PDR RULES
+================================================================================
+
+7.1  Bengal Public Demands Recovery Rules, 1913
+     Year: 1913 onwards (revised periodically)
+     Authority: Government of Bengal (Board of Revenue)
+     Description: Comprehensive rules for recovery of public demands
+       (government dues) as arrears of land revenue through the certificate
+       procedure. Covers:
+       - Filing of certificates by public officers
+       - Service of notice on certificate debtors
+       - Procedures for objection and hearing
+       - Attachment and sale of movable and immovable property
+       - Arrest and detention of certificate debtors
+       - Distribution of sale proceeds
+       - Setting aside of sales
+       - Appeals and revision
+       - Forms and registers
+     Status: IN FORCE in Bangladesh (as adapted). BPDR Act 1913 and rules
+       continue as the primary mechanism for recovery of government dues.
+
+7.2  Forms under the BPDR Act (Bengal)
+     Year: 1913 onwards
+     Authority: GoB
+     Description: Prescribed forms for certificate proceedings including
+       certificate for recovery, notice to debtor, warrant of attachment,
+       sale proclamation, sale certificate, and various returns.
+     Status: In force (as adapted); forms revised periodically.
+
+7.3  Notifications specifying "Public Demands" under BPDR Act
+     Year: Various from 1913 onwards
+     Authority: GoB
+     Description: Notifications declaring specific government dues as "public
+       demands" recoverable under the certificate procedure (taxes, fees,
+       loans, rents, etc.).
+     Status: Continuing process; new notifications issued as needed.
+
+================================================================================
+8. INDIAN FACTORIES ACT, 1911 / FACTORIES ACT, 1934
+   -- FACTORIES RULES
+================================================================================
+
+8.1  Bengal Factories Rules under the Factories Act, 1911 (Act XII of 1911)
+     Year: 1911 onwards
+     Authority: Government of Bengal (Chief Inspector of Factories)
+     Description: Early factory regulation covering working hours, employment
+       of women and children, health and safety, ventilation, lighting,
+       fencing of machinery, and factory registration.
+     Status: Superseded by rules under the 1934 Act.
+
+8.2  Bengal Factories Rules, 1935 (under Factories Act, 1934 -- Act XXV of 1934)
+     Year: 1935 onwards
+     Authority: GoB / Chief Inspector of Factories, Bengal
+     Description: Comprehensive rules replacing the 1911-era rules. Covers:
+       - Factory registration and licensing
+       - Health provisions (cleanliness, ventilation, lighting, drinking water,
+         latrines, spittoons)
+       - Safety provisions (fencing of machinery, work on near machinery in
+         motion, hoists and lifts, pressure plant, floors/stairs/passages,
+         pits/sumps/openings, excessive weights)
+       - Welfare provisions (washing facilities, first aid, canteens,
+         shelters, creches)
+       - Working hours for adults, adolescents, and children
+       - Annual leave with wages
+       - Registers, records, and returns (prescribed forms)
+       - Special rules for dangerous operations (listed in schedule)
+       - Inspector powers and duties
+     Status: Factories Act 1934 continued in Bangladesh until Labour Act 2006.
+       Bengal Factories Rules formed the basis of subsequent factory regulations.
+
+8.3  Rules for Dangerous Operations (Bengal Factories)
+     Year: 1935 onwards
+     Authority: GoB / Chief Inspector of Factories
+     Description: Special rules for specific hazardous industrial processes
+       including lead manufacturing, chromium plating, sandblasting, aerated
+       water manufacture, and chemical operations.
+     Status: Framework continued under Labour Act 2006.
+
+8.4  Bengal Factories (Exemption) Orders
+     Year: Various from 1911 onwards
+     Authority: GoB
+     Description: Orders exempting certain classes of factories or processes
+       from specific provisions of the Act (seasonal factories, small
+       establishments, etc.).
+     Status: Historical; superseded by later exemptions.
+
+================================================================================
+9. BENGAL VILLAGE SELF-GOVERNMENT ACT, 1919 (Bengal Act V of 1919)
+   -- PANCHAYAT / UNION BOARD RULES
+================================================================================
+
+9.1  Bengal Union Board Rules
+     Year: 1919 onwards (comprehensive revision 1935)
+     Authority: Government of Bengal
+     Description: Rules governing establishment, powers, and functions of
+       Union Boards in rural Bengal. Covers:
+       - Constitution and territorial jurisdiction
+       - Election of presidents and members
+       - Meetings and quorum
+       - Powers and duties (roads, sanitation, water supply, public health,
+         primary education oversight, registration of births and deaths)
+       - Budget and financial management
+       - Audit and inspection
+       - Dissolution and supersession
+     Status: Superseded by Basic Democracies Order 1959 (Pakistan) and
+       subsequently Local Government Acts in Bangladesh. Historical significance.
+
+9.2  Bengal Union Board Election Rules
+     Year: 1919 onwards
+     Authority: GoB
+     Description: Rules for election of Union Board presidents and members;
+       electoral rolls; qualifications; disqualifications; election procedures;
+       election disputes.
+     Status: Historical; superseded.
+
+9.3  Bengal Village Court Rules
+     Year: 1919 onwards
+     Authority: GoB
+     Description: Rules for constitution and procedure of village courts
+       (gram adalat) established under Section 66 of the Act. Covers
+       jurisdiction (minor civil and criminal matters), appointment of
+       judges, procedure, appeals.
+     Status: Historical; village courts now established under Village Courts
+       Act 2006 (Bangladesh).
+
+9.4  Bengal Union Board Taxation Rules
+     Year: 1919 onwards
+     Authority: GoB
+     Description: Rules for imposition and collection of local taxes by
+       Union Boards including rate on annual value of buildings, tax on
+       professions and trades, and tolls.
+     Status: Historical; superseded by subsequent local government taxation.
+
+9.5  Bengal Union Board Budget and Accounts Rules
+     Year: 1919 onwards
+     Authority: GoB
+     Description: Rules for preparation of annual budgets, maintenance of
+       accounts, and audit of Union Board finances.
+     Status: Historical; superseded.
+
+9.6  Bengal Panchayat Rules (under Bengal Self-Government Act, 1919, and
+     Bengal Panchayat Act, 1920)
+     Year: 1920 onwards
+     Authority: GoB
+     Description: Rules for establishment and functioning of panchayats at
+       the village level, covering minor dispute resolution, community
+       welfare, and local administration.
+     Status: Historical; superseded by subsequent local government legislation.
+
+================================================================================
+10. GOVERNMENT OF INDIA ACT, 1919 (9 & 10 Geo. V, c. 101)
+    -- ALL RULES MADE UNDER
+================================================================================
+
+10.1 Devolution Rules, 1920
+     Year: 1920
+     Authority: Governor-General in Council (GoI)
+     Description: Rules defining the division of subjects between the Central
+       and Provincial Governments under the dyarchy system. Specified
+       "reserved" and "transferred" subjects for Bengal and other provinces.
+     Status: Historical; superseded by Government of India Act 1935.
+
+10.2 Scheduled Taxes Rules
+     Year: 1920
+     Authority: GoI
+     Description: Rules specifying taxation powers of provincial legislatures
+       under the dyarchy scheme.
+     Status: Historical; superseded.
+
+10.3 Bengal Legislative Council Rules
+     Year: 1920 onwards
+     Authority: Governor of Bengal / GoI
+     Description: Rules of procedure and conduct of business in the Bengal
+       Legislative Council established under the 1919 Act. Covers questions,
+       motions, legislative procedure, committee formation, and debates.
+     Status: Historical; superseded by 1935 Act rules.
+
+10.4 Rules for Election to the Bengal Legislative Council
+     Year: 1920
+     Authority: GoI
+     Description: Electoral rules for the Bengal Legislative Council including
+       franchise qualifications, constituencies, voter registration, nomination
+       and election procedures, election disputes.
+     Status: Historical; superseded.
+
+10.5 Indian Civil Service (Temporary) Rules
+     Year: 1920 onwards
+     Authority: Secretary of State for India / GoI
+     Description: Rules governing the Indian Civil Service during the transition
+       under dyarchy, including recruitment, examination, training, and service
+       conditions applicable to Bengal cadre officers.
+     Status: Historical; superseded.
+
+10.6 Central Services Rules (applicable to Bengal)
+     Year: 1920 onwards
+     Authority: GoI
+     Description: Rules governing central government services deployed in
+       Bengal, including All-India Services (ICS, IPS) and Central Services.
+     Status: Historical; framework adapted post-independence.
+
+10.7 Bengal Government Servants' Conduct Rules (1919 Act basis)
+     Year: 1920 onwards
+     Authority: GoB
+     Description: Rules governing conduct of provincial government servants
+       in Bengal under the reformed constitution, covering political activities,
+       private employment, acceptance of gifts, and discipline.
+     Status: Framework continued through adaptation.
+
+10.8 Bengal Financial Rules (under 1919 Act)
+     Year: 1921 onwards
+     Authority: GoB / Finance Department
+     Description: Provincial financial rules governing expenditure, audit,
+       budget, and treasury management in Bengal under dyarchy.
+       Includes Bengal Treasury Rules.
+     Status: Framework substantially adapted and continued.
+
+10.9 Rules under the Indian Civil Services (Temporary Provisions) Act, 1920
+     Year: 1920 onwards
+     Authority: Secretary of State / GoI
+     Description: Transitional service rules for ICS officers during the
+       reform period.
+     Status: Historical.
+
+================================================================================
+11. INDIAN BOILERS ACT, 1923 (Act V of 1923)
+    -- BOILER RULES
+================================================================================
+
+11.1 Indian Boiler Regulations, 1923
+     Year: 1923 onwards (revised 1928, 1937, 1945)
+     Authority: Government of India (Central Boilers Board)
+     Description: Central regulations prescribing standards for boiler
+       construction, materials, design, fittings, and safety appurtenances.
+       Applicable uniformly across British India including Bengal.
+     Status: IN FORCE in Bangladesh (as adapted). Indian Boilers Act 1923
+       continues as the primary boiler safety legislation.
+
+11.2 Bengal Boiler Rules
+     Year: 1923 onwards
+     Authority: Government of Bengal / Chief Inspector of Boilers, Bengal
+     Description: Provincial rules supplementing the central regulations.
+       Covers:
+       - Registration of boilers in Bengal
+       - Inspection procedures and periodicity
+       - Fees for registration and inspection
+       - Certification of boiler attendants and engine drivers
+       - Reporting of boiler accidents
+       - Exemptions for specific classes of boilers
+     Status: In force in Bangladesh (as adapted).
+
+11.3 Rules for Examination and Certification of Boiler Attendants (Bengal)
+     Year: 1923 onwards
+     Authority: GoB / Chief Inspector of Boilers
+     Description: Rules for qualification examinations for boiler attendants
+       (first class, second class), engine drivers, and boiler operation
+       supervisors. Covers syllabus, examination centers, and certificate
+       validity.
+     Status: In force (as adapted).
+
+11.4 Rules for Boiler Accident Investigation (Bengal)
+     Year: 1923 onwards
+     Authority: GoB / Chief Inspector of Boilers
+     Description: Rules for reporting, investigation, and inquiry into
+       boiler explosions and accidents; composition of inquiry committees.
+     Status: In force (as adapted).
+
+================================================================================
+12. WORKMEN'S COMPENSATION ACT, 1923 (Act VIII of 1923)
+    -- WC RULES
+================================================================================
+
+12.1 Bengal Workmen's Compensation Rules, 1924
+     Year: 1924 (revised 1933, 1939, 1946)
+     Authority: Government of Bengal (Labour Department)
+     Description: Comprehensive rules for implementation of the WC Act in
+       Bengal. Covers:
+       - Filing of claims before the Commissioner for Workmen's Compensation
+       - Calculation and assessment of compensation for death, permanent
+         total disability, permanent partial disability, and temporary
+         disability
+       - Procedure before the Commissioner
+       - Deposit of compensation amounts
+       - Distribution of compensation in death cases
+       - Medical examination and certification
+       - Review of compensation orders
+       - Registration of agreements
+       - Notices and reports of accidents by employers
+       - Prescribed forms (Form A through Form T)
+     Status: IN FORCE in Bangladesh (as adapted). Workmen's Compensation Act
+       1923 continued until consolidated into Labour Act 2006.
+
+12.2 Schedule of Injuries (Bengal notifications)
+     Year: Various notifications
+     Authority: GoB
+     Description: Notifications specifying percentage of loss of earning
+       capacity for various types of injuries listed in Schedule I of the Act.
+     Status: Framework continued.
+
+12.3 Rules for Notice of Accidents (Bengal)
+     Year: 1924 onwards
+     Authority: GoB
+     Description: Rules requiring employers to give notice of accidents
+       causing death or bodily injury to the Commissioner and specified
+       authorities within prescribed time limits.
+     Status: Framework continued.
+
+================================================================================
+13. INDIAN SUCCESSION ACT, 1925 (Act XXXIX of 1925)
+    -- RULES
+================================================================================
+
+13.1 Probate and Administration Rules (Bengal)
+     Year: 1925 onwards
+     Authority: High Court of Calcutta / GoB
+     Description: Rules for applications for grant of probate of wills and
+       letters of administration in Bengal. Covers:
+       - Jurisdiction of District Courts and High Court
+       - Filing of applications (petitions, affidavits, schedules of property)
+       - Citation and notice procedures
+       - Caveats
+       - Grant of probate and letters of administration
+       - Revocation of grants
+       - Administration bonds and sureties
+       - Accounts by executors and administrators
+       - Fees (ad valorem duty on estate value)
+     Status: In force in Bangladesh (as adapted). Indian Succession Act 1925
+       continues to apply to non-Muslim citizens.
+
+13.2 Court Fees for Probate and Administration (Bengal notifications)
+     Year: Various notifications
+     Authority: GoB
+     Description: Notifications prescribing ad valorem fees for probate and
+       letters of administration based on estate value.
+     Status: Fee structure revised but framework continues.
+
+13.3 Rules for Succession Certificates (Bengal)
+     Year: 1925 onwards
+     Authority: HC / GoB
+     Description: Rules for grant of succession certificates under Part X
+       of the Act for collection of debts and securities. Covers application
+       procedure, notice, hearing, and issuance.
+     Status: In force (as adapted).
+
+================================================================================
+14. TRADE UNIONS ACT, 1926 (Act XVI of 1926)
+    -- TRADE UNION REGULATIONS
+================================================================================
+
+14.1 Bengal Trade Unions Regulations, 1927
+     Year: 1927
+     Authority: Government of Bengal (Registrar of Trade Unions)
+     Description: Regulations for registration and governance of trade unions
+       in Bengal. Covers:
+       - Application for registration (form, documents, fees)
+       - Minimum membership requirements
+       - Constitution of trade unions (model rules)
+       - Annual returns to the Registrar
+       - Change of name and amalgamation procedures
+       - Dissolution and cancellation of registration
+       - Maintenance of register of members
+       - Political fund rules (separate fund requirements)
+       - General fund management
+       - Inspection of books and records
+       - Prescribed forms
+     Status: Framework continued. Trade Unions Act 1926 remained applicable
+       in Bangladesh until consolidated into Labour Act 2006.
+
+14.2 Trade Union (Political Fund) Rules (Bengal)
+     Year: 1927 onwards
+     Authority: GoB / Registrar
+     Description: Rules governing the establishment and management of
+       separate political funds by registered trade unions, including
+       contribution procedures and opt-out provisions.
+     Status: Framework continued.
+
+================================================================================
+15. INDIAN FOREST ACT, 1927 (Act XVI of 1927)
+    -- FOREST RULES, PRIVATE FOREST RULES
+================================================================================
+
+15.1 Bengal Forest Rules (under Indian Forest Act, 1927)
+     Year: 1927 onwards (comprehensively revised 1935, 1945)
+     Authority: Government of Bengal (Forest Department)
+     Description: Comprehensive rules for forest management in Bengal. Covers:
+       - Declaration and management of reserved forests
+       - Rights of communities in reserved forests
+       - Protected forests regulations
+       - Transit rules for timber and forest produce
+       - Grazing and pasture rules
+       - Collection of non-timber forest produce (NTFPs)
+       - Penalties for forest offences
+       - Forest settlement procedures
+       - Compounding of offences
+     Status: IN FORCE in Bangladesh (as adapted). Indian Forest Act 1927
+       remains the primary forest legislation in Bangladesh.
+
+15.2 Bengal Forest Transit Rules
+     Year: 1927 onwards
+     Authority: GoB / Conservator of Forests
+     Description: Rules governing transit of timber and other forest produce
+       through Bengal territory. Covers transit passes, check posts, marking
+       of timber, seizure of unmarked produce, and penalties.
+     Status: In force (as adapted).
+
+15.3 Rules for Disposal of Forest Produce (Bengal)
+     Year: 1927 onwards
+     Authority: GoB / Conservator of Forests
+     Description: Rules for sale and disposal of forest produce from reserved
+       and protected forests, including auction procedures, royalties, and
+       permits for extraction.
+     Status: In force (as adapted).
+
+15.4 Sundarbans Forest Division Rules
+     Year: Various from 1878 onwards (revised under 1927 Act)
+     Authority: GoB / Divisional Forest Officer, Sundarbans
+     Description: Special rules for the Sundarbans mangrove forest, covering
+       timber felling, honey and wax collection (mawali operations), fishing
+       within forest waterways, wildlife protection, settlement and
+       reclamation restrictions, and navigation.
+     Status: Partially in force. Sundarbans management in Bangladesh continues
+       under Forest Department with additional regulations under the
+       Environment Conservation Act and Wildlife Act.
+
+15.5 Grazing Rules in Reserved Forests (Bengal)
+     Year: 1927 onwards
+     Authority: GoB / Conservator of Forests
+     Description: Rules regulating grazing of cattle in reserved forests,
+       including permit procedures, grazing fees, seasonal restrictions,
+       and closed areas.
+     Status: In force (as adapted).
+
+15.6 Rules for Community Rights in Forests (Bengal)
+     Year: 1927 onwards
+     Authority: GoB / Forest Settlement Officer
+     Description: Rules for recognition and regulation of community rights
+       (customary rights of forest-dwelling communities) in reserved forests,
+       including rights to collect specified produce, passage, and water.
+     Status: In force (as adapted).
+
+15.7 Bengal Private Forests Rules, 1946
+     Year: 1946
+     Authority: Government of Bengal
+     Description: Rules under the Bengal Private Forests Act, 1946 (Bengal
+       Act XVIII of 1946) governing regulation and control of private forests.
+       Covers:
+       - Registration of private forests
+       - Restrictions on felling
+       - Reforestation obligations
+       - Government control over private forest management
+       - Penalties for unauthorized felling
+     Status: Bengal Private Forests Act applicable in Bangladesh. Rules
+       continued in adapted form.
+
+================================================================================
+16. CHILD MARRIAGE RESTRAINT ACT, 1929 (Act XIX of 1929 -- "Sarda Act")
+    -- RULES
+================================================================================
+
+16.1 Child Marriage Restraint Rules (Bengal)
+     Year: 1930 (when Act came into force)
+     Authority: Government of Bengal
+     Description: Rules for implementation of the Act in Bengal. Covers:
+       - Procedure for complaints
+       - Powers of courts to issue injunctions
+       - Procedure for investigation
+       - Maintenance of records of child marriages reported
+       - Appointment of Child Marriage Prevention Officers (in later amendments)
+     Status: Act superseded by Child Marriage Restraint Act 2017 in Bangladesh.
+       Original 1929 Act and rules were in force until 2017.
+
+NOTE: The original 1929 Act had minimal rule-making provisions. Subordinate
+legislation was limited, as the Act was largely self-contained. The main
+subordinate instruments were notifications extending the Act's application
+and later rules appointing prevention officers.
+
+================================================================================
+17. SALE OF GOODS ACT, 1930 (Act III of 1930)
+    -- RULES
+================================================================================
+
+NOTE: The Sale of Goods Act 1930 is substantially a self-contained codifying
+statute with very limited rule-making provisions. Unlike most regulatory
+Acts, it does not extensively delegate rule-making power. The following
+subordinate instruments are known:
+
+17.1 Notifications under the Sale of Goods Act (Bengal)
+     Year: Various from 1930 onwards
+     Authority: GoB / GoI
+     Description: Notifications specifying matters such as recognized markets,
+       usages of trade in Bengal, and conditions applicable to specific
+       commodity sales.
+     Status: Act IN FORCE in Bangladesh (as adapted). Notifications of
+       limited continuing relevance.
+
+17.2 Rules of Practice in Sale of Goods Disputes (Bengal Courts)
+     Year: Incorporated within Bengal Civil Rules and Orders
+     Authority: High Court of Calcutta
+     Description: Not a separate instrument but procedural directions within
+       the Civil Rules and Orders governing suits arising from sale of goods
+       contracts.
+     Status: Covered under CPC rules framework.
+
+================================================================================
+18. INDIAN PARTNERSHIP ACT, 1932 (Act IX of 1932)
+    -- RULES
+================================================================================
+
+18.1 Bengal Partnership (Registration) Rules
+     Year: 1932 onwards
+     Authority: Government of Bengal / Registrar of Firms, Bengal
+     Description: Rules for registration of partnership firms in Bengal.
+       Covers:
+       - Application for registration (Form I)
+       - Particulars to be furnished (firm name, place of business, date of
+         joining, names and addresses of partners)
+       - Alterations in firm particulars (Form II)
+       - Notice of dissolution or change (Form III)
+       - Fees for registration and amendments
+       - Maintenance of register of firms
+       - Inspection and search procedures
+       - Certified copies
+     Status: IN FORCE in Bangladesh (as adapted). Partnership Act 1932
+       continues to be the primary partnership legislation.
+
+18.2 Forms under the Partnership Act (Bengal)
+     Year: 1932 onwards
+     Authority: GoB / Registrar of Firms
+     Description: Prescribed forms for registration applications, amendments,
+       notices of dissolution, and certifications.
+     Status: In force (as adapted); forms revised periodically.
+
+================================================================================
+19. GOVERNMENT OF INDIA ACT, 1935 (25 & 26 Geo. V, c. 42)
+    -- ALL RULES AND ORDERS
+================================================================================
+
+19.1 Government of India (Provincial Legislatures) Rules, 1936
+     Year: 1936
+     Authority: Governor-General / Crown
+     Description: Rules governing the constitution and functioning of
+       provincial legislatures under the 1935 Act, including the Bengal
+       Legislative Assembly and Bengal Legislative Council.
+     Status: Historical; superseded by independence constitutions.
+
+19.2 Bengal Legislative Assembly Rules of Procedure
+     Year: 1937
+     Authority: Governor of Bengal
+     Description: Rules of procedure and conduct of business in the Bengal
+       Legislative Assembly, covering questions, motions, bills, budget
+       procedure, committees, and privileges.
+     Status: Historical; influenced subsequent parliamentary rules of procedure.
+
+19.3 Bengal Legislative Council Rules of Procedure
+     Year: 1937
+     Authority: Governor of Bengal
+     Description: Rules of procedure for the upper house of Bengal legislature.
+     Status: Historical.
+
+19.4 Electoral Rules under the Government of India Act, 1935 (Bengal)
+     Year: 1936-1937
+     Authority: GoI / GoB
+     Description: Comprehensive electoral rules for Bengal covering
+       delimitation of constituencies, preparation of electoral rolls,
+       nomination procedures, polling, counting, election petitions, and
+       corrupt practices. Included separate electorates provisions.
+     Status: Historical; superseded.
+
+19.5 Bengal Civil Services (Classification, Control, and Appeal) Rules
+     Year: 1937 onwards
+     Authority: Governor of Bengal
+     Description: Comprehensive rules classifying Bengal civil services and
+       governing appointment, promotion, discipline, and appeal procedures.
+       Covers:
+       - Classification of services into classes (I, II, III, IV)
+       - Conditions of service
+       - Disciplinary proceedings (show cause, inquiry, penalties)
+       - Appeal and review procedures
+       - Temporary service rules
+     Status: Framework substantially continued in Bangladesh civil service
+       rules through East Pakistan adaptation and subsequent amendment.
+
+19.6 Bengal Government Servants' Conduct Rules
+     Year: 1937 onwards (based on Central Government Servants' Conduct Rules)
+     Authority: Governor of Bengal
+     Description: Rules prescribing standards of conduct for Bengal provincial
+       government servants, including restrictions on political activity,
+       outside employment, acceptance of gifts, property transactions,
+       and private trade.
+     Status: Framework continued. Government Servants (Conduct) Rules adapted
+       for Bangladesh.
+
+19.7 Bengal Service Rules (Leave Rules)
+     Year: 1937 onwards
+     Authority: GoB
+     Description: Rules governing all categories of leave available to
+       Bengal government servants: earned leave, half-pay leave, commuted
+       leave, leave not due, extraordinary leave, special disability leave,
+       study leave, and maternity leave.
+     Status: Framework substantially adapted and continued.
+
+19.8 Bengal Service Rules (Pay and Allowances)
+     Year: 1937 onwards
+     Authority: GoB / Finance Department
+     Description: Rules governing pay scales, pay fixation, increments,
+       dearness allowance, house rent allowance, and other emoluments for
+       Bengal government servants.
+     Status: Framework adapted; pay structures revised post-independence.
+
+19.9 Bengal Service Rules (Pension Rules)
+     Year: 1937 onwards
+     Authority: GoB / Finance Department
+     Description: Rules governing superannuation pension, retiring pension,
+       invalid pension, compassionate allowance, family pension, gratuity,
+       and commutation of pension for Bengal government servants.
+     Status: Framework adapted and continued in Bangladesh.
+
+19.10 Bengal Treasury Rules
+      Year: 1937 onwards (based on Central Treasury Rules)
+      Authority: GoB / Finance Department
+      Description: Comprehensive rules governing Bengal provincial treasury
+        operations, including receipt and disbursement of government money,
+        treasury procedures, bank transactions, bills and vouchers, and
+        accounting procedures.
+      Status: Framework substantially continued in Bangladesh treasury
+        administration.
+
+19.11 Bengal Financial Rules
+      Year: 1937 onwards (adaptation of Central Financial Rules)
+      Authority: GoB / Finance Department
+      Description: Rules governing provincial government expenditure, including
+        powers of sanction, delegation of financial powers, contingent
+        expenditure, grants-in-aid, and advances.
+      Status: Framework adapted and continued.
+
+19.12 Bengal Budget Manual
+      Year: 1937 onwards
+      Authority: GoB / Finance Department
+      Description: Detailed instructions for preparation, presentation, and
+        execution of the Bengal provincial budget.
+      Status: Framework influenced Bangladesh budget procedures.
+
+19.13 Bengal Ministerial Service Rules
+      Year: 1937 onwards
+      Authority: GoB
+      Description: Rules for recruitment, appointment, promotion, and service
+        conditions of ministerial (clerical) staff in Bengal government offices.
+      Status: Framework adapted.
+
+19.14 Bengal Subordinate Civil Service Rules
+      Year: 1937 onwards
+      Authority: GoB
+      Description: Rules for recruitment and service conditions of subordinate
+        civil service officers in Bengal.
+      Status: Framework adapted.
+
+19.15 Bengal Judicial Service Rules
+      Year: 1937 onwards
+      Authority: Governor of Bengal / HC
+      Description: Rules governing recruitment, appointment, promotion,
+        transfer, and discipline of judicial officers (Munsifs, Subordinate
+        Judges, District Judges) in Bengal.
+      Status: Framework adapted for Bangladesh judicial service.
+
+19.16 Bengal Police Service Rules
+      Year: 1937 onwards
+      Authority: Governor of Bengal
+      Description: Rules for recruitment, training, promotion, discipline,
+        and service conditions of police officers in Bengal.
+      Status: Framework adapted for Bangladesh police service.
+
+19.17 Governor's Rules of Business (Bengal), 1937
+      Year: 1937
+      Authority: Governor of Bengal
+      Description: Rules for allocation of government business among
+        departments, procedure for submission of cases to Governor,
+        and inter-departmental consultation procedures.
+      Status: Historical; influenced Rules of Business in Bangladesh.
+
+19.18 Bengal Secretariat Instructions
+      Year: 1937 onwards
+      Authority: GoB / Chief Secretary
+      Description: Detailed instructions for secretariat procedure, including
+        noting, drafting, file movement, docketing, indexing, and
+        correspondence standards.
+      Status: Framework influenced Bangladesh secretariat procedures.
+
+19.19 Emergency Powers Rules and Orders (Bengal, under 1935 Act)
+      Year: Various (1937-1947)
+      Authority: Governor of Bengal / GoI
+      Description: Orders issued under emergency provisions of the 1935 Act,
+        including Section 93 (Governor's Rule) orders applied to Bengal.
+      Status: Historical.
+
+19.20 Bengal Travelling Allowance Rules
+      Year: 1937 onwards
+      Authority: GoB
+      Description: Rules governing travel and daily allowances, transfer
+        grants, and joining time for Bengal government servants.
+      Status: Framework adapted for Bangladesh.
+
+================================================================================
+20. AGRICULTURAL DEBTORS ACT, 1935 (Bengal Act VII of 1936)
+    -- RULES
+================================================================================
+
+20.1 Bengal Agricultural Debtors Rules, 1936
+     Year: 1936
+     Authority: Government of Bengal
+     Description: Rules for implementation of the Act providing relief to
+       indebted agriculturists. Covers:
+       - Constitution of Debt Settlement Boards (District and Union)
+       - Application procedure for debt settlement
+       - Investigation of debts
+       - Determination of assets and liabilities of debtors
+       - Preparation and approval of settlement schemes
+       - Powers and procedures of Settlement Boards
+       - Scaling down of debts
+       - Protection of debtors from attachment
+       - Prescribed forms
+     Status: Largely historical; agricultural debt relief framework evolved
+       significantly post-independence.
+
+20.2 Forms under the Bengal Agricultural Debtors Act
+     Year: 1936
+     Authority: GoB
+     Description: Prescribed forms for debt settlement applications, notices,
+       schedules of debts and assets, and settlement certificates.
+     Status: Historical.
+
+================================================================================
+21. PAYMENT OF WAGES ACT, 1936 (Act IV of 1936)
+    -- RULES
+================================================================================
+
+21.1 Bengal Payment of Wages Rules, 1937
+     Year: 1937
+     Authority: Government of Bengal (Labour Department)
+     Description: Rules for implementation of the Act in Bengal. Covers:
+       - Time and mode of payment of wages
+       - Permissible deductions from wages (fines, damage, accommodation,
+         amenities, advances, income tax, provident fund)
+       - Maintenance of wage registers
+       - Procedure for claims before the authority appointed under the Act
+       - Nomination by workers for unpaid wages
+       - Display of notices of wages and wage periods
+       - Maintenance of records and returns
+       - Inspection procedures
+       - Prescribed forms (Forms I through IX)
+     Status: IN FORCE in Bangladesh (as adapted). Payment of Wages Act 1936
+       continued until consolidated into Labour Act 2006.
+
+21.2 Notifications extending the Payment of Wages Act to additional
+     establishments (Bengal)
+     Year: Various from 1937 onwards
+     Authority: GoB
+     Description: Notifications extending application of the Act to classes
+       of establishments beyond the original coverage (initially factories
+       and railways, later extended to plantations, workshops, etc.).
+     Status: Framework continued.
+
+21.3 Rules for Claims under the Payment of Wages Act (Bengal)
+     Year: 1937 onwards
+     Authority: GoB
+     Description: Rules governing filing and hearing of claims for delayed
+       or deducted wages before the authority (District Magistrate or
+       designated officer).
+     Status: Framework continued until Labour Act 2006.
+
+================================================================================
+22. MOTOR VEHICLES ACT, 1939 (Act IV of 1939)
+    -- MOTOR VEHICLES RULES
+================================================================================
+
+22.1 Bengal Motor Vehicles Rules, 1940
+     Year: 1940 (effective from commencement of the 1939 Act)
+     Authority: Government of Bengal (Transport Department)
+     Description: Comprehensive rules for motor vehicle regulation in Bengal.
+       Covers:
+       - Driving licenses (learner's, permanent; categories; tests;
+         disqualification; renewal)
+       - Vehicle registration (procedures, marks, transfer, alteration)
+       - Construction, equipment, and maintenance standards
+       - Motor vehicle insurance (third-party liability)
+       - Control of transport (stage carriages, contract carriages, public
+         carriers; route permits; Regional and Provincial Transport Authorities)
+       - Speed limits and traffic regulation
+       - Fitness certificates
+       - Records and returns
+       - Offences and penalties
+       - Prescribed forms (over 50 forms)
+     Status: Motor Vehicles Act 1939 was operative in Bangladesh until Motor
+       Vehicles Ordinance 1983. Bengal MV Rules formed the foundation of
+       motor vehicle administration in the territory.
+
+22.2 Bengal Motor Vehicle Taxation Rules (related)
+     Year: 1940 onwards
+     Authority: GoB
+     Description: Rules under the Bengal Motor Vehicles Tax Act, 1932 and
+       related fiscal legislation for taxation of motor vehicles in Bengal.
+     Status: Historical; superseded by subsequent motor vehicle taxation.
+
+22.3 Rules for Regional Transport Authority (Bengal)
+     Year: 1940 onwards
+     Authority: GoB
+     Description: Rules for constitution, powers, and procedures of Regional
+       Transport Authorities in Bengal for granting route permits.
+     Status: Framework adapted under Motor Vehicles Ordinance 1983.
+
+22.4 Bengal Motor Vehicles (Insurance) Rules
+     Year: 1940 onwards
+     Authority: GoB
+     Description: Rules for compulsory third-party insurance coverage,
+       requirements for policies, and claims procedures.
+     Status: Framework continued.
+
+22.5 Road Traffic Signs and Signals Rules (Bengal)
+     Year: 1940 onwards
+     Authority: GoB
+     Description: Rules prescribing standard road signs, signals, and
+       road markings for Bengal.
+     Status: Historical; superseded by modern traffic sign standards.
+
+================================================================================
+23. DISSOLUTION OF MUSLIM MARRIAGES ACT, 1939 (Act VIII of 1939)
+    -- RULES
+================================================================================
+
+NOTE: The Dissolution of Muslim Marriages Act 1939 is a relatively compact,
+self-contained statute that does not extensively delegate rule-making power.
+Subordinate legislation is limited:
+
+23.1 Procedural Rules/Notifications for Courts (Bengal)
+     Year: 1939 onwards
+     Authority: High Court of Calcutta / GoB
+     Description: Practice directions and notifications for courts hearing
+       dissolution petitions under the Act, including service of notice on
+       absent husbands (Section 3), verification requirements, and
+       jurisdictional notifications.
+     Status: Act IN FORCE in Bangladesh. Practice covered within general
+       civil court rules framework.
+
+23.2 Forms for Dissolution Petitions (Bengal)
+     Year: 1939 onwards
+     Authority: HC
+     Description: Prescribed forms for petitions for dissolution of Muslim
+       marriages on grounds specified in the Act (cruelty, desertion,
+       failure to maintain, imprisonment, impotence, insanity, etc.).
+     Status: Covered within Civil Rules and Orders framework.
+
+================================================================================
+24. BENGAL MUNICIPAL ACT (Bengal Act III of 1884; Bengal Act XV of 1932)
+    -- MUNICIPAL RULES, BY-LAWS FOR DHAKA, CHITTAGONG
+================================================================================
+
+24.1 Bengal Municipal Rules (General)
+     Year: 1884 onwards; comprehensively revised under the 1932 Act
+     Authority: Government of Bengal (Local Self-Government Department)
+     Description: General rules governing all municipalities in Bengal.
+       Covers:
+       - Constitution and administration of municipalities
+       - Powers and duties of Municipal Commissioners
+       - Municipal taxation (holding tax, water rate, lighting rate,
+         conservancy rate)
+       - Financial management, budgets, and audit
+       - Personnel management
+     Status: Bengal Municipal Act 1932 was applicable until replaced by
+       successive municipal legislation. Historical significance.
+
+24.2 Bengal Municipal Election Rules
+     Year: 1884 onwards; revised 1932
+     Authority: GoB
+     Description: Rules for election of Municipal Commissioners, electoral
+       rolls, franchise qualifications, nomination, polling, and election
+       disputes.
+     Status: Historical; superseded.
+
+24.3 Bengal Municipal Building Rules
+     Year: 1884 onwards; revised 1932
+     Authority: GoB / Municipal authorities
+     Description: Rules governing building construction within municipal
+       areas, including building plans approval, setbacks, height restrictions,
+       structural safety, ventilation, and drainage requirements.
+     Status: Framework continued in modified form under subsequent building
+       construction legislation.
+
+24.4 Bengal Municipal Water Supply Rules
+     Year: 1884 onwards; revised 1932
+     Authority: GoB / Municipal authorities
+     Description: Rules for municipal water supply systems, water quality,
+       connections, rates, and conservation.
+     Status: Historical; water supply now under separate authorities.
+
+24.5 Bengal Municipal Drainage and Sanitation By-Laws
+     Year: 1884 onwards; revised 1932
+     Authority: GoB / Municipal authorities
+     Description: By-laws governing drainage, sewerage, conservancy, refuse
+       collection, and public sanitation within municipal areas.
+     Status: Historical; sanitation now under separate framework.
+
+24.6 Bengal Municipal Taxation Rules
+     Year: 1884 onwards; revised 1932
+     Authority: GoB / Municipal authorities
+     Description: Rules for assessment and collection of municipal taxes
+       including holding tax, conservancy tax, and other rates.
+     Status: Historical; municipal taxation now under modern municipal Acts.
+
+24.7 Municipal Market Regulation By-Laws (Bengal)
+     Year: Various
+     Authority: Municipal Commissioners
+     Description: By-laws for regulation of municipal markets, licensing of
+       stalls, food handling standards, and market fees.
+     Status: Historical.
+
+24.8 Bengal Municipal Accounts Rules
+     Year: 1884 onwards; revised 1932
+     Authority: GoB
+     Description: Rules for maintenance of municipal accounts, financial
+       statements, and audit procedures.
+     Status: Historical.
+
+24.9 Dhaka Municipal By-Laws
+     Year: Various from 1864 onwards (Dhaka Municipality established 1864)
+     Authority: Dhaka Municipal Commissioners / GoB
+     Description: Specific by-laws for the administration of Dhaka Municipality
+       covering:
+       - Building construction and demolition regulations
+       - Street regulations and encroachment prevention
+       - Sanitation and conservancy
+       - Water supply and drainage
+       - Market regulation
+       - Licensing of trades and professions
+       - Public health and nuisance prevention
+       - Vehicle regulation within municipal limits
+       - Municipal taxation (rates and assessments)
+     Status: Historical. Dhaka municipality governance evolved through Dhaka
+       Municipal Corporation Ordinance and subsequent legislation. Foundational
+       significance for Dhaka city governance.
+
+24.10 Chittagong Municipal By-Laws
+      Year: Various from 1863 onwards (Chittagong Municipality established 1863)
+      Authority: Chittagong Municipal Commissioners / GoB
+      Description: Specific by-laws for Chittagong Municipality covering:
+        - Building and construction regulations
+        - Port-area sanitation
+        - Market regulation
+        - Road and drainage maintenance
+        - Public health measures
+        - Municipal taxation
+      Status: Historical. Superseded by Chittagong City Corporation legislation.
+
+24.11 By-Laws of Other Bengal Municipalities (relevant to present-day Bangladesh)
+      Year: Various
+      Authority: Respective Municipal Commissioners / GoB
+      Description: Individual by-laws for municipalities in Mymensingh,
+        Rajshahi, Khulna, Barisal, Sylhet, Comilla, Rangpur, Dinajpur,
+        Bogra, Pabna, Jessore, Faridpur, Noakhali, and other towns in
+        present-day Bangladesh territory.
+      Status: Historical; all superseded by subsequent municipal legislation.
+
+================================================================================
+25. BENGAL FINANCE (SALES TAX) ACT, 1941 (Bengal Act XIX of 1941)
+    -- SALES TAX RULES
+================================================================================
+
+25.1 Bengal Sales Tax Rules, 1941
+     Year: 1941
+     Authority: Government of Bengal (Finance / Revenue Department)
+     Description: Comprehensive rules for implementation of sales tax in
+       Bengal. Covers:
+       - Registration of dealers (application, registration certificate,
+         amendment, cancellation)
+       - Returns and assessment of tax
+       - Collection and payment of tax
+       - Maintenance of accounts and records by dealers
+       - Inspection and audit of dealers' premises and records
+       - Appeals against assessment
+       - Refund of tax
+       - Prescribed forms (registration, returns, assessment, notice,
+         demand, appeal)
+       - Exemptions (notifications specifying exempt goods)
+     Status: Historical. Sales tax replaced by Value Added Tax (VAT) system
+       in Bangladesh (VAT Act 1991, replaced by VAT and Supplementary Duty
+       Act 2012).
+
+25.2 Notifications specifying taxable and exempt goods (Bengal Sales Tax)
+     Year: Various from 1941 onwards
+     Authority: GoB
+     Description: Notifications specifying goods subject to sales tax and
+       goods exempted from tax, with applicable rates.
+     Status: Historical; superseded by VAT legislation.
+
+25.3 Bengal Sales Tax (Appeals) Rules
+     Year: 1941 onwards
+     Authority: GoB
+     Description: Rules governing appeals against assessment orders, including
+       time limits, procedures, and appellate authorities.
+     Status: Historical.
+
+================================================================================
+26. BENGAL MATERNITY BENEFIT ACT, 1939 (Bengal Act IV of 1939)
+    -- RULES
+================================================================================
+
+26.1 Bengal Maternity Benefit Rules, 1941
+     Year: 1941
+     Authority: Government of Bengal (Labour Department)
+     Description: Rules for implementation of the Maternity Benefit Act in
+       Bengal. Covers:
+       - Notice requirements (worker's notice to employer; employer's notice
+         to Inspector)
+       - Procedure for claiming maternity benefit
+       - Calculation of benefit amount (based on wages)
+       - Period of benefit (before and after delivery)
+       - Medical bonus provisions
+       - Prohibition of dismissal during maternity leave
+       - Maintenance of records by employers
+       - Inspection and enforcement procedures
+       - Appeals against denial of benefit
+       - Prescribed forms
+     Status: Framework continued in Bangladesh. Maternity benefit provisions
+       now consolidated in Labour Act 2006.
+
+26.2 Notifications extending the Bengal Maternity Benefit Act
+     Year: Various from 1941 onwards
+     Authority: GoB
+     Description: Notifications extending application of the Act to additional
+       classes of establishments and workers.
+     Status: Framework continued through successive legislation.
+
+================================================================================
+27. FOREIGNERS ACT, 1946 (Act XXXI of 1946)
+    -- RULES
+================================================================================
+
+27.1 Registration of Foreigners Rules, 1939
+     Year: 1939 (originally under Registration of Foreigners Act, 1939;
+       continued under Foreigners Act, 1946)
+     Authority: Government of India / Governor-General
+     Description: Rules requiring registration of foreigners in British India.
+       Covers:
+       - Registration requirements on arrival
+       - Reporting to Registration Officer (District Magistrate or
+         designated officer)
+       - Particulars to be furnished (name, nationality, passport details,
+         purpose, address, duration of stay)
+       - Reporting of change of address
+       - Departure registration
+       - Exemptions (diplomats, transit passengers, etc.)
+     Status: IN FORCE in Bangladesh (as adapted). Registration of Foreigners
+       Act 1939 and these rules continue to apply.
+
+27.2 Foreigners Order, 1948
+     Year: 1948 (post-partition adaptation but derived from pre-1947 framework)
+     Authority: Government of Pakistan / adapted for Bangladesh
+     Description: Order made under the Foreigners Act 1946 governing entry,
+       residence, and movement of foreigners. Covers:
+       - Visa requirements
+       - Conditions of stay
+       - Restrictions on employment
+       - Movement restrictions
+       - Departure requirements
+       - Powers of the government to make orders regarding foreigners
+     Status: IN FORCE in Bangladesh (as adapted). Primary instrument governing
+       foreign nationals in Bangladesh alongside the parent Act.
+
+27.3 Rules regarding Exemptions for Certain Classes of Foreigners
+     Year: 1946 onwards
+     Authority: GoI / GoB
+     Description: Notifications exempting certain categories (diplomatic
+       personnel, transit passengers, military personnel under agreement)
+       from registration or restriction requirements.
+     Status: Framework continued; updated by subsequent notifications.
+
+27.4 Foreigners (Internment) Order
+     Year: 1946 onwards
+     Authority: GoI
+     Description: Order providing for internment of enemy aliens and
+       undesirable foreigners.
+     Status: Historical; wartime provision. Framework continued.
+
+================================================================================
+28. INDUSTRIAL DISPUTES ACT, 1947 (Act XIV of 1947)
+    -- RULES
+================================================================================
+
+28.1 Bengal Industrial Disputes Rules, 1947
+     Year: 1947 (promulgated simultaneously with or shortly after the Act)
+     Authority: Government of Bengal (Labour Department)
+     Description: Comprehensive rules for implementation of the Industrial
+       Disputes Act in Bengal. Covers:
+       - Works Committees (constitution, procedure, meetings)
+       - Conciliation proceedings (appointment of conciliation officers,
+         procedure, time limits, reports)
+       - Boards of Conciliation (constitution, procedure)
+       - Courts of Inquiry (constitution, procedure)
+       - Industrial Tribunals (constitution, procedure, reference by
+         government, powers, awards)
+       - Notice of strikes and lockouts in public utility services
+       - Procedure for filing and hearing of disputes
+       - Conditions of service change notification requirements
+       - Recovery of money due under awards
+       - Prescribed forms
+     Status: IN FORCE in Bangladesh (as adapted). Industrial Disputes Act
+       1947 was adapted and continued as a major labour law. Provisions now
+       substantially consolidated in Labour Act 2006, but the Industrial
+       Relations Ordinance 1969 (which replaced the Act for Pakistan/Bangladesh)
+       drew heavily from this framework.
+
+28.2 Notifications declaring "Public Utility Services" (Bengal)
+     Year: 1947 onwards
+     Authority: GoB / GoI
+     Description: Notifications declaring specific industries and services as
+       "public utility services" under the First Schedule, triggering special
+       strike/lockout notice requirements.
+     Status: Framework continued; list expanded over time.
+
+28.3 Rules for Works Committees (Bengal)
+     Year: 1947 onwards
+     Authority: GoB
+     Description: Rules for establishment and functioning of works committees
+       in industrial establishments, covering composition, election of worker
+       representatives, meetings, agenda, and recommendations.
+     Status: Framework continued.
+
+28.4 Rules for Conciliation and Adjudication (Bengal)
+     Year: 1947 onwards
+     Authority: GoB
+     Description: Detailed procedural rules for conciliation proceedings
+       and adjudication by industrial tribunals, including evidence,
+       representation, and enforcement of awards.
+     Status: Framework continued.
+
+================================================================================
+ADDITIONAL SUBORDINATE LEGISLATION NOTES
+================================================================================
+
+The following additional subordinate instruments, though not listed as separate
+items under the 28 parent Acts above, are cross-referenced and relevant:
+
+A.  HIGH COURT RULES relating to multiple parent Acts:
+    The High Court of Calcutta issued comprehensive rules and circular orders
+    that applied across multiple parent statutes. The Appellate Side Rules,
+    Original Side Rules, and Practice Directions constituted a major body of
+    subordinate legislation governing court procedure.
+
+B.  GOVERNMENT OF INDIA ACT 1935 -- ADAPTATION ORDERS:
+    The India (Provisional Constitution) Order, 1947 and subsequent adaptation
+    orders under the Indian Independence Act, 1947 formally continued these
+    subordinate legislations in the successor states. For East Bengal/East
+    Pakistan, the "Adaptation of Laws Order, 1947" and "Adaptation of Central
+    Acts and Ordinances Order, 1949" were the key instruments.
+
+C.  BENGAL GAZETTE NOTIFICATIONS:
+    Thousands of individual notifications were published in the Bengal Gazette
+    during 1900-1947, many of which constitute subordinate legislation
+    (declaring applicability of Acts to specific areas, specifying exemptions,
+    fixing rates, appointing authorities, etc.). A complete enumeration would
+    require systematic review of all Bengal Gazette volumes for this period.
+
+================================================================================
+SUMMARY STATISTICS
+================================================================================
+
+Parent Acts Covered:                      28
+Total Discrete Subordinate Instruments
+  Identified (numbered entries):          ~140
+Estimated Additional Notifications
+  and Orders (unnumbered):                Several hundred
+
+STATUS DISTRIBUTION (of numbered entries):
+  Active in Bangladesh (as adapted):      ~40%
+  Framework continued / Partially active: ~25%
+  Historical / Superseded:                ~30%
+  Repealed:                               ~5%
+
+================================================================================
+SOURCES AND VERIFICATION NOTES
+================================================================================
+
+This compilation is based on:
+1. Existing SD-1 Package research files
+2. Published compilations of Bengal Acts and Rules
+3. Historical legislative databases
+4. Legal scholarship on British Indian law applicable to Bangladesh
+
+VERIFICATION REQUIRED:
+- Precise gazette notification numbers and dates should be verified against
+  original Bengal Gazette volumes at the National Archives of Bangladesh
+- Current status of each instrument should be confirmed against
+  bdlaws.minlaw.gov.bd and the Bangladesh Code
+- Some instruments may have been repealed or amended by post-1947 legislation
+  not captured in this compilation
+
+================================================================================
+                          END OF COMPILATION
+================================================================================
+
+Compiled for: The Legal Empire | www.thelegalempire.org
+Package: SD-1 -- Code of Delegated/Subordinate Legislation of Bangladesh
+================================================================================

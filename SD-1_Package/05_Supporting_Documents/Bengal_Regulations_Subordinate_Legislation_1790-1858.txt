@@ -1,0 +1,1044 @@
+================================================================================
+COMPREHENSIVE LIST OF RULES, REGULATIONS, ORDERS, NOTIFICATIONS, AND BY-LAWS
+MADE UNDER BENGAL REGULATIONS AND EARLY LEGISLATION (1790-1858)
+APPLICABLE TO THE TERRITORY OF PRESENT-DAY BANGLADESH
+================================================================================
+
+Compiled: 15 March 2026
+Research Note: This compilation draws on the India Code (indiacode.nic.in),
+Laws of Bangladesh (bdlaws.minlaw.gov.bd), Banglapedia, the Laws Local Extent
+Act 1874 (Fourth & Fifth Schedules), Clarke's "Regulations of the Government
+of Fort William in Bengal" (1854), the Analytical Survey of Bengal Regulations,
+and other historical legal archives.
+
+================================================================================
+PART I: THE CORNWALLIS CODE - BENGAL REGULATIONS OF 1793
+(48 Regulations promulgated 1 May 1793)
+================================================================================
+
+The Cornwallis Code comprised 48 regulations spanning 387 printed pages,
+covering judicial organization, revenue administration, police functions,
+and civil service conduct. These formed the foundation of British administration
+in Bengal, Bihar, and Orissa.
+
+--------------------------------------------------------------------------------
+A. REVENUE AND LAND SETTLEMENT REGULATIONS (1793)
+--------------------------------------------------------------------------------
+
+1. Bengal Regulation I of 1793
+   Short Title: The Bengal Permanent Settlement Regulation, 1793
+   Year: 1793 (1 May)
+   Description: Enacted the articles of the Proclamation relative to the
+   limitation of the public demand upon lands; declared the Permanent
+   Settlement with zamindars, independent talukdars and other proprietors
+   of land in Bengal, Bihar and Orissa.
+   Status: Mostly REPEALED in India (various repealing acts); provisions
+   relating to Permanent Settlement were effectively superseded by
+   post-independence land reform legislation in Bangladesh (State
+   Acquisition and Tenancy Act, 1950).
+
+2. Bengal Regulation II of 1793
+   Short Title: The Bengal Land-Revenue Regulation, 1793
+   Year: 1793 (1 May)
+   Description: Rules for the collection of land-revenue from zamindars and
+   other landholders; established procedures for revenue collection.
+   Status: Largely REPEALED / SUPERSEDED by subsequent revenue legislation.
+
+3. Bengal Regulation VIII of 1793
+   Short Title: The Bengal Decennial Settlement Regulation, 1793
+   Year: 1793 (1 May)
+   Description: Re-enacted with modifications the rules for the Decennial
+   Settlement of public revenue payable from lands, originally passed for
+   Bengal (18 Sept 1789), Bihar (25 Nov 1789), and Orissa (10 Feb 1790).
+   Status: REPEALED in India; superseded in Bangladesh by subsequent
+   land reform legislation.
+
+4. Bengal Regulation X of 1793
+   Short Title: Bengal Revenue-Free Lands (Badshahi Grants) Regulation, 1793
+   Year: 1793 (1 May)
+   Description: Rules regarding lands held revenue-free under Badshahi
+   (Imperial/Mughal) grants; established procedures for verification
+   and continuation of such grants.
+   Status: Partially IN FORCE in some jurisdictions; largely superseded.
+
+5. Bengal Regulation XIX of 1793
+   Short Title: Bengal Revenue-Free Lands (Non-Badshahi Grants) Regulation, 1793
+   Year: 1793 (1 May)
+   Description: Rules regarding title to lands exempt from revenue other
+   than Badshahi grants; established procedure for resumption proceedings.
+   Status: Partially IN FORCE; largely superseded.
+
+6. Bengal Regulation XI of 1793
+   Short Title: The Bengal Inheritance Regulation, 1793
+   Year: 1793 (1 May)
+   Gazette: N/A (pre-Gazette era)
+   Description: Removed restrictions on the operation of Hindu and
+   Muhammadan laws regarding inheritance of revenue-paying landed
+   property; declared native laws of inheritance applicable.
+   Status: IN FORCE in Bangladesh (bdlaws reference); partially
+   in force in Indian states.
+
+   Subordinate Rules/Orders Known:
+   - No specific subordinate rules identified; the Regulation itself
+     directed courts to apply Hindu and Muhammadan personal law in
+     matters of inheritance.
+
+7. Bengal Regulation XIV of 1793
+   Short Title: Revenue Sale Law (part), 1793
+   Year: 1793
+   Description: Rules for sale of defaulting zamindars' estates for
+   arrears of revenue; established auction procedures.
+   Status: REPEALED; superseded by Bengal Regulation VII of 1799 and
+   subsequent revenue sale laws.
+
+8. Bengal Regulation XVI of 1793
+   Year: 1793
+   Description: Provided for reference by courts to arbitration with
+   consent of parties in suits for accounts, partnership debts, and
+   breach of contract.
+   Status: REPEALED by subsequent civil procedure legislation.
+
+9. Bengal Regulation XXXVII of 1793
+   Year: 1793
+   Description: Land ownership records and registration of changes in
+   land title.
+   Status: REPEALED / SUPERSEDED.
+
+10. Bengal Regulation XLVIII of 1793
+    Year: 1793
+    Description: Listed in the Fourth Schedule of the Laws Local Extent
+    Act, 1874; specific subject not identified in available sources.
+    Status: REPEALED by Act 12 of 1891.
+
+--------------------------------------------------------------------------------
+B. JUDICIAL AND CIVIL COURT REGULATIONS (1793)
+--------------------------------------------------------------------------------
+
+11. Bengal Regulation III of 1793
+    Year: 1793
+    Description: Reorganized the working of civil courts (Diwani Adalats);
+    established Mofussil Diwani Adalat in each district with a civil
+    servant as Judge in place of Collector.
+    Status: REPEALED by subsequent judiciary acts.
+
+12. Bengal Regulation IV of 1793
+    Year: 1793
+    Description: Establishment of Provincial Courts of Appeal at Dhaka,
+    Calcutta, Murshidabad, and Patna for civil cases.
+    Status: REPEALED by subsequent judiciary acts.
+
+13. Bengal Regulation V of 1793
+    Year: 1793
+    Description: Further provisions regarding Provincial Courts of Appeal;
+    establishment of appellate jurisdiction.
+    Status: REPEALED.
+
+14. Bengal Regulation VI of 1793
+    Year: 1793
+    Description: Constitution of the Sadar Diwani Adalat (chief civil
+    appellate court) at the Presidency.
+    Status: REPEALED (altered by Regulation II of 1801 and subsequently
+    replaced by High Court).
+
+15. Bengal Regulation VII of 1793
+    Year: 1793
+    Description: Created a regular legal profession for the Company's
+    Courts; provided for the appointment of vakils (native pleaders)
+    in the Courts of Civil Judicature.
+    Status: REPEALED; superseded by Bengal Regulation XXVII of 1814
+    and later Legal Practitioners Acts.
+
+    Subordinate Orders:
+    - Rules for admission and conduct of vakils were prescribed under
+      this regulation by the Sadar Diwani Adalat.
+
+--------------------------------------------------------------------------------
+C. CRIMINAL COURTS AND POLICE REGULATIONS (1793)
+--------------------------------------------------------------------------------
+
+16. Bengal Regulation IX of 1793
+    Year: 1793
+    Description: Consolidated regulations regarding criminal courts
+    (Nizamat Adalats); established the Sadar Nizamat Adalat and
+    circuit courts.
+    Status: REPEALED by subsequent criminal procedure legislation.
+
+17. Bengal Regulation XXII of 1793
+    Year: 1793
+    Description: Police reform regulations; division of districts into
+    thanas, appointment of darogahs under district magistrates;
+    abolished zamindari police system.
+    Status: REPEALED; superseded by Police Act, 1861.
+
+    Subordinate Orders:
+    - Standing orders for thana darogahs regarding arrest procedures
+    - Instructions for sipahi deployment under darogahs
+    - Reporting requirements to district magistrates
+
+18. Bengal Regulation XXVIII of 1793
+    Year: 1793
+    Description: Declared equality before law; enabled natives to file
+    cases against Company officials and against the government itself.
+    Status: REPEALED; principles incorporated into subsequent legislation.
+
+--------------------------------------------------------------------------------
+D. OTHER REGULATIONS OF 1793
+--------------------------------------------------------------------------------
+
+19-48. [Additional Regulations]
+    The remaining regulations of 1793 covered matters including:
+    - Regulation of stamp duties
+    - Revenue collection procedures
+    - Court fees
+    - Prohibition of loans by covenanted servants
+    - Maintenance of public roads and bridges
+    - Rules for collectors
+    - Administration of Hindu and Muhammadan personal law
+    - Appointment of ameens (native commissioners)
+    - Rules for execution of decrees
+    - Registration of deeds and documents
+    - Management of wards and minors
+    - Salt and opium department regulations
+
+    Status: Most REPEALED by various acts between 1837 and 1922.
+
+================================================================================
+PART II: POST-CORNWALLIS BENGAL REGULATIONS (1794-1834)
+================================================================================
+
+--------------------------------------------------------------------------------
+YEAR 1794
+--------------------------------------------------------------------------------
+
+49. Bengal Regulation III of 1794
+    Year: 1794
+    Description: Listed in the Fourth Schedule of the Laws Local Extent
+    Act, 1874; specific provisions regarding revenue administration.
+    Status: REPEALED.
+
+--------------------------------------------------------------------------------
+YEAR 1795
+--------------------------------------------------------------------------------
+
+50. Bengal Regulation LVIII of 1795 (Sections 3 and 4)
+    Year: 1795
+    Description: Referenced in the Fourth Schedule of the Laws Local
+    Extent Act, 1874.
+    Status: Sections 3 and 4 REPEALED by Act 12 of 1876.
+
+51. Bengal Regulation Acts of 1795
+    Year: 1795
+    Description: Together with Bengal Regulation Acts of 1804, declared
+    certain provisions regarding judicial matters.
+    Status: REPEALED.
+
+--------------------------------------------------------------------------------
+YEAR 1797
+--------------------------------------------------------------------------------
+
+52. Bengal Regulation XV of 1797
+    Year: 1797
+    Description: Listed in the Fourth Schedule; specific subject relates
+    to revenue or judicial administration.
+    Status: REPEALED.
+
+--------------------------------------------------------------------------------
+YEAR 1798
+--------------------------------------------------------------------------------
+
+53. Bengal Regulation I of 1798
+    Year: 1798
+    Description: Administrative regulation for Bengal Presidency.
+    Status: REPEALED.
+
+--------------------------------------------------------------------------------
+YEAR 1799
+--------------------------------------------------------------------------------
+
+54. Bengal Regulation V of 1799
+    Short Title: The Bengal Wills and Intestacy Regulation, 1799
+    Year: 1799
+    Description: Limited interference of Zila Courts of Diwani Adalat in
+    the execution of wills and administration of estates of persons
+    dying intestate; applied Muhammadan law for Muslim succession and
+    Hindu law for Hindu succession.
+    Status: IN FORCE in Bangladesh (bdlaws.minlaw.gov.bd/act-1315.html);
+    partially in force in Indian states.
+
+    Subordinate Rules/Orders:
+    - Directions to Zila Judges regarding handling of testamentary cases
+    - Instructions for administration of intestate estates
+
+55. Bengal Regulation VII of 1799
+    Short Title: Revenue Sale Law (Amendment), 1799
+    Year: 1799
+    Description: Amended the revenue sale system; replaced monthly
+    auctions of defaulting zamindars' property with annual auctions;
+    armed zamindars with powers over defaulting raiyats (commonly
+    known as "haftam" or "seventh").
+    Status: REPEALED by subsequent revenue sale laws.
+
+    Subordinate Orders:
+    - Revenue Board circulars on conduct of annual auction sales
+    - Instructions to Collectors regarding timing and procedure of sales
+
+--------------------------------------------------------------------------------
+YEAR 1800
+--------------------------------------------------------------------------------
+
+56. Bengal Regulation VIII of 1800
+    Year: 1800
+    Description: Pargana Register of Lands; established registry systems
+    for tracking changes in land ownership.
+    Status: REPEALED / SUPERSEDED.
+
+--------------------------------------------------------------------------------
+YEAR 1801
+--------------------------------------------------------------------------------
+
+57. Bengal Regulation I of 1801
+    Year: 1801
+    Description: Arrears of Revenue: Division of Joint Estates; procedures
+    for handling joint estates where some proprietors defaulted.
+    Status: REPEALED.
+
+58. Bengal Regulation II of 1801
+    Year: 1801
+    Description: Altered the constitution of the Sadar Diwani Adalat and
+    Sadar Nizamat Adalat as originally provided in Regs. VI and IX
+    of 1793.
+    Status: REPEALED.
+
+--------------------------------------------------------------------------------
+YEAR 1804
+--------------------------------------------------------------------------------
+
+59. Bengal Regulation X of 1804
+    Year: 1804
+    Description: Punishment by courts-martial of certain state offences;
+    authorized martial law in specific circumstances; provided framework
+    for military-civil jurisdiction interface.
+    Status: REPEALED.
+
+    Subordinate Rules/Orders:
+    - Military orders specifying courts-martial procedures
+    - Instructions to magistrates regarding handover of cases to
+      military tribunals
+
+--------------------------------------------------------------------------------
+YEAR 1805
+--------------------------------------------------------------------------------
+
+60. Bengal Regulation XII of 1805
+    Short Title: The Cuttack Land-Revenue Regulation, 1805
+    Year: 1805
+    Description: Special land-revenue provisions for the newly acquired
+    province of Cuttack (Orissa).
+    Status: REPEALED.
+
+--------------------------------------------------------------------------------
+YEAR 1806
+--------------------------------------------------------------------------------
+
+61. Bengal Regulation XI of 1806
+    Year: 1806
+    Description: Passage of Troops; regulated the movement and quartering
+    of military forces through Bengal territories.
+    Status: REPEALED.
+
+62. Bengal Regulation XVII of 1806 (Sections 7 and 8)
+    Year: 1806
+    Description: Listed in Fourth Schedule of Laws Local Extent Act, 1874.
+    Status: Sections 7 and 8 REPEALED by Act 12 of 1891.
+
+--------------------------------------------------------------------------------
+YEAR 1808
+--------------------------------------------------------------------------------
+
+63. Bengal Regulation IX of 1808
+    Year: 1808
+    Description: Referenced in Act XVI of 1843 which repealed part of
+    this regulation along with Bengal Regulation XVI of 1810.
+    Status: Partially REPEALED by Act XVI of 1843.
+
+--------------------------------------------------------------------------------
+YEAR 1810
+--------------------------------------------------------------------------------
+
+64. Bengal Regulation XVI of 1810
+    Year: 1810
+    Description: Referenced with Regulation IX of 1808; partially
+    repealed by Act XVI of 1843.
+    Status: Partially REPEALED.
+
+65. Bengal Regulation XIX of 1810
+    Short Title: The Bengal Charitable Endowments, Public Buildings and
+    Escheats Regulation, 1810
+    Year: 1810
+    Description: First antiquarian/heritage legislation in India;
+    provided for due appropriation of rents and produce of lands
+    granted for support of mosques, Hindu temples, colleges and other
+    purposes; for maintenance and repair of public buildings; and for
+    custody and disposal of nazul property (escheats).
+    Status: IN FORCE in Bangladesh (bdlaws.minlaw.gov.bd/act-1316.html)
+    with modifications; functions of Board of Revenue discharged by
+    Administrator of Waqfs in Bangladesh.
+
+    Subordinate Rules/Orders:
+    - Section 16A: Functions of the Board of Revenue to be discharged
+      by the Administrator of Waqfs in Bangladesh
+    - Orders regarding management of charitable endowments
+    - Notifications regarding nazul property administration
+    - Rules for maintenance of public buildings of historical importance
+
+66. Bengal Regulation XX of 1810
+    Year: 1810
+    Description: Listed in Fourth Schedule of Laws Local Extent Act, 1874.
+    Status: REPEALED by Act 13 of 1889.
+
+--------------------------------------------------------------------------------
+YEAR 1812
+--------------------------------------------------------------------------------
+
+67. Bengal Regulation V of 1812
+    Year: 1812
+    Description: Collection of Land-revenue; amendments to earlier
+    revenue collection procedures.
+    Status: REPEALED.
+
+68. Bengal Regulation XI of 1812
+    Short Title: The Bengal Foreign Immigrants Regulation, 1812
+    Year: 1812
+    Description: Provided for the removal of foreign emigrants; regulated
+    the entry, residence, and departure of foreigners in the Bengal
+    Presidency.
+    Status: Partially IN FORCE; referenced in Fifth Schedule of Laws
+    Local Extent Act, 1874.
+
+    Subordinate Rules/Orders:
+    - Orders regarding registration of foreign nationals
+    - Instructions to magistrates for enforcement
+
+--------------------------------------------------------------------------------
+YEAR 1814
+--------------------------------------------------------------------------------
+
+69. Bengal Regulation XXVII of 1814
+    Year: 1814
+    Description: Consolidated the law regarding legal practitioners;
+    superseded Regulation VII of 1793 regarding appointment and
+    conduct of vakils.
+    Status: REPEALED by subsequent Legal Practitioners Acts.
+
+--------------------------------------------------------------------------------
+YEAR 1817
+--------------------------------------------------------------------------------
+
+70. Bengal Regulation V of 1817
+    Year: 1817
+    Description: Administrative regulation; specific subject matter
+    relates to revenue administration.
+    Status: REPEALED.
+
+71. Bengal Regulation XX of 1817 (Sections 28 and 32)
+    Year: 1817
+    Description: Section 28: Criminal process in Salt and Opium
+    Departments. Section 32: Matters concerning building of forts,
+    collecting of sepoys and stores, and encroachment on roads.
+    Status: REPEALED.
+
+    Subordinate Rules/Orders:
+    - Departmental orders for Salt and Opium revenue officers
+    - Instructions regarding criminal prosecutions under salt/opium laws
+
+--------------------------------------------------------------------------------
+YEAR 1818
+--------------------------------------------------------------------------------
+
+72. Bengal Regulation III of 1818
+    Short Title: The Bengal State Prisoners Regulation, 1818
+    Year: 1818
+    Description: Law for preventive detention of state prisoners;
+    authorized the Governor-General in Council to order the
+    confinement of persons suspected of activities prejudicial to
+    the security of British possessions.
+    Status: IN FORCE in Bangladesh (bdlaws.minlaw.gov.bd/act-1317.html)
+    with modifications; a controversial colonial-era detention law.
+
+    Subordinate Rules/Orders:
+    - Rules under the State Prisoners Regulation (Bengal Regulation III
+      of 1818) - Revision of rules in the Bengal Jail Manual regarding
+      State Prisoners
+    - Section 7: Rules for appropriation of allowance for support of
+      state prisoners
+    - Section 9: Rules for attachment of estates by order of Government
+      without decision of Court
+    - Standing orders regarding custody, maintenance, and supervision
+      of state prisoners
+    - Rules in the Bengal Jail Manual (later Police Regulations Bengal)
+      regarding treatment and classification of state prisoners
+    - Notifications regarding extension of the regulation to various
+      territories
+
+--------------------------------------------------------------------------------
+YEAR 1819
+--------------------------------------------------------------------------------
+
+73. Bengal Regulation VI of 1819
+    Year: 1819
+    Description: Listed in Fourth Schedule of Laws Local Extent Act, 1874.
+    Status: REPEALED by Act 12 of 1891.
+
+74. Bengal Regulation VIII of 1819
+    Short Title: The Bengal Patni Taluks Regulation, 1819
+    Year: 1819
+    Description: Declared the validity of patni tenures; defined relative
+    rights of zamindars and patni talukdars; established process for
+    sale of patni taluks in satisfaction of zamindar's demand of rent;
+    declared zamindars at liberty to grant permanent leases (patni
+    taluks) of their lands.
+    Status: IN FORCE in some jurisdictions; partially superseded by
+    subsequent tenancy legislation in Bangladesh.
+
+    Subordinate Rules/Orders:
+    - Rules for conduct of patni sales
+    - Board of Revenue circulars on patni taluk administration
+    - Notifications regarding patni tenure registration
+
+    Note: Regulation VIII of 1819 (the "pattani law") fundamentally
+    changed the character of the Permanent Settlement by creating a
+    recognized class of under-tenure holders.
+
+--------------------------------------------------------------------------------
+YEAR 1821
+--------------------------------------------------------------------------------
+
+75. Bengal Regulation IV of 1821
+    Year: 1821
+    Description: Powers of Collectors and Magistrates; defined and
+    expanded the administrative powers of district officers.
+    Status: REPEALED.
+
+--------------------------------------------------------------------------------
+YEAR 1822
+--------------------------------------------------------------------------------
+
+76. Bengal Regulation III of 1822
+    Year: 1822
+    Description: Related to the Board of Land-revenue; administrative
+    provisions for revenue board operations.
+    Status: REPEALED.
+
+77. Bengal Regulation VII of 1822
+    Short Title: The Bengal Land-Revenue Settlement Regulation, 1822
+    Year: 1822
+    Description: Declared principles for settlement of land revenue in
+    the Ceded and Conquered Provinces; established framework for
+    temporary settlements.
+    Status: Partially IN FORCE in some jurisdictions.
+
+    Subordinate Rules/Orders:
+    - Settlement Officer instructions
+    - Board of Revenue circulars on settlement procedures
+    - Rules for assessment of land revenue in temporarily settled areas
+
+78. Bengal Regulation XI of 1822 (Section 38)
+    Short Title: The Bengal Government Indemnity Regulation, 1822
+    Year: 1822
+    Description: Declared Government not liable for errors or
+    irregularities in proceedings of the Courts of Justice; made
+    further provision for conduct of Revenue officers.
+    Status: Section 38 IN FORCE (Fifth Schedule, Laws Local Extent
+    Act 1874).
+
+--------------------------------------------------------------------------------
+YEAR 1823
+--------------------------------------------------------------------------------
+
+79. Bengal Regulation VI of 1823
+    Year: 1823
+    Description: Indigo Contracts; regulated agreements between indigo
+    planters and ryots/cultivators.
+    Status: REPEALED.
+
+80. Bengal Regulation VII of 1823
+    Year: 1823
+    Description: Prohibition of loans to Covenanted Civil Servants;
+    anti-corruption measure.
+    Status: REPEALED.
+
+--------------------------------------------------------------------------------
+YEAR 1825
+--------------------------------------------------------------------------------
+
+81. Bengal Regulation VI of 1825
+    Year: 1825
+    Description: Passage of Troops; regulated military movement and
+    quartering provisions.
+    Status: IN FORCE (Fifth Schedule, Laws Local Extent Act, 1874).
+
+82. Bengal Regulation IX of 1825
+    Short Title: The Bengal Land-Revenue Settlement Regulation, 1825
+    Year: 1825
+    Description: Provisions regarding defaulting Malguzars (revenue
+    payers); procedures for dealing with revenue defaults in
+    temporarily settled areas.
+    Status: Partially IN FORCE in some jurisdictions.
+
+83. Bengal Regulation XI of 1825
+    Short Title: The Bengal Alluvion and Diluvion Regulation, 1825
+    Year: 1825
+    Description: Regulated the consequences of alluvion (land formation
+    by river deposit) and diluvion (land erosion by rivers); determined
+    rights to newly formed land and revenue liability for eroded land.
+    Status: IN FORCE (Fifth Schedule, Laws Local Extent Act, 1874);
+    relevant to Bangladesh given its riverine geography.
+
+    Subordinate Rules/Orders:
+    - Revenue Board circulars on survey and settlement of alluvial
+      (char) lands
+    - Instructions to Collectors on revenue adjustment for diluvion
+    - Survey and demarcation rules for newly accreted land
+
+84. Bengal Regulation XIII of 1825
+    Year: 1825
+    Description: Settlement of resumed Lakhiraj (revenue-free) land;
+    procedures for assessment of land whose revenue-free status had
+    been annulled.
+    Status: REPEALED.
+
+85. Bengal Regulation XIV of 1825
+    Year: 1825
+    Description: Authority to confirm Lakhiraj tenures and Native grants;
+    provided validation framework for traditional land grants.
+    Status: REPEALED.
+
+86. Bengal Regulation XX of 1825
+    Year: 1825
+    Description: Listed in Fourth Schedule of Laws Local Extent Act, 1874.
+    Status: REPEALED by Act 10 of 1882.
+
+--------------------------------------------------------------------------------
+YEAR 1827
+--------------------------------------------------------------------------------
+
+87. Bengal Regulation III of 1827 (Section 5)
+    Year: 1827
+    Description: Rules regarding evidence in courts; section 5 established
+    specific evidentiary standards.
+    Status: Section 5 IN FORCE (Fifth Schedule, Laws Local Extent
+    Act, 1874); largely superseded by Indian Evidence Act, 1872.
+
+88. Bengal Regulation V of 1827
+    Short Title: The Bengal Attached Estates Management Regulation, 1827
+    Year: 1827
+    Description: Provided for management of estates under attachment for
+    arrears of revenue or under court orders; established procedures
+    for administration of attached properties.
+    Status: IN FORCE (Fifth Schedule, Laws Local Extent Act, 1874);
+    available on India Code (indiacode.nic.in).
+
+    Subordinate Rules/Orders:
+    - Board of Revenue circulars on management of attached estates
+    - Instructions for appointed managers/amins
+    - Rules for accounting and disbursement from attached estates
+    - Standing orders regarding maintenance of attached estate records
+
+89. Bengal Regulation VII of 1827
+    Short Title: The Bengal Corruption and Extortion Regulation, 1827
+    Year: 1827
+    Description: Penalized corruption and extortion by public servants;
+    established procedures for trial and punishment.
+    Status: IN FORCE in some jurisdictions; available on India Code.
+
+    Subordinate Rules/Orders:
+    - Rules for investigation of corruption complaints
+    - Departmental orders on conduct of public servants
+    - Notifications regarding penalties and enforcement procedures
+
+--------------------------------------------------------------------------------
+YEAR 1828
+--------------------------------------------------------------------------------
+
+90. Bengal Regulation III of 1828
+    Year: 1828
+    Description: Appeals from decisions of Revenue Authorities; established
+    appellate procedures for revenue disputes.
+    Status: REPEALED.
+
+--------------------------------------------------------------------------------
+YEAR 1829
+--------------------------------------------------------------------------------
+
+91. Bengal Regulation XVII of 1829
+    Short Title: The Bengal Sati Regulation, 1829
+    Year: 1829 (4 December)
+    Description: Declared the practice of sati (immolation of Hindu widows
+    on funeral pyres) illegal throughout British India; made it subject
+    to criminal prosecution. Enacted under Governor-General Lord William
+    Bentinck.
+    Status: IN FORCE in Bangladesh (bdlaws.minlaw.gov.bd/act-details-1321.html)
+    as retained colonial legislation, though the practice has long ceased.
+
+    Subordinate Rules/Orders:
+    - Standing orders to police darogahs requiring personal appearance
+      or deputation of subordinates (muharrir or jamadar) to prevent
+      sati ceremonies
+    - Instructions to magistrates and joint magistrates for prosecution
+    - Reporting requirements for police officers regarding sati incidents
+    - Circuit court procedures for trial of parties involved in sati
+    - Notifications extending the prohibition to newly acquired
+      territories
+
+--------------------------------------------------------------------------------
+YEAR 1830-1834
+--------------------------------------------------------------------------------
+
+92. Bengal Regulation IV of 1831
+    Year: 1831
+    Description: Administrative regulation; details not fully identified
+    in available sources.
+    Status: REPEALED.
+
+93. Bengal Regulation V of 1831
+    Year: 1831
+    Description: Regulation regarding revenue and administrative matters.
+    Status: REPEALED.
+
+Note: After 1833, no new Bengal Regulations were promulgated as the Charter
+Act of 1833 transferred legislative power exclusively to the Governor-General
+in Council, who enacted "Acts" rather than "Regulations."
+
+================================================================================
+PART III: CHARTER ACTS AND THEIR SUBORDINATE INSTRUMENTS
+================================================================================
+
+--------------------------------------------------------------------------------
+A. CHARTER ACT OF 1793 (33 Geo. III, c. 52)
+--------------------------------------------------------------------------------
+
+Full Title: An Act for continuing in the East India Company, for a further
+term, the possession of the British territories in India.
+Year: 1793
+Description: Extended the Company's trade monopoly by 20 years; required
+payment of GBP 500,000 annually to the British Government from Indian
+revenue; separated revenue administration from judicial functions.
+
+Subordinate Instruments:
+- The Cornwallis Code of 48 Regulations (see Part I above) was the
+  primary legislative response to the powers granted under this Act.
+- Governor-General's orders regarding separation of revenue and
+  judicial functions
+- Instructions regarding Company's trade operations
+Status: SPENT / SUPERSEDED by Charter Act of 1813.
+
+--------------------------------------------------------------------------------
+B. CHARTER ACT OF 1813 (53 Geo. III, c. 155)
+--------------------------------------------------------------------------------
+
+Full Title: An Act for continuing in the East India Company, for a further
+term, the possession of the British territories in India.
+Year: 1813
+Description: Ended EIC trade monopoly (except tea and China trade); allowed
+Christian missionaries to enter British India; allocated funds for education
+(GBP 100,000 annually); asserted Crown sovereignty over British India.
+
+Subordinate Instruments:
+- Board of Control regulations regarding missionary activities
+- Educational fund allocation orders
+- Trade licensing rules for private merchants
+- Regulations regarding religious establishments
+Status: SPENT / SUPERSEDED by Charter Act of 1833.
+
+--------------------------------------------------------------------------------
+C. CHARTER ACT OF 1833 (3 & 4 Will. IV, c. 85)
+--------------------------------------------------------------------------------
+
+Full Title: An Act for effecting an Arrangement with the East India Company,
+and for the better Government of His Majesty's Indian Territories.
+Year: 1833
+Description: Renamed Governor-General of Bengal as Governor-General of India;
+gave exclusive legislative powers to Governor-General in Council; ended EIC
+commercial activities entirely; added a Law Member to the Council (first
+appointee: Lord Macaulay); removed legislative powers of Bombay and Madras
+Presidencies.
+
+Subordinate Instruments:
+- Order establishing the Indian Law Commission (1834), chaired by
+  Lord Macaulay, to codify Indian law
+- Notification appointing Law Member to Governor-General's Council
+- Orders regarding transfer of legislative power from Presidency
+  governments
+- Instructions regarding cessation of EIC commercial operations
+- Lex Loci Report (1840) and various law commission reports
+Status: SUPERSEDED by Charter Act of 1853 and Government of India Act, 1858.
+
+================================================================================
+PART IV: ACTS OF THE GOVERNOR-GENERAL IN COUNCIL (1834-1858)
+APPLICABLE TO BENGAL
+================================================================================
+
+After the Charter Act of 1833, legislation took the form of "Acts" passed
+by the Governor-General in Council rather than "Bengal Regulations."
+Key Acts applicable to Bengal territory (present-day Bangladesh):
+
+--------------------------------------------------------------------------------
+
+94. Act I of 1834 (Governor General Act, 1834)
+    Year: 1834
+    Description: First Act under the new legislative arrangement
+    established by the Charter Act of 1833.
+    Status: REPEALED.
+
+95. Act XXIX of 1837
+    Year: 1837
+    Description: Abolished Persian as the official language of courts
+    and administration in Bengal; substituted vernacular languages and
+    English.
+    Status: SUPERSEDED.
+
+96. Act XVI of 1843
+    Year: 1843
+    Description: Repeal of part of Bengal Regulations IX of 1808 and
+    XVI of 1810; consolidation measure.
+    Status: REPEALING ACT.
+
+97. Act V of 1843 (Indian Slavery Act)
+    Year: 1843
+    Description: Abolished slavery in British India; applicable throughout
+    Bengal Presidency including present-day Bangladesh.
+    Status: REPEALED as spent; but the prohibition on slavery continues
+    under constitutional provisions.
+
+98. Act XXI of 1850 (Caste Disabilities Removal Act)
+    Year: 1850
+    Description: Provided that no person shall be deprived of rights
+    of property by reason of renouncing their religion or caste.
+    Status: IN FORCE in Bangladesh.
+
+99. Various Acts 1834-1858
+    Description: Numerous Acts were passed during this period on subjects
+    including criminal law, civil procedure, revenue administration,
+    police, customs, stamps, registration, and other matters applicable
+    to Bengal. Many were subsequently consolidated into major
+    codifications (Indian Penal Code 1860, Code of Criminal Procedure
+    1861/1882/1898, Code of Civil Procedure 1859/1877/1908, etc.).
+
+================================================================================
+PART V: OTHER PRE-1858 LEGISLATION APPLICABLE TO BENGAL
+================================================================================
+
+--------------------------------------------------------------------------------
+A. REGULATING ACT OF 1773 (13 Geo. III, c. 63)
+--------------------------------------------------------------------------------
+
+Year: 1773
+Description: First Parliamentary act to regulate East India Company affairs
+in India; established Governor-General and Council of Bengal; created
+Supreme Court at Calcutta.
+Status: SUPERSEDED by subsequent Charter Acts.
+
+Subordinate Instruments:
+- Letters Patent establishing the Supreme Court of Judicature at
+  Fort William, Bengal (1774)
+- Rules of the Supreme Court
+- Governor-General's Council orders
+
+--------------------------------------------------------------------------------
+B. PITT'S INDIA ACT OF 1784 (24 Geo. III, c. 25)
+--------------------------------------------------------------------------------
+
+Year: 1784
+Description: Established dual control system - Board of Control in London
+alongside EIC's Court of Directors; separated political and commercial
+functions.
+Status: SUPERSEDED by Charter Act of 1833.
+
+Subordinate Instruments:
+- Board of Control orders and dispatches to Bengal Government
+- Secret Committee instructions
+- Revenue dispatch regulations
+
+--------------------------------------------------------------------------------
+C. ACT OF SETTLEMENT (1781) - 21 Geo. III, c. 70
+--------------------------------------------------------------------------------
+
+Year: 1781
+Description: Defined and limited jurisdiction of the Supreme Court at
+Calcutta; clarified its relationship with Company's courts; known as the
+"Declaratory Act" or "Act of Settlement."
+Status: SUPERSEDED.
+
+--------------------------------------------------------------------------------
+D. PRE-1793 BENGAL REGULATIONS (1772-1792)
+--------------------------------------------------------------------------------
+
+Various regulations were passed before the Cornwallis Code, forming its
+precursors:
+
+100. Regulation of 1772 (Warren Hastings)
+     Description: Established the system of Diwani and Nizamat Adalats;
+     Plan for administration of justice.
+     Status: SUPERSEDED by Cornwallis Code of 1793.
+
+101. Regulations of 1780-1790
+     Description: Various ad hoc regulations on revenue, police, and
+     judicial matters that were consolidated into the Cornwallis Code.
+     Status: SUPERSEDED and incorporated into the 1793 Regulations.
+
+================================================================================
+PART VI: SUMMARY TABLE - BENGAL REGULATIONS STILL IN FORCE IN BANGLADESH
+(as per bdlaws.minlaw.gov.bd and Laws Local Extent Act, 1874)
+================================================================================
+
+No. | Regulation              | Year | Subject                    | Status
+----|-------------------------|------|----------------------------|--------
+1   | Ben. Reg. XI of 1793    | 1793 | Inheritance (Hindu/Muslim) | In Force
+2   | Ben. Reg. V of 1799     | 1799 | Wills and Intestacy        | In Force
+3   | Ben. Reg. XIX of 1810   | 1810 | Charitable Endowments,     | In Force
+    |                         |      | Public Buildings, Escheats |
+4   | Ben. Reg. XI of 1812    | 1812 | Foreign Immigrants         | In Force
+5   | Ben. Reg. III of 1818   | 1818 | State Prisoners            | In Force
+6   | Ben. Reg. VIII of 1819  | 1819 | Patni Taluks               | In Force*
+7   | Ben. Reg. VII of 1822   | 1822 | Land-Revenue Settlement    | In Force*
+8   | Ben. Reg. XI (s.38) 1822| 1822 | Govt. Indemnity            | In Force
+9   | Ben. Reg. VI of 1825    | 1825 | Passage of Troops          | In Force
+10  | Ben. Reg. IX of 1825    | 1825 | Land-Revenue Settlement    | In Force*
+11  | Ben. Reg. XI of 1825    | 1825 | Alluvion and Diluvion      | In Force
+12  | Ben. Reg. III (s.5) 1827| 1827 | Evidence                   | In Force*
+13  | Ben. Reg. V of 1827     | 1827 | Attached Estates Mgmt.     | In Force
+14  | Ben. Reg. VII of 1827   | 1827 | Corruption and Extortion   | In Force
+15  | Ben. Reg. XVII of 1829  | 1829 | Sati (Widow-burning)       | In Force
+
+* Asterisk indicates the regulation may be partially in force with
+  sections repealed or superseded by later legislation.
+
+================================================================================
+PART VII: KEY SUBORDINATE LEGISLATION UNDER BENGAL REGULATIONS
+================================================================================
+
+A. Rules Under the State Prisoners Regulation (Bengal Reg. III of 1818)
+   - Rules in the Bengal Jail Manual regarding State Prisoners
+   - Revised rules (referenced in Indian Culture archives)
+   - Standing orders on custody, maintenance, allowances
+   - Government orders on attachment of estates without court decision
+
+B. Revenue Board Circulars and Orders (under various Revenue Regulations)
+   - Circulars on Permanent Settlement administration
+   - Orders on revenue sale procedures
+   - Instructions on Patni Taluk management
+   - Survey and settlement orders for alluvial lands
+   - Instructions on management of attached estates
+
+C. Police Standing Orders (under Regulation XXII of 1793 and successors)
+   - Thana establishment orders
+   - Darogah duty instructions
+   - Reporting protocols to magistrates
+   - Later consolidated into Police Regulations Bengal, 1943
+
+D. Judicial Standing Orders
+   - Rules for vakils/pleaders under Reg. VII of 1793
+   - Evidence rules under Reg. III of 1827
+   - Arbitration rules under Reg. XVI of 1793
+   - Court fee schedules
+
+E. Administrative Notifications
+   - Notifications extending regulations to newly acquired territories
+   - Notifications regarding charitable endowment management
+   - Notifications regarding Waqf property administration
+
+================================================================================
+PART VIII: REPEALING LEGISLATION
+================================================================================
+
+Many Bengal Regulations were repealed by the following later Acts:
+
+1. Bengal Civil Courts Act, 1887
+2. Act 12 of 1876 (specific sections of Reg. LVIII of 1795)
+3. Act 10 of 1882 (Reg. XX of 1825)
+4. Act 13 of 1889 (Reg. XX of 1810)
+5. Act 12 of 1891 (multiple regulations including Regs. XLVIII of 1793,
+   XVII of 1806, VI of 1819)
+6. Special Laws Repeal Act, 1922 (Act 4 of 1922) - repealed numerous
+   obsolete Bengal Regulations
+7. Repealing and Amending Act, 1903
+8. Repealing and Amending Act, 1938
+9. Bangladesh Laws (Revision and Declaration) Act, 1973 (Act VIII of 1973)
+   - declared which laws remained in force in Bangladesh
+10. State Acquisition and Tenancy Act, 1950 (East Bengal) - effectively
+    superseded Permanent Settlement provisions in Bangladesh
+
+================================================================================
+PART IX: KEY REFERENCE SOURCES
+================================================================================
+
+1. Clarke, Richard (ed.), "The Regulations of the Government of Fort William
+   in Bengal in Force at the End of 1853" (3 vols., London, 1854)
+   - Vol. 1: Regulations from 1793 to 1805
+   - Vol. 2: Regulations from 1806 to 1834
+   - Vol. 3: Acts from 1834 to 1853
+   Available: University of Heidelberg Digital Library
+
+2. "Analytical Survey of Bengal Regulations" - Archive.org
+   (in.ernet.dli.2015.98215)
+
+3. "The Bengal Code" (multiple volumes) - Archive.org
+   - Vol. 1: Regulations
+   - Vol. 2: Acts 1862-1889
+   - Vol. 4: Chronological tables
+
+4. Fourth Schedule, Laws Local Extent Act, 1874 (Act XV of 1874)
+   - Lists Bengal Regulations in force in Lower Provinces
+
+5. Fifth Schedule, Laws Local Extent Act, 1874
+   - Lists specific sections of regulations in force
+
+6. India Code website: indiacode.nic.in
+
+7. Laws of Bangladesh: bdlaws.minlaw.gov.bd
+
+8. Banglapedia: en.banglapedia.org
+
+9. Police Regulations Bengal, 1943 (2 volumes) - Archive.org
+
+10. Bangladesh Laws (Revision and Declaration) Act, 1973
+
+================================================================================
+NOTES AND CAVEATS
+================================================================================
+
+1. GAZETTE NOTIFICATION NUMBERS: The formal Gazette of India was not
+   established until 1858. Prior to that, regulations were published
+   as separate proclamations and in Company records. Therefore, gazette
+   notification numbers are not available for pre-1858 legislation.
+
+2. COMPLETENESS: This compilation identifies approximately 100 items
+   of parent legislation and their known subordinate instruments. The
+   original Cornwallis Code contained 48 regulations, and numerous
+   additional regulations were passed between 1794 and 1834. A truly
+   exhaustive list would require access to the original Bengal Code
+   volumes held in the India Office Records (British Library), the
+   National Archives of India, and the National Archives of Bangladesh.
+
+3. SUBORDINATE LEGISLATION: Formal "subordinate legislation" in the
+   modern sense (statutory rules, statutory orders) did not exist as
+   a category in the pre-1858 period. Executive instructions took the
+   form of Board of Revenue circulars, Governor-General's orders,
+   administrative instructions, and standing orders. These were not
+   systematically published in any gazette until much later.
+
+4. BANGLADESH APPLICABILITY: The territory of present-day Bangladesh
+   formed part of the Bengal Presidency (specifically the "Lower
+   Provinces" or "Bengal Division"). After 1947, East Pakistan
+   (later Bangladesh) inherited applicable pre-independence legislation.
+   The Bangladesh Laws (Revision and Declaration) Act, 1973 formally
+   declared which laws remained in force.
+
+5. CURRENCY OF STATUS: The "status" indicated for each regulation
+   reflects the best available information as of the date of
+   compilation. Some regulations listed as "in force" may have been
+   effectively superseded even if not formally repealed.
+
+================================================================================
+END OF DOCUMENT
+================================================================================

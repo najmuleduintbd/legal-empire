@@ -1,0 +1,2605 @@
+================================================================================
+    COMPREHENSIVE LIST OF ALL RULES, REGULATIONS, ORDERS, NOTIFICATIONS,
+    AND BY-LAWS MADE UNDER PAKISTAN/EAST PAKISTAN LEGISLATION (1947-1970)
+    APPLICABLE TO EAST PAKISTAN (PRESENT-DAY BANGLADESH)
+================================================================================
+
+    Compiled for: Package SD-1 (1799-1970) - Code of Delegated/Subordinate
+    Legislation of Bangladesh
+
+    Project: Strengthening Legislative Capacity and Legal Awareness Building
+    Legislative and Parliamentary Affairs Division
+    Ministry of Law, Justice and Parliamentary Affairs
+    Government of the People's Republic of Bangladesh
+
+    Compilation Date: March 2026
+
+================================================================================
+TABLE OF CONTENTS
+================================================================================
+
+    SECTION A  : Constitutional, Adaptation, and Provincial Autonomy Orders
+    SECTION B  : Land, Revenue, and Tenancy Rules
+    SECTION C  : Family and Personal Law Rules
+    SECTION D  : Education Rules and Regulations
+    SECTION E  : Municipal Administration and Local Government Rules/By-Laws
+    SECTION F  : Public Service and Civil Service Rules
+    SECTION G  : Labour and Industrial Rules
+    SECTION H  : Revenue, Tax, and Financial Rules
+    SECTION I  : Trade, Commerce, and Industry Rules
+    SECTION J  : Basic Democracies Rules
+    SECTION K  : Martial Law Regulations and Orders (1958-1962, 1969-1970)
+    SECTION L  : Military/Defence Rules
+    SECTION M  : Criminal Law, Police, and Public Order Rules
+    SECTION N  : Forest, Agriculture, and Fisheries Rules
+    SECTION O  : Transport, Communication, and Infrastructure Rules
+    SECTION P  : Banking and Financial Regulations
+    SECTION Q  : Import/Export and Customs Rules
+    SECTION R  : Health and Sanitation Rules
+    SECTION S  : Religious and Charitable Endowment Rules
+    SECTION T  : Miscellaneous Subordinate Legislation
+    SECTION U  : Archival Sources
+
+================================================================================
+ABBREVIATIONS AND NOTES
+================================================================================
+
+    C    = Central (Federal/Pakistan Government)
+    P    = Provincial (East Bengal/East Pakistan Government)
+    CMLA = Chief Martial Law Administrator
+    MLO  = Martial Law Order
+    MLR  = Martial Law Regulation
+    SRO  = Statutory Regulatory Order
+    GG   = Governor-General
+
+    STATUS KEY:
+    IN FORCE   = Still operative in Bangladesh (with or without amendments)
+    SUPERSEDED = Replaced by subsequent Bangladesh legislation
+    REPEALED   = Formally repealed
+    HISTORICAL = Fulfilled its purpose; no longer operative
+    OBSOLETE   = No longer applied though not formally repealed
+    MODIFIED   = Core framework retained, substantially amended
+
+    NOTE ON LEGAL CONTINUITY:
+    Under Section 18 of the Indian Independence Act, 1947, all existing laws
+    continued in force. Under Article 149 of the Constitution of Bangladesh
+    (1972), and the Laws Continuance Enforcement Order, 1971 (P.O. No. 48 of
+    1972), all Pakistan-era laws (including subordinate legislation) continued
+    in force in Bangladesh subject to subsequent modifications or repeals.
+
+================================================================================
+SECTION A: CONSTITUTIONAL, ADAPTATION, AND PROVINCIAL AUTONOMY ORDERS
+================================================================================
+
+A.1  ADAPTATION ORDERS (1947-1950)
+--------------------------------------------------------------------------------
+
+1.   Title: Pakistan (Provisional Constitution) Order, 1947
+     Year: 1947
+     Authority: Governor-General of Pakistan (C)
+     Parent Instrument: Indian Independence Act, 1947 (Section 8)
+     Description: Adopted the Government of India Act, 1935 as Pakistan's
+         provisional constitution with adaptations. Established the federal and
+         provincial government structure. Ensured legal continuity of all
+         pre-partition laws, courts, and administrative machinery.
+     Status: HISTORICAL -- Superseded by Constitution of 1956
+
+     Subordinate instruments made under this Order:
+     (a) Adaptation of Central Acts and Ordinances (various notifications)
+     (b) Adaptation of Provincial Acts for East Bengal
+     (c) Administrative orders establishing government departments in
+         East Bengal/East Pakistan
+
+2.   Title: Government of India (Adaptation of Existing Laws) Order, 1947
+     Year: 1947
+     Authority: Governor-General of Pakistan (C)
+     Parent Instrument: Indian Independence Act, 1947
+     Description: Systematic textual adaptation of all existing British Indian
+         laws replacing: "British India" with "Pakistan"; "Governor-General of
+         India" with "Governor-General of Pakistan"; "Indian Legislature" with
+         "Pakistan Legislature"; and all provincial references adapted for
+         Pakistan's provinces.
+     Status: HISTORICAL -- Purpose fulfilled
+
+3.   Title: General Clauses (Adaptation) Order, 1947
+     Year: 1947
+     Authority: Governor-General (C)
+     Parent Instrument: Indian Independence Act, 1947
+     Description: Adaptation of the General Clauses Act, 1897 for Pakistan,
+         ensuring all defined terms in all existing legislation were properly
+         adapted.
+     Status: HISTORICAL
+
+4.   Title: Pakistan (Adaptation of Central Acts and Ordinances) Order, 1949
+     Year: 1949
+     Authority: Governor-General (C)
+     Parent Instrument: Provisional Constitution provisions
+     Description: Further round of adaptations for central legislation; covered
+         Acts and Ordinances not addressed in the 1947 order.
+     Status: HISTORICAL
+
+5.   Title: Pakistan (Adaptation of Existing Laws) Order, 1950
+     Year: 1950
+     Authority: Governor-General (C)
+     Parent Instrument: Constitutional provisions
+     Description: Comprehensive third-round adaptation of all existing laws to
+         ensure uniform Pakistani terminology throughout all legislation.
+     Status: HISTORICAL
+
+6.   Title: East Bengal (Adaptation of Existing Laws) Order, 1950
+     Year: 1950
+     Authority: Governor of East Bengal (P)
+     Parent Instrument: Government of India Act, 1935 (as adapted)
+     Description: Provincial-level adaptation of inherited laws. Replaced
+         "Bengal" or "Province of Bengal" with "East Bengal"; references to
+         Calcutta High Court adapted for Dhaka High Court; administrative
+         terminology updated for the new provincial administration.
+     Status: HISTORICAL
+
+7.   Title: East Bengal (Adaptation) Orders, 1948-1950 (Series)
+     Year: 1948-1950
+     Authority: Governor of East Bengal (P)
+     Parent Instrument: Government of India Act, 1935 (as adapted)
+     Description: Series of provincial adaptation orders addressing specific
+         categories of inherited legislation. Individual notifications issued
+         for: revenue laws, criminal laws, civil laws, educational legislation,
+         municipal legislation, and service rules.
+     Status: HISTORICAL
+
+A.2  CONSTITUTION-RELATED ORDERS AND RULES
+--------------------------------------------------------------------------------
+
+8.   Title: Constitution (Adaptation of Laws) Order, 1956
+     Year: 1956
+     Authority: President of Pakistan (C)
+     Parent Instrument: Constitution of Pakistan, 1956
+     Description: Adaptation of all existing laws to conform with the first
+         constitution of Pakistan. Changed references from provisional
+         constitutional framework to the permanent constitution.
+     Status: HISTORICAL -- Superseded when 1956 Constitution was abrogated
+
+9.   Title: Constitution (Adaptation of Laws) Order, 1962
+     Year: 1962
+     Authority: President of Pakistan (C)
+     Parent Instrument: Constitution of Pakistan, 1962
+     Description: Adaptation of all laws to the second constitution (Ayub Khan
+         era). Replaced references to parliamentary system with presidential
+         system terminology; adapted National Assembly/Provincial Assembly
+         references.
+     Status: HISTORICAL -- Superseded when 1962 Constitution was abrogated
+
+10.  Title: East Pakistan Provincial Assembly Rules of Procedure, 1956
+     Year: 1956
+     Authority: East Pakistan Provincial Assembly (P)
+     Parent Instrument: Constitution of Pakistan, 1956
+     Description: Rules governing the proceedings, debates, committee system,
+         question hour, and legislative procedure of the East Pakistan
+         Provincial Assembly under the 1956 Constitution.
+     Status: SUPERSEDED
+
+11.  Title: East Pakistan Provincial Assembly Rules of Procedure, 1963
+     Year: 1963
+     Authority: East Pakistan Provincial Assembly (P)
+     Parent Instrument: Constitution of Pakistan, 1962
+     Description: Revised procedural rules under the 1962 Constitution's
+         presidential system. Governed legislative process including bill
+         introduction, committee structure, budget procedure.
+     Status: SUPERSEDED
+
+12.  Title: East Pakistan Assembly Members' Privileges Rules, 1965
+     Year: 1965
+     Authority: Speaker, East Pakistan Provincial Assembly (P)
+     Parent Instrument: East Pakistan Assembly Members' Privileges Act, 1965
+     Description: Rules prescribing privileges and immunities of members of
+         the East Pakistan Provincial Assembly, including freedom of speech,
+         exemption from jury service, and procedural matters.
+     Status: SUPERSEDED by Bangladesh Parliament framework
+
+13.  Title: Election Rules, 1956 (Pakistan)
+     Year: 1956
+     Authority: Election Commission (C)
+     Parent Instrument: Constitution / Electoral legislation
+     Description: Procedures for voter registration, nomination of candidates,
+         conduct of polls, counting of votes, election disputes.
+     Status: SUPERSEDED
+
+14.  Title: National Assembly and Provincial Assembly Electoral Rules, 1964
+     Year: 1964
+     Authority: Election Commission (C)
+     Parent Instrument: Electoral College Act, 1964 / Constitution, 1962
+     Description: Rules for indirect elections through Basic Democrats who
+         formed the Electoral College for Presidential and Assembly elections
+         under the 1962 Constitution.
+     Status: OBSOLETE
+
+15.  Title: Electoral Rolls Rules, 1965
+     Year: 1965
+     Authority: Election Commission (C)
+     Parent Instrument: Electoral Rolls Act, 1964
+     Description: Detailed rules for preparation, revision, and correction
+         of electoral rolls.
+     Status: SUPERSEDED
+
+16.  Title: Representation of the People Rules, 1970
+     Year: 1970
+     Authority: Election Commission / President (C)
+     Parent Instrument: Legal Framework Order, 1970
+     Description: Rules for the 1970 general elections held on direct adult
+         franchise (one man one vote) for the first time in Pakistan's history.
+         Governed the election that gave the Awami League its landslide victory
+         in East Pakistan (167 of 169 seats).
+     Status: HISTORICAL significance
+
+A.3  PROVINCIAL AUTONOMY RULES
+--------------------------------------------------------------------------------
+
+17.  Title: Provincial Autonomy (Financial Provisions) Rules, 1948
+     Year: 1948
+     Authority: Governor-General (C)
+     Parent Instrument: Government of India Act, 1935 (as adapted)
+     Description: Rules governing the financial relationship between the
+         center and East Bengal, including revenue distribution, grants-in-aid,
+         and shared taxes.
+     Status: SUPERSEDED by subsequent constitutional provisions
+
+18.  Title: Federal-Provincial Revenue Sharing Orders, 1947-1970
+     Year: Various
+     Authority: President / Governor-General (C)
+     Parent Instrument: Constitutional provisions
+     Description: Orders and notifications determining the share of central
+         revenues to be distributed to East Pakistan. A major source of
+         political grievance due to perceived economic disparity.
+     Status: HISTORICAL
+
+================================================================================
+SECTION B: LAND, REVENUE, AND TENANCY RULES
+================================================================================
+
+1.   Title: East Bengal State Acquisition and Tenancy Rules, 1951
+     Year: 1951
+     Authority: Government of East Bengal (P)
+     Parent Act: East Bengal State Acquisition and Tenancy Act, 1950
+         (East Bengal Act XXVIII of 1951)
+     Description: The most important subordinate land legislation. Prescribes
+         procedures for: notification and acquisition of rent-receiving
+         interests (zamindari abolition); preparation of Compensation
+         Assessment Rolls (CA Rolls); assessment and payment of compensation;
+         preparation of records of rights (khatians); revenue survey
+         procedures; transfer of holdings and mutation; ceiling on holdings
+         (100 bighas) and redistribution of surplus land.
+     Status: IN FORCE in Bangladesh -- one of the most critical active rules
+
+2.   Title: East Bengal State Acquisition and Tenancy (Amendment) Rules, 1955
+     Year: 1955
+     Authority: Government of East Pakistan (P)
+     Parent Act: East Bengal State Acquisition and Tenancy Act, 1950
+     Description: First round of amendments to acquisition procedures,
+         compensation calculation methods, and record preparation.
+     Status: MERGED into principal rules
+
+3.   Title: East Bengal State Acquisition and Tenancy (Amendment) Rules, 1961
+     Year: 1961
+     Authority: Government of East Pakistan (P)
+     Parent Act: East Bengal State Acquisition and Tenancy Act, 1950
+     Description: Further procedural amendments including mutation form
+         revisions and survey operation refinements.
+     Status: MERGED into principal rules
+
+4.   Title: East Pakistan Land Revenue Rules
+     Year: 1950 (continuing from pre-partition Bengal Land Revenue Rules)
+     Authority: Government of East Bengal (P)
+     Parent Act: Bengal Land Revenue Sale Act, 1868 (Act VII of 1868) /
+         Bengal Tenancy Act, 1885 (Act VIII of 1885)
+     Description: Collection of land revenue, assessment of revenue demand,
+         revenue default and sale procedures, remission of revenue in cases
+         of crop failure or natural disaster.
+     Status: PARTIALLY IN FORCE -- substantially modified
+
+5.   Title: Non-Agricultural Tenancy Rules, 1949
+     Year: 1949
+     Authority: Government of East Bengal (P)
+     Parent Act: Non-Agricultural Tenancy Act, 1949 (East Bengal Act XXIII
+         of 1949)
+     Description: Rights of non-agricultural tenants (urban and commercial
+         land); rent assessment for non-agricultural tenancies; transfer and
+         succession rules; eviction procedures and grounds; dispute resolution.
+     Status: IN FORCE with amendments
+
+6.   Title: East Pakistan Government Estates Manual, 1958
+     Year: 1958
+     Authority: Government of East Pakistan (P)
+     Parent Act: Various land revenue statutes
+     Description: Comprehensive manual for management of government estates
+         (khas land), land settlement procedures, lease procedures, allotment
+         of khas land to landless persons.
+     Status: IN FORCE -- substantially amended
+
+7.   Title: East Pakistan Land Reforms (Limitation of Land Holdings)
+         Rules, 1961
+     Year: 1961
+     Authority: Government of East Pakistan (P)
+     Parent Act: Land Reforms Ordinance, 1961 (Ordinance V of 1961) /
+         Land Reforms Regulation, 1959 (MLR-64)
+     Description: Implementation of ceiling on agricultural holdings
+         (100 bighas/33.3 acres), procedures for surrender of excess land,
+         redistribution to landless cultivators.
+     Status: SUPERSEDED by subsequent Bangladesh legislation
+
+8.   Title: East Pakistan Survey and Settlement Rules, 1962
+     Year: 1962
+     Authority: Government of East Pakistan (P)
+     Parent Act: Survey Act, 1875 / Bengal Survey Act, 1875
+     Description: Survey team composition and qualifications; cadastral
+         and revisional survey methodology (plane table, chain survey); map
+         preparation standards; record of rights (khatian) preparation;
+         public verification (attestation) process; objection and correction
+         procedure; final publication of records.
+     Status: IN FORCE -- still governs Bangladesh land survey operations
+
+9.   Title: Registration Rules, 1949 (East Bengal Adaptation)
+     Year: 1949
+     Authority: Government of East Bengal (P)
+     Parent Act: Registration Act, 1908 (Act XVI of 1908)
+     Description: Registration of documents, deeds, and property transfers;
+         Sub-Registrar duties; registration fees; time limits; endorsement
+         requirements; compulsory and optional registration.
+     Status: IN FORCE with amendments
+
+10.  Title: East Bengal Alluvion and Diluvion Regulations, 1952
+     Year: 1952
+     Authority: Government of East Bengal (P)
+     Parent Act: General land revenue laws
+     Description: Rules for dealing with newly formed chars (alluvion) and
+         eroded land (diluvion) in riverine areas. Prescribes procedures for
+         identifying new land, settlement, and compensation for lost land.
+     Status: IN FORCE -- critical for Bangladesh riverine land issues
+
+11.  Title: Chittagong Hill Tracts Land Revenue Regulation Rules
+     Year: 1950 (adapted)
+     Authority: Government of East Bengal (P)
+     Parent Act: Chittagong Hill Tracts Regulation, 1900 (Regulation I of 1900)
+     Description: Land revenue, settlement, and administration specific to
+         the Chittagong Hill Tracts. Special provisions for indigenous
+         communities.
+     Status: IN FORCE with modifications under CHT Accord framework
+
+12.  Title: Court of Wards Rules, 1951 (East Bengal)
+     Year: 1951
+     Authority: Government of East Bengal (P)
+     Parent Act: Court of Wards Act, 1879 (Act IX of 1879)
+     Description: Management of estates of disqualified proprietors, minors,
+         and persons of unsound mind by the Court of Wards.
+     Status: LIMITED applicability
+
+13.  Title: East Pakistan Acquisition of Waste Land Rules, 1951
+     Year: 1951
+     Authority: Government of East Bengal (P)
+     Parent Act: East Bengal (Emergency) Requisition of Property Act, 1948
+     Description: Acquisition and distribution of waste and abandoned lands
+         for productive use.
+     Status: PARTIALLY IN FORCE
+
+14.  Title: Land Acquisition Rules, 1963 (East Pakistan)
+     Year: 1963
+     Authority: Government of East Pakistan (P)
+     Parent Act: Land Acquisition Act, 1894 (Act I of 1894)
+     Description: Detailed procedures for compulsory acquisition of private
+         land for public purposes. Covers notification, objection, award of
+         compensation, market value determination, solatium, reference to
+         court.
+     Status: IN FORCE -- Land Acquisition Act, 1894 remained operative
+         in Bangladesh until 2017 Amendment Act
+
+15.  Title: East Pakistan Disturbed Persons Rehabilitation (Land Settlement)
+         Rules, 1964
+     Year: 1964
+     Authority: Government of East Pakistan (P)
+     Parent Act: East Pakistan Disturbed Persons Rehabilitation Ordinance, 1964
+     Description: Settlement of land to persons displaced during communal
+         tensions; refugee rehabilitation procedures.
+     Status: OBSOLETE
+
+================================================================================
+SECTION C: FAMILY AND PERSONAL LAW RULES
+================================================================================
+
+1.   Title: Muslim Family Laws Rules, 1961
+     Year: 1961
+     Authority: Government of Pakistan (C)
+     Parent Act: Muslim Family Laws Ordinance, 1961 (Ordinance VIII of 1961)
+     Description: Comprehensive rules governing:
+         Chapter I -- Marriage Registration: Appointment and qualifications
+             of Nikah Registrars (Marriage Registrars); jurisdiction; marriage
+             registration procedure; prescribed Nikahnama (marriage contract)
+             form and contents; dower (mehr) recording; fee schedule; register
+             maintenance.
+         Chapter II -- Polygamy: Application for permission to contract
+             another marriage; Arbitration Council procedure; conditions for
+             granting permission; existing wives' consent/objection procedure;
+             penalties for violation.
+         Chapter III -- Talaq (Divorce): Prescribed notice form and procedure;
+             service of notice on Chairman (Union Council); copy to wife;
+             90-day waiting period; Arbitration Council formation for
+             reconciliation; effect of non-reconciliation.
+         Chapter IV -- Maintenance: Application for maintenance by wife;
+             Arbitration Council procedure; maintenance order and enforcement;
+             maintenance during iddat period.
+         Chapter V -- Succession: Inheritance rights of grandchildren
+             (orphaned grandchildren's share); procedure for claiming
+             inheritance.
+         Chapter VI -- General: Forms, fee schedule, penalties.
+     Status: IN FORCE in Bangladesh -- critically important; applied daily by
+         Union Council/Pourashava Chairmen, Nikah Registrars, and family courts
+
+2.   Title: Muslim Marriages and Divorces (Registration) Rules, 1963
+     Year: 1963
+     Authority: Government of East Pakistan (P)
+     Parent Act: Muslim Family Laws Ordinance, 1961 / precursor to Muslim
+         Marriages and Divorces (Registration) Act, 1974
+     Description: Nikah registration procedures; Nikah Registrar (Kazi)
+         appointment, licensing, and jurisdiction; forms (Kabin-nama/
+         Nikahnama); registration fees; maintenance of registers; annual
+         returns to government.
+     Status: IN FORCE -- directly governs marriage registration in Bangladesh
+
+3.   Title: Family Courts Rules, 1965
+     Year: 1965
+     Authority: Government of East Pakistan (P)
+     Parent Act: West Pakistan Family Courts Act, 1964 (adapted for
+         East Pakistan)
+     Description: Family court procedures for: dissolution of marriage;
+         dower recovery; maintenance; custody of children; restitution of
+         conjugal rights.
+     Status: Framework continued under Family Courts Ordinance, 1985
+
+4.   Title: Muslim Personal Law (Shariat) Application Rules, 1948
+     Year: 1948
+     Authority: Government of Pakistan (C)
+     Parent Act: Muslim Personal Law (Shariat) Application Act, 1937
+         (Act XXVI of 1937)
+     Description: Application of Islamic personal law (Shariat) in matters
+         of succession, inheritance, special property of females, wills,
+         gifts, trusts, and religious endowments.
+     Status: IN FORCE
+
+5.   Title: Dissolution of Muslim Marriages Rules, 1948
+     Year: 1948
+     Authority: Government of Pakistan (C)
+     Parent Act: Dissolution of Muslim Marriages Act, 1939 (Act VIII of 1939)
+     Description: Procedures and grounds for judicial dissolution (faskh) of
+         Muslim marriages -- cruelty, desertion, failure to maintain, impotence,
+         insanity, etc.
+     Status: IN FORCE
+
+6.   Title: Child Marriage Restraint Rules, 1950 (East Bengal)
+     Year: 1950
+     Authority: Government of East Bengal (P)
+     Parent Act: Child Marriage Restraint Act, 1929 (Act XIX of 1929)
+     Description: Prevention of child marriages; age verification; penalties
+         for solemnizing, abetting, or contracting child marriages.
+     Status: SUPERSEDED by Child Marriage Restraint Act, 2017
+
+7.   Title: Guardians and Wards Rules, 1950 (East Bengal)
+     Year: 1950
+     Authority: Government of East Bengal (P)
+     Parent Act: Guardians and Wards Act, 1890 (Act VIII of 1890)
+     Description: Procedures for appointment of guardians; custody
+         proceedings; welfare principle; guardian's duties and powers;
+         removal of guardian.
+     Status: IN FORCE
+
+8.   Title: Hindu Married Women's Separate Property Rules
+     Year: 1948 (adapted)
+     Authority: Government of East Bengal (P)
+     Parent Act: Hindu Married Women's Right to Separate Residence and
+         Maintenance Act, 1946 (Bengal Act)
+     Description: Rules governing Hindu women's right to separate residence,
+         maintenance, and stridhan (women's property).
+     Status: IN FORCE
+
+================================================================================
+SECTION D: EDUCATION RULES AND REGULATIONS
+================================================================================
+
+1.   Title: East Bengal Educational Code (Revised), 1951
+     Year: 1951
+     Authority: Government of East Bengal (P)
+     Parent Act: Various education statutes
+     Description: Comprehensive educational administration code covering:
+         recognition and affiliation of schools; teacher qualifications and
+         pay scales; curriculum standards; examination procedures; school
+         management committees; grants-in-aid conditions.
+     Status: SUBSTANTIALLY REPLACED but historically foundational
+
+2.   Title: East Pakistan Intermediate and Secondary Education Rules, 1964
+     Year: 1964
+     Authority: Government of East Pakistan (P)
+     Parent Act: East Pakistan Intermediate and Secondary Education
+         Ordinance, 1961 (East Pakistan Ordinance XXXIII of 1961)
+     Description: Board of Intermediate and Secondary Education: constitution,
+         powers, and functions; examination rules for SSC and HSC; recognition
+         of institutions; curriculum framework; affiliation conditions;
+         examination centre procedures; result certification.
+     Status: IN FORCE with amendments -- governs SSC/HSC examination boards
+         in Bangladesh
+
+3.   Title: Dacca University Rules/Ordinances, 1947-1970
+     Year: Various (1947-1970)
+     Authority: Dacca University (P)
+     Parent Act: Dacca University Act, 1920 (Bengal Act XIII of 1920) /
+         Dacca University Order, 1961
+     Description: Academic regulations, examination rules, faculty and
+         departmental structure, student conduct, convocation procedures,
+         degree requirements.
+     Status: SUPERSEDED by subsequent Dhaka University Orders
+
+4.   Title: Rajshahi University Regulations, 1953
+     Year: 1953
+     Authority: Rajshahi University (P)
+     Parent Act: Rajshahi University Act, 1953 (East Bengal Act XV of 1953)
+     Description: University governance structure, academic rules, examination
+         procedures, faculty regulations.
+     Status: IN FORCE with amendments
+
+5.   Title: University of Engineering and Technology Regulations, 1962
+     Year: 1962
+     Authority: BUET (P)
+     Parent Act: University of Engineering and Technology Ordinance, 1961
+         (Ordinance LI of 1961)
+     Description: BUET academic and administrative regulations, degree
+         programmes, laboratory standards.
+     Status: IN FORCE with amendments
+
+6.   Title: East Pakistan Compulsory Primary Education Rules, 1962
+     Year: 1962
+     Authority: Government of East Pakistan (P)
+     Parent Act: Compulsory Primary Education Act, 1962
+     Description: Implementation of compulsory primary education in designated
+         areas; school attendance requirements; exemptions; penalties for
+         non-compliance.
+     Status: SUPERSEDED by Bangladesh Compulsory Primary Education Act
+
+7.   Title: East Pakistan Madrasah Education Rules, 1963
+     Year: 1963
+     Authority: Government of East Pakistan (P)
+     Parent Act: East Pakistan Madrasah Education Ordinance, 1963
+         (East Pakistan Ordinance VI of 1963)
+     Description: Madrasah Education Board constitution, powers, and
+         functions; curriculum for Dakhil, Alim, Fazil, and Kamil levels;
+         examinations; teacher qualifications; recognition of madrasahs.
+     Status: IN FORCE with major amendments -- Bangladesh Madrasah Education
+         Board framework
+
+8.   Title: East Pakistan Private Educational Institutions (Acquisition and
+         Grant-in-Aid) Rules, 1968
+     Year: 1968
+     Authority: Government of East Pakistan (P)
+     Parent Act: Related education ordinances
+     Description: Conditions for government grants to private educational
+         institutions; accountability requirements; recognition criteria;
+         inspection procedures.
+     Status: IN FORCE with amendments
+
+9.   Title: Pakistan (East Pakistan) Textbook Board Rules, 1954
+     Year: 1954
+     Authority: Government of East Pakistan (P)
+     Parent Act: East Pakistan Textbook Board establishment order
+     Description: Textbook preparation, approval, publication, and
+         distribution procedures. Board composition and powers.
+     Status: Framework incorporated into National Curriculum and Textbook
+         Board (NCTB) structure
+
+10.  Title: East Pakistan Non-Government Educational Institutions
+         (Management and Control) Rules, 1966
+     Year: 1966
+     Authority: Government of East Pakistan (P)
+     Parent Act: East Pakistan Non-Government Educational Institutions
+         Ordinance, 1966
+     Description: Managing/governing committee composition and elections;
+         teacher appointment, service conditions, and discipline; curriculum
+         compliance; government oversight and inspection.
+     Status: IN FORCE -- framework continued
+
+11.  Title: Agricultural University (BAU Mymensingh) Rules, 1962
+     Year: 1962
+     Authority: BAU (P)
+     Parent Act: East Pakistan Agricultural University Ordinance, 1961
+         (Ordinance XXXIV of 1961)
+     Description: University governance, academic regulations, faculty
+         structure, research programmes.
+     Status: IN FORCE with amendments
+
+12.  Title: East Pakistan Technical Education Rules, 1968
+     Year: 1968
+     Authority: Government of East Pakistan (P)
+     Parent Act: Related technical education legislation
+     Description: Polytechnic institute administration; vocational training
+         standards; diploma curricula; technical education board functions.
+     Status: MODIFIED and continued
+
+================================================================================
+SECTION E: MUNICIPAL ADMINISTRATION AND LOCAL GOVERNMENT RULES/BY-LAWS
+================================================================================
+
+E.1  MUNICIPAL RULES
+--------------------------------------------------------------------------------
+
+1.   Title: East Bengal Municipal (Model By-Laws) Rules, 1953
+     Year: 1953
+     Authority: Government of East Bengal (P)
+     Parent Act: East Bengal Municipal Act, 1932 (adapted) /
+         Bengal Municipal Act, 1932 (Bengal Act XV of 1932)
+     Description: Model by-laws for all municipalities covering: sanitation
+         and public health; water supply; building construction standards;
+         market regulation; slaughterhouse management; street maintenance;
+         drainage.
+     Status: SUPERSEDED by subsequent Local Government Acts
+
+2.   Title: Municipal Administration Rules, 1960 (East Pakistan)
+     Year: 1960
+     Authority: Government of East Pakistan (P)
+     Parent Act: Municipal Administration Ordinance, 1960
+         (East Pakistan Ordinance XXVI of 1960)
+     Description: Composition and election of municipal bodies; powers and
+         functions; taxation authority; service provision obligations;
+         financial management.
+     Status: SUPERSEDED but framework inherited
+
+3.   Title: Dacca Municipal Corporation By-Laws, 1965
+     Year: 1965
+     Authority: Dacca Municipal Corporation (P)
+     Parent Act: Municipal Administration Ordinance, 1960
+     Description: Specific by-laws for Dhaka city -- building regulations,
+         sanitation, licensing of trades, hawker regulation, market
+         management, fire safety.
+     Status: SUPERSEDED by Dhaka City Corporation laws
+
+4.   Title: Chittagong Municipal Corporation By-Laws, 1966
+     Year: 1966
+     Authority: Chittagong Municipal Corporation (P)
+     Parent Act: Municipal Administration Ordinance, 1960
+     Description: Similar to Dacca by-laws, adapted for Chittagong city.
+     Status: SUPERSEDED
+
+5.   Title: East Pakistan Building Construction Rules, 1953
+     Year: 1953
+     Authority: Government of East Bengal (P)
+     Parent Act: East Bengal Building Construction Act, 1952
+         (East Bengal Act II of 1953)
+     Description: Building codes and standards; construction permit
+         procedures; structural requirements; setback rules; height limits;
+         inspection requirements; occupancy certificates.
+     Status: MODIFIED -- partially operative
+
+6.   Title: Town Improvement Trust Rules (Dacca), 1957
+     Year: 1957
+     Authority: Government of East Pakistan (P)
+     Parent Act: Town Improvement Act, 1953 (East Bengal Act XXXIII of 1953)
+     Description: Dacca town planning; improvement schemes; land acquisition
+         for urban development; layout plans; betterment fees.
+     Status: SUPERSEDED by RAJUK (Rajdhani Unnayan Kartripakkha) framework
+
+7.   Title: East Pakistan Cantonment Board Rules, 1950
+     Year: 1950
+     Authority: Government of Pakistan / East Pakistan (C/P)
+     Parent Act: Cantonments Act, 1924 (Act II of 1924)
+     Description: Cantonment administration, board composition, by-laws for
+         cantonment areas (Dhaka, Chittagong, Comilla, Jessore, Rangpur).
+     Status: MODIFIED under Bangladesh Cantonment framework
+
+8.   Title: East Pakistan Water and Sewerage Authority Rules, 1963
+     Year: 1963
+     Authority: Government of East Pakistan (P)
+     Parent Act: East Pakistan Water Supply and Sewerage Authority
+         Ordinance, 1963 (Ordinance XXXIX of 1963)
+     Description: Water supply and sewerage services in urban areas;
+         tariff setting; connection procedures; quality standards. Predecessor
+         to DWASA (Dhaka WASA) and CWASA (Chittagong WASA).
+     Status: IN FORCE with major amendments
+
+9.   Title: East Pakistan Small Towns Committee Rules, 1960
+     Year: 1960
+     Authority: Government of East Pakistan (P)
+     Parent Act: East Pakistan Small Towns Committee Act, 1960
+     Description: Administration of small towns below municipal status;
+         limited self-governance functions.
+     Status: SUPERSEDED
+
+10.  Title: East Pakistan Markets and Fairs Rules, 1965
+     Year: 1965
+     Authority: Government of East Pakistan (P)
+     Parent Act: Provincial legislation on markets
+     Description: Regulation of hat-bazaars (rural markets), weekly markets,
+         and fairs; licensing; sanitation; dispute resolution.
+     Status: Framework incorporated into local government rules
+
+E.2  LOCAL GOVERNMENT RULES
+--------------------------------------------------------------------------------
+
+11.  Title: East Bengal Local Self-Government Rules, 1951
+     Year: 1951
+     Authority: Government of East Bengal (P)
+     Parent Act: Bengal Local Self-Government Act, 1885 (as adapted)
+     Description: District Board and Local Board administration -- elections,
+         functions, finance, staffing.
+     Status: SUPERSEDED
+
+12.  Title: East Pakistan Union Council (Model By-Laws), 1962
+     Year: 1962
+     Authority: Government of East Pakistan (P)
+     Parent Act: Basic Democracies Order, 1959
+     Description: Standard by-laws for Union Councils covering: sanitation,
+         village roads, pond management, market regulation, dispute
+         resolution, birth-death registration.
+     Status: SUPERSEDED but influenced current framework
+
+13.  Title: Village Courts Rules, 1960
+     Year: 1960
+     Authority: Government of East Pakistan (P)
+     Parent Act: Village Courts Ordinance, 1960 / Conciliation Courts
+         Ordinance, 1961 (Ordinance XLIV of 1961)
+     Description: Village-level dispute resolution for petty criminal and
+         civil cases; jurisdiction limits; composition of village court;
+         procedure; enforcement of decisions.
+     Status: IN FORCE -- framework continued via Village Courts Act, 2006
+
+14.  Title: East Pakistan Paurashava (Municipality) Model By-Laws, 1965
+     Year: 1965
+     Authority: Government of East Pakistan (P)
+     Parent Act: Municipal Administration Ordinance, 1960
+     Description: Standard by-laws for Pourashavas (municipalities).
+     Status: SUPERSEDED by Pourashava Ordinance framework
+
+15.  Title: East Pakistan Local Fund Audit Rules, 1960
+     Year: 1960
+     Authority: Government of East Pakistan (P)
+     Parent Act: Local fund audit legislation
+     Description: Audit of local government funds; inspection procedures;
+         financial accountability; audit report preparation.
+     Status: IN FORCE -- framework under Local Government Division
+
+================================================================================
+SECTION F: PUBLIC SERVICE AND CIVIL SERVICE RULES
+================================================================================
+
+1.   Title: Government Servants (Conduct) Rules, 1964
+     Year: 1964
+     Authority: Government of Pakistan (C)
+     Parent Act: Government Servants (Conduct) Act
+     Description: Comprehensive code of conduct for government servants:
+         Rule 1-2: Short title and definitions
+         Rule 3: Gifts -- restriction on accepting gifts from persons having
+             official dealings
+         Rule 4: Unauthorized communication of official information
+         Rule 5: Participation in politics -- prohibition on political
+             activity
+         Rule 6: Connection with press and media
+         Rule 7: Evidence before committees
+         Rule 8: Subscriptions -- restriction on seeking collections
+         Rule 9: Business, trade, or employment outside official duties
+         Rule 10: Private employment after retirement (cooling-off period)
+         Rule 11: Acquisition and disposal of property -- reporting
+             requirements for property transactions
+         Rule 12: Insolvency and habitual indebtedness
+         Rule 13: Movable, immovable, and valuable property declarations
+         Rule 14: Vindication of acts in discharge of official duties
+         Rule 15: Misconduct -- acts constituting misconduct
+         Rule 16: Nepotism and favoritism
+         Rule 17: Canvassing support for promotion
+     Status: IN FORCE in Bangladesh with amendments -- frequently cited in
+         disciplinary proceedings and anti-corruption cases
+
+2.   Title: Government Servants (Efficiency and Discipline) Rules, 1960
+     Year: 1960
+     Authority: Government of Pakistan (C)
+     Parent Act: Service rules framework
+     Description: Grounds for disciplinary action; minor penalties (censure,
+         withholding increment, stoppage of promotion, recovery from pay);
+         major penalties (reduction in rank, compulsory retirement, removal,
+         dismissal); inquiry procedure; inquiry officer appointment and
+         powers; opportunity of defense (show cause notice); appeal procedure
+         and appellate authorities; review of disciplinary orders.
+     Status: IN FORCE in Bangladesh with amendments
+
+3.   Title: East Pakistan Government Servants (Discipline and Appeal) Rules,
+         1961 (revised 1966)
+     Year: 1961 (revised 1966)
+     Authority: Governor of East Pakistan (P)
+     Parent Act: Provincial service rules framework
+     Description: Provincial disciplinary framework complementing central
+         rules; procedure for provincial disciplinary proceedings; provincial
+         appellate authorities; time limits for proceedings.
+     Status: IN FORCE -- forms basis of Bangladesh Government Servants
+         (Discipline and Appeal) Rules, 1985
+
+4.   Title: East Pakistan Government Servants (Conduct) Rules, 1966
+     Year: 1966
+     Authority: Government of East Pakistan (P)
+     Parent Act: Government Servants (Conduct) Rules framework
+     Description: Provincial adaptation and supplement to central Conduct
+         Rules, 1964; additional provisions for East Pakistan provincial
+         government servants.
+     Status: IN FORCE -- forms basis of Bangladesh Government Servants
+         (Conduct) Rules, 1979
+
+5.   Title: Civil Service Rules (Pakistan / East Pakistan) -- Four Volumes
+     Year: 1947 (adapted from British Indian CSR)
+     Authority: Government of Pakistan / East Pakistan (C/P)
+     Parent Act: Government of India Act, 1935 (as adapted) / service
+         legislation
+     Description:
+         Volume I -- General Rules: Classification of government servants;
+             pay scales and allowances; increments and efficiency bars;
+             general conditions of service.
+         Volume II -- Leave Rules: Types of leave (casual, earned, half-pay,
+             extraordinary); leave accumulation and encashment; maternity
+             leave; study leave; leave salary computation.
+         Volume III -- Pension Rules: Pension eligibility; types of pension
+             (superannuation, retiring, invalid, family); gratuity and
+             death-cum-retirement benefits; commutation of pension; pension
+             computation formula.
+         Volume IV -- Travelling Allowance Rules: Classification of journeys
+             (tour, transfer, training); entitlements by grade; daily
+             allowance rates; transportation claims.
+     Status: PARTIALLY IN FORCE -- many provisions continue to apply;
+         others superseded by Bangladesh-specific service rules
+
+6.   Title: Fundamental Rules and Supplementary Rules (East Pakistan
+         Adaptation), 1948
+     Year: 1948
+     Authority: Government of Pakistan / East Pakistan (C/P)
+     Parent Act: Government of India Act, 1935 (as adapted) / Civil Service
+         framework
+     Description: Foundational service conditions for all government
+         employees covering: pay fixation; allowances; leave; pension; joining
+         time; foreign service; deputation; lien; suspension. Known as
+         "FR & SR" in administrative practice.
+     Status: IN FORCE with significant amendments -- still referred to as
+         "FR & SR" in Bangladesh administration
+
+7.   Title: East Pakistan Government Servants' Leave Rules, 1959
+     Year: 1959
+     Authority: Government of East Pakistan (P)
+     Parent Act: Fundamental Rules / service legislation
+     Description: Detailed leave entitlements: casual leave, earned leave,
+         medical leave, maternity leave, study leave, extraordinary leave;
+         leave accumulation; encashment on retirement.
+     Status: IN FORCE -- basis for Bangladesh leave rules
+
+8.   Title: East Pakistan Civil Service Pension Rules, 1960
+     Year: 1960
+     Authority: Government of East Pakistan (P)
+     Parent Act: Service rules framework
+     Description: Pension entitlements and eligibility; gratuity; commutation
+         of pension; family pension; death-cum-retirement benefit; pension
+         computation formula.
+     Status: IN FORCE -- framework under Bangladesh pension rules
+
+9.   Title: East Pakistan General Provident Fund Rules, 1960
+     Year: 1960
+     Authority: Government of East Pakistan (P)
+     Parent Act: Provident Funds Act, 1925
+     Description: GPF contributions, withdrawals, temporary advances,
+         interest rates, final settlement on retirement or death.
+     Status: IN FORCE -- framework continued
+
+10.  Title: East Pakistan Travelling Allowance Rules, 1959
+     Year: 1959
+     Authority: Government of East Pakistan (P)
+     Parent Act: Fundamental Rules / Treasury Rules
+     Description: Travel allowances, daily allowances, mileage allowance,
+         classification of journeys for government servants.
+     Status: IN FORCE with amendments
+
+11.  Title: East Pakistan Civil Service (Classification, Control and
+         Appeal) Rules, 1965
+     Year: 1965
+     Authority: Government of East Pakistan (P)
+     Parent Act: Service rules framework
+     Description: Classification of civil services into cadres and classes;
+         controlling authority designation; appeal procedures.
+     Status: IN FORCE -- framework continued
+
+12.  Title: Pakistan Civil Service Rules (CSP Cadre), 1948-1970
+     Year: Various (1948-1970)
+     Authority: Government of Pakistan (C)
+     Parent Act: Civil Service of Pakistan Act, 1948 / Constitution
+     Description: Rules governing the elite CSP cadre -- recruitment through
+         competitive examination; probation and training; posting and transfer;
+         promotion and seniority; inter-wing (East-West Pakistan) posting
+         requirements.
+     Status: SUPERSEDED by Bangladesh Civil Service framework
+
+13.  Title: East Pakistan Public Service Commission Regulations, 1951
+     Year: 1951
+     Authority: EPPSC / Governor (P)
+     Parent Act: Constitution / EPSC establishment orders
+     Description: Recruitment examination procedures; eligibility criteria;
+         commission meeting procedures; recommendation process; annual report.
+     Status: SUPERSEDED by Bangladesh Public Service Commission framework
+
+14.  Title: East Pakistan Judicial Service Rules, 1965
+     Year: 1965
+     Authority: Government of East Pakistan / High Court (P)
+     Parent Act: High Court / Constitutional provisions
+     Description: Recruitment, posting, promotion, discipline of judicial
+         officers (Munsifs, Sub-Judges, District Judges).
+     Status: Framework continued under Bangladesh Judicial Service Commission
+
+15.  Title: East Pakistan Police Service Rules, 1960
+     Year: 1960
+     Authority: Government of East Pakistan (P)
+     Parent Act: Police Act, 1861 / service rules framework
+     Description: Police recruitment (constable to ASP); training at Police
+         Training Centre; promotion criteria; disciplinary procedures.
+     Status: IN FORCE with amendments
+
+16.  Title: Medical Attendance Rules (East Pakistan), 1959
+     Year: 1959
+     Authority: Government of East Pakistan (P)
+     Parent Act: Service rules framework
+     Description: Medical facilities available to government servants and
+         their families; authorized medical attendants; medical reimbursement
+         procedures.
+     Status: IN FORCE with amendments
+
+17.  Title: East Pakistan (Medical, Dental) Service Rules, 1962
+     Year: 1962
+     Authority: Government of East Pakistan (P)
+     Parent Act: Service rules framework
+     Description: Recruitment and service conditions for medical and dental
+         officers in government service.
+     Status: IN FORCE -- framework continued
+
+18.  Title: Pakistan Essential Services (Maintenance) Rules, 1952
+     Year: 1952
+     Authority: Government of Pakistan (C)
+     Parent Act: Essential Services (Maintenance) Act, 1952
+     Description: Prohibition of strikes in essential services (water,
+         electricity, gas, transport, health); penalties for violation;
+         list of designated essential services.
+     Status: IN FORCE -- framework continued
+
+================================================================================
+SECTION G: LABOUR AND INDUSTRIAL RULES
+================================================================================
+
+1.   Title: East Pakistan Factories Rules, 1951
+     Year: 1951
+     Authority: Government of East Bengal (P)
+     Parent Act: Factories Act, 1934 (Act XXV of 1934)
+     Description: Factory registration and licensing; inspection requirements;
+         working hours (maximum 48 per week); overtime regulation; safety
+         standards (fencing, fire escape, ventilation); welfare provisions
+         (canteens, rest rooms, creches); employment restrictions for women
+         and children; accident reporting.
+     Status: SUPERSEDED by Bangladesh Labour Act, 2006 and Bangladesh Labour
+         Rules, 2015
+
+2.   Title: East Pakistan Shops and Establishments Rules, 1965
+     Year: 1965
+     Authority: Government of East Pakistan (P)
+     Parent Act: East Pakistan Shops and Establishments Act, 1965
+         (East Pakistan Act VII of 1965)
+     Description: Working conditions in commercial establishments; hours of
+         work; weekly holidays; annual leave; employment of young persons.
+     Status: Framework incorporated into Bangladesh Labour Act
+
+3.   Title: Industrial Relations Rules, 1969
+     Year: 1969
+     Authority: Government of Pakistan (C)
+     Parent Act: Industrial Relations Ordinance, 1969 (Ordinance XXIII of 1969)
+     Description: Trade union registration, constitution, and elections;
+         collective bargaining agent (CBA) determination; industrial dispute
+         procedures -- conciliation, arbitration, labour court adjudication;
+         strike and lockout procedures.
+     Status: Framework continued until Bangladesh Labour Act, 2006
+
+4.   Title: East Pakistan Minimum Wages Rules, 1961
+     Year: 1961
+     Authority: Government of East Pakistan (P)
+     Parent Act: Minimum Wages Ordinance, 1961 (Ordinance XXXIX of 1961)
+     Description: Minimum Wage Board constitution and procedures; wage
+         fixation methodology; gazette notification of minimum wages;
+         enforcement and inspection.
+     Status: IN FORCE -- framework continued and expanded
+
+5.   Title: East Pakistan Employment of Labour (Standing Orders) Rules, 1968
+     Year: 1968
+     Authority: Government of East Pakistan (P)
+     Parent Act: Employment of Labour (Standing Orders) Act, 1965
+         (East Pakistan Act VIII of 1965)
+     Description: Conditions of employment including: classification of
+         workers (permanent, temporary, casual); service books; termination
+         procedures; misconduct and disciplinary action; grievance procedure.
+     Status: Framework incorporated into Bangladesh Labour Act
+
+6.   Title: Payment of Wages Rules, 1951 (East Pakistan)
+     Year: 1951
+     Authority: Government of East Pakistan (P)
+     Parent Act: Payment of Wages Act, 1936 (Act IV of 1936)
+     Description: Time and mode of payment; permissible deductions; wage
+         period (monthly); authority for deductions; claims procedure.
+     Status: Framework incorporated into Labour Act
+
+7.   Title: Workmen's Compensation Rules, 1951 (East Pakistan)
+     Year: 1951
+     Authority: Government of East Pakistan (P)
+     Parent Act: Workmen's Compensation Act, 1923 (Act VIII of 1923)
+     Description: Compensation for workplace injuries, disability, and death;
+         compensation rates; notice requirements; claims procedure; medical
+         examination; commutation of half-monthly payments.
+     Status: Framework incorporated into Labour Act
+
+8.   Title: East Pakistan Boiler Rules, 1951
+     Year: 1951
+     Authority: Government of East Pakistan (P)
+     Parent Act: Boilers Act, 1923 (Act V of 1923)
+     Description: Boiler registration and inspection; safety standards;
+         competency certificates for boiler attendants; periodic testing.
+     Status: IN FORCE with amendments
+
+9.   Title: East Pakistan Industrial Disputes Rules, 1960
+     Year: 1960
+     Authority: Government of East Pakistan (P)
+     Parent Act: East Pakistan Industrial Disputes Ordinance, 1960
+     Description: Conciliation and adjudication of industrial disputes;
+         labour court procedures; industrial tribunal constitution.
+     Status: SUPERSEDED by Industrial Relations Ordinance, 1969
+
+10.  Title: Maternity Benefit Rules, 1950 (East Bengal)
+     Year: 1950
+     Authority: Government of East Bengal (P)
+     Parent Act: Maternity Benefit Act, 1939 (Bengal Act IV of 1939)
+     Description: Maternity leave period; maternity benefit payment;
+         prohibition of dismissal during maternity leave; employer obligations.
+     Status: Framework incorporated into Labour Act
+
+11.  Title: East Pakistan Dock Labourers Rules, 1952
+     Year: 1952
+     Authority: Government of East Pakistan (P)
+     Parent Act: Dock Labourers Act, 1934 (Act XIX of 1934)
+     Description: Working conditions, safety standards, and hours of work
+         for dock workers at Chittagong and other ports.
+     Status: MODIFIED
+
+12.  Title: Mines Rules, 1951 (Pakistan)
+     Year: 1951
+     Authority: Government of Pakistan (C)
+     Parent Act: Mines Act, 1923 (Act IV of 1923)
+     Description: Mine safety, inspection, working conditions, ventilation,
+         drainage, maximum hours underground.
+     Status: IN FORCE in Bangladesh
+
+13.  Title: East Pakistan Tea Plantation Labour Rules, 1951
+     Year: 1951
+     Authority: Government of East Pakistan (P)
+     Parent Act: Tea Plantation Labour Ordinance, 1962 / earlier plantation
+         labour legislation
+     Description: Labour conditions on tea estates in Sylhet and Chittagong
+         regions; housing; medical facilities; education for workers' children.
+     Status: IN FORCE -- framework for Bangladesh tea industry
+
+14.  Title: Companies Profits (Workers' Participation) Rules, 1968
+     Year: 1968
+     Authority: Government of Pakistan (C)
+     Parent Act: Companies Profits (Workers' Participation) Act, 1968
+     Description: Worker participation in company profits; participation fund
+         management; welfare fund allocation.
+     Status: IN FORCE -- framework continued
+
+================================================================================
+SECTION H: REVENUE, TAX, AND FINANCIAL RULES
+================================================================================
+
+1.   Title: Income Tax Rules, 1962
+     Year: 1962
+     Authority: Government of Pakistan (C)
+     Parent Act: Income Tax Ordinance, 1962 (Ordinance XXXVI of 1962)
+     Description: Comprehensive procedures for income tax: assessment;
+         collection; return filing; appeals; exemptions; tax holidays;
+         advance payment; refunds; tax deducted at source (TDS).
+     Status: IN FORCE in Bangladesh with extensive amendments -- still the
+         operative procedural framework
+
+2.   Title: East Pakistan Agricultural Income Tax Rules, 1949
+     Year: 1949
+     Authority: Government of East Bengal (P)
+     Parent Act: East Bengal Agricultural Income Tax Act, 1944
+         (Bengal Act IV of 1944, adapted)
+     Description: Assessment and collection of agricultural income tax;
+         exemption thresholds; return filing; appeal procedures.
+     Status: IN FORCE -- framework continues with modifications
+
+3.   Title: Sales Tax Rules, 1951
+     Year: 1951
+     Authority: Government of Pakistan (C)
+     Parent Act: Sales Tax Act, 1951 (Act XXXIII of 1951)
+     Description: Procedures for levy, collection, and exemption of sales tax;
+         registration of dealers; return filing; refund procedures.
+     Status: SUPERSEDED by VAT regime
+
+4.   Title: Central Excise Rules, 1944 (Pakistan Adaptation)
+     Year: 1947 (adapted), amended through 1970
+     Authority: Government of Pakistan (C)
+     Parent Act: Central Excises and Salt Act, 1944 (Act I of 1944)
+     Description: Excise duty on manufactured goods; licensing of
+         manufacturers; duty assessment; warehousing; exemptions.
+     Status: IN FORCE with amendments
+
+5.   Title: Customs Rules, 1951
+     Year: 1951
+     Authority: Government of Pakistan (C)
+     Parent Act: Sea Customs Act, 1878 (Act VIII of 1878) /
+         Land Customs Act, 1924
+     Description: Customs procedures; valuation; clearance; warehousing;
+         drawback; transit and transhipment.
+     Status: SUBSTANTIALLY REVISED under Customs Act, 1969
+
+6.   Title: Customs Rules, 1969 (Revised)
+     Year: 1969
+     Authority: Government of Pakistan (C)
+     Parent Act: Customs Act, 1969 (Act IV of 1969)
+     Description: Comprehensive customs procedures under the new Customs Act.
+     Status: IN FORCE in Bangladesh with amendments
+
+7.   Title: East Pakistan Urban Immovable Property Tax Rules, 1963
+     Year: 1963
+     Authority: Government of East Pakistan (P)
+     Parent Act: East Pakistan Urban Immovable Property Tax Ordinance, 1962
+     Description: Assessment and collection of property tax in urban areas;
+         valuation methodology; exemptions; appeal procedures.
+     Status: Framework continues -- substantially modified
+
+8.   Title: Stamp Rules, 1950 (East Bengal)
+     Year: 1950
+     Authority: Government of East Bengal (P)
+     Parent Act: Stamp Act, 1899 (Act II of 1899)
+     Description: Stamp duty rates for various instruments; procedures for
+         stamping; adjudication of stamp duty; penalties for unstamped
+         instruments.
+     Status: IN FORCE with amendments
+
+9.   Title: Court Fees Rules, 1950 (East Bengal)
+     Year: 1950
+     Authority: Government of East Bengal (P)
+     Parent Act: Court Fees Act, 1870 (Act VII of 1870)
+     Description: Court fee schedules for different classes of suits; process
+         fees; exemptions.
+     Status: IN FORCE with amendments
+
+10.  Title: East Pakistan Entertainment Tax Rules, 1954
+     Year: 1954
+     Authority: Government of East Pakistan (P)
+     Parent Act: East Bengal Entertainment Tax Act, 1949
+         (East Bengal Act VII of 1949)
+     Description: Tax on cinema halls, theatres, circuses, amusement parks;
+         rates; collection mechanism; exemptions.
+     Status: MODIFIED -- active
+
+11.  Title: East Pakistan Motor Vehicles Tax Rules, 1958
+     Year: 1958
+     Authority: Government of East Pakistan (P)
+     Parent Act: Bengal Motor Vehicles Tax Act, 1932 (adapted)
+     Description: Road tax on motor vehicles; rates by vehicle type; annual
+         renewal; penalties for non-payment.
+     Status: IN FORCE with modifications
+
+12.  Title: Wealth Tax Rules, 1963
+     Year: 1963
+     Authority: Government of Pakistan (C)
+     Parent Act: Wealth Tax Act, 1963 (Act XV of 1963)
+     Description: Assessment of wealth tax on individuals; net wealth
+         computation; exemptions; return filing.
+     Status: IN FORCE -- framework in Bangladesh
+
+13.  Title: Gift Tax Rules, 1963
+     Year: 1963
+     Authority: Government of Pakistan (C)
+     Parent Act: Gift Tax Act, 1963 (Act XIV of 1963)
+     Description: Tax on gifts and gratuitous transfers; valuation; exemptions
+         (within family, to charitable institutions).
+     Status: IN FORCE -- framework in Bangladesh
+
+14.  Title: Estate Duty Rules, 1953
+     Year: 1953
+     Authority: Government of Pakistan (C)
+     Parent Act: Estate Duty Act, 1950 (Act XV of 1950)
+     Description: Estate duty on deceased persons' property; valuation;
+         assessment; payment; exemptions.
+     Status: OBSOLETE -- Estate Duty Act no longer operative
+
+15.  Title: East Pakistan Hotel and Restaurant Tax Rules, 1966
+     Year: 1966
+     Authority: Government of East Pakistan (P)
+     Parent Act: East Pakistan Hotel and Restaurant Tax Ordinance, 1965
+     Description: Luxury tax on hotel and restaurant services; collection
+         mechanism.
+     Status: MODIFIED
+
+16.  Title: East Pakistan Treasury Rules (Adaptation), 1949
+     Year: 1949
+     Authority: Government of East Pakistan (P)
+     Parent Act: Treasury rules adapted from British Indian framework
+     Description: Treasury management; government receipts and payments;
+         treasury officer duties; security of treasury.
+     Status: REPLACED by Bangladesh Treasury Rules
+
+17.  Title: East Bengal Finance Rules, 1951
+     Year: 1951
+     Authority: Government of East Bengal (P)
+     Parent Act: Government of India Act, 1935 (adapted) / Pakistan Finance
+         Act provisions
+     Description: Government financial procedures; expenditure authorization;
+         budget processes; contingency fund rules; audit procedures.
+     Status: REPLACED by Bangladesh Finance Rules
+
+================================================================================
+SECTION I: TRADE, COMMERCE, AND INDUSTRY RULES
+================================================================================
+
+1.   Title: East Pakistan Essential Articles (Price Control and
+         Anti-Hoarding) Rules, 1953
+     Year: 1953
+     Authority: Government of East Pakistan (P)
+     Parent Act: East Pakistan Essential Articles (Price Control and
+         Anti-Hoarding) Act, 1953
+     Description: Price control of essential commodities; anti-hoarding
+         measures; licensing of dealers; stock limits; penalties.
+     Status: SUPERSEDED by Control of Essential Commodities Act
+
+2.   Title: Companies Rules, 1950 (Pakistan)
+     Year: 1950
+     Authority: Government of Pakistan (C)
+     Parent Act: Companies Act, 1913 (Act VII of 1913)
+     Description: Company registration procedures; memorandum and articles;
+         annual return filing; winding-up procedures; company inspector
+         powers.
+     Status: SUPERSEDED by Companies Act, 1994
+
+3.   Title: East Pakistan Industries (Development and Regulation) Rules, 1958
+     Year: 1958
+     Authority: Government of East Pakistan (P)
+     Parent Act: East Pakistan Industries (Development and Regulation) Act, 1957
+     Description: Industrial licensing; scheduled industries regulation;
+         government powers over industry management.
+     Status: MODIFIED
+
+4.   Title: Partnership Registration Rules, 1950 (East Pakistan)
+     Year: 1950
+     Authority: Government of East Pakistan (P)
+     Parent Act: Partnership Act, 1932 (Act IX of 1932)
+     Description: Registration of partnership firms; procedure and forms;
+         fees; changes in firm particulars.
+     Status: IN FORCE
+
+5.   Title: Trade Marks Rules, 1963 (Pakistan)
+     Year: 1963
+     Authority: Government of Pakistan (C)
+     Parent Act: Trade Marks Act, 1940 (Act V of 1940)
+     Description: Registration and protection of trademarks; opposition
+         procedure; renewal; assignment and transmission.
+     Status: SUPERSEDED by Bangladesh Trademarks Act
+
+6.   Title: Patents and Designs Rules, 1951 (Pakistan)
+     Year: 1951
+     Authority: Government of Pakistan (C)
+     Parent Act: Patents and Designs Act, 1911 (Act II of 1911)
+     Description: Registration of patents and industrial designs; filing
+         procedures; examination; opposition; renewal.
+     Status: IN FORCE -- framework continued
+
+7.   Title: East Pakistan Market Committee Rules, 1964
+     Year: 1964
+     Authority: Government of East Pakistan (P)
+     Parent Act: Agricultural Produce Markets Regulation Act, 1964
+     Description: Regulation of agricultural produce markets; market committee
+         constitution; licensing of traders; market fees.
+     Status: MODIFIED
+
+8.   Title: Jute Regulation Rules, 1952
+     Year: 1952
+     Authority: Government of Pakistan / East Pakistan (C/P)
+     Parent Act: East Bengal Jute Act, 1950 / various jute control legislation
+     Description: Jute grading and baling standards; trade regulation;
+         export quality control. Critical for East Pakistan's primary export.
+     Status: Framework continued under Bangladesh Jute Acts
+
+9.   Title: Pakistan Tea Board Rules, 1949
+     Year: 1949
+     Authority: Government of Pakistan (C)
+     Parent Act: Pakistan Tea Board Ordinance, 1949
+     Description: Tea industry regulation; quality control; grading;
+         export standards.
+     Status: MODIFIED under Bangladesh Tea Board
+
+10.  Title: East Pakistan Small Industries Corporation Rules, 1957
+     Year: 1957
+     Authority: Government of East Pakistan (P)
+     Parent Act: East Pakistan Small Industries Corporation Act, 1957
+     Description: Small industry promotion; loan provision; technical
+         assistance; industrial estates management; cottage industry support.
+     Status: MODIFIED under BSCIC (Bangladesh Small and Cottage Industries
+         Corporation) framework
+
+11.  Title: Weights and Measures Rules, 1950 (East Pakistan)
+     Year: 1950
+     Authority: Government of East Pakistan (P)
+     Parent Act: Standards of Weights and Measures Act, 1939
+     Description: Standardization of weights and measures; verification
+         procedures; penalties for fraud.
+     Status: IN FORCE with amendments
+
+12.  Title: East Pakistan Foodgrains (Movement Control) Rules, 1957
+     Year: 1957
+     Authority: Government of East Pakistan (P)
+     Parent Act: Foodgrains Supply (East Pakistan) Ordinance
+     Description: Control of inter-district movement and distribution of
+         foodgrains; permits; rationing procedures.
+     Status: SUBSTANTIALLY MODIFIED
+
+13.  Title: Cotton Textiles (Control) Rules, 1951
+     Year: 1951
+     Authority: Government of Pakistan (C)
+     Parent Act: Essential Supplies (Temporary Powers) Act, 1946
+     Description: Control of cotton textile distribution, pricing, and
+         allocation between East and West Pakistan.
+     Status: OBSOLETE
+
+14.  Title: East Pakistan Industrial Development Corporation Rules, 1962
+     Year: 1962
+     Authority: Government of East Pakistan (P)
+     Parent Act: East Pakistan Industrial Development Corporation
+         Ordinance, 1962
+     Description: Governance and operations of EPIDC; industrial project
+         development; divestment to private sector.
+     Status: Framework continued under BSEC/BCIC successor bodies
+
+15.  Title: East Pakistan Warehousing Corporation Rules, 1960
+     Year: 1960
+     Authority: Government of East Pakistan (P)
+     Parent Act: East Pakistan Warehousing Corporation Ordinance, 1960
+     Description: Grain and commodity storage; warehouse construction and
+         management; storage fees; quality preservation.
+     Status: IN FORCE -- framework under CWC/TCB
+
+================================================================================
+SECTION J: BASIC DEMOCRACIES RULES
+================================================================================
+
+1.   Title: Basic Democracies Rules, 1959
+     Year: 1959
+     Authority: Government of Pakistan (C)
+     Parent Act: Basic Democracies Order, 1959 (President's Order No. 18
+         of 1959)
+     Description: Comprehensive local government rules under Ayub Khan's
+         Basic Democracies system -- four tiers: Union Councils, Thana
+         Councils, District Councils, Divisional Councils. Prescribed
+         composition, powers, functions, meeting procedures.
+     Status: OBSOLETE after 1971, but structural elements influenced
+         Bangladesh local government framework
+
+2.   Title: Union Council Rules, 1960 (East Pakistan)
+     Year: 1960
+     Authority: Government of East Pakistan (P)
+     Parent Act: Basic Democracies Order, 1959
+     Description: Detailed rules for composition, elections, and functions of
+         Union Councils. Prescribed membership, chairman election, meeting
+         quorum, minute-keeping, development functions.
+     Status: SUPERSEDED by Bangladesh Local Government Acts
+
+3.   Title: Thana Council Rules, 1960 (East Pakistan)
+     Year: 1960
+     Authority: Government of East Pakistan (P)
+     Parent Act: Basic Democracies Order, 1959
+     Description: Thana-level council administration; coordination between
+         Union Councils and District Councils; development planning.
+     Status: SUPERSEDED
+
+4.   Title: District Council Rules, 1960 (East Pakistan)
+     Year: 1960
+     Authority: Government of East Pakistan (P)
+     Parent Act: Basic Democracies Order, 1959
+     Description: District-level council administration; development functions;
+         coordination of government departments at district level; budget
+         preparation.
+     Status: SUPERSEDED by Zila Parishad framework
+
+5.   Title: Divisional Council Rules, 1960 (East Pakistan)
+     Year: 1960
+     Authority: Government of East Pakistan (P)
+     Parent Act: Basic Democracies Order, 1959
+     Description: Divisional-level coordination council; advisory functions;
+         regional development planning.
+     Status: SUPERSEDED
+
+6.   Title: Basic Democracies (Election) Rules, 1959
+     Year: 1959
+     Authority: Election Commission / Government (C)
+     Parent Act: Basic Democracies Order, 1959 / Electoral College Act, 1960
+     Description: Election procedures for Basic Democrats (80,000 in
+         East Pakistan who formed the Electoral College for President and
+         Assembly elections); nomination; polling; counting; disputes.
+     Status: OBSOLETE
+
+7.   Title: Basic Democracies (Works Programme) Rules, 1962
+     Year: 1962
+     Authority: Government of East Pakistan (P)
+     Parent Act: Basic Democracies Order, 1959
+     Description: Rural Works Programme through local councils; project
+         identification; funding allocation; implementation monitoring; labour
+         employment.
+     Status: OBSOLETE -- but influenced subsequent rural development programmes
+
+8.   Title: Basic Democracies (Budget and Accounts) Rules, 1960
+     Year: 1960
+     Authority: Government of East Pakistan (P)
+     Parent Act: Basic Democracies Order, 1959
+     Description: Financial management of local councils; budget preparation
+         and approval; expenditure control; accounting procedures.
+     Status: SUPERSEDED
+
+9.   Title: Basic Democracies (Taxation) Rules, 1960
+     Year: 1960
+     Authority: Government of East Pakistan (P)
+     Parent Act: Basic Democracies Order, 1959
+     Description: Local taxation powers of councils; rate-setting; levy
+         collection; exemptions.
+     Status: SUPERSEDED
+
+10.  Title: East Pakistan Local Government (Model By-Laws), 1962
+     Year: 1962
+     Authority: Government of East Pakistan (P)
+     Parent Act: Basic Democracies Order, 1959
+     Description: Model by-laws for all tiers of local government under the
+         Basic Democracies system.
+     Status: SUPERSEDED
+
+================================================================================
+SECTION K: MARTIAL LAW REGULATIONS AND ORDERS (1958-1962, 1969-1970)
+================================================================================
+
+K.1  FIRST MARTIAL LAW PERIOD (October 7, 1958 -- June 8, 1962)
+     Chief Martial Law Administrator: General (later Field Marshal) Ayub Khan
+--------------------------------------------------------------------------------
+
+1.   Title: Laws (Continuance in Force) Order, 1958
+     Year: 1958
+     Authority: CMLA (C)
+     Parent Instrument: Proclamation of Martial Law, October 7, 1958
+     Description: Continuation of existing laws subject to martial law orders
+         and regulations; existing courts to function subject to CMLA
+         directions.
+     Status: HISTORICAL
+
+2.   Title: Martial Law Regulations Nos. 1-89 (1958-1962)
+     Year: 1958-1962
+     Authority: CMLA / Martial Law Administrators (C)
+     Parent Instrument: Proclamation of Martial Law, 1958
+     Description: Wide-ranging regulations covering:
+         MLR No. 1: General martial law provisions
+         MLR No. 6: Screening of Government Servants -- removal of corrupt
+             or inefficient public servants
+         MLR No. 12: Anti-Hoarding -- prevention of hoarding and
+             black-marketing
+         MLR No. 22: Press Control -- censorship of newspapers and media
+         MLR No. 51: Price Control -- price fixing for essential commodities
+         MLR No. 64: Land Reforms -- ceiling on landholdings (incorporated
+             into Land Reforms Ordinance, 1961)
+         MLR No. 73: Anti-Smuggling measures
+         MLR No. 78: Currency and foreign exchange controls
+         And approximately 70 other regulations covering: public order,
+         travel restrictions, weapon possession, political activity bans,
+         corruption tribunals, food supply, labour disputes.
+     Status: MOSTLY OBSOLETE -- some incorporated into permanent legislation
+
+3.   Title: Martial Law Orders (MLOs) -- First Period
+     Year: 1958-1962
+     Authority: CMLA (C)
+     Parent Instrument: Proclamation of Martial Law
+     Description:
+         MLO No. 1: Proclamation of Martial Law; abrogation of 1956
+             Constitution
+         MLO No. 2: Continuation of existing laws and courts
+         MLO No. 3: Powers of Martial Law Administrators (zonal/provincial)
+         MLO No. 5: Restriction on political activities
+         MLO No. 9: Screening of government servants
+         MLO No. 12: Press censorship orders
+         MLO No. 15: Anti-hoarding and anti-profiteering
+         MLO No. 18: Land reform measures
+     Status: HISTORICAL -- martial law lifted June 8, 1962
+
+4.   Title: Elective Bodies (Disqualification) Order, 1959 (EBDO)
+     Year: 1959
+     Authority: President of Pakistan (C)
+     Parent Instrument: Martial Law powers
+     Description: Disqualification of specified politicians from public office
+         for specified periods; disqualification tribunal; limited appeal.
+         Used to exclude former political leaders from the new political order.
+     Status: OBSOLETE
+
+5.   Title: Public Offices (Disqualification) Order, 1959 (PODO)
+     Year: 1959
+     Authority: President of Pakistan (C)
+     Parent Instrument: Martial Law powers
+     Description: Disqualification of civil servants for corruption or
+         misconduct; tribunal proceedings.
+     Status: OBSOLETE
+
+K.2  SECOND MARTIAL LAW PERIOD (March 25, 1969 -- December 1970)
+     Chief Martial Law Administrator: General Yahya Khan
+--------------------------------------------------------------------------------
+
+6.   Title: Martial Law Proclamation, 1969
+     Year: March 25, 1969
+     Authority: CMLA General Yahya Khan (C)
+     Parent Instrument: Military takeover
+     Description: Abrogation of the 1962 Constitution; dissolution of
+         National Assembly and Provincial Assemblies; ban on political
+         activities (later lifted).
+     Status: HISTORICAL
+
+7.   Title: Martial Law Regulations Nos. 1-60 (1969-1970)
+     Year: 1969-1970
+     Authority: CMLA / Martial Law Administrators (C)
+     Parent Instrument: Martial Law Proclamation, 1969
+     Description: Administrative and control measures covering:
+         Public order maintenance
+         Press controls
+         Anti-hoarding and price control
+         Labour dispute resolution (prohibition of strikes)
+         Student discipline
+         Currency regulations
+         Travel restrictions
+     Status: MOSTLY OBSOLETE
+
+8.   Title: Provincial Constitution Order, 1969
+     Year: 1969
+     Authority: President/CMLA (C)
+     Parent Instrument: Martial Law Proclamation
+     Description: Provincial administration during martial law; Governor's
+         powers; continuation of provincial services.
+     Status: HISTORICAL
+
+9.   Title: Martial Law Order on Labour Disputes, 1969
+     Year: 1969
+     Authority: CMLA (C)
+     Parent Instrument: Martial Law Proclamation
+     Description: Prohibition of strikes and lockouts during martial law;
+         compulsory adjudication of labour disputes.
+     Status: OBSOLETE
+
+10.  Title: Martial Law Order on Student Discipline, 1969
+     Year: 1969
+     Authority: CMLA (C)
+     Parent Instrument: Martial Law Proclamation
+     Description: University discipline; restrictions on student politics;
+         penalties for disruption.
+     Status: OBSOLETE
+
+11.  Title: Legal Framework Order, 1970 (LFO)
+     Year: March 30, 1970
+     Authority: President of Pakistan (Gen. Yahya Khan) (C)
+     Parent Instrument: Martial Law powers
+     Description: Framework for transfer of power to elected representatives:
+         general elections on basis of adult franchise; seat allocation
+         (169 East Pakistan, 144 West Pakistan in National Assembly based on
+         population); 120-day time limit for constitution-making; principles
+         of federalism, Islamic provisions, provincial autonomy; presidential
+         approval required for constitution.
+     Status: HISTORICAL -- profoundly significant; led to 1970 elections
+         where Awami League won 167 of 169 East Pakistan seats; subsequent
+         refusal to transfer power led to Liberation War and independence of
+         Bangladesh on December 16, 1971
+
+     Subordinate instruments under LFO:
+     (a) Representation of the People Rules, 1970
+     (b) Electoral Rolls (Preparation) Order, 1970
+     (c) Election Commission notifications on seat allocation and
+         delimitation of constituencies
+
+================================================================================
+SECTION L: MILITARY/DEFENCE RULES
+================================================================================
+
+1.   Title: Pakistan Army Rules, 1954
+     Year: 1954
+     Authority: Government of Pakistan (C)
+     Parent Act: Pakistan Army Act, 1952 (Act XXXIX of 1952)
+     Description: Comprehensive rules governing the Pakistan Army:
+         enlistment and terms of service; oath of allegiance; duties and
+         discipline; pay and allowances; leave; quarters and rations;
+         promotion; retirement and pension; courts martial procedure;
+         investigation and trial of offences; punishments; summary trials;
+         appeals and petitions. Applied to all army personnel including those
+         stationed in East Pakistan.
+     Status: SUPERSEDED in Bangladesh by Bangladesh Army Act framework;
+         some procedural principles inherited
+
+2.   Title: Pakistan Army Act Rules of Procedure (Courts Martial), 1954
+     Year: 1954
+     Authority: Government of Pakistan (C)
+     Parent Act: Pakistan Army Act, 1952
+     Description: Detailed procedure for General Court Martial, District
+         Court Martial, Summary General Court Martial, and Field General
+         Court Martial; evidence rules; defense counsel; confirmation and
+         revision of sentences.
+     Status: SUPERSEDED in Bangladesh
+
+3.   Title: Pakistan Air Force Rules
+     Year: 1953
+     Authority: Government of Pakistan (C)
+     Parent Act: Pakistan Air Force Act, 1953
+     Description: Rules governing air force personnel -- similar structure
+         to Army Rules.
+     Status: SUPERSEDED in Bangladesh
+
+4.   Title: Pakistan Navy Rules
+     Year: Adapted from pre-partition rules; revised periodically
+     Authority: Government of Pakistan (C)
+     Parent Act: Pakistan Navy Ordinance, 1961
+     Description: Rules governing naval personnel, discipline, and
+         administration.
+     Status: SUPERSEDED in Bangladesh
+
+5.   Title: Cantonments Fund Rules (East Pakistan), 1959
+     Year: 1959
+     Authority: Government of Pakistan (C)
+     Parent Act: Cantonments Act, 1924
+     Description: Management of cantonment funds in East Pakistan cantonments
+         (Dhaka, Chittagong, Comilla, Jessore, Rangpur).
+     Status: MODIFIED under Bangladesh framework
+
+================================================================================
+SECTION M: CRIMINAL LAW, POLICE, AND PUBLIC ORDER RULES
+================================================================================
+
+1.   Title: East Pakistan Police Rules (Adaptation), 1950
+     Year: 1950 (adapted from Bengal Police Regulations)
+     Authority: Government of East Pakistan (P)
+     Parent Act: Police Act, 1861 (Act V of 1861)
+     Description: Comprehensive police operational manual covering:
+         police organization and ranks; duties and responsibilities of
+         officers; investigation procedures; station diary maintenance;
+         patrolling and beat systems; use of force guidelines; management
+         of informants; crowd control; communal harmony duties.
+     Status: IN FORCE -- still the core operational manual for Bangladesh
+         Police
+
+2.   Title: Criminal Rules and Orders (Practice and Procedure), 1960
+     Year: 1960
+     Authority: East Pakistan High Court (P)
+     Parent Act: Code of Criminal Procedure, 1898 (Act V of 1898)
+     Description: Practice and procedure in criminal courts of East Pakistan;
+         bail procedures; charge framing; trial procedures; judgment format;
+         appeal procedures.
+     Status: IN FORCE with amendments
+
+3.   Title: Civil Rules and Orders (Practice and Procedure), 1960
+     Year: 1960
+     Authority: East Pakistan High Court (P)
+     Parent Act: Code of Civil Procedure, 1908 (Act V of 1908)
+     Description: Practice and procedure in civil courts; plaint and written
+         statement format; discovery and inspection; hearing procedures;
+         decree and order format; execution procedures.
+     Status: IN FORCE -- primary procedural guide for Bangladesh courts
+
+4.   Title: East Pakistan Special Powers Rules, 1958
+     Year: 1958
+     Authority: Government of East Pakistan (P)
+     Parent Act: East Pakistan Special Powers Ordinance, 1958
+     Description: Preventive detention; control of prejudicial activities;
+         detention procedures; review board.
+     Status: Framework carried into Special Powers Act, 1974
+
+5.   Title: Arms Rules, 1951 (Pakistan)
+     Year: 1951
+     Authority: Government of Pakistan (C)
+     Parent Act: Arms Act, 1878 (Act XI of 1878)
+     Description: Licensing of firearms; categories of weapons; prohibited
+         weapons; manufacture restrictions; transport permits; dealer
+         licensing.
+     Status: IN FORCE with amendments in Bangladesh
+
+6.   Title: Explosive Rules, 1951 (Pakistan Adaptation)
+     Year: 1951
+     Authority: Government of Pakistan (C)
+     Parent Act: Explosives Act, 1884 (Act IV of 1884)
+     Description: Manufacturing, storage, transport, and sale of explosives;
+         licensing requirements; safety standards; magazine construction.
+     Status: IN FORCE with amendments
+
+7.   Title: East Pakistan Jail Code (Revised), 1950
+     Year: 1950
+     Authority: Government of East Pakistan (P)
+     Parent Act: Prisons Act, 1894 (Act IX of 1894)
+     Description: Comprehensive prison administration manual: prisoner
+         classification (habitual, casual); admission and discharge;
+         discipline and punishment; remission and parole; diet and clothing;
+         medical care; female prisoners; juvenile offenders; under-trial
+         prisoners; condemned prisoners.
+     Status: IN FORCE -- primary jail administration manual in Bangladesh
+
+8.   Title: East Pakistan Corrupt Practices (Prevention) Rules, 1958
+     Year: 1958
+     Authority: Government of East Pakistan (P)
+     Parent Act: Prevention of Corruption Act, 1947 (Act II of 1947)
+     Description: Anti-corruption investigation procedures; trap cases;
+         prosecution authorization; anti-corruption department organization.
+     Status: Framework continued under Anti-Corruption Commission
+
+9.   Title: Probation of Offenders Rules, 1964 (East Pakistan)
+     Year: 1964
+     Authority: Government of East Pakistan (P)
+     Parent Act: Probation of Offenders Ordinance, 1960
+         (Ordinance XLV of 1960)
+     Description: Probation services; probation officer appointment and
+         duties; supervision of probationers; breach of probation.
+     Status: IN FORCE
+
+10.  Title: East Pakistan Suppression of Immoral Traffic Rules, 1964
+     Year: 1964
+     Authority: Government of East Pakistan (P)
+     Parent Act: Suppression of Immoral Traffic Act, 1933
+     Description: Anti-trafficking measures; rescue of victims; protective
+         homes; prosecution procedures.
+     Status: MODIFIED under subsequent legislation
+
+11.  Title: Legal Practitioners and Bar Council Rules, 1966
+     Year: 1966
+     Authority: Government of Pakistan / Bar Council (C)
+     Parent Act: Legal Practitioners and Bar Councils Act, 1965
+         (Act XXI of 1965)
+     Description: Enrollment of advocates; bar council governance; election
+         of bar council members; professional conduct rules; disciplinary
+         proceedings; continuing legal education.
+     Status: IN FORCE -- governs Bangladesh Bar Council
+
+12.  Title: East Pakistan Anti-Corruption Rules, 1962
+     Year: 1962
+     Authority: Government of East Pakistan (P)
+     Parent Act: Anti-corruption legislation
+     Description: Anti-corruption department procedures; investigation
+         methodology; coordination with police.
+     Status: SUPERSEDED by Anti-Corruption Commission framework
+
+13.  Title: Public Demands Recovery Rules, 1951 (East Pakistan)
+     Year: 1951
+     Authority: Government of East Pakistan (P)
+     Parent Act: Public Demands Recovery Act, 1913
+         (Bengal Act III of 1913)
+     Description: Recovery of government dues as arrears of land revenue;
+         certificate procedure; auction sale; distress warrant; attachment.
+     Status: IN FORCE -- widely used in Bangladesh revenue recovery
+
+14.  Title: East Pakistan Public Safety Ordinance Rules, 1958
+     Year: 1958
+     Authority: Government of East Pakistan (P)
+     Parent Act: East Pakistan Public Safety Ordinance, 1958
+     Description: Maintenance of public order; prohibitory orders; curfew
+         procedures; Section 144 CrPC equivalent powers.
+     Status: Framework partially continued
+
+15.  Title: East Pakistan Press and Publications Rules, 1963
+     Year: 1963
+     Authority: Government of East Pakistan (P)
+     Parent Act: Press and Publications Ordinance, 1963
+     Description: Registration of newspapers and printing presses; pre-
+         publication scrutiny provisions; press advisory system.
+     Status: SUPERSEDED by Printing Presses and Publications Act
+
+16.  Title: Cinematograph Rules, 1960 (East Pakistan)
+     Year: 1960
+     Authority: Government of East Pakistan (P)
+     Parent Act: Censorship of Films Act, 1963 / Bengal Cinematograph Rules
+     Description: Film censorship board composition and procedures; cinema
+         hall licensing; safety standards; classification of films.
+     Status: IN FORCE with amendments
+
+17.  Title: Civil Defence Rules (East Pakistan), 1952
+     Year: 1952
+     Authority: Government of Pakistan / East Pakistan (C/P)
+     Parent Act: Civil Defence Act, 1952
+     Description: Civil defence organization; air raid precautions; training;
+         volunteer recruitment.
+     Status: IN FORCE -- framework continued
+
+18.  Title: East Pakistan Village Defence Rules, 1962
+     Year: 1962
+     Authority: Government of East Pakistan (P)
+     Parent Act: Village Defence Act, 1918 (as adapted)
+     Description: Village defence parties; chowkidari (village watchman)
+         system; duties; remuneration.
+     Status: MODIFIED
+
+19.  Title: Whipping Rules, 1950 (adapted)
+     Year: 1950
+     Authority: Government of East Pakistan (P)
+     Parent Act: Whipping Act, 1909
+     Description: Corporal punishment procedures (now largely abolished).
+     Status: OBSOLETE
+
+20.  Title: Passport Rules, 1955 (Pakistan)
+     Year: 1955
+     Authority: Government of Pakistan (C)
+     Parent Act: Pakistan Passport Act, 1950
+     Description: Passport issuance, renewal, impounding, and cancellation
+         procedures; travel document categories.
+     Status: REPLACED by Bangladesh passport legislation
+
+21.  Title: East Pakistan Enemy Property (Custody and Registration)
+         Rules, 1966
+     Year: 1966
+     Authority: Government of East Pakistan (P)
+     Parent Act: Enemy Property (Custody and Registration) Order, 1965
+     Description: Custody and management of properties of persons who
+         migrated to India during and after 1965 war. Renamed "Vested
+         Property" after 1971.
+     Status: SUPERSEDED by Vested Property Return Act, 2001 -- historically
+         one of the most controversial legislative instruments affecting
+         Hindu minority properties in Bangladesh
+
+22.  Title: Press and Registration of Books Rules, 1951 (East Pakistan)
+     Year: 1951
+     Authority: Government of East Pakistan (P)
+     Parent Act: Press and Registration of Books Act, 1867 (Act XXV of 1867)
+     Description: Registration of printing presses, newspapers, and
+         periodicals; declaration filing; deposit of books.
+     Status: IN FORCE -- framework continued
+
+23.  Title: East Pakistan Official Secrets Rules, 1951
+     Year: 1951
+     Authority: Government of East Pakistan (P)
+     Parent Act: Official Secrets Act, 1923 (Act XIX of 1923)
+     Description: Protection of state secrets; classification of documents
+         (Top Secret, Secret, Confidential); security clearances.
+     Status: IN FORCE
+
+================================================================================
+SECTION N: FOREST, AGRICULTURE, AND FISHERIES RULES
+================================================================================
+
+1.   Title: East Pakistan Forest Rules, 1959
+     Year: 1959
+     Authority: Government of East Pakistan (P)
+     Parent Act: Forest Act, 1927 (Act XVI of 1927)
+     Description: Forest management and classification (reserved, protected,
+         village forests); timber harvesting permits; forest produce
+         licensing; forest offences and penalties; protected species;
+         Sundarbans management; hill forest management; forest settlement
+         procedures.
+     Status: IN FORCE -- governs Bangladesh Forest Department operations
+
+2.   Title: East Pakistan Timber Transit Rules, 1960
+     Year: 1960
+     Authority: Government of East Pakistan (P)
+     Parent Act: Forest Act, 1927
+     Description: Transit passes for timber movement; check posts; marking
+         requirements; penalties for unauthorized timber transport.
+     Status: IN FORCE
+
+3.   Title: East Pakistan Wildlife Preservation Rules, 1959
+     Year: 1959
+     Authority: Government of East Pakistan (P)
+     Parent Act: Wild Life (Preservation) Act, 1947 / East Pakistan Wild Life
+         (Preservation) Ordinance, 1959
+     Description: Wildlife protection; game reserves; hunting licenses;
+         protected species list; penalties for poaching.
+     Status: Framework continued under Bangladesh Wildlife (Conservation
+         and Security) Act, 2012
+
+4.   Title: East Pakistan Agricultural Development Corporation Rules, 1962
+     Year: 1962
+     Authority: Government of East Pakistan (P)
+     Parent Act: East Pakistan Agricultural Development Corporation
+         Ordinance, 1961
+     Description: Governance of EPADC (later BADC): agricultural input supply
+         (seeds, fertilizer, pesticides); mechanization programme; irrigation
+         equipment distribution; training of farmers.
+     Status: IN FORCE -- framework under BADC
+
+5.   Title: East Pakistan Irrigation Rules, 1963
+     Year: 1963
+     Authority: Government of East Pakistan (P)
+     Parent Act: East Pakistan Irrigation Act, 1956
+     Description: Irrigation canal management; water rates; distribution
+         schedules; maintenance responsibilities; water users' organizations.
+     Status: IN FORCE with amendments
+
+6.   Title: East Pakistan Agricultural Pests and Diseases Rules, 1966
+     Year: 1966
+     Authority: Government of East Pakistan (P)
+     Parent Act: Destructive Insects and Pests Act, 1914 (Act II of 1914)
+     Description: Plant quarantine procedures; pest control measures;
+         notification of outbreaks; import restrictions on plant materials.
+     Status: IN FORCE with modifications
+
+7.   Title: Fertilizer (Control) Rules, 1959
+     Year: 1959
+     Authority: Government of Pakistan / East Pakistan (C/P)
+     Parent Act: Fertilizer (Control) Order, 1959
+     Description: Distribution and pricing of chemical fertilizers; dealer
+         licensing; quality control; allocation between regions.
+     Status: MODIFIED and continued
+
+8.   Title: East Pakistan Tobacco (Control of Cultivation) Rules, 1960
+     Year: 1960
+     Authority: Government of East Pakistan (P)
+     Parent Act: Related tobacco legislation
+     Description: Regulation of tobacco cultivation areas; quality standards;
+         marketing controls.
+     Status: MODIFIED
+
+9.   Title: East Pakistan Fisheries Rules, 1951
+     Year: 1951
+     Authority: Government of East Bengal (P)
+     Parent Act: Bengal Fisheries Act, 1927 (Bengal Act II of 1927) /
+         Protection and Conservation of Fish Act, 1950
+     Description: Fishing rights; jalmohal (water body) leasing procedures;
+         fish conservation measures; prohibited fishing methods; seasonal
+         closures; licensing of fishermen.
+     Status: IN FORCE with amendments -- critical for Bangladesh fisheries
+
+10.  Title: East Pakistan Livestock and Poultry Improvement Rules, 1962
+     Year: 1962
+     Authority: Government of East Pakistan (P)
+     Parent Act: Related livestock legislation
+     Description: Cattle breeding; veterinary services; disease notification;
+         animal quarantine.
+     Status: MODIFIED
+
+11.  Title: East Pakistan Seeds Rules, 1966
+     Year: 1966
+     Authority: Government of East Pakistan (P)
+     Parent Act: Seeds Ordinance, 1961
+     Description: Seed certification; quality control; testing procedures;
+         approved varieties list; seed dealer licensing.
+     Status: IN FORCE -- framework continued
+
+12.  Title: Food Adulteration Rules, 1959 (East Pakistan)
+     Year: 1959
+     Authority: Government of East Pakistan (P)
+     Parent Act: Pure Food Ordinance, 1959 (East Pakistan Ordinance LXVIII
+         of 1959)
+     Description: Food safety standards; adulteration prevention; inspection
+         and sampling procedures; prosecution for adulteration; food analyst
+         appointment.
+     Status: Framework continued under Safe Food Act
+
+13.  Title: East Pakistan Rural Credit (Control) Rules, 1964
+     Year: 1964
+     Authority: Government of East Pakistan (P)
+     Parent Act: Agricultural loans legislation
+     Description: Rural credit through cooperatives; loan terms; recovery
+         procedures; interest rate caps.
+     Status: MODIFIED under microfinance/rural credit frameworks
+
+14.  Title: Canals and Drainage Rules (East Pakistan), 1952
+     Year: 1952
+     Authority: Government of East Pakistan (P)
+     Parent Act: Bengal Canals Act, 1864 / Irrigation Acts
+     Description: Canal management; water distribution; drainage maintenance;
+         sluice gate operation.
+     Status: IN FORCE -- framework continued
+
+15.  Title: East Pakistan Embankment and Drainage Rules, 1963
+     Year: 1963
+     Authority: Government of East Pakistan (P)
+     Parent Act: East Pakistan Embankment and Drainage Act, 1952
+     Description: Flood control embankment construction and maintenance;
+         drainage system management; water pumping station operation.
+     Status: IN FORCE -- critical for Bangladesh Water Development Board
+         operations
+
+================================================================================
+SECTION O: TRANSPORT, COMMUNICATION, AND INFRASTRUCTURE RULES
+================================================================================
+
+1.   Title: East Pakistan Motor Vehicles Rules, 1940 (Adapted)
+     Year: 1947 (adapted), amended through 1970
+     Authority: Government of East Pakistan (P)
+     Parent Act: Motor Vehicles Act, 1939 (Act IV of 1939)
+     Description: Motor vehicle registration; driving license issuance;
+         traffic rules; route permits; insurance requirements; vehicle
+         fitness certification; speed limits; load limits.
+     Status: IN FORCE -- core traffic regulation framework in Bangladesh
+         (pre-Road Transport Act, 2018)
+
+2.   Title: East Pakistan Inland Water Transport Authority Rules, 1959
+     Year: 1959
+     Authority: Government of East Pakistan (P)
+     Parent Act: East Pakistan Inland Water Transport Authority
+         Ordinance, 1958
+     Description: Inland waterway regulation; vessel registration and
+         licensing; route permits; navigation safety; cargo handling.
+     Status: IN FORCE under BIWTA framework
+
+3.   Title: Inland Shipping (Safety) Rules, 1960
+     Year: 1960
+     Authority: Government of East Pakistan (P)
+     Parent Act: Predecessor inland shipping legislation
+     Description: Safety standards for inland vessels; life-saving equipment;
+         fire safety; stability requirements; passenger capacity.
+     Status: IN FORCE with amendments
+
+4.   Title: East Pakistan Railway Rules (Adaptation), 1951
+     Year: 1951
+     Authority: Government of Pakistan (C)
+     Parent Act: Railways Act, 1890 (Act IX of 1890)
+     Description: Railway operations; passenger and goods traffic regulation;
+         safety standards; level crossing management; freight rates.
+     Status: IN FORCE under Bangladesh Railway framework
+
+5.   Title: Pakistan Post Office Rules, 1948
+     Year: 1948
+     Authority: Government of Pakistan (C)
+     Parent Act: Post Office Act, 1898 (Act VI of 1898)
+     Description: Postal services; mail delivery standards; postal rates;
+         money order procedures; postal savings.
+     Status: IN FORCE with amendments
+
+6.   Title: Telegraph Rules, 1951 (Pakistan)
+     Year: 1951
+     Authority: Government of Pakistan (C)
+     Parent Act: Telegraph Act, 1885 (Act XIII of 1885)
+     Description: Telegraph and telephone services; licensing of operators;
+         wire-laying rights; tariff setting.
+     Status: MODIFIED under Bangladesh telecommunications framework
+
+7.   Title: East Pakistan Roads and Highways Rules, 1960
+     Year: 1960
+     Authority: Government of East Pakistan (P)
+     Parent Act: Various public works legislation
+     Description: Road construction standards; road classification (national,
+         regional, district); maintenance procedures; right-of-way.
+     Status: IN FORCE -- framework under Roads and Highways Department
+
+8.   Title: Electricity Rules, 1952 (East Pakistan)
+     Year: 1952
+     Authority: Government of East Pakistan (P)
+     Parent Act: Electricity Act, 1910 (Act IX of 1910)
+     Description: Electrical installations; licensing of suppliers; safety
+         standards; meter testing; connection procedures; tariff framework;
+         theft of electricity; inspector powers.
+     Status: IN FORCE -- foundational for Bangladesh electricity regulation
+
+9.   Title: East Pakistan Aviation Rules, 1955
+     Year: 1955
+     Authority: Government of Pakistan (C)
+     Parent Act: Aircraft Act, 1934 (as adapted)
+     Description: Civil aviation; aerodrome licensing; pilot licensing;
+         aircraft registration; air safety.
+     Status: SUPERSEDED by Civil Aviation Authority framework
+
+10.  Title: Pakistan Merchant Shipping Rules, 1950
+     Year: 1950
+     Authority: Government of Pakistan (C)
+     Parent Act: Merchant Shipping Act, 1923
+     Description: Merchant shipping; vessel registration; crew qualifications;
+         safety standards; cargo handling; port clearance.
+     Status: IN FORCE with amendments in Bangladesh
+
+11.  Title: East Pakistan Ferries Rules, 1952
+     Year: 1952
+     Authority: Government of East Pakistan (P)
+     Parent Act: Bengal Ferries Act, 1885 (Bengal Act I of 1885)
+     Description: Ferry services; licensing; safety requirements; fare
+         setting; route designation.
+     Status: IN FORCE -- framework continued
+
+12.  Title: Chittagong Port Rules, 1960
+     Year: 1960
+     Authority: Government of Pakistan (C)
+     Parent Act: Ports Act, 1908 (Act XV of 1908)
+     Description: Port operations; shipping movements; cargo handling; pilotage;
+         port dues; anchorage; hazardous cargo procedures.
+     Status: IN FORCE under Chittagong Port Authority
+
+================================================================================
+SECTION P: BANKING AND FINANCIAL REGULATIONS
+================================================================================
+
+1.   Title: State Bank of Pakistan Regulations (as applicable to
+         East Pakistan), 1948-1970
+     Year: 1948-1970
+     Authority: State Bank of Pakistan (C)
+     Parent Act: State Bank of Pakistan Order, 1948
+     Description: Banking regulation; monetary policy implementation; credit
+         control; reserve requirements; SBP branch operations in East Pakistan
+         (Dhaka branch established 1949).
+     Status: SUPERSEDED by Bangladesh Bank Order, 1972
+
+2.   Title: Banking Companies Rules, 1963
+     Year: 1963
+     Authority: Government of Pakistan (C)
+     Parent Act: Banking Companies Ordinance, 1962 (Ordinance LVII of 1962)
+     Description: Commercial bank regulation; licensing; capital adequacy;
+         deposit insurance; inspection; audit requirements.
+     Status: IN FORCE -- framework continued under Bangladesh Bank
+
+3.   Title: Securities and Exchange Rules, 1969
+     Year: 1969
+     Authority: Government of Pakistan (C)
+     Parent Act: Securities and Exchange Ordinance, 1969
+     Description: Stock exchange regulation; securities trading; listing
+         requirements; broker licensing; investor protection; prospectus
+         requirements; insider trading restrictions.
+     Status: IN FORCE -- framework under Bangladesh Securities and Exchange
+         Commission (BSEC)
+
+4.   Title: Co-operative Credit Societies Rules, 1948 (East Bengal)
+     Year: 1948
+     Authority: Government of East Bengal (P)
+     Parent Act: Co-operative Societies Act, 1940
+     Description: Agricultural and rural credit cooperatives; membership;
+         loan procedures; interest rates; audit.
+     Status: IN FORCE -- framework continued
+
+5.   Title: Pakistan Insurance Rules, 1958
+     Year: 1958
+     Authority: Government of Pakistan (C)
+     Parent Act: Insurance Act, 1938 (Act IV of 1938)
+     Description: Insurance company regulation; licensing; actuarial
+         requirements; policyholder protection; claims settlement.
+     Status: IN FORCE -- framework under Insurance Development and
+         Regulatory Authority (IDRA)
+
+6.   Title: East Pakistan House Building Finance Corporation Rules, 1953
+     Year: 1953
+     Authority: Government of Pakistan / East Pakistan (C/P)
+     Parent Act: House Building Finance Corporation Act, 1952
+     Description: Housing loans; mortgage finance procedures; eligibility;
+         repayment terms; default procedures.
+     Status: IN FORCE under BHBFC framework
+
+7.   Title: Pakistan Industrial Credit and Investment Corporation Rules, 1957
+     Year: 1957
+     Authority: Government of Pakistan (C)
+     Parent Act: PICIC establishment legislation
+     Description: Industrial lending; investment promotion; term finance;
+         equity participation.
+     Status: SUPERSEDED by subsequent development finance institutions
+
+8.   Title: East Pakistan Government Savings Rules, 1949
+     Year: 1949
+     Authority: Government of East Pakistan (P)
+     Parent Act: Government Savings Certificates Act, 1947
+     Description: National savings schemes; savings certificates; defence
+         savings certificates; prize bonds; interest rates.
+     Status: IN FORCE under National Savings Directorate
+
+9.   Title: Small Loans (Recovery) Rules, 1951
+     Year: 1951
+     Authority: Government of East Pakistan (P)
+     Parent Act: Public Demands Recovery Act, 1913 / Small Loans Act
+     Description: Recovery of small institutional loans as public demand
+         through certificate procedure.
+     Status: IN FORCE -- framework continued
+
+10.  Title: Negotiable Instruments Rules, 1950 (East Pakistan)
+     Year: 1950
+     Authority: Government of East Pakistan (P)
+     Parent Act: Negotiable Instruments Act, 1881 (Act XXVI of 1881)
+     Description: Procedures for bills of exchange, cheques, promissory notes;
+         endorsement; acceptance; dishonour; noting and protest.
+     Status: IN FORCE
+
+11.  Title: East Bengal Co-operative Societies Rules, 1948
+     Year: 1948
+     Authority: Government of East Bengal (P)
+     Parent Act: Co-operative Societies Act, 1940 (Bengal Act XXI of 1940)
+     Description: Registration of cooperative societies; management;
+         general meetings; audit and inspection; disputes; winding up;
+         Registrar's powers.
+     Status: IN FORCE with amendments -- governs cooperative movement in
+         Bangladesh
+
+================================================================================
+SECTION Q: IMPORT/EXPORT AND CUSTOMS RULES
+================================================================================
+
+1.   Title: Imports and Exports (Control) Rules, 1950
+     Year: 1950
+     Authority: Government of Pakistan (C)
+     Parent Act: Imports and Exports (Control) Act, 1950
+         (Act XXXIX of 1950)
+     Description: Import licensing system; export controls; trade policy
+         administration; restricted items list; licensing categories.
+     Status: IN FORCE with extensive amendments -- foundational for
+         Bangladesh trade regulation
+
+2.   Title: Import Policy Orders (Annual), 1948-1970
+     Year: Annual
+     Authority: Government of Pakistan (C)
+     Parent Act: Imports and Exports (Control) Act, 1950
+     Description: Annual import policy specifying: permissible imports;
+         licensing categories (CCI&E); restricted items; industrial raw
+         material allocation; consumer goods quota.
+     Status: Framework continued in Bangladesh Import Policy Orders
+
+3.   Title: Export Policy Orders (Annual), 1948-1970
+     Year: Annual
+     Authority: Government of Pakistan (C)
+     Parent Act: Imports and Exports (Control) Act, 1950
+     Description: Export promotion measures; export licensing; bonded
+         warehouse provisions; jute and tea export procedures.
+     Status: Framework continued
+
+4.   Title: Foreign Exchange Regulations, 1947-1970
+     Year: Various
+     Authority: State Bank of Pakistan (C)
+     Parent Act: Foreign Exchange Regulation Act, 1947 (Act VII of 1947)
+     Description: Foreign exchange control; authorized dealers; remittance
+         rules; capital account restrictions; current account transactions.
+     Status: IN FORCE -- framework under Bangladesh Foreign Exchange
+         Regulation Act
+
+5.   Title: East Pakistan Jute Export Rules, 1952
+     Year: 1952
+     Authority: Government of East Pakistan (P)
+     Parent Act: Jute control legislation
+     Description: Jute export licensing; quality grading; shipping rules;
+         pre-shipment inspection.
+     Status: MODIFIED under Bangladesh jute export framework
+
+6.   Title: Customs (Valuation) Rules, 1960
+     Year: 1960
+     Authority: Government of Pakistan (C)
+     Parent Act: Customs Act / Sea Customs Act
+     Description: Customs valuation methodology; assessable value
+         determination; invoice verification; reference prices.
+     Status: MODIFIED under Customs Act, 1969 framework
+
+7.   Title: Customs (Warehousing) Rules, 1960
+     Year: 1960
+     Authority: Government of Pakistan (C)
+     Parent Act: Customs legislation
+     Description: Bonded warehouse licensing; storage conditions; duty
+         payment; re-export procedures.
+     Status: IN FORCE with amendments
+
+8.   Title: Customs (Baggage) Rules, 1957
+     Year: 1957
+     Authority: Government of Pakistan (C)
+     Parent Act: Customs legislation
+     Description: Personal baggage allowance for travellers; duty-free
+         allowance; declaration requirements.
+     Status: IN FORCE with amendments
+
+9.   Title: Export Bonus Scheme Rules, 1959
+     Year: 1959
+     Authority: Government of Pakistan (C)
+     Parent Act: Export Bonus Scheme Order, 1959
+     Description: Export incentive scheme using bonus voucher system;
+         tradeable import entitlements for exporters. Significant for
+         East Pakistan's jute and tea exporters.
+     Status: OBSOLETE -- scheme discontinued
+
+10.  Title: Chittagong Port Rules, 1960
+     (Also listed under Transport Section)
+     Year: 1960
+     Authority: Government of Pakistan (C)
+     Parent Act: Ports Act, 1908
+     Description: Chittagong port operations; cargo handling; pilotage.
+     Status: IN FORCE under Chittagong Port Authority
+
+================================================================================
+SECTION R: HEALTH AND SANITATION RULES
+================================================================================
+
+1.   Title: East Pakistan Drugs Rules, 1952
+     Year: 1952
+     Authority: Government of East Pakistan (P)
+     Parent Act: Drugs Act, 1940 (Act XXIII of 1940)
+     Description: Drug manufacturing licensing; import of drugs; sale and
+         distribution; quality control and testing; pharmacy licensing;
+         drug inspector powers; prohibited drugs.
+     Status: IN FORCE under Drug Administration framework
+
+2.   Title: East Pakistan Vaccination Rules, 1960
+     Year: 1960
+     Authority: Government of East Pakistan (P)
+     Parent Act: Vaccination Act, 1880 (Act XIII of 1880)
+     Description: Compulsory vaccination programmes; vaccination officers;
+         certificate issuance; penalties for non-compliance.
+     Status: MODIFIED
+
+3.   Title: East Pakistan Medical Registration Rules, 1960
+     Year: 1960
+     Authority: Government of East Pakistan (P)
+     Parent Act: Medical Council legislation
+     Description: Registration of medical practitioners; qualifications
+         required; renewal; disciplinary proceedings.
+     Status: IN FORCE under Bangladesh Medical and Dental Council (BMDC)
+
+4.   Title: East Pakistan Epidemic Diseases Rules, 1960
+     Year: 1960
+     Authority: Government of East Pakistan (P)
+     Parent Act: Epidemic Diseases Act, 1897 (Act III of 1897)
+     Description: Emergency powers for epidemic control; quarantine;
+         compulsory hospitalization; disinfection; notification requirements.
+     Status: IN FORCE
+
+5.   Title: Poison Rules, 1952 (East Pakistan)
+     Year: 1952
+     Authority: Government of East Pakistan (P)
+     Parent Act: Poison Act, 1919 (Act XII of 1919)
+     Description: Sale, storage, and transport of scheduled poisons;
+         licensing of poison dealers; labelling requirements.
+     Status: IN FORCE
+
+6.   Title: East Pakistan Public Health Rules
+     Year: 1950 (adapted from Bengal rules)
+     Authority: Government of East Pakistan (P)
+     Parent Act: Bengal Public Health Act / adapted provisions
+     Description: Public health standards; sanitation requirements; water
+         quality; food safety inspection; infectious disease control.
+     Status: IN FORCE -- framework continued
+
+================================================================================
+SECTION S: RELIGIOUS AND CHARITABLE ENDOWMENT RULES
+================================================================================
+
+1.   Title: Waqf Rules, 1962 (East Pakistan)
+     Year: 1962
+     Authority: Government of East Pakistan (P)
+     Parent Act: East Pakistan Waqfs Ordinance, 1962 (Ordinance I of 1962)
+     Description: Waqf property registration and management; Waqf
+         Administrator's powers; survey of waqf estates; income and
+         expenditure management; beneficiary rights; maintenance of waqf
+         properties; mosque and madrasah endowments.
+     Status: IN FORCE under Bangladesh Waqf Administration framework
+
+2.   Title: Hindu Religious and Charitable Endowments Rules
+     Year: 1950 (adapted)
+     Authority: Government of East Bengal (P)
+     Parent Act: Bengal Hindu Religious Endowments Act, 1934
+     Description: Management and supervision of Hindu religious endowments
+         (debottar property); temple management; trust administration.
+     Status: IN FORCE
+
+3.   Title: Societies Registration Rules, 1950 (East Bengal)
+     Year: 1950
+     Authority: Government of East Bengal (P)
+     Parent Act: Societies Registration Act, 1860 (Act XXI of 1860)
+     Description: Registration of voluntary societies and associations;
+         governance requirements; annual filings; dissolution procedures.
+     Status: IN FORCE
+
+4.   Title: East Pakistan Charitable and Religious Trust Rules, 1952
+     Year: 1952
+     Authority: Government of East Pakistan (P)
+     Parent Act: Charitable and Religious Trusts Act, 1920 (Act XIV of 1920)
+     Description: Registration of charitable trusts; administration and
+         accountability requirements; annual accounts.
+     Status: IN FORCE
+
+5.   Title: Voluntary Social Welfare Agencies (Registration and Control)
+         Rules, 1962
+     Year: 1962
+     Authority: Government of Pakistan / East Pakistan (C/P)
+     Parent Act: Voluntary Social Welfare Agencies (Registration and
+         Control) Ordinance, 1961 (Ordinance XLVI of 1961)
+     Description: Registration of NGOs and welfare agencies; regulatory
+         oversight; foreign donation controls; audit requirements.
+     Status: IN FORCE -- precursor to Bangladesh NGO regulatory framework
+
+================================================================================
+SECTION T: MISCELLANEOUS SUBORDINATE LEGISLATION
+================================================================================
+
+T.1  CITIZENSHIP AND IMMIGRATION
+--------------------------------------------------------------------------------
+
+1.   Title: Pakistan Citizenship Rules, 1952
+     Year: 1952
+     Authority: Government of Pakistan (C)
+     Parent Act: Pakistan Citizenship Act, 1951
+     Description: Citizenship acquisition by birth, descent, registration,
+         and naturalization; dual citizenship provisions; loss of citizenship.
+     Status: SUPERSEDED by Bangladesh citizenship framework
+
+2.   Title: Foreigners Rules, 1951 (Pakistan)
+     Year: 1951
+     Authority: Government of Pakistan (C)
+     Parent Act: Foreigners Act, 1946 (Act XXXI of 1946)
+     Description: Registration of foreigners; visa categories; movement
+         restrictions; reporting requirements.
+     Status: IN FORCE -- framework under Bangladesh foreigners legislation
+
+T.2  LAND ACQUISITION AND PUBLIC WORKS
+--------------------------------------------------------------------------------
+
+3.   Title: East Pakistan Public Works Department Code/Rules, 1962
+     Year: 1962
+     Authority: Government of East Pakistan (P)
+     Parent Act: Administrative orders
+     Description: PWD operational procedures; contract management; construction
+         standards; tender procedures; work measurement.
+     Status: IN FORCE with amendments
+
+4.   Title: Requisition of Property Rules, 1952 (East Pakistan)
+     Year: 1952
+     Authority: Government of East Pakistan (P)
+     Parent Act: East Bengal (Emergency) Requisition of Property Act, 1948
+     Description: Government requisition of private property for public
+         purposes; compensation; release procedures.
+     Status: IN FORCE
+
+T.3  NATURAL RESOURCES AND ENVIRONMENT
+--------------------------------------------------------------------------------
+
+5.   Title: Petroleum Rules, 1951 (Pakistan)
+     Year: 1951
+     Authority: Government of Pakistan (C)
+     Parent Act: Petroleum Act, 1934 (Act XXX of 1934)
+     Description: Storage, transport, and sale of petroleum products;
+         licensing; safety standards; tank construction.
+     Status: IN FORCE with amendments
+
+6.   Title: East Pakistan Mining Concession Rules, 1959
+     Year: 1959
+     Authority: Government of East Pakistan (P)
+     Parent Act: Mines and Minerals (Regulation and Development) Act, 1948
+     Description: Mining leases; exploration licenses; royalties; safety
+         standards; environmental requirements.
+     Status: IN FORCE -- framework under Bangladesh mining laws
+
+7.   Title: Gas Safety Rules, 1960 (East Pakistan)
+     Year: 1960
+     Authority: Government of East Pakistan (P)
+     Parent Act: Gas Act/Rules framework
+     Description: Natural gas safety; pipeline standards; domestic and
+         industrial connection; gas metre standards.
+     Status: IN FORCE with amendments
+
+T.4  PROPERTY AND ABANDONED/ENEMY PROPERTY
+--------------------------------------------------------------------------------
+
+8.   Title: East Pakistan Abandoned Property (Control, Management and
+         Disposal) Rules, 1965
+     Year: 1965
+     Authority: Government of East Pakistan (P)
+     Parent Act: East Pakistan Abandoned Property (Control, Management and
+         Disposal) Order, 1965
+     Description: Management of properties abandoned during communal tensions
+         and the 1965 Indo-Pakistan war; custody procedures; eventual disposal.
+     Status: See Vested Property framework
+
+T.5  OTHER MISCELLANEOUS
+--------------------------------------------------------------------------------
+
+9.   Title: East Pakistan Hotel and Restaurant Licensing Rules, 1960
+     Year: 1960
+     Authority: Government of East Pakistan (P)
+     Parent Act: Related licensing legislation
+     Description: Hotel and restaurant licensing; hygiene and safety
+         standards; guest registration.
+     Status: MODIFIED
+
+10.  Title: East Pakistan Fire Services Rules, 1960
+     Year: 1960
+     Authority: Government of East Pakistan (P)
+     Parent Act: Fire Services Act / administrative orders
+     Description: Fire brigade organization; equipment standards; response
+         procedures; fire prevention inspections.
+     Status: MODIFIED and continued
+
+================================================================================
+SUMMARY STATISTICS
+================================================================================
+
+Total subordinate legislation instruments identified in this compilation:
+
+Category                                                | Count | In Force
+--------------------------------------------------------|-------|--------
+A. Constitutional/Adaptation Orders                      |   18 |    0
+B. Land, Revenue, and Tenancy Rules                     |   15 |   10
+C. Family and Personal Law Rules                        |    8 |    7
+D. Education Rules and Regulations                      |   12 |    8
+E. Municipal/Local Government Rules and By-Laws         |   15 |    3
+F. Public Service and Civil Service Rules               |   18 |   14
+G. Labour and Industrial Rules                          |   14 |    5
+H. Revenue, Tax, and Financial Rules                    |   17 |   10
+I. Trade, Commerce, and Industry Rules                  |   15 |    5
+J. Basic Democracies Rules                              |   10 |    0
+K. Martial Law Regulations and Orders                   |   11 |    0
+L. Military/Defence Rules                               |    5 |    0
+M. Criminal Law, Police, and Public Order Rules         |   23 |   13
+N. Forest, Agriculture, and Fisheries Rules             |   15 |   12
+O. Transport, Communication, Infrastructure Rules       |   12 |    9
+P. Banking and Financial Regulations                    |   11 |    8
+Q. Import/Export and Customs Rules                      |   10 |    6
+R. Health and Sanitation Rules                          |    6 |    5
+S. Religious and Charitable Endowment Rules             |    5 |    5
+T. Miscellaneous                                        |   10 |    7
+--------------------------------------------------------|-------|--------
+TOTAL IDENTIFIED                                        |  250 |  127
+
+NOTE: This compilation identifies the major and most significant subordinate
+legislation instruments. Based on scholarly estimates, the total number of
+individual SROs, notifications, orders, rules, and by-laws from 1947-1970
+applicable to East Pakistan likely numbers between 1,500 and 3,000 instruments.
+A complete identification would require systematic gazette-by-gazette review
+of the East Pakistan Gazette and Gazette of Pakistan (1947-1970).
+
+================================================================================
+KEY ARCHIVAL SOURCES FOR VERIFICATION
+================================================================================
+
+1.  The Dhaka Gazette (formerly East Bengal/East Pakistan Gazette) --
+    Extraordinary and Ordinary issues (1947-1971)
+2.  The Gazette of Pakistan -- Central government subordinate legislation
+3.  Bangladesh Code (volumes covering pre-1971 legislation)
+4.  East Pakistan Statutory Rules and Orders (SRO) Register
+5.  Pakistan Legal Decisions (PLD) -- Annual volumes 1947-1971
+6.  Dacca Law Reports (DLR) -- Case law interpreting subordinate legislation
+7.  bdlaws.minlaw.gov.bd -- Official Laws of Bangladesh online database
+8.  National Archives of Bangladesh, Agargaon, Dhaka
+9.  Bangladesh Parliament Library, Jatiya Sangsad Bhaban
+10. Supreme Court Library, Dhaka
+
+================================================================================
+LEGAL CONTINUITY NOTE
+================================================================================
+
+Under Article 149 of the Constitution of the People's Republic of Bangladesh
+(1972), and by virtue of:
+- Laws Continuance Enforcement Order, 1971
+- Bangladesh (Adaptation of Existing Laws) Order, 1972 (P.O. No. 48 of 1972)
+- Bangladesh Laws Revision and Declaration Act, 1973 (Act VIII of 1973)
+
+All Pakistan-era subordinate legislations continued in force in Bangladesh
+subject to necessary modifications (replacing "Pakistan" with "Bangladesh,"
+"East Pakistan/East Bengal" with "Bangladesh," "Governor" with "President,"
+etc.) and specific repeals or amendments made from time to time.
+
+Of the 250+ instruments identified in this compilation, approximately 127
+remain in force in Bangladesh in whole or in substantial part, making this
+the most practically significant body of subordinate legislation in the
+SD-1 Code.
+
+================================================================================
+PRIORITY CLASSIFICATION FOR CODIFICATION
+================================================================================
+
+HIGH PRIORITY (still widely operative and frequently applied):
+- East Bengal State Acquisition and Tenancy Rules, 1951
+- Muslim Family Laws Rules, 1961
+- Government Servants (Conduct) Rules, 1964
+- Government Servants (Efficiency and Discipline) Rules, 1960
+- Income Tax Rules, 1962
+- East Pakistan Police Rules, 1950
+- Criminal Rules and Orders (Practice and Procedure), 1960
+- Civil Rules and Orders (Practice and Procedure), 1960
+- Fundamental Rules and Supplementary Rules (FR & SR)
+- Civil Service Rules (all volumes)
+- East Pakistan Forest Rules, 1959
+- Customs Rules, 1969
+
+MEDIUM PRIORITY (partially operative or foundational):
+- East Pakistan Intermediate and Secondary Education Rules, 1964
+- Municipal Administration Rules, 1960
+- Industrial Relations Rules, 1969
+- Banking Companies Rules, 1963
+- East Pakistan Motor Vehicles Rules
+- Securities and Exchange Rules, 1969
+- East Pakistan Fisheries Rules, 1951
+- East Pakistan Factories Rules, 1951
+
+LOWER PRIORITY (largely historical but needed for completeness):
+- All Martial Law Regulations and Orders
+- Basic Democracies Rules
+- Adaptation Orders (1947-1962)
+- Constitution-related procedural rules
+
+================================================================================
+           END OF COMPREHENSIVE LIST
+================================================================================
+
+Prepared by: The Legal Empire
+For: Package SD-1 (1799-1970) -- Code of Delegated/Subordinate Legislation
+Version: 1.0
+Date: March 2026
+
+================================================================================

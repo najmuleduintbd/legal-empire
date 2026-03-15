@@ -1,0 +1,967 @@
+================================================================================
+COMPREHENSIVE LIST OF SUBORDINATE LEGISLATION UNDER BRITISH INDIA ACTS (1858-1900)
+APPLICABLE TO BENGAL / PRESENT-DAY BANGLADESH
+================================================================================
+
+Compiled: 15 March 2026
+Scope: Rules, Regulations, Orders, Notifications, and By-Laws made under 21 parent
+Acts of the British India period (1860-1899) with applicability to the Bengal
+Presidency and/or the territory of present-day Bangladesh.
+
+NOTE ON METHODOLOGY: This compilation draws on the Bangladesh Laws portal
+(bdlaws.minlaw.gov.bd), India Code (indiacode.nic.in), historical legal manuals
+archived at archive.org and HathiTrust, the Banglapedia encyclopaedia, and
+secondary legal scholarship. Where a specific subordinate instrument is known
+by title and date it is listed individually; where the enabling provision is
+known but individual instruments were issued ad hoc by notification (e.g.,
+epidemic-disease regulations, gazetted exemption orders), the class of
+instrument is described with known examples.
+
+================================================================================
+1. INDIAN PENAL CODE, 1860 (Act No. XLV of 1860)
+================================================================================
+
+The Indian Penal Code is a substantive criminal law statute. It does not itself
+contain rule-making powers in the conventional sense (i.e., it does not delegate
+power to the executive to make "rules" under the Act). Subordinate instruments
+connected with the IPC therefore take the form of:
+
+1.1  Government Notifications Specifying or Extending Application
+     - Notification extending the IPC to Scheduled Districts and newly
+       acquired territories in Bengal (various dates, 1860s-1890s).
+     - Authority: Governor-General in Council / Lieutenant-Governor of Bengal.
+     - Status: Spent (territories long since integrated).
+
+1.2  Notifications under Section 294A (Lotteries)
+     - Notifications by the Local Government authorising or prohibiting
+       specific lotteries in Bengal.
+     - Authority: Lieutenant-Governor of Bengal.
+     - Status: Historical; section subsequently amended.
+
+1.3  Notifications Declaring "Public Servants" (Section 21)
+     - Various gazette notifications declaring classes of persons to be
+       "public servants" for purposes of the IPC.
+     - Authority: Governor-General in Council.
+     - Year: Multiple, from 1860 onward.
+     - Status: Superseded by subsequent legislation in Bangladesh (the Penal
+       Code, 1860 remains in force in Bangladesh with amendments).
+
+Current Status of Parent Act: IN FORCE in Bangladesh (as "The Penal Code, 1860").
+In India, replaced by Bharatiya Nyaya Sanhita, 2023 (effective 1 July 2024).
+
+================================================================================
+2. POLICE ACT, 1861 (Act No. V of 1861)
+================================================================================
+
+The Police Act 1861 is the foundational police organisation statute. It confers
+extensive rule-making and regulation-making powers on the Inspector-General,
+the Local Government, and the District Magistrate.
+
+2.1  POLICE REGULATIONS OF BENGAL (PRB), 1943
+     - Full Title: Police Regulations, Bengal, 1943
+     - Year of Promulgation: 1943 (consolidated earlier regulations dating
+       from the 1860s onward)
+     - Authority: Inspector-General of Police, Bengal, with the sanction of
+       the Government of Bengal
+     - Description: Comprehensive statutory regulations governing the
+       organisation, administration, discipline, duties, and procedures of
+       the Bengal Police. Contains 26 chapters and 1,290 regulations (sections).
+     - Structure (Chapters):
+       Chapter I    - Organisation
+       Chapter II   - Relations with Other Departments
+       Chapter III  - Direction and Control
+       Chapter IV   - Privileges and General Instructions
+       Chapter V    - Circle Inspectors
+       Chapter VI   - The Police-Station
+       Chapter VII  - Court Police
+       Chapter VIII - Railway Police
+       Chapter IX   - Criminal Investigation Department
+       Chapter X    - Establishments
+       Chapter XI   - Special Armed Force
+       Chapter XII  - Appointment, Recruitment and Promotion
+       Chapter XIII - Pay, Increments and Allowances
+       Chapter XIV  - Training and Examination
+       Chapter XV   - Leave, Postings and Transfers
+       Chapter XVI  - Resignation, Retirement, Pension and Gratuity
+       Chapter XVII - Discipline and Punishments
+       Chapter XVIII- Appeals
+       Chapter XIX  - Uniform and Clothing
+       Chapter XX   - Arms, Ammunition and Stores
+       Chapter XXI  - Buildings
+       Chapter XXII - Transport
+       Chapter XXIII- Accounts and Budget
+       Chapter XXIV - Miscellaneous
+       Chapter XXV  - Reports, Returns and Statistics
+       Chapter XXVI - Furniture, Forms, Stationery and Stamps
+     - Current Status: IN FORCE in Bangladesh (adapted post-1971).
+       Also in force (with modifications) in West Bengal, India.
+
+2.2  Earlier Police Regulations and Rules (Pre-1943)
+     - Police Regulations, Bengal (original compilation, various editions
+       from 1860s-1930s) - consolidated into the 1943 edition.
+     - Bengal Police Manual (various editions).
+     - Authority: Inspector-General of Police, Bengal.
+     - Status: SUPERSEDED by the 1943 consolidation.
+
+2.3  Rules under Section 12 (Village Police / Chaukidari)
+     - Chaukidari Rules for Bengal.
+     - Rules for appointment, payment, and control of village watchmen.
+     - Authority: Local Government (Government of Bengal).
+     - Status: SUPERSEDED by subsequent local government legislation.
+
+2.4  Police Orders (Standing Orders)
+     - Issued periodically by the Inspector-General of Police, Bengal.
+     - West Bengal Police Orders (1962 series onward) continue this tradition.
+     - Bangladesh Police Orders continue separately.
+     - Status: Ongoing series; individual orders may be in force or superseded.
+
+2.5  Notifications under Section 15 (Special Police Officers)
+     - Notifications appointing special police officers in Bengal during
+       emergencies, riots, etc.
+     - Authority: District Magistrate / Local Government.
+     - Status: Individual notifications spent; power continues.
+
+Current Status of Parent Act: IN FORCE in Bangladesh. In India, replaced state
+by state (West Bengal Police Act not yet enacted; the 1861 Act remains applicable).
+
+================================================================================
+3. INDIAN EVIDENCE ACT, 1872 (Act No. I of 1872)
+================================================================================
+
+The Indian Evidence Act is a substantive-procedural law governing admissibility
+of evidence. Like the IPC, it contains very limited rule-making delegation. The
+High Court's power to make rules of procedure touching on evidentiary matters
+derives from the Code of Civil Procedure and Criminal Procedure, not from the
+Evidence Act itself.
+
+3.1  No Separate Subordinate Legislation (Rules/Regulations)
+     - The Evidence Act does not delegate rule-making power to the executive.
+     - Procedural rules concerning the reception of evidence are contained in
+       the High Court Rules (made under CPC and CrPC, not under the Evidence
+       Act per se).
+
+3.2  Government Notifications
+     - Notifications under Section 78 (proof of documents by production of
+       certified copies) -- Government of Bengal notifications designating
+       officers authorised to certify copies.
+     - Notifications under Section 86 (presumption as to certified copies of
+       foreign judicial records) -- Central Government notifications.
+     - Status: Superseded by subsequent notifications; power continues.
+
+Current Status of Parent Act: IN FORCE in Bangladesh (as "The Evidence Act, 1872").
+In India, replaced by Bharatiya Sakshya Adhiniyam, 2023 (effective 1 July 2024).
+
+================================================================================
+4. INDIAN CONTRACT ACT, 1872 (Act No. IX of 1872)
+================================================================================
+
+The Indian Contract Act is a substantive law of obligations. It does not contain
+any rule-making provision or delegation to the executive to make subordinate
+legislation.
+
+4.1  No Subordinate Legislation
+     - The Act contains no section empowering the Government or any authority
+       to make rules, regulations, or notifications of a legislative character.
+     - All matters are dealt with substantively in the Act itself.
+
+Current Status of Parent Act: IN FORCE in Bangladesh (as "The Contract Act, 1872").
+In India, the original Act continues in force.
+
+================================================================================
+5. INDIAN MAJORITY ACT, 1875 (Act No. IX of 1875)
+================================================================================
+
+A short statute (only 4 substantive sections) fixing the age of majority.
+
+5.1  No Subordinate Legislation
+     - The Act does not delegate any rule-making power.
+     - No rules, regulations, or notifications of legislative character were
+       made under this Act.
+
+Current Status of Parent Act: IN FORCE in Bangladesh (as "The Majority Act, 1875").
+In India, the original Act continues in force.
+
+================================================================================
+6. SPECIFIC RELIEF ACT, 1877 (Act No. I of 1877)
+================================================================================
+
+A substantive-remedial statute providing for specific performance of contracts,
+rectification, cancellation, declaratory decrees, and injunctions.
+
+6.1  No Subordinate Legislation (Rules/Regulations)
+     - The Act does not contain provisions for executive rule-making.
+     - Procedural matters relating to specific relief are governed by rules of
+       court made under the Code of Civil Procedure, not under this Act.
+
+6.2  Notifications Extending Application
+     - Notifications by the Governor-General in Council extending the Act to
+       territories in Bengal not originally covered.
+     - Status: Spent.
+
+Current Status of Parent Act: IN FORCE in Bangladesh (as "The Specific Relief Act,
+1877"). In India, replaced by the Specific Relief Act, 1963.
+
+================================================================================
+7. INDIAN TREASURE TROVE ACT, 1878 (Act No. VI of 1878)
+================================================================================
+
+7.1  Notifications under Section 4 (Publication of Treasure Found)
+     - Individual notifications by District Collectors publishing details of
+       treasure found, requiring claimants to appear.
+     - Authority: Collector of the district.
+     - Year: Various (ongoing under the Act).
+     - Status: Individual notifications are spent upon conclusion of
+       proceedings; the notification-making power continues.
+
+7.2  Rules under Section 15 (Power to Make Rules)
+     - Title: Rules under the Treasure Trove Act (Bengal)
+     - Authority: Local Government (Government of Bengal)
+     - Description: Rules prescribing the procedure for Collectors in dealing
+       with treasure trove, forms of notification, and mode of disposal.
+     - Year: Rules first framed in the 1880s; revised periodically.
+     - Status: IN FORCE in Bangladesh (adapted). The power to make rules
+       continues under the Act.
+
+7.3  Notifications Declaring Treasure Ownerless
+     - Notifications by Collectors declaring specific treasure to be ownerless
+       property vesting in the Government.
+     - Authority: Collector.
+     - Status: Individual notifications spent; power continues.
+
+Current Status of Parent Act: IN FORCE in Bangladesh (as "The Treasure Trove Act,
+1878").
+
+================================================================================
+8. INDIAN ARMS ACT, 1878 (Act No. XI of 1878)
+================================================================================
+
+8.1  INDIAN ARMS RULES, 1924
+     - Full Title: The Indian Arms Rules, 1924
+     - Year of Promulgation: 1924 (made under sections 27 and 29 of the
+       Indian Arms Act, 1878, as amended by Acts XX of 1919 and XVIII of 1920)
+     - Authority: Governor-General in Council
+     - Description: Comprehensive rules prescribing the forms and conditions
+       for firearms licenses, the officers empowered to grant licenses,
+       exemptions, fees, and schedules of prohibited and permitted arms.
+     - Key Schedules:
+       Schedule I   - Arms and ammunition exempted from the operation of the Act
+       Schedule II  - Arms and ammunition exempted from licensing requirements
+       Schedule III - Persons exempted from licensing requirements
+       Schedule IV  - Withdrawal of exemptions for specified areas
+     - Status: REPEALED in India by the Arms Act, 1959, and Arms Rules, 1962.
+       In Bangladesh, SUPERSEDED by the Arms Act, 1878 as adapted, and
+       subsequent Bangladesh arms legislation.
+
+8.2  BENGAL ARMS ACT MANUAL, 1924 (as modified up to June 1933)
+     - Full Title: Government of Bengal, Police Department, The Bengal Arms
+       Act Manual, 1924, as modified up to June 1933
+     - Authority: Government of Bengal, Police Department
+     - Description: Departmental compilation consolidating the Arms Act, Arms
+       Rules, and all Bengal-specific notifications, exemptions, circulars,
+       and executive instructions relating to arms in Bengal.
+     - Status: SUPERSEDED.
+
+8.3  Notifications under Section 27 (Exemptions and Withdrawals)
+     - Numerous gazette notifications by the Governor-General in Council and
+       the Local Government granting or withdrawing exemptions for particular
+       classes of persons, particular areas, or particular types of arms.
+     - Authority: Governor-General in Council / Government of Bengal.
+     - Status: SUPERSEDED by subsequent arms legislation.
+
+8.4  Bengal-Specific Amending Legislation Affecting Arms Rules
+     - Bengal Criminal Law (Arms and Explosives) Act, 1932
+     - Bengal Criminal Law (Amendment) Act, 1934 (Ben. Act VII of 1934)
+       -- Inserted sections 19A and 20A into the Arms Act as applied to Bengal.
+     - Status: REPEALED / SUPERSEDED.
+
+Current Status of Parent Act: IN FORCE in Bangladesh (as "The Arms Act, 1878"
+with amendments). In India, REPEALED by the Arms Act, 1959.
+
+================================================================================
+9. NEGOTIABLE INSTRUMENTS ACT, 1881 (Act No. XXVI of 1881)
+================================================================================
+
+9.1  No Subordinate Legislation (Rules/Regulations)
+     - The Negotiable Instruments Act does not contain provisions empowering
+       the Government to make rules or regulations.
+     - The Act is self-contained in its substantive and procedural provisions
+       relating to promissory notes, bills of exchange, and cheques.
+
+9.2  Notifications under Section 25 (Bank Holidays / Public Holidays)
+     - Notifications by the Local Government declaring days to be public
+       holidays for the purposes of the Act (days on which negotiable
+       instruments falling due need not be paid).
+     - Authority: Local Government (Government of Bengal).
+     - Year: Various, issued periodically.
+     - Status: Power continues; individual notifications superseded annually.
+
+Current Status of Parent Act: IN FORCE in Bangladesh (as "The Negotiable
+Instruments Act, 1881"). In India, the Act continues with amendments.
+
+================================================================================
+10. TRANSFER OF PROPERTY ACT, 1882 (Act No. IV of 1882)
+================================================================================
+
+10.1 No General Subordinate Legislation
+     - The Transfer of Property Act does not delegate general rule-making
+       power to the executive.
+
+10.2 Notifications under Section 3 (Definition Notifications)
+     - Notifications by the Local Government defining "immovable property"
+       inclusions, registered/unregistered instruments, etc.
+     - Status: Power continues.
+
+10.3 Notifications under Section 54 (Transfer by Registered Instrument)
+     - Notifications by the Government specifying the value threshold above
+       which transfer of tangible immovable property must be by registered
+       instrument.
+     - Authority: Local Government.
+     - Status: Various notifications; power continues.
+
+10.4 Interaction with Bengal Tenancy Act
+     - Transfer of agricultural land in Bengal was governed primarily by the
+       Bengal Tenancy Act, 1885, not by the Transfer of Property Act. The
+       TPA applied to non-agricultural land and buildings.
+
+Current Status of Parent Act: IN FORCE in Bangladesh (as "The Transfer of
+Property Act, 1882").
+
+================================================================================
+11. INDIAN TRUSTS ACT, 1882 (Act No. II of 1882)
+================================================================================
+
+11.1 No Subordinate Legislation
+     - The Indian Trusts Act, 1882 does not contain any rule-making power
+       delegated to the Government or any other authority.
+     - The Act deals with private trusts and is entirely self-contained.
+
+11.2 Note on Application to Bengal
+     - The Trusts Act was not initially extended to the whole of Bengal;
+       notifications extending the Act to various parts of Bengal were issued
+       by the Governor-General in Council.
+     - Status: Spent notifications; the Act now extends to all of Bangladesh.
+
+Current Status of Parent Act: IN FORCE in Bangladesh (as "The Trusts Act, 1882").
+Note: The Act was never extended to the whole of Bangladesh/East Bengal -- it
+applies only where specifically extended. In India, the Act continues in force.
+
+================================================================================
+12. INDIAN EASEMENTS ACT, 1882 (Act No. V of 1882)
+================================================================================
+
+12.1 No Subordinate Legislation
+     - The Indian Easements Act does not contain any provision delegating
+       rule-making power to the Government or any authority.
+     - The Act is substantive law dealing with easement rights and is
+       entirely self-contained.
+
+12.2 Note on Application
+     - The Easements Act was not extended to the whole of British India. In
+       Bengal, its application was limited. Notifications extending the Act
+       to specific areas of Bengal were issued from time to time.
+     - Status: The Act applies in Bangladesh to the extent of prior extensions.
+
+Current Status of Parent Act: IN FORCE in Bangladesh (as "The Easements Act, 1882").
+
+================================================================================
+13. BENGAL TENANCY ACT, 1885 (Bengal Act No. VIII of 1885)
+================================================================================
+
+This Act is the most prolific generator of subordinate legislation among all the
+Acts listed here. Being a provincial (Bengal) Act dealing with the complex land
+tenure system, it required extensive subordinate instruments.
+
+13.1 GOVERNMENT RULES UNDER THE BENGAL TENANCY ACT
+     - Full Title: Government Rules under the Bengal Tenancy Act, 1885
+     - Year: First framed 1885-1886; revised and consolidated periodically
+       (notably 1889, 1898, 1920, 1935)
+     - Authority: Local Government (Government of Bengal), under powers
+       conferred by multiple sections of the Act
+     - Description: Comprehensive rules prescribing procedures for:
+       (a) Survey and settlement operations (under Chapters X and XA)
+       (b) Preparation and maintenance of records-of-rights
+       (c) Rent enhancement and reduction proceedings
+       (d) Commutation of rents
+       (e) Transfer of tenancies and pre-emption
+       (f) Forms and registers for revenue officers
+       (g) Procedure for Collectors in dealing with landlord-tenant disputes
+     - Published in: Appendix A of the Bengal Survey and Settlement Manual, 1935
+     - Status: SUPERSEDED in Bangladesh by the East Bengal State Acquisition
+       and Tenancy Act, 1950, and its rules. Portions may still have residual
+       applicability. In West Bengal, superseded by subsequent legislation.
+
+13.2 HIGH COURT RULES UNDER THE BENGAL TENANCY ACT
+     - Full Title: Rules of the Calcutta High Court under the Bengal Tenancy
+       Act, 1885
+     - Year: Various editions from 1886 onward
+     - Authority: High Court at Calcutta (under sections delegating procedural
+       rule-making to the High Court)
+     - Description: Rules governing:
+       (a) Procedure in civil courts for suits under the Act
+       (b) Appeals and revisions in tenancy matters
+       (c) Forms of pleadings and decrees in tenancy suits
+       (d) Reference of questions to the High Court
+     - Published in: Appendix III of annotated editions of the Act (Rampini,
+       Finucane, and other commentators)
+     - Status: SUPERSEDED by subsequent High Court rules and by the EBSAT Act, 1950.
+
+13.3 REGISTRATION DEPARTMENT RULES
+     - Full Title: Rules of the Registration Department under the Bengal
+       Tenancy Act, 1885
+     - Authority: Inspector-General of Registration, Bengal
+     - Description: Rules prescribing:
+       (a) Registration of pattas (leases) and kabooliyats (acceptances)
+       (b) Registration of transfers of tenancy interests
+       (c) Maintenance of registers of tenancies
+     - Status: SUPERSEDED.
+
+13.4 BOARD OF REVENUE FORMS AND INSTRUCTIONS
+     - Full Title: Forms of Registers under the Bengal Tenancy Act prescribed
+       by the Board of Revenue, with Board of Revenue Instructions
+     - Authority: Board of Revenue, Bengal
+     - Description: Prescribed forms including:
+       (a) Khatian (record-of-rights) forms -- working form and final form
+       (b) Khasra (field-book / plot register) forms
+       (c) Statistical registers
+       (d) Revenue assessment forms
+     - Published in: Appendix II of annotated editions; also in Bengal Survey
+       and Settlement Manual, 1935
+     - Status: SUPERSEDED (forms updated under EBSAT Act, 1950).
+
+13.5 NOTIFICATIONS EXTENDING THE ACT TO NEW AREAS
+     - Notification No. 963 T.R., dated 5 November 1898: Extended the Bengal
+       Tenancy Act to the whole of the Jalpaiguri district (except the Western
+       Duars) with effect from 1 January 1899, subject to restrictions and
+       modifications.
+     - Various other notifications extending the Act to Scheduled Districts,
+       Chittagong Hill Tracts, and other areas.
+     - Authority: Lieutenant-Governor of Bengal.
+     - Status: Spent (areas now covered by superseding legislation).
+
+13.6 NOTIFICATIONS UNDER SECTION 49 (RENT RATES)
+     - Notifications fixing or revising rent rates for specific areas.
+     - Authority: Local Government / Board of Revenue.
+     - Status: SUPERSEDED.
+
+13.7 BENGAL SURVEY AND SETTLEMENT MANUAL, 1935
+     - Full Title: The Bengal Survey and Settlement Manual, 1935
+     - Year: 1935
+     - Authority: Government of Bengal, Revenue Department
+     - Description: Comprehensive administrative manual consolidating all
+       rules, notifications, forms, and procedures for conducting survey and
+       settlement operations under the Bengal Tenancy Act and allied
+       legislation. Contains:
+       Part I   - General (history, legislation, organisation)
+       Part II  - Survey (traverses, maps, boundaries)
+       Part III - Settlement (record-of-rights, rent, attestation)
+       Part IV  - Special subjects (partition, diluvion, alluvion)
+       Appendix A - Government Rules under the Bengal Tenancy Act
+       Appendix B - Standard Notifications (i), (ii), and (iii)
+       Appendix C-O - Various supplementary materials
+       Appendix X - Complete list of prescribed forms
+     - Status: IN FORCE in Bangladesh to the extent not superseded. Used as
+       reference by the Department of Land Records and Surveys (DLRS),
+       Bangladesh.
+
+13.8 BENGAL TENANCY (AMENDMENT) NOTIFICATIONS
+     - Various notifications amending schedules, rent tables, and area
+       designations under the Act.
+     - Authority: Government of Bengal.
+     - Status: SUPERSEDED.
+
+Current Status of Parent Act: REPEALED in Bangladesh (replaced by the East Bengal
+State Acquisition and Tenancy Act, 1950). REPEALED in West Bengal (replaced by
+the West Bengal Land Reforms Act, 1955, and other legislation).
+
+================================================================================
+14. INDIAN TELEGRAPH ACT, 1885 (Act No. XIII of 1885)
+================================================================================
+
+14.1 INDIAN TELEGRAPH RULES
+     - Full Title: Indian Telegraph Rules (original rules framed under
+       Section 7 of the Act)
+     - Year: Originally framed 1885-1886; revised and consolidated as the
+       Indian Telegraph Rules, 1951
+     - Authority: Central Government (Governor-General in Council; later
+       Government of India / Government of Bangladesh)
+     - Description: Rules for the conduct of all telegraphs established,
+       maintained, or worked by the Government or by licensees, including:
+       (a) Conditions for establishment and working of telegraphs
+       (b) Tariffs and charges for telegraph messages
+       (c) Priority of messages (Government messages, press messages, etc.)
+       (d) Conditions for grant of licenses
+       (e) Procedure for requisitioning telegraph lines
+       (f) Rules for wireless telegraphy on ships and aircraft
+     - Status: The 1951 consolidation is IN FORCE in India (with amendments).
+       In Bangladesh, rules adapted under the Telegraph Act as applicable.
+
+14.2 NOTIFICATIONS UNDER SECTION 4 (LICENSING)
+     - Notifications by the Government granting licenses for telegraph
+       operations in Bengal.
+     - Authority: Central Government.
+     - Status: Individual licenses spent or superseded.
+
+14.3 NOTIFICATIONS UNDER SECTION 5 (INTERCEPTION)
+     - Notifications authorising interception of telegraph messages on
+       grounds of public safety or emergency.
+     - Authority: Central Government / authorised officers.
+     - Status: Power continues; framework updated by Rule 419A of the
+       Indian Telegraph Rules, 1951 (India). Bangladesh has separate
+       provisions.
+
+14.4 RULES FOR WIRELESS TELEGRAPHY
+     - Indian Wireless Telegraphy (Commercial Radio Operators Certificates
+       of Proficiency and Licence to Operate Wireless Telegraph) Rules, 1954
+     - Indian Wireless Telegraphy (Amateur Service) Rules, 1958
+     - Indian Wireless Telegraphy (Experimental Service) Rules, 1962
+     - Authority: Central Government (India).
+     - Note: These post-independence rules are made under the Indian Wireless
+       Telegraphy Act, 1933, not directly under the 1885 Telegraph Act, but
+       are part of the regulatory framework originating from the 1885 Act.
+
+Current Status of Parent Act: IN FORCE in Bangladesh (as "The Telegraph Act, 1885").
+In India, repealed by the Indian Telecommunication Act, 2023 (not yet fully
+operational as of 2026).
+
+================================================================================
+15. GUARDIANS AND WARDS ACT, 1890 (Act No. VIII of 1890)
+================================================================================
+
+15.1 HIGH COURT RULES UNDER THE GUARDIANS AND WARDS ACT
+     - Full Title: Rules of the High Court under the Guardians and Wards
+       Act, 1890 (Section 50)
+     - Authority: High Court at Calcutta / High Court of Bangladesh (Dhaka)
+     - Description: Rules prescribing:
+       (a) Matters on which reports should be called from Collectors and
+           subordinate courts
+       (b) Times for furnishing such reports
+       (c) Allowances to be granted to guardians
+       (d) Security to be required from guardians and the circumstances
+           for granting such security
+       (e) Procedure for applications by guardians for permission to do
+           specified acts (e.g., sale, mortgage, lease of ward's property)
+       (f) Circumstances for making requisitions
+     - Year: Rules originally framed 1890s; revised periodically.
+     - Status: IN FORCE (as updated by the respective High Courts).
+
+15.2 NOTIFICATIONS UNDER SECTION 4 (JURISDICTION)
+     - Notifications by the Government conferring jurisdiction on subordinate
+       judicial officers to exercise powers under the Act.
+     - Authority: Local Government / High Court.
+     - Status: Power continues; individual notifications superseded.
+
+Current Status of Parent Act: IN FORCE in Bangladesh (as "The Guardians and Wards
+Act, 1890").
+
+================================================================================
+16. CHARITABLE ENDOWMENTS ACT, 1890 (Act No. VI of 1890)
+================================================================================
+
+16.1 RULES UNDER SECTION 13
+     - Full Title: Rules under the Charitable Endowments Act, 1890
+     - Authority: Appropriate Government (Government of Bengal; later
+       Government of Bangladesh)
+     - Description: Rules for carrying out the purposes of the Act,
+       including:
+       (a) Procedure for vesting property in the Treasurer of Charitable
+           Endowments
+       (b) Terms and conditions of vesting
+       (c) Accounts and audit of endowment property
+       (d) Annual publication of list of vested properties in Official Gazette
+       (e) Mode of application for vesting orders and schemes
+     - Year: Rules first framed after 1890; revised periodically.
+     - Requirement: All rules must be published in the Official Gazette
+       (requirement added by amendment to ensure subordinate legislation
+       transparency).
+     - Status: IN FORCE in Bangladesh (with amendments). The rules are
+       adapted to Bangladesh conditions.
+
+16.2 NOTIFICATIONS UNDER SECTION 4 (VESTING ORDERS)
+     - Full Title: Notifications vesting property in the Treasurer of
+       Charitable Endowments
+     - Authority: Appropriate Government.
+     - Description: Individual notifications published in the Official Gazette
+       ordering that specified charitable properties be vested in the Treasurer.
+     - Status: Individual notifications in force unless property subsequently
+       divested.
+
+16.3 BENGAL-SPECIFIC AMENDMENTS AFFECTING SUBORDINATE LEGISLATION
+     - Bengal Wakf Act, 1934 (Bengal Act XIII of 1934):
+       -- Section 79 added a proviso to Section 5 applicable only to Bengal,
+          excluding wakf properties from the Charitable Endowments Act.
+       -- Section 80 added a new sub-section (3) to Section 5, applicable
+          only to Bengal, providing for separate administration of wakf
+          endowments.
+     - Status: These Bengal-specific amendments are IN FORCE in Bangladesh
+       through the Waqf Ordinance, 1962, and its successors.
+
+Current Status of Parent Act: IN FORCE in Bangladesh (as "The Charitable
+Endowments Act, 1890").
+
+================================================================================
+17. LAND ACQUISITION ACT, 1894 (Act No. I of 1894)
+================================================================================
+
+17.1 BENGAL LAND ACQUISITION MANUAL, 1917
+     - Full Title: The Bengal Land Acquisition Manual, 1917
+     - Year: 1917
+     - Authority: Government of Bengal, Revenue Department
+     - Description: Comprehensive departmental manual consolidating all rules,
+       procedures, forms, and executive instructions for land acquisition in
+       Bengal under the Land Acquisition Act, 1894. Covers:
+       (a) Procedure for preliminary investigation (Section 4 notifications)
+       (b) Declaration of intended acquisition (Section 6)
+       (c) Measurement, marking out, and plans
+       (d) Procedure for assessment of compensation
+       (e) Reference to civil courts
+       (f) Rules for temporary occupation
+       (g) Acquisition for companies
+       (h) Forms and returns
+     - Status: SUPERSEDED in Bangladesh by the Acquisition and Requisition
+       of Immovable Property Ordinance, 1982.
+
+17.2 RULES UNDER SECTION 55 (POWER TO MAKE RULES)
+     - Full Title: Rules under the Land Acquisition Act, 1894 (Bengal)
+     - Authority: Local Government (Government of Bengal)
+     - Description: Rules prescribing:
+       (a) The manner of giving notice under Section 4 (preliminary
+           notification)
+       (b) The mode of making declarations under Section 6
+       (c) Procedure for the Collector's enquiry
+       (d) Scales of compensation and solatium
+       (e) Procedure for reference to the court
+       (f) Appeals
+     - Status: SUPERSEDED in Bangladesh (see 17.1 above). In West Bengal,
+       superseded by the West Bengal Land Acquisition Manual, 1991 (revised 2006).
+
+17.3 NOTIFICATIONS UNDER SECTION 4 (PRELIMINARY NOTIFICATIONS)
+     - Individual notifications by Collectors giving public notice that land
+       in a particular locality is needed or is likely to be needed for a
+       public purpose.
+     - Authority: Collector (on behalf of the appropriate Government).
+     - Status: Individual notifications spent on acquisition or lapse.
+
+17.4 NOTIFICATIONS UNDER SECTION 6 (DECLARATIONS)
+     - Formal declarations that specified land is needed for a public purpose,
+       published in the Official Gazette.
+     - Authority: Appropriate Government.
+     - Status: Individual notifications spent.
+
+17.5 NOTIFICATIONS UNDER SECTION 40 (ACQUISITION FOR COMPANIES)
+     - Notifications by the appropriate Government directing acquisition of
+       land for a company (private entity).
+     - Authority: Appropriate Government.
+     - Status: Individual notifications spent.
+
+Current Status of Parent Act: REPEALED in Bangladesh (replaced by the Acquisition
+and Requisition of Immovable Property Ordinance, 1982, later replaced by the
+Immovable Property Acquisition and Requisition Act, 2017). In India, replaced
+by the Right to Fair Compensation and Transparency in Land Acquisition,
+Rehabilitation and Resettlement Act, 2013.
+
+================================================================================
+18. GENERAL CLAUSES ACT, 1897 (Act No. X of 1897)
+================================================================================
+
+18.1 No Subordinate Legislation
+     - The General Clauses Act is an interpretive statute providing general
+       definitions and rules of construction for all legislation. It does not
+       itself delegate any rule-making power and no subordinate legislation
+       is made under it.
+     - The Act defines terms such as "Government Gazette," "notification,"
+       "rule," etc. that are used throughout all other legislation.
+
+Current Status of Parent Act: IN FORCE in Bangladesh (as "The General Clauses
+Act, 1897").
+
+================================================================================
+19. EPIDEMIC DISEASES ACT, 1897 (Act No. III of 1897)
+================================================================================
+
+19.1 TEMPORARY REGULATIONS UNDER SECTION 2
+     - Title: Regulations prescribed under Section 2 of the Epidemic Diseases
+       Act (various)
+     - Authority: Local Government (Government of Bengal; later Government of
+       Bangladesh)
+     - Description: When the Government is satisfied that any part of the
+       territory is visited by or threatened with an outbreak of dangerous
+       epidemic disease, it may prescribe temporary regulations including:
+       (a) Inspection of persons travelling by railway or otherwise
+       (b) Segregation of persons suspected of infection
+       (c) Prohibition or regulation of fairs, gatherings, pilgrimages
+       (d) Closure of schools, markets, and public places
+       (e) Compulsory vaccination or inoculation measures
+       (f) Quarantine measures
+       (g) Any other measure to prevent the spread of disease
+     - Known Historical Examples (Bengal):
+       -- Plague Regulations, Bengal (various years from 1898 onward)
+       -- Cholera Regulations, Bengal (various years)
+       -- Smallpox Prevention Regulations
+     - Year: Issued ad hoc during epidemic outbreaks from 1897 onward.
+     - Status: Individual regulations are SPENT (temporary by nature). The
+       power to make such regulations continues and has been exercised
+       extensively, including during the COVID-19 pandemic (2020-2022).
+
+19.2 NOTIFICATIONS UNDER SECTION 2A (CENTRAL GOVERNMENT POWERS)
+     - Notifications by the Central Government prescribing regulations for
+       inspection of ships, vessels, and aircraft, and detention of persons
+       intending to travel.
+     - Authority: Central Government.
+     - Status: Power continues.
+
+Current Status of Parent Act: IN FORCE in Bangladesh (as "The Epidemic Diseases
+Act, 1897").
+
+================================================================================
+20. CODE OF CRIMINAL PROCEDURE, 1898 (Act No. V of 1898)
+================================================================================
+
+The CrPC 1898 is one of the most prolific generators of subordinate legislation,
+as it empowers both the Government and the High Court to make extensive rules.
+
+20.1 CRIMINAL RULES AND ORDERS (HIGH COURT)
+     - Full Title: Criminal Rules and Orders of the High Court (various
+       editions)
+     - For Bengal: Criminal Rules and Orders of the High Court at Calcutta
+       (pre-1947); Criminal Rules and Orders of the High Court of East
+       Pakistan / High Court of Bangladesh (post-1947/1971)
+     - Authority: High Court, under Sections 554 and other enabling
+       provisions of the CrPC
+     - Description: Comprehensive rules governing:
+       (a) Practice and procedure in criminal courts subordinate to the
+           High Court
+       (b) Forms of charges, warrants, summonses, bonds, etc.
+       (c) Procedure for appeals and revisions
+       (d) Bail procedures
+       (e) Procedure for recording evidence
+       (f) Sessions trial procedure
+       (g) Procedure for subordinate courts
+       (h) Inspection of registers and records
+       (i) Returns and statements to be submitted by subordinate courts
+       (j) Rules for disposal of property
+       (k) Procedure in habeas corpus matters
+     - Status: IN FORCE in Bangladesh (as updated by the High Court Division,
+       Supreme Court of Bangladesh). In West Bengal, superseded by rules under
+       the Code of Criminal Procedure, 1973.
+
+20.2 RULES UNDER SECTION 554 (GENERAL RULE-MAKING POWER OF HIGH COURT)
+     - The High Court may make rules for:
+       (a) The form in which charges shall be framed
+       (b) The procedure to be followed in the trial of warrant cases
+       (c) Any matter relating to the practice and procedure of criminal
+           courts subordinate to it
+     - These rules form part of the Criminal Rules and Orders (see 20.1).
+
+20.3 GOVERNMENT NOTIFICATIONS UNDER SECTION 9 (COURTS OF SESSION)
+     - Notifications constituting courts of session, appointing sessions
+       divisions, and specifying places for holding sessions.
+     - Authority: Local Government / Provincial Government.
+     - Status: Superseded by subsequent notifications; power continues.
+
+20.4 GOVERNMENT NOTIFICATIONS UNDER SECTION 10 (ASSISTANT SESSIONS JUDGES)
+     - Notifications appointing Assistant Sessions Judges.
+     - Authority: Local Government.
+     - Status: Individual notifications superseded.
+
+20.5 NOTIFICATIONS UNDER SECTION 14 (MAGISTRATES)
+     - Notifications by the Local Government specifying classes of
+       Magistrates in each district.
+     - Authority: Local Government.
+     - Status: System substantially reformed; individual notifications
+       superseded.
+
+20.6 NOTIFICATIONS UNDER SECTION 144 (PROHIBITORY ORDERS)
+     - Orders by District Magistrates and other Executive Magistrates
+       prohibiting certain acts to prevent danger to human life, health,
+       safety, or public tranquility.
+     - Authority: District Magistrate / Sub-Divisional Magistrate.
+     - Status: Power continues; individual orders temporary (up to 2 months,
+       extendable to 6 months).
+
+20.7 RULES FOR POLICE DIARIES AND CASE DIARIES
+     - Rules prescribing the form and manner of maintaining police diaries
+       (Section 172) and case diaries during investigation.
+     - Authority: State Government / Local Government.
+     - Status: IN FORCE (as part of police procedural rules).
+
+20.8 RULES AND NOTIFICATIONS UNDER SECTION 197 (SANCTION FOR PROSECUTION)
+     - Notifications specifying the authorities competent to grant sanction
+       for prosecution of public servants.
+     - Authority: Central/Local Government.
+     - Status: Power continues.
+
+20.9 RULES UNDER SECTION 477 (DESTRUCTION OF RECORDS)
+     - Rules prescribing the period after which records of criminal cases may
+       be destroyed.
+     - Authority: High Court / Local Government.
+     - Status: IN FORCE.
+
+20.10 RULES UNDER SECTION 561 (FORMS)
+      - Rules prescribing forms for use in criminal proceedings -- summonses,
+        warrants, bonds, search warrants, etc.
+      - Authority: High Court.
+      - Published in: Schedule II of the CrPC and supplemented by High Court
+        criminal rules.
+      - Status: IN FORCE.
+
+Current Status of Parent Act: IN FORCE in Bangladesh (as "The Code of Criminal
+Procedure, 1898"). In India, replaced by the Code of Criminal Procedure, 1973,
+and subsequently by the Bharatiya Nagarik Suraksha Sanhita, 2023.
+
+================================================================================
+21. INDIAN STAMP ACT, 1899 (Act No. II of 1899)
+================================================================================
+
+21.1 STAMP RULES (UNDER SECTION 74)
+     - Full Title: Rules under the Indian Stamp Act, 1899 (Bengal) /
+       Stamp Rules
+     - Authority: Local Government (Government of Bengal; later Government of
+       Bangladesh)
+     - Description: Rules prescribing:
+       (a) Supply, distribution, and sale of stamps (adhesive and impressed)
+       (b) Appointment and regulation of stamp vendors / licensed vendors
+       (c) Fees for adjudication by Collectors
+       (d) Procedure for adjudication of stamp duty
+       (e) Mode of cancellation of adhesive stamps
+       (f) Allowances and refunds for spoiled or misused stamps
+       (g) Procedure for compounding offences
+       (h) Forms and returns
+       (i) Fines for breach of rules (not exceeding 500 rupees/taka)
+     - Requirement: All rules must be published in the Official Gazette.
+     - Status: IN FORCE in Bangladesh (with amendments). In West Bengal,
+       separate stamp rules apply.
+
+21.2 RULES FOR SUPPLY AND DISTRIBUTION OF STAMPS
+     - Full Title: Rules for Supply and Distribution of Stamps (Government
+       of India Rules read with Supplementary Rules framed by the
+       Provincial/State Government)
+     - Authority: Central Government (supply and printing) / Local Government
+       (distribution)
+     - Description: Rules governing:
+       (a) Printing of stamps by the Controller of Stamps
+       (b) Indent and supply to provincial stamp stores
+       (c) Distribution to treasuries and sub-treasuries
+       (d) Sale through licensed vendors
+       (e) Custody and accounting of stamp stock
+     - Status: IN FORCE (adapted for Bangladesh; India has separate rules).
+
+21.3 NOTIFICATIONS UNDER SECTION 9 (REDUCTION/REMISSION OF DUTIES)
+     - Notifications by the Local Government reducing, remitting, or
+       compounding duties payable on specified instruments.
+     - Authority: Local Government.
+     - Status: Individual notifications; power continues.
+
+21.4 NOTIFICATIONS UNDER SCHEDULE I (STAMP DUTY RATES)
+     - Amendments to Schedule I specifying the duties chargeable on various
+       instruments (conveyances, mortgages, leases, bonds, affidavits,
+       agreements, powers of attorney, etc.).
+     - Authority: Legislature (through amending Acts) and Government (through
+       notifications where empowered).
+     - Status: Schedule regularly updated by Finance Acts and notifications.
+
+21.5 NOTIFICATIONS UNDER SECTION 3 (INSTRUMENTS CHARGEABLE)
+     - Notifications specifying instruments chargeable with duty and the
+       applicable rates.
+     - Authority: Government.
+     - Status: Power continues.
+
+21.6 COLLECTOR'S ADJUDICATION RULES
+     - Rules and standing orders governing the procedure followed by
+       Collectors when adjudicating stamp duty on instruments brought before
+       them under Sections 31-32.
+     - Authority: Board of Revenue / Local Government.
+     - Status: IN FORCE (as adapted).
+
+Current Status of Parent Act: IN FORCE in Bangladesh (as "The Stamp Act, 1899").
+In India, the Indian Stamp Act continues alongside state-level stamp
+legislation; the Indian Stamp (Amendment) Act, 2019 modernised certain
+provisions.
+
+================================================================================
+SUMMARY TABLE: STATUS OF SUBORDINATE LEGISLATION
+================================================================================
+
+Parent Act                    | Subordinate Legislation        | Status
+------------------------------|-------------------------------|------------------
+1. IPC 1860                   | Notifications (ad hoc)        | Mostly spent
+2. Police Act 1861            | Police Regulations Bengal 1943| In force (BD)
+                              | Police Orders (continuing)    | In force
+                              | Chaukidari Rules              | Superseded
+3. Evidence Act 1872          | None (procedural rules under  | N/A
+                              | CPC/CrPC)                    |
+4. Contract Act 1872          | None                          | N/A
+5. Majority Act 1875          | None                          | N/A
+6. Specific Relief Act 1877   | None (court rules under CPC)  | N/A
+7. Treasure Trove Act 1878    | Rules under s.15              | In force (BD)
+8. Arms Act 1878              | Indian Arms Rules 1924        | Superseded
+                              | Bengal Arms Manual 1924       | Superseded
+9. NI Act 1881                | Holiday notifications         | Continuing
+10. Transfer of Property 1882 | Notifications (limited)       | Continuing
+11. Trusts Act 1882           | None                          | N/A
+12. Easements Act 1882        | None                          | N/A
+13. Bengal Tenancy Act 1885   | Government Rules              | Superseded
+                              | High Court Rules              | Superseded
+                              | Registration Dept Rules       | Superseded
+                              | Board of Revenue Forms        | Superseded
+                              | Survey & Settlement Manual    | Partially in force
+                              | Numerous notifications        | Superseded
+14. Telegraph Act 1885        | Telegraph Rules (1951 consol.)| In force (BD)
+15. Guardians & Wards 1890    | High Court Rules (s.50)       | In force (BD)
+16. Charitable Endow. 1890    | Rules under s.13              | In force (BD)
+                              | Vesting notifications         | Individual basis
+17. Land Acquisition 1894     | Bengal LA Manual 1917         | Superseded
+                              | Rules under s.55              | Superseded
+                              | S.4 and s.6 notifications     | Spent
+18. General Clauses 1897      | None                          | N/A
+19. Epidemic Diseases 1897    | Temporary regulations (s.2)   | Spent (each set)
+20. CrPC 1898                 | Criminal Rules and Orders     | In force (BD)
+                              | Government notifications      | Continuing
+                              | Forms under Schedule II       | In force
+21. Stamp Act 1899            | Stamp Rules (s.74)            | In force (BD)
+                              | Supply/Distribution Rules     | In force
+                              | Duty notifications            | Continuing
+
+================================================================================
+NOTES AND CAVEATS
+================================================================================
+
+1. COMPLETENESS: This compilation covers all known classes of subordinate
+   legislation under the listed Acts. Individual gazette notifications
+   (of which there were thousands over the period 1858-1947) are not
+   individually enumerable without access to complete runs of the Calcutta
+   Gazette and the Gazette of India.
+
+2. BANGLADESH ADAPTATION: After independence in 1971, Bangladesh adopted all
+   pre-existing laws through the Bangladesh Laws (Revision and Declaration)
+   Act, 1973 (Act VIII of 1973). This Act systematically replaced references
+   to "Pakistan," "Central Government," "Provincial Government," and "Rs"
+   with "Bangladesh," "Government," and "Tk" respectively.
+
+3. INDIA REPLACEMENT: Several parent Acts have been replaced in India by
+   new legislation (e.g., IPC by BNS 2023, CrPC 1898 by CrPC 1973 and
+   then BNSS 2023, Specific Relief Act 1877 by SRA 1963, Arms Act 1878
+   by Arms Act 1959). The subordinate legislation under the old Acts has
+   been correspondingly superseded in India.
+
+4. ARCHIVAL SOURCES: The most comprehensive historical collections of
+   subordinate legislation are found in:
+   - The Calcutta Gazette (official gazette of Bengal)
+   - The Gazette of India
+   - Annotated editions of individual Acts (e.g., Rampini's Bengal Tenancy
+     Act, the Bengal Arms Act Manual)
+   - The Bengal Survey and Settlement Manual, 1935
+   - The Bengal Land Acquisition Manual, 1917
+   - The Police Regulations, Bengal, 1943
+   - The Indian Culture Portal (indianculture.gov.in)
+   - The National Digital Library of India (ndl.iitkgp.ac.in)
+   - Internet Archive / HathiTrust digital collections
+
+5. ACTS WITHOUT SUBORDINATE LEGISLATION: Several Acts in this list (Indian
+   Contract Act, Indian Majority Act, Indian Trusts Act, Indian Easements
+   Act, General Clauses Act) are purely substantive or interpretive statutes
+   that do not delegate rule-making power to the executive and therefore
+   have no subordinate legislation.
+
+================================================================================
+END OF COMPILATION
+================================================================================

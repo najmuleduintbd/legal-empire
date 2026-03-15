@@ -1,0 +1,438 @@
+================================================================================
+     INDEX OF ORIGINAL LEGISLATION DOCUMENTS — DOWNLOADED COPIES
+================================================================================
+
+     CODE OF DELEGATED/SUBORDINATE LEGISLATION OF BANGLADESH
+     PACKAGE SD-1 (1799-1970)
+
+================================================================================
+     Prepared by: THE LEGAL EMPIRE | www.thelegalempire.org
+================================================================================
+
+This index lists all original legislation documents gathered from official
+online sources and organized in yearly folder-wise order.
+
+SOURCES:
+  1. India Code (indiacode.nic.in) — Official Government of India legislation
+  2. Internet Archive (archive.org) — Digitized historical legal texts
+  3. UK Legislation (legislation.gov.uk) — British Parliamentary Acts
+  4. Bangladesh Laws (bdlaws.minlaw.gov.bd) — Bangladesh official legislation
+  5. Pakistan Ministry of Law (molaw.gov.pk) — Pakistan legislation collections
+  6. Bangladesh Justice Audit — Comprehensive laws list
+  7. Bangladesh Police (police.gov.bd) — Police regulations
+  8. West Bengal Judiciary (wbja.nic.in) — Bengal judicial documents
+  9. Bangladesh Code (bdcode.gov.bd) — Bangladesh legal code
+  10. PRS India (prsindia.org) — Legislative research
+  11. WB Land Revenue (wbllroa.in) — Land acquisition manuals
+
+================================================================================
+ERA 1: BENGAL REGULATIONS & EARLY PERIOD (1790-1858)
+================================================================================
+
+1793/
+  - Bengal_Code_Regulations_1793-1834.pdf [archive.org]
+    Complete Bengal Code Regulations collection
+  - Bengal_Code_Vol_I.pdf [archive.org]
+    Bengal Code Volume I — comprehensive legislation compilation
+  - Bengal_Inheritance_Regulation_1793.pdf [indiacode.nic.in]
+    Bengal Regulation — Inheritance, 1793
+  - Bengal_Jail_Code.pdf [archive.org]
+    Bengal Jail Code, Volume 1
+  - Bengal_MS_Records_1782-1793.pdf [archive.org]
+    Bengal Manuscript Records, 1782-1793
+  - Bengal_Permanent_Settlement_Regulation_1793.pdf [indiacode.nic.in]
+    The Bengal Permanent Settlement Regulation, 1793
+  - Bengal_Permanent_Settlement_1793_indiacode.pdf [indiacode.nic.in]
+    Bengal Permanent Settlement Regulation — alternate version
+  - Bengal_Land_Revenue_Regulation_1793_indiacode.pdf [indiacode.nic.in]
+    ★ SUBORDINATE LEGISLATION: Bengal Land Revenue Regulation, 1793
+  - Bengal_Decennial_Settlement_Regulation_1793.pdf [indiacode.nic.in]
+    ★ SUBORDINATE LEGISLATION: Bengal Decennial Settlement Regulation, 1793
+  - Bengal_Civil_Service_Loans_Prohibition_1793.pdf [indiacode.nic.in]
+    ★ SUBORDINATE LEGISLATION: Civil Service (Bengal) Loans Prohibition Regulation
+  - Bengal_Regulations_Vol_II.pdf [archive.org]
+    Bengal Regulations Volume II
+  - Police_Regulations_Bengal.pdf [police.gov.bd]
+    ★ SUBORDINATE LEGISLATION: Police Regulations Bengal — Bangladesh Police version
+  - Analytical_Survey_Bengal_Regulations.pdf [archive.org]
+    Analytical Survey of Bengal Regulations (1793-1834)
+  - Guide_Laws_Orders_Bengal_Vol1.pdf [archive.org]
+    Guide to Laws and Orders in Force in Bengal, Vol 1
+
+1799/
+  - Bengal_Wills_Intestacy_Regulation_1799.pdf [indiacode.nic.in]
+    Bengal Regulation 5 of 1799 — Wills and Intestacy
+
+1806/
+  - Bengal_Troops_Transport_Regulation_1806.pdf [indiacode.nic.in]
+    Bengal Regulation — Troops Transport and Travellers Assistance, 1806
+
+1812/
+  - Bengal_Foreign_Immigrants_Regulation_1812.pdf [indiacode.nic.in]
+    Bengal Foreign Immigrants Regulation, 1812
+
+1819/
+  - Bengal_Patni_Taluks_Regulation_1819.pdf [indiacode.nic.in]
+    Bengal Regulation 8 of 1819 — Patni Taluks
+
+1823/
+  - Bengal_Loans_Prohibition_Regulation_1823.pdf [indiacode.nic.in]
+    Indian Civil Service (Bengal) Loans Prohibition Regulation, 1823
+
+1824/
+  - Bengal_Regulation_1824.pdf [archive.org]
+    Bengal Regulation of 1824
+
+1818/
+  - Bengal_State_Prisoners_Regulation_1818.pdf [bdcode.gov.bd]
+    ★ SUBORDINATE LEGISLATION: Bengal State Prisoners Regulation, 1818
+
+1825/
+  - Bengal_Alluvion_Diluvion_Regulation_1825.pdf [indiacode.nic.in]
+    Bengal Alluvion and Diluvion Regulation, 1825
+
+1829/
+  - Bengal_Sati_Regulation_1829.pdf [bdlaws.minlaw.gov.bd]
+    ★ SUBORDINATE LEGISLATION: Bengal Sati Regulation, 1829 (Reg XVII of 1829)
+
+1836/
+  - Bengal_Indigo_Contracts_Act_1836.pdf [indiacode.nic.in]
+    Bengal Indigo Contracts Act, 1836
+
+================================================================================
+ERA 2: BRITISH CROWN RULE — MAJOR CODIFYING STATUTES (1858-1947)
+================================================================================
+
+1860/
+  - Indian_Penal_Code_1860.pdf [archive.org]
+    The Indian Penal Code (Act XLV of 1860) — full text with notes
+  - Indian_Penal_Code_1860_Official.pdf [indiacode.nic.in]
+    Indian Penal Code, 1860 — official India Code version
+  - Penal_Code_1860_Bangladesh.pdf [bdlaws.minlaw.gov.bd]
+    Penal Code 1860 — Bangladesh version
+  - Societies_Registration_Act_1860.pdf [indiacode.nic.in]
+    Societies Registration Act, 1860
+
+1861/
+  - Police_Act_1861.pdf [indiacode.nic.in]
+    The Police Act, 1861
+
+1862/
+  - Bengal_Code_Vol2_Acts_1862-1889.pdf [archive.org]
+    Bengal Code Volume 2 — Acts 1862-1889
+  - Bengal_Council_Unrepealed_Acts_1862-1918.pdf [archive.org]
+    Case-Noted Unrepealed Acts of the Bengal Council, 1862-1918
+
+1869/
+  - Indian_Divorce_Act_1869.pdf [indiacode.nic.in]
+    The Divorce Act, 1869
+
+1871/
+  - Cattle_Trespass_Act_1871.pdf [indiacode.nic.in]
+    The Cattle-Trespass Act, 1871
+
+1872/
+  - Indian_Christian_Marriage_Act_1872.pdf [indiacode.nic.in]
+    Indian Christian Marriage Act, 1872
+  - Indian_Contract_Act_1872.pdf [indiacode.nic.in]
+    Indian Contract Act, 1872
+  - Indian_Evidence_Act_1872.pdf [indiacode.nic.in]
+    Indian Evidence Act, 1872
+
+1875/
+  - Indian_Majority_Act_1875.pdf [indiacode.nic.in]
+    The Majority Act, 1875
+
+1878/
+  - Indian_Treasure_Trove_Act_1878.pdf [indiacode.nic.in]
+    Indian Treasure-Trove Act, 1878
+
+1881/
+  - Negotiable_Instruments_Act_1881.pdf [indiacode.nic.in]
+    Negotiable Instruments Act, 1881
+
+1882/
+  - Indian_Easements_Act_1882.pdf [indiacode.nic.in]
+    Indian Easements Act, 1882
+  - Indian_Trusts_Act_1882.pdf [indiacode.nic.in]
+    Indian Trusts Act, 1882
+  - Transfer_of_Property_Act_1882_Official.pdf [indiacode.nic.in]
+    Transfer of Property Act, 1882
+
+1885/
+  - Bengal_Tenancy_Act_1885.pdf [archive.org]
+    Bengal Tenancy Act (Act VIII of 1885) with annotations
+  - Bengal_Tenancy_Act_1885_Text.pdf [archive.org]
+    Bengal Tenancy Act — searchable text version
+  - Indian_Telegraph_Act_1885.pdf [indiacode.nic.in]
+    Indian Telegraph Act, 1885
+  - Rent_Law_of_Bengal.pdf [archive.org]
+    The Rent Law of Bengal (Bengal Tenancy Act commentary)
+
+1890/
+  - Charitable_Endowments_Act_1890.pdf [indiacode.nic.in]
+    Charitable Endowments Act, 1890
+  - Guardians_Wards_Act_1890.pdf [indiacode.nic.in]
+    Guardians and Wards Act, 1890
+
+1894/
+  - Land_Acquisition_Act_1894_PRS.pdf [prsindia.org]
+    Land Acquisition Act, 1894 — PRS India version
+  - Land_Acquisition_Manual_1991.pdf [wbllroa.in]
+    ★ SUBORDINATE LEGISLATION: West Bengal Land Acquisition Manual, 1991
+    (Contains all rules, orders, notifications under Land Acquisition Act 1894)
+  - WB_Land_Reforms_Manual.pdf [dllromsd.org]
+    ★ SUBORDINATE LEGISLATION: West Bengal Land & Land Reforms Manual
+
+1897/
+  - Epidemic_Diseases_Act_1897.pdf [indiacode.nic.in]
+    Epidemic Diseases Act, 1897
+  - General_Clauses_Act_1897.pdf [indiacode.nic.in]
+    General Clauses Act, 1897
+
+1898/
+  - Code_of_Criminal_Procedure_1898.pdf [archive.org]
+    Code of Criminal Procedure, 1898 (as amended)
+  - Post_Office_Act_1898.pdf [bdlaws.minlaw.gov.bd]
+    Post Office Act, 1898
+
+1899/
+  - Indian_Stamp_Act_1899.pdf [indiacode.nic.in]
+    Indian Stamp Act, 1899
+
+1908/
+  - Code_of_Civil_Procedure_1908.pdf [indiacode.nic.in]
+    Code of Civil Procedure, 1908
+  - Code_of_Civil_Procedure_1908_Official.pdf [indiacode.nic.in]
+    CPC 1908 — alternate official version
+  - Indian_Ports_Act_1908.pdf [indiacode.nic.in]
+    Indian Ports Act, 1908
+  - Registration_Act_1908.pdf [indiacode.nic.in]
+    Registration Act, 1908
+  - Bengal_Survey_Manual.pdf [archive.org]
+    ★ SUBORDINATE LEGISLATION: The Bengal Survey Manual (18 MB)
+    Survey rules and orders for Bengal land administration
+
+1909/
+  - Anand_Marriage_Act_1909.pdf [bdlaws.minlaw.gov.bd]
+    Anand Marriage Act, 1909
+  - Bengal_Excise_Act_1909.pdf [archive.org]
+    Bengal Excise Act, 1909
+  - Bengal_Excise_Act_1909_wbx.pdf [wbxpress.com]
+    Bengal Excise Act, 1909 — WB version with rules
+
+1911/
+  - Bengal_Forest_Manual.pdf [archive.org]
+    ★ SUBORDINATE LEGISLATION: The Bengal Forest Manual (13 MB)
+    Part I: Rules issued under the Indian Forest Act
+    Part II: Executive Rules and Orders — compiled by F. Trafford
+
+1912/
+  - Bengal_Local_Statutory_Rules_Orders_1912_Vol2.pdf [archive.org]
+    ★ SUBORDINATE LEGISLATION: Bengal Local Statutory Rules and Orders, 1912 — Vol 2 (20 MB)
+    Key compilation of all subordinate legislation under Bengal Acts
+  - Cooperative_Societies_Act_1912.pdf [indiacode.nic.in]
+    Cooperative Societies Act, 1912
+
+1913/
+  - Bengal_Public_Demands_Recovery_Act_1913.pdf [indiacode.nic.in]
+    Bengal Public Demands Recovery Act, 1913
+  - Bengal_Public_Demands_Recovery_Act_1913_BD.pdf [bdlaws.minlaw.gov.bd]
+    Bengal Public Demands Recovery Act, 1913 — Bangladesh version
+
+1915/
+  - Bengal_Code_Supplement_Acts_1915-1923.pdf [archive.org]
+    Supplement to Fourth Edition of Bengal Code — Acts 1915-1923
+
+1919/
+  - Bengal_Village_Self_Government_Act_1919.pdf [prsindia.org]
+    Bengal Village Self-Government Act, 1919
+  - Government_of_India_Act_1919.pdf [archive.org]
+    Government of India Act, 1919
+
+1923/
+  - Indian_Boilers_Act_1923.pdf [indiacode.nic.in]
+    Indian Boilers Act, 1923
+  - Workmens_Compensation_Act_1923.pdf [indiacode.nic.in]
+    Workmen's Compensation Act, 1923
+
+1925/
+  - Indian_Succession_Act_1925.pdf [indiacode.nic.in]
+    Indian Succession Act, 1925
+  - Indian_Succession_Act_1925_Official.pdf [archive.org]
+    Indian Succession Act, 1925 — alternate version
+
+1926/
+  - Trade_Unions_Act_1926.pdf [indiacode.nic.in]
+    Trade Unions Act, 1926
+
+1927/
+  - Indian_Forest_Act_1927.pdf [indiacode.nic.in]
+    Indian Forest Act, 1927
+
+1930/
+  - Sale_of_Goods_Act_1930.pdf [indiacode.nic.in]
+    Sale of Goods Act, 1930
+
+1932/
+  - Indian_Partnership_Act_1932.pdf [indiacode.nic.in]
+    Indian Partnership Act, 1932
+  - Motor_Vehicles_Tax_Act_1932.pdf [bdlaws.minlaw.gov.bd]
+    Motor Vehicles Tax Act, 1932
+
+1924/
+  (Indian Arms Act Manual — download pending from archive.org)
+
+1935/
+  - Agricultural_Debtors_Act_1935.pdf [bdlaws.minlaw.gov.bd]
+    Agricultural Debtors Act, 1935
+  - Government_of_India_Act_1935.pdf [legislation.gov.uk]
+    Government of India Act, 1935 — UK Parliament official version
+  - Bengal_Survey_Settlement_Manual_1935.pdf [archive.org]
+    ★ SUBORDINATE LEGISLATION: The Bengal Survey and Settlement Manual, 1935 (46 MB)
+    Comprehensive compilation of survey/settlement rules, orders, and procedures
+    under Bengal land revenue and tenancy legislation
+
+1936/
+  - Payment_of_Wages_Act_1936.pdf [indiacode.nic.in]
+    Payment of Wages Act, 1936
+
+1937/
+  - Bengal_Legislative_Assembly_1937.pdf [archive.org]
+    Bengal Legislative Assembly Proceedings, 1937-38
+
+1939/
+  - Dissolution_Muslim_Marriages_Act_1939.pdf [indiacode.nic.in]
+    Dissolution of Muslim Marriages Act, 1939
+
+1940/
+  (Bengal Practice and Procedure Manual 1940 — download pending from archive.org)
+
+1943/
+  - Police_Regulations_Bengal_1943_Vol2.pdf [archive.org]
+    ★ SUBORDINATE LEGISLATION: Police Regulations of Bengal 1943, Volume 2 (45 MB)
+    Issued with authority of Government of Bengal — criminal procedure rules
+  - Police_Regulations_Bengal_1943_Vol3.pdf [archive.org]
+    ★ SUBORDINATE LEGISLATION: Police Regulations of Bengal 1943, Volume 3 (65 MB)
+    Issued with authority of Government of Bengal — administrative rules
+    THE MOST IMPORTANT SUBORDINATE LEGISLATION — 26 chapters, 1,290 sections
+    Still in force in Bangladesh as the primary police administration code
+
+1946/
+  - Foreigners_Act_1946.pdf [bdlaws.minlaw.gov.bd]
+    Foreigners Act, 1946
+
+================================================================================
+ERA 3: PAKISTAN / EAST PAKISTAN PERIOD (1947-1970)
+================================================================================
+
+1947/
+  - Indian_Independence_Act_1947.pdf [archive.org]
+    Indian Independence Act, 1947
+  - Industrial_Disputes_Act_1947.pdf [indiacode.nic.in]
+    Industrial Disputes Act, 1947
+  - Prevention_of_Corruption_Act_1947.pdf [bdlaws.minlaw.gov.bd]
+    Prevention of Corruption Act, 1947
+
+1950/
+  - State_Acquisition_Tenancy_Act_1950.pdf [bdlaws.minlaw.gov.bd]
+    State Acquisition and Tenancy Act, 1950 (Act XXVIII of 1951)
+    Most important land law of East Pakistan/Bangladesh
+
+1952/
+  - Army_Act_1952.pdf [bdlaws.minlaw.gov.bd]
+    The Army Act, 1952
+
+1953/
+  - Essential_Articles_Price_Control_Act_1953.pdf [bdlaws.minlaw.gov.bd]
+    Essential Articles (Price Control and Anti-Hoarding) Act, 1953
+
+1956/
+  - UN_Declaration_Death_Missing_Persons_Act_1956.pdf [bdlaws.minlaw.gov.bd]
+    United Nations (Declaration of Death of Missing Persons) Act, 1956
+
+1959/
+  - Chittagong_Development_Authority_Ordinance_1959.pdf [bdlaws.minlaw.gov.bd]
+    Chittagong Development Authority Ordinance, 1959
+  - East_Pakistan_Warehouses_Ordinance_1959.pdf [bdlaws.minlaw.gov.bd]
+    East Pakistan Warehouses Ordinance, 1959
+  - Rent_Receipt_Ordinance_1959.pdf [bdlaws.minlaw.gov.bd]
+    Rent-Receipt Ordinance, 1959
+
+1961/
+  - East_Pakistan_Education_Ordinance_1961.pdf [bdlaws.minlaw.gov.bd]
+    East Pakistan Intermediate and Secondary Education Ordinance, 1961
+  - Muslim_Family_Laws_Ordinance_1961.pdf [citylaws.pk]
+    Muslim Family Laws Ordinance, 1961
+
+1965/
+  - East_Pakistan_Assembly_Members_Privileges_Act_1965.pdf [bdlaws.minlaw.gov.bd]
+    East Pakistan Assembly Member's Privileges Act, 1965
+
+1969/
+  - Securities_Exchange_Ordinance_1969.pdf [bdlaws.minlaw.gov.bd]
+    Securities and Exchange Ordinance, 1969
+
+================================================================================
+REFERENCE DOCUMENTS
+================================================================================
+
+  - Comprehensive_List_Laws_of_Bangladesh.pdf [bangladesh.justiceaudit.org]
+    Comprehensive list of all Laws of Bangladesh — reference document
+
+================================================================================
+NOTES
+================================================================================
+
+1. Documents are organized by the year of their enactment/promulgation.
+2. Where the exact year is ambiguous (e.g., compilations spanning multiple
+   years), documents are placed in the earliest applicable year folder.
+3. Large compilation volumes (Bengal Code, Calcutta Gazette) contain
+   legislation spanning multiple years within a single PDF.
+4. The Bengal Code Volumes (I, II, and Supplement) together contain the
+   complete text of Bengal Regulations from 1793 to 1923.
+5. Pakistan Central Acts collections from molaw.gov.pk cover federal
+   legislation applicable to East Pakistan (1947-1970).
+
+TOTAL DOCUMENTS: 101 PDFs (including 18 subordinate legislation documents)
+TOTAL SIZE: ~619 MB
+COVERAGE: 1782-1970
+
+KEY SUBORDINATE LEGISLATION DOCUMENTS (★ marked in index above):
+  Era 1 (1790-1858):
+    - Bengal Land Revenue Regulation, 1793
+    - Bengal Decennial Settlement Regulation, 1793
+    - Bengal Civil Service Loans Prohibition Regulation, 1793
+    - Bengal State Prisoners Regulation, 1818
+    - Bengal Sati Regulation, 1829
+    - Police Regulations Bengal (Bangladesh Police version)
+
+  Era 2 (1858-1947):
+    - Police Regulations of Bengal 1943 — Vols 2 & 3 (110 MB total)
+    - Civil Rules and Orders 1935, Vol 1 (62 MB) — KEY SUBORDINATE LEGISLATION
+    - Bengal Survey and Settlement Manual, 1935 (46 MB)
+    - Bengal Survey Manual (18 MB)
+    - Bengal Forest Manual (13 MB)
+    - Bengal Local Statutory Rules & Orders, 1912 Vol 2 (20 MB)
+    - Land Acquisition Manual, 1991 (22 MB)
+    - WB Land & Land Reforms Manual (4 MB)
+    - Indian Stamp Rules, 1925
+    - Bengal Excise Act with Rules
+
+REMAINING DOWNLOADS (archive.org timeouts — run download_remaining.sh):
+    - Fort William Regulations 1853 (Clarke's compilation)
+    - Fort William Rules & Ordinances 1826
+    - Bengal Police Manual 1888 (2nd Ed)
+    - Bengal Police Manual 1911 Vol 1
+    - Bengal Criminal Court Manual 1883
+    - High Court Circular Orders 1862-1876
+    - Putni Sale Law with Board of Revenue Rules 1907
+    - Police Regulations Bengal 1943 Vol 1
+    - Civil Rules & Orders 1935 Vol 2
+    - Indian Arms Act Manual 1931
+    - Bengal Local Statutory Rules 1912 Vol 1
+    - Bengal Practice & Procedure Manual 1940
+
+================================================================================
+     END OF INDEX
+================================================================================
