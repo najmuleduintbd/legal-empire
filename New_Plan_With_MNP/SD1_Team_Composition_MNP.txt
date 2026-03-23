@@ -1,0 +1,204 @@
+================================================================================
+                              MNP LEGAL
+              Barristers, Advocates & Legal Consultants
+================================================================================
+
+              TEAM COMPOSITION AND ORGANIZATIONAL STRUCTURE
+                          PACKAGE SD-1 (1799-1970)
+
+================================================================================
+  EOI Reference No. : 55.00.0000.120.14.065.24.1493
+  Package No.        : SD-1 (1799-1970)
+  Project Period     : 01/06/2026 to 31/05/2027
+  Submitted to       : Strengthening Legislative Capacity and Legal
+                       Awareness Building Project
+                       Legislative and Parliamentary Affairs Division
+                       Ministry of Law, Justice and Parliamentary Affairs
+================================================================================
+
+
+================================================================================
+1. OVERVIEW
+================================================================================
+
+MNP Legal proposes a dedicated team of seven (7) qualified key professionals
+for Package SD-1 (1799-1970), supported by the firm's administrative and IT
+infrastructure. The team has been specifically composed to address the scope,
+complexity, and historical nature of this assignment covering the colonial
+period through to 1970.
+
+================================================================================
+2. ORGANIZATIONAL CHART
+================================================================================
+
+                    +---------------------------------------------+
+                    |   PROJECT DIRECTOR (Client Side)             |
+                    |   G. M. Atiqur Rahman Zamaly                 |
+                    +----------------------+----------------------+
+                                           |
+                    +----------------------v----------------------+
+                    |      MNP LEGAL                              |
+                    |  Managing Partners:                         |
+                    |  Sabel Nawaz / Ehsan E Moazzam              |
+                    +----------------------+----------------------+
+                                           |
+                    +----------------------v----------------------+
+                    |    TEAM LEADER /                             |
+                    |    LEAD LEGAL CONSULTANT                     |
+                    |    Christine Richardson                      |
+                    +----------+------------------+---------------+
+              _________________|                  |___________________
+             |           |           |           |             |
+    +--------v---+ +-----v------+ +-v----------+ +----------v--+ +-------v-------+
+    |  SENIOR    | |LEGISLATIVE | |  LEGAL     | |  RESEARCH   | |   QUALITY     |
+    |  LEGAL     | |DRAFTING    | |  ANALYST / | | ASSOCIATE   | |  ASSURANCE /  |
+    | RESEARCHER | |SPECIALIST  | |CODIFICATION| |             | |   REVIEW      |
+    | Mst. Lutfa | | Hosne Ara  | |  EXPERT    | | Mousumi     | |  SPECIALIST   |
+    |   Begum    | |  Begum     | | Ayesha     | |  Kabir      | | Md. Rasel     |
+    |            | |            | | Saleh      | |             | |  Mahmud       |
+    +------------+ +------------+ +------------+ +-------------+ +---------------+
+
+                    +---------------------------------------------+
+                    |  DATA MANAGEMENT & IT SPECIALIST             |
+                    |  Najmul Hoque (Computer Operator)            |
+                    +---------------------------------------------+
+
+================================================================================
+3. KEY PROFESSIONALS
+================================================================================
+
+--------------------------------------------------------------------------------
+PROFESSIONAL 1: TEAM LEADER / LEAD LEGAL CONSULTANT
+--------------------------------------------------------------------------------
+  Name                 :  Christine Richardson
+  Time Input           :  Full-time (100%) throughout the project period
+  Responsibilities     :
+  - Overall project management, coordination, and quality oversight
+  - Primary point of contact with the Project Office
+  - Lead development and implementation of work plan and methodology
+  - Supervise and coordinate all key professionals
+  - Lead legal analysis of complex subordinate instruments
+  - Review and approve all deliverables before submission
+  - Conduct stakeholder meetings and presentations
+
+--------------------------------------------------------------------------------
+PROFESSIONAL 2: SENIOR LEGAL RESEARCHER
+--------------------------------------------------------------------------------
+  Name                 :  Mst. Lutfa Begum
+  Time Input           :  Full-time (100%) -- primarily Months 2-9
+  Responsibilities     :
+  - Lead primary research for identification and collection of subordinate
+    legislation under Package SD-1 (1799-1970)
+  - Access and review historical gazette archives, national archives,
+    library collections, and digital repositories
+  - Prepare preliminary inventory entries for all identified instruments
+  - Conduct substantive legal analysis of identified legislation
+  - Determine and document legal status of each instrument
+  - Cross-reference subordinate instruments with parent/enabling Acts
+
+--------------------------------------------------------------------------------
+PROFESSIONAL 3: LEGISLATIVE DRAFTING SPECIALIST
+--------------------------------------------------------------------------------
+  Name                 :  Hosne Ara Begum
+  Time Input           :  Full-time (100%) -- primarily Months 6-12
+  Responsibilities     :
+  - Lead the codification and drafting phase (Phase 4)
+  - Design and finalize structural framework and format of the Code
+  - Draft, compile, and edit all Code entries with proper legal language
+  - Ensure legal precision and drafting consistency
+  - Prepare introductory sections, editorial notes, and annotations
+  - Develop and apply consistent editorial conventions and style guide
+
+--------------------------------------------------------------------------------
+PROFESSIONAL 4: LEGAL ANALYST / CODIFICATION EXPERT
+--------------------------------------------------------------------------------
+  Name                 :  Ayesha Saleh
+  Time Input           :  Full-time (100%) -- primarily Months 3-10
+  Responsibilities     :
+  - Systematic legal analysis and classification of all identified
+    subordinate legislation
+  - Develop and apply Classification Schema
+  - Maintain and update Master Inventory Database
+  - Identify overlaps, conflicts, and gaps
+  - Prepare Gap and Inconsistency Report
+  - Prepare all indexes (General, Ministry-wise, Subject-matter, etc.)
+
+--------------------------------------------------------------------------------
+PROFESSIONAL 5: RESEARCH ASSOCIATE
+--------------------------------------------------------------------------------
+  Name                 :  Mousumi Kabir
+  Time Input           :  Full-time (100%) -- primarily Months 2-8
+  Responsibilities     :
+  - Assist Senior Legal Researcher in identification and collection
+  - Conduct field visits to National Archives, Ministry records rooms,
+    Supreme Court Library, and other repositories
+  - Compile and organize collected legal documents and gazette copies
+  - Prepare preliminary draft entries for the Master Inventory
+  - Assist in data verification and cross-checking tasks
+
+--------------------------------------------------------------------------------
+PROFESSIONAL 6: QUALITY ASSURANCE / REVIEW SPECIALIST
+--------------------------------------------------------------------------------
+  Name                 :  Md. Rasel Mahmud
+  Time Input           :  Part-time (50%) Months 1-6; Full-time (100%)
+                          Months 7-12
+  Responsibilities     :
+  - Establish and implement Quality Assurance Framework
+  - Independent review of Master Inventory for accuracy and completeness
+  - Verify legal accuracy of all status determinations
+  - Review Draft Code for legal precision and citation accuracy
+  - Prepare Quality Review Reports
+  - Certify final deliverables as meeting quality standards
+
+--------------------------------------------------------------------------------
+PROFESSIONAL 7: DATA MANAGEMENT & IT SPECIALIST
+--------------------------------------------------------------------------------
+  Name                 :  Najmul Hoque
+  Time Input           :  Full-time (100%) throughout the project period
+  Responsibilities     :
+  - Design, develop, and maintain Master Inventory Database
+  - Digitize (scan and OCR) physical gazette copies and archival documents
+  - Manage digital file organization, naming conventions, version control
+  - Maintain secure cloud-based backup of all project files
+  - Develop digital version of the final Code (soft copy)
+  - Provide technical support for all team members
+
+================================================================================
+4. RESPONSIBILITY MATRIX
+================================================================================
+
+  DELIVERABLE                  |TL|SLR|LDS|LA |RA |QAS|DMS|
+  -----------------------------|--|---|---|---|---|---|---|
+  Inception Report             |L | S |   | S |   | R |   |
+  Gazette & Archive Research   |  | L |   |   | S |   |   |
+  Master Inventory Development |R | L |   | S | S |   | S |
+  Legal Status Analysis        |R | L |   | S |   |   |   |
+  Classification Schema        |R |   |   | L |   |   |   |
+  Gap & Inconsistency Report   |R | S |   | L |   | R |   |
+  Code Structure Design        |R |   | L | S |   | R |   |
+  Code Preparation (SD-1)      |R |   | L | S |   |   |   |
+  Indexing                     |R |   | S | L |   |   |   |
+  Internal QA Reviews          |R |   |   |   |   | L |   |
+  Digital Database             |R |   |   |   |   | R | L |
+  Final Submission             |L | S | S |   |   | R | S |
+
+  KEY:
+  TL=Christine Richardson, SLR=Mst. Lutfa Begum, LDS=Hosne Ara Begum,
+  LA=Ayesha Saleh, RA=Mousumi Kabir, QAS=Md. Rasel Mahmud,
+  DMS=Najmul Hoque
+  L=Lead, S=Support, R=Review
+
+================================================================================
+
+Authorized Signatory:
+
+________________________                    _______________________
+Sabel Nawaz                                 Ehsan E Moazzam
+Managing Partner                            Managing Partner
+MNP Legal                                   MNP Legal
+
+Date: 23/03/2026
+
+================================================================================
+          TEAM COMPOSITION -- END
+================================================================================
