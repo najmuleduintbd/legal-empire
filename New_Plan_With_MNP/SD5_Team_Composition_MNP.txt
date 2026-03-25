@@ -53,8 +53,8 @@ from 2011 to the present day.
     |  SENIOR    | |LEGISLATIVE | |  LEGAL     | |  RESEARCH   | |   QUALITY     |
     |  LEGAL     | |DRAFTING    | |  ANALYST / | | ASSOCIATE   | |  ASSURANCE /  |
     | RESEARCHER | |SPECIALIST  | |CODIFICATION| |             | |   REVIEW      |
-    | Mahmudul   | | Md.        | |  EXPERT    | | Tania       | |  SPECIALIST   |
-    |  Kabir     | | Shafiqul   | | Sahorin    | |  Sultana    | | Sumaiya       |
+    | A. M. Md.  | | Md.        | |  EXPERT    | | Tania       | |  SPECIALIST   |
+    |  Sayeed    | | Shafiqul   | | Sahorin    | |  Sultana    | | Sumaiya       |
     |            | | Islam      | | Sultana    | |             | |  Raihan       |
     +------------+ +------------+ +------------+ +-------------+ +---------------+
 
@@ -84,7 +84,7 @@ PROFESSIONAL 1: TEAM LEADER / LEAD LEGAL CONSULTANT
 --------------------------------------------------------------------------------
 PROFESSIONAL 2: SENIOR LEGAL RESEARCHER
 --------------------------------------------------------------------------------
-  Name                 :  Mahmudul Kabir
+  Name                 :  A. M. Md. Sayeed
   Time Input           :  Full-time (100%) -- primarily Months 2-9
   Responsibilities     :
   - Lead primary research for identification and collection of subordinate
@@ -182,7 +182,7 @@ PROFESSIONAL 7: DATA MANAGEMENT & IT SPECIALIST
   Final Submission             |L | S | S |   |   | R | S |
 
   KEY:
-  TL=Jahangir Alam Khan, SLR=Mahmudul Kabir, LDS=Md. Shafiqul Islam,
+  TL=Jahangir Alam Khan, SLR=A. M. Md. Sayeed, LDS=Md. Shafiqul Islam,
   LA=Sahorin Sultana, RA=Tania Sultana, QAS=Sumaiya Raihan,
   DMS=Marshal Maruf
   L=Lead, S=Support, R=Review

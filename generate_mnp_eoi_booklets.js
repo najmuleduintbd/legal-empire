@@ -329,15 +329,30 @@ async function buildSD1() {
     console.log(`       + ${path.basename(d.path)}`);
   }
 
-  // CVs
-  console.log('  [4] CVs...');
+  // CVs (Form 5A8 format)
+  console.log('  [4] CVs (Form 5A8 format)...');
   parts.push(await generateDivider('F', 'ANNEXURE-F: CVs OF KEY PROFESSIONALS', GOLD));
-  for (const cvPath of ALL_CV_PDFS) {
-    try {
-      parts.push(fs.readFileSync(cvPath));
-      console.log(`       + ${path.basename(cvPath)}`);
-    } catch (e) {
-      console.warn(`       [SKIP] ${path.basename(cvPath)}`);
+  const sd1CvDir = path.join(ROOT, 'cvs', 'CV_FORMAT', 'SD1');
+  const sd1CvFiles = [
+    'CV_01_Christine_Richardson_Team_Leader.txt',
+    'CV_02_Mst_Lutfa_Begum_Senior_Legal_Researcher.txt',
+    'CV_03_Hosne_Ara_Begum_Legislative_Drafting_Specialist.txt',
+    'CV_04_Ayesha_Saleh_Legal_Analyst.txt',
+    'CV_05_Mousumi_Kabir_Research_Associate.txt',
+    'CV_06_Md_Rasel_Mahmud_QA_Specialist.txt',
+    'CV_07_Najmul_Hoque_Data_Management_IT.txt',
+  ];
+  for (const cvFile of sd1CvFiles) {
+    const cvPath = path.join(sd1CvDir, cvFile);
+    if (fs.existsSync(cvPath)) {
+      try {
+        parts.push(await textToPDF(cvPath));
+        console.log(`       + ${cvFile}`);
+      } catch (e) {
+        console.warn(`       [SKIP] ${cvFile}: ${e.message}`);
+      }
+    } else {
+      console.warn(`       [MISSING] ${cvFile}`);
     }
   }
 
@@ -398,14 +413,31 @@ async function buildSD5() {
     console.log(`       + ${path.basename(d.path)}`);
   }
 
-  console.log('  [4] CVs...');
+  console.log('  [4] CVs (Form 5A8 format)...');
   parts.push(await generateDivider('F', 'ANNEXURE-F: CVs OF KEY PROFESSIONALS', GOLD));
-  for (const cvPath of ALL_CV_PDFS) {
-    try {
-      parts.push(fs.readFileSync(cvPath));
-      console.log(`       + ${path.basename(cvPath)}`);
-    } catch (e) {
-      console.warn(`       [SKIP] ${path.basename(cvPath)}`);
+
+  // Use Form 5A8 CVs for SD-5 team members
+  const sd5CvDir = path.join(ROOT, 'cvs', 'CV_FORMAT', 'SD5');
+  const sd5CvFiles = [
+    'CV_01_Jahangir_Alam_Khan_Team_Leader.txt',
+    'CV_02_A_H_M_Sayeed_Senior_Legal_Researcher.txt',
+    'CV_03_Md_Shafiqul_Islam_Legislative_Drafting_Specialist.txt',
+    'CV_04_Sahorin_Sultana_Legal_Analyst.txt',
+    'CV_05_Tania_Sultana_Research_Associate.txt',
+    'CV_06_Sumaiya_Raihan_QA_Specialist.txt',
+    'CV_07_Marshal_Maruf_Data_Management_IT.txt',
+  ];
+  for (const cvFile of sd5CvFiles) {
+    const cvPath = path.join(sd5CvDir, cvFile);
+    if (fs.existsSync(cvPath)) {
+      try {
+        parts.push(await textToPDF(cvPath));
+        console.log(`       + ${cvFile}`);
+      } catch (e) {
+        console.warn(`       [SKIP] ${cvFile}: ${e.message}`);
+      }
+    } else {
+      console.warn(`       [MISSING] ${cvFile}`);
     }
   }
 

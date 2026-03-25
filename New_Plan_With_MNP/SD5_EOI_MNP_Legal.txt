@@ -184,7 +184,7 @@ S/N | Name                     | Designation/Position            | Remarks
  1  | Jahangir Alam Khan       | Team Leader /                    | Full-time
     |                          | Lead Legal Consultant             |
 ----|--------------------------|----------------------------------|----------
- 2  | Mahmudul Kabir           | Senior Legal Researcher           | Full-time
+ 2  | A. M. Md. Sayeed           | Senior Legal Researcher           | Full-time
 ----|--------------------------|----------------------------------|----------
  3  | Md. Shafiqul Islam       | Legislative Drafting              | Full-time
     |                          | Specialist                        |

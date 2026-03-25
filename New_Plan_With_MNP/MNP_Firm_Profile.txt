@@ -14,11 +14,11 @@
 
   Firm Name            :  MNP Legal, Barristers, Advocates & Legal Consultants
   Type of Organization :  Law Firm / Legal Consulting Firm (National)
-  Trade License No.    :  [Insert Trade License Number]
-  Registration No.     :  [Insert Registration/Incorporation Number]
-  TIN                  :  [Insert TIN Number]
-  BIN                  :  [Insert BIN Number]
-  Established          :  [Insert Year/Date of Establishment]
+  Trade License No.    :  TRAD/DSCC/261842/2019
+  Registration No.     :  TRAD/DSCC/261842/2019
+  TIN                  :  340724709653 (Circle-326, Taxes Zone-15, Dhaka)
+  BIN                  :  N/A
+  Established          :  2019
   Years in Business    :  8+ years
   Registered Address   :  Paramount Heights, Suite C-2 (15th Floor)
                           65/2/1, Box Culvert Road, Purana Paltan

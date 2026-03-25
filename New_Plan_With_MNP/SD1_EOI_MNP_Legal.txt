@@ -72,11 +72,11 @@ coercive practices. We further declare that all the Key Professionals
 
 Firm Name              : MNP Legal, Barristers, Advocates & Legal Consultants
 Type of Organization   : Law Firm / Legal Consulting Firm (National)
-Trade License No.      : [Insert Trade License Number]
-TIN                    : [Insert TIN Number]
-BIN                    : [Insert BIN Number]
-Registration Authority : [Insert Registration Authority Name]
-Date of Establishment  : [Insert Date of Establishment]
+Trade License No.      : TRAD/DSCC/261842/2019
+TIN                    : 340724709653 (Circle-326, Taxes Zone-15, Dhaka)
+BIN                    : N/A
+Registration Authority : Dhaka South City Corporation (DSCC)
+Date of Establishment  : 2019
 Years in Relevant
 Business               : 8+ years
 

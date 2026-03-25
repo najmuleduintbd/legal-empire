@@ -1,0 +1,161 @@
+================================================================================
+    Form 5A8    Curriculum Vitae (CV) for Each Proposed Professional Staff
+================================================================================
+    MNP LEGAL -- Package SD-5 (2011-till date)
+    EOI Reference No.: 55.00.0000.120.14.065.24.1493
+================================================================================
+
+1   PROPOSED POSITION FOR       Data Management & IT Specialist
+    THIS PROJECT                (Computer Operator)
+
+2   NAME OF STAFF               Marshal Maruf
+
+3   DATE OF BIRTH               25/12/1990
+
+4   NATIONALITY                 Bangladeshi
+
+5   MEMBERSHIP IN PROFESSIONAL  i)  BSS - Business Students' Society
+    SOCIETIES                   ii) IUB & Social Welfare Society (SWS)
+
+6   EDUCATION                   i)  Master of Business Administration (MBA)
+                                    Anglia Ruskin University, Cambridge, England
+                                    (2013-2014)
+                                    Major: Marketing, CGPA: 3.26
+
+                                ii) Bachelor of Business Administration (BBA)
+                                    Independent University, Bangladesh (IUB)
+                                    (2008-2012)
+                                    Major: Human Resource Management
+                                    Minor: Marketing, CGPA: 2.44
+
+                                iii) H.S.C (Business Studies Group)
+                                     Ideal College (2007), GPA: 3.90
+
+                                iv) S.S.C (Science Group)
+                                    Willes Little Flower School (2005), GPA: 4.31
+
+7   OTHER TRAINING              BBA Courses:
+                                - Core: Principles of Accounting, Management
+                                  Accounting, Business Mathematics, Microeconomics,
+                                  Macroeconomics, Finance, Marketing, Management,
+                                  HRM, Operations & Production Management, Business
+                                  Law, Management Information Systems, Strategic
+                                  Management, Business Research Methods
+                                - HRM: Manpower Planning, Labor Economics, Industrial
+                                  Law & Relations, Strategic HRM, International HRM
+                                - Marketing: Advertising, Advanced Marketing,
+                                  Distribution Management, Service Marketing
+
+                                MBA Courses:
+                                - International Marketing, Innovation & E-Commerce,
+                                  International Leadership & Enterprise, International
+                                  Finance, International Operations Management,
+                                  Strategic Management in a Global Context,
+                                  International HR & Change, Research Methods & Ethics
+
+                                IELTS: Overall Band Score 6.0
+
+8   LANGUAGES & DEGREE OF       Language    Speaking    Reading     Writing
+    PROFICIENCY                 -------     --------    -------     -------
+                                English     Fluent      Excellent   Excellent
+                                Bangla      Fluent      Excellent   Excellent
+                                Hindi       Good        Good        Fair
+
+9   COUNTRIES OF WORK           Bangladesh, United Kingdom
+    EXPERIENCE
+
+10  EMPLOYMENT RECORD
+
+    EMPLOYER 1
+    Prime Bank Limited PLC
+    FROM: 1st November 2021    TO: August 2025
+    Position: Executive Officer (Operations & HR)
+    Duties:
+    - Banking operations management
+    - Human resources coordination
+    - Data management and processing
+    - Compliance and documentation
+
+    EMPLOYER 2
+    iPay Systems Limited
+    FROM: 1st October 2018    TO: 30 January 2019
+    Position: Senior Executive (Operations)
+    Duties:
+    - Digital payment systems operations management
+    - Process optimization and data handling
+
+    EMPLOYER 3
+    Southeast Bank, Dilkusha Branch
+    FROM: 25 January 2017    TO: 31 March 2017
+    Position: Executive (Cash)
+    Duties:
+    - Cash operations and transaction processing
+    - Banking documentation
+
+    EMPLOYER 4
+    T.G.I Fridays, Westfield Branch, London, UK
+    FROM: December 2013    TO: July 2014
+    Position: Customer Service Executive
+    Duties:
+    - Customer service operations
+    - Team coordination
+
+    EMPLOYER 5
+    Anglia Ruskin University, Cambridge, UK
+    FROM: April 2014    TO: October 2014
+    Position: Student Councillor (South Asian Students Desk)
+    Duties:
+    - Student advisory and support services
+
+    EMPLOYER 6
+    Jamuna Bank Limited
+    FROM: 1st February 2012    TO: 30th April 2012
+    Position: Intern
+    Duties:
+    - Banking operations support
+    - Data entry and documentation
+
+11  WORK UNDERTAKEN THAT        With an MBA from Anglia Ruskin University (Cambridge,
+    BEST ILLUSTRATES YOUR       UK) and a BBA from Independent University Bangladesh,
+    CAPABILITY TO HANDLE        Marshal Maruf brings strong data management, IT, and
+    THIS ASSIGNMENT             operations expertise. His nearly four years as
+                                Executive Officer (Operations & HR) at Prime Bank
+                                Limited PLC involved extensive data management,
+                                documentation processing, and compliance work. He is
+                                proficient in Microsoft Office, data analysis & entry,
+                                reliable information collection, and AI Operations.
+                                His diverse experience across banking (Prime Bank,
+                                Southeast Bank, Jamuna Bank), fintech (iPay Systems),
+                                and international work experience (UK) has equipped
+                                him with strong organizational, documentation, and
+                                digital data management skills essential for
+                                maintaining the Master Inventory Database, digitizing
+                                gazette documents, and managing the digital
+                                infrastructure for this project.
+
+    COMPUTER LITERACY:
+    - Microsoft Office (Expert)
+    - Data analysis & entry
+    - Reliable information collection
+    - AI Operations
+
+================================================================================
+CERTIFICATION [Do not amend this Certification]
+================================================================================
+
+I, the undersigned, certify that (i) I was not a former employee of the
+Client immediately before the submission of this proposal, and (ii) to the
+best of my knowledge and belief, this bio-data correctly describes myself,
+my qualifications, and my experience. I understand that any wilful
+misstatement described herein may lead to my disqualification or dismissal,
+if engaged.
+
+I have been employed by MNP Legal continuously for the last twelve (12)
+months as regular full time staff.
+
+        YES [  ]            NO [  ]
+
+                            Signature  : _________________________
+                            Name       : Marshal Maruf
+                            Date       : ___/___/2026
+================================================================================
