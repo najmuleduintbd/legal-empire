@@ -1,0 +1,86 @@
+================================================================================
+    Form 5A8    Curriculum Vitae (CV) for Each Proposed Professional Staff
+================================================================================
+    RFP: Consultancy firm-Delegated Legis-SD-1 / SD-5
+================================================================================
+
++-----+----------------------------------------+----------------------------------+
+|  1  | PROPOSED POSITION FOR THIS PROJECT      | [From the Terms of Reference,    |
+|     |                                        | state the position which the     |
+|     |                                        | Consultant will be engaged. Only |
+|     |                                        | one candidate shall be nominated |
+|     |                                        | for each position]               |
++-----+----------------------------------------+----------------------------------+
+|  2  | NAME OF STAFF                          | [state full name]                |
++-----+----------------------------------------+----------------------------------+
+|  3  | DATE OF BIRTH                          | [DD/MM/YYYY]                     |
++-----+----------------------------------------+----------------------------------+
+|  4  | NATIONALITY                            | [state nationality]              |
++-----+----------------------------------------+----------------------------------+
+|  5  | MEMBERSHIP IN PROFESSIONAL SOCIETIES   | [state rank and name of society  |
+|     |                                        | and year of attaining that rank] |
++-----+----------------------------------------+----------------------------------+
+|  6  | EDUCATION                              | [list all colleges/universities  |
+|     |                                        | which the consultant attended,   |
+|     |                                        | stating degrees obtained, and    |
+|     |                                        | dates, and list any other        |
+|     |                                        | specialised education of the     |
+|     |                                        | consultant]                      |
++-----+----------------------------------------+----------------------------------+
+|  7  | OTHER TRAINING                         | [indicate significant training   |
+|     |                                        | since degrees under EDUCATION    |
+|     |                                        | were obtained, which is          |
+|     |                                        | pertinent to the proposed tasks  |
+|     |                                        | of the consultant]               |
++-----+----------------------------------------+----------------------------------+
+|  8  | LANGUAGES & DEGREE OF PROFICIENCY      |                                  |
+|     |                                        | Language  Speaking Reading Writing|
+|     |                                        | e.g.                             |
+|     |                                        | English   Fluent  Excellent Excel|
++-----+----------------------------------------+----------------------------------+
+|  9  | COUNTRIES OF WORK EXPERIENCE           | [list countries]                 |
++-----+----------------------------------------+----------------------------------+
+| 10  | EMPLOYMENT RECORD                      | [The Consultant should clearly   |
+|     | [starting with position list in        | distinguish whether as an        |
+|     |  reverse order every employment        | "employee" of the firm or as a   |
+|     |  held and state the start and end      | "Consultant" or "Advisor" of     |
+|     |  dates of each employment]             | the firm].                       |
+|     |                                        | [The Consultant should clearly   |
+|     |                                        | indicate the Position held and   |
+|     |                                        | give a brief description of the  |
+|     |                                        | duties in which the Consultant   |
+|     |                                        | was involved]                    |
+|     |                                        |                                  |
+|     |  EMPLOYER 1                FROM:   TO: |                                  |
+|     |  EMPLOYER 2                FROM:   TO: |                                  |
+|     |  EMPLOYER 3                FROM:   TO: |                                  |
++-----+----------------------------------------+----------------------------------+
+| 11  | WORK UNDERTAKEN THAT BEST ILLUSTRATES  | [give an outline of experience   |
+|     | YOUR CAPABILITY TO HANDLE THIS         | and training most pertinent to   |
+|     | ASSIGNMENT                             | tasks on this assignment, with   |
+|     |                                        | degree of responsibility held.   |
+|     |                                        | Use about half of a page A4]     |
++-----+----------------------------------------+----------------------------------+
+
+================================================================================
+CERTIFICATION [Do not amend this Certification]
+================================================================================
+
+I, the undersigned, certify that (i) I was not a former employee of the
+Client immediately before the submission of this proposal, and (ii) to the
+best of my knowledge and belief, this bio-data correctly describes myself,
+my qualifications, and my experience. I understand that any wilful
+misstatement described herein may lead to my disqualification or dismissal,
+if engaged.
+
+I have been employed by [name of the Consultant] continuously for the last
+twelve (12) months as regular full time staff. Indicate "Yes" or "No" in
+the boxes below.
+
+        YES [  ]            NO [  ]
+
+                            Signature  : _________________________
+                            Date of Signing : ____/____/________
+                                              Day / Month / Year
+
+================================================================================
